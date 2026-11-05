@@ -1,12 +1,152 @@
 [
  {
+  "id": "9pGCda4f9xA",
+  "title": "Sparq on FreightWaves Today at the F3",
+  "channel": "FreightWaves",
+  "topic": "tradepolicytariffs",
+  "d": "2026-11-05T18:21:21+00:00",
+  "short": false,
+  "views": 2,
+  "desc": "Live from FreightWaves’ F3: The Future of Freight Festival, Scott Morris, Chief Client Officer at Sparq, stops by the desk to break down the findings of their new inaugural industry survey."
+ },
+ {
+  "id": "u2xUc_mQj0g",
+  "title": "Autonomous Pilots: Could AI Reduce Air Freight Accidents?",
+  "channel": "FreightWaves",
+  "topic": "tradepolicytariffs",
+  "d": "2026-11-05T18:19:07+00:00",
+  "short": false,
+  "views": 0,
+  "desc": "The future of air freight could be safer and more efficient with autonomous pilots. Matt George, CEO of Merlin, explains how their AI system continuously flies the aircraft, reducing human error and enhancing operational capabilities."
+ },
+ {
+  "id": "B5p64VfbZyo",
+  "title": "Solera Demo Live at F3",
+  "channel": "FreightWaves",
+  "topic": "tradepolicytariffs",
+  "d": "2026-11-05T18:09:21+00:00",
+  "short": false,
+  "views": 0,
+  "desc": ""
+ },
+ {
+  "id": "x2y7bdHZXvA",
+  "title": "Salesforce Demo Live from F3",
+  "channel": "FreightWaves",
+  "topic": "tradepolicytariffs",
+  "d": "2026-11-05T18:04:46+00:00",
+  "short": false,
+  "views": 2,
+  "desc": ""
+ },
+ {
+  "id": "5dI-acnQfWs",
+  "title": "Roxstart Demo Live from F3",
+  "channel": "FreightWaves",
+  "topic": "tradepolicytariffs",
+  "d": "2026-11-05T18:03:11+00:00",
+  "short": false,
+  "views": 0,
+  "desc": ""
+ },
+ {
+  "id": "6JjTFulRNKE",
+  "title": "What We Talked About, What We Learned, and What’s Next",
+  "channel": "FreightWaves",
+  "topic": "tradepolicytariffs",
+  "d": "2026-11-05T17:56:54+00:00",
+  "short": false,
+  "views": 4,
+  "desc": "Join leading voices from across the supply chain as they take the stage for a candid, high-level debrief on the past 12 months in freight."
+ },
+ {
+  "id": "PW_5AlpBwC8",
+  "title": "Qargo Demo Live from F3",
+  "channel": "FreightWaves",
+  "topic": "tradepolicytariffs",
+  "d": "2026-11-05T17:54:22+00:00",
+  "short": false,
+  "views": 3,
+  "desc": ""
+ },
+ {
+  "id": "NqKP7AskbvM",
+  "title": "Pallet Demo Live at F3",
+  "channel": "FreightWaves",
+  "topic": "tradepolicytariffs",
+  "d": "2026-11-05T17:50:38+00:00",
+  "short": false,
+  "views": 1,
+  "desc": ""
+ },
+ {
+  "id": "mUw1Z5PdESk",
+  "title": "OTR Solutions Demo Live at F3",
+  "channel": "FreightWaves",
+  "topic": "tradepolicytariffs",
+  "d": "2026-11-05T17:48:20+00:00",
+  "short": false,
+  "views": 0,
+  "desc": ""
+ },
+ {
+  "id": "tFAPrVRhzi4",
+  "title": "LSP44 Demo Live at F3",
+  "channel": "FreightWaves",
+  "topic": "tradepolicytariffs",
+  "d": "2026-11-05T17:45:55+00:00",
+  "short": false,
+  "views": 2,
+  "desc": ""
+ },
+ {
+  "id": "Km4BY26hg8g",
+  "title": "Lean Solutions Group Demo Live at F3",
+  "channel": "FreightWaves",
+  "topic": "tradepolicytariffs",
+  "d": "2026-11-05T17:43:37+00:00",
+  "short": false,
+  "views": 0,
+  "desc": ""
+ },
+ {
+  "id": "fCQRJMC0RGM",
+  "title": "Kleinschmidt Demo Live at F3",
+  "channel": "FreightWaves",
+  "topic": "tradepolicytariffs",
+  "d": "2026-11-05T17:40:48+00:00",
+  "short": false,
+  "views": 0,
+  "desc": ""
+ },
+ {
+  "id": "P8f3JRA68JA",
+  "title": "Highway Demo Live from F3",
+  "channel": "FreightWaves",
+  "topic": "tradepolicytariffs",
+  "d": "2026-11-05T17:36:24+00:00",
+  "short": false,
+  "views": 1,
+  "desc": ""
+ },
+ {
+  "id": "w8_RBcM5Arg",
+  "title": "HappyRobot Demo Live at F3",
+  "channel": "FreightWaves",
+  "topic": "tradepolicytariffs",
+  "d": "2026-11-05T17:32:57+00:00",
+  "short": false,
+  "views": 1,
+  "desc": ""
+ },
+ {
   "id": "_6I6BVbqS-w",
   "title": "FreightWaves Today | November 5",
   "channel": "FreightWaves",
   "topic": "tradepolicytariffs",
   "d": "2026-11-05T17:00:44+00:00",
   "short": false,
-  "views": 6,
+  "views": 29,
   "desc": "Craig and Julie are live from the UP. Summit from NASA Kennedy Space Center in Cape Canaveral."
  },
  {

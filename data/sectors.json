@@ -2,18 +2,18 @@
   {
     "id": "tradepolicytariffs",
     "heat": 5,
-    "state": "Democrats now control the trade agenda, having gained influence over policy while Republicans face a midterm rout that limits their ability to veto tariff repeals. Canada and China are extending bilateral deals to boost exports, whereas the U.S. is moving to revoke duty-free access for South Africa and Rwanda under AGOA. Meanwhile, record imports in the U.S. persist despite tariff pressure, though Canadian cabinet makers and craft brewers face doubled duties from Trump's policies.",
-    "money": "Democrats control the trade agenda but fall short of rolling back tariffs, while Canada extends deals with China to protect its $24.1 billion export potential against U.S. duties. South Africa and Rwanda lose duty-free status as the U.S. revokes AGOA access, yet China signals willingness to expand farm imports if reciprocal tariff cuts are implemented.",
-    "watch": "The next move will depend on whether Democrats can shift Congress's trade debate before Republicans leverage midterm losses to enforce stricter tariffs. Retailers must monitor if China expands US farm imports or if India resolves its Scotch tariff dispute under the UK trade pact, as these could alter regional supply chain costs.",
-    "briefedAt": "2026-11-05T16:22:03.577Z"
+    "state": "Democrats control the trade agenda but face a Republican veto wall on tariff repeals following midterm losses; South Africa lost $24.1 billion in AGOA duty-free status while Canada extends bilateral deals with China to protect exports, though Canadian cabinet makers and craft brewers now face doubled U.S. duties.",
+    "money": "China signals willingness to expand U.S. farm imports if reciprocal tariff cuts are implemented, whereas the U.S. rescinded its subsidy duty review on Chinese wood mouldings for 2025; meanwhile, record U.S. imports persist despite tariff pressure, yet housing stocks have dropped as reality sets in after earlier relief hopes.",
+    "watch": "Whether Democrats can shift Congress's trade debate before Republicans leverage midterm losses to enforce stricter tariffs, and if China expands U.S. farm imports or India resolves its Scotch tariff dispute under the UK trade pact.",
+    "briefedAt": "2026-11-05T18:38:53.627Z"
   },
   {
     "id": "logisticsfreightrates",
     "heat": 5,
-    "state": "Port strikes continue to delay operations at Los Angeles and Long Beach while Maersk orders 26 new container ships to combat Asian port congestion. Simultaneously, the Red Sea remains a contested zone as Houthis launch drone warfare from a strategic island near Yemen's mouth of the shipping lane, and customs delays in Delhi are flagging mounting demurrage costs.",
-    "money": "Ghana lost US$46.7 million in petroleum demurrage costs due to adjudication delays, while major food importers have successfully cut annual demurrage expenses from $1.3 million to near zero using Beacon technology.",
-    "watch": "The outcome of contract talks between longshore unions and employers at the LA/LB ports could trigger further strikes, and Maersk's continued reliance on AI buildouts suggests freight rates will remain elevated until congestion resolves.",
-    "briefedAt": "2026-11-05T16:24:50.566Z"
+    "state": "Port strikes remain active at Los Angeles and Long Beach while contract talks continue, and Maersk has ordered 26 new container ships to address Asian port congestion. Simultaneously, the Red Sea shipping lane is contested by Houthis launching drone warfare from a strategic island near Yemen's mouth, and Delhi customs adjudication delays are causing mounting demurrage costs globally, including $46.7 million in petroleum losses for Ghana.",
+    "money": "Maersk is winning the capacity race by deploying 26 new ships to counter congestion, while importers like Ghana are winning on cost reduction through Beacon technology that cut annual demurrage expenses from $1.3 million to near zero.",
+    "watch": "The outcome of contract talks between longshore unions and employers at LA/LB ports could trigger further strikes, and Maersk's continued reliance on AI buildouts suggests freight rates will remain elevated until congestion resolves.",
+    "briefedAt": "2026-11-05T18:42:45.539Z"
   },
   {
     "id": "retailinventorystockouts",
@@ -26,10 +26,10 @@
   {
     "id": "geopoliticalsupplyrisks",
     "heat": 5,
-    "state": "Global energy demand has eroded supply buffers, with the EU cutting gas consumption by a fifth and nuclear construction hitting a 40-year high due to AI power needs. Simultaneously, geopolitical friction is tightening chip logistics; Intel shares fell after hours amid supply constraints, while Nvidia dropped 2.96% as China's chip availability shrinks. Trade policy remains volatile, with Trump's tariffs widening the US trade deficit despite sparking growth.",
-    "money": "Vertiv secured a three-year power chip deal with Infineon to lock in capacity, while Logitech balances growth against supply risk. Intel continues burning significant cash due to constraints, and Broadcom lost its final appeal regarding Samsung chip supply terms.",
-    "watch": "The outcome of the Texas midterm elections could tighten AI oversight and further pressure Taiwan's chip supply chain. Investors should monitor if memory trade warnings pile up as Dell's tripled inventory signals that chip supply is rapidly approaching demand limits.",
-    "briefedAt": "2026-11-05T16:23:01.162Z"
+    "state": "Global energy buffers are eroded as the EU cuts gas consumption by a fifth and nuclear construction hits a 40-year high for AI power needs. Chip logistics face tightening geopolitical friction, with Intel burning approximately $6 billion on substrates while Broadcom lost its final appeal over Samsung supply terms. Trade policy remains volatile; Trump's tariffs sparked growth but widened the US trade deficit and slowed hiring.",
+    "money": "Vertiv secured a three-year deal with Infineon to lock in power chip capacity, while OpenAI actively seeks partnerships with Samsung and SK Hynix to expand AI infrastructure. Logitech is balancing strong growth against supply risk as Nvidia's stock fell 2.96% due to shrinking China chip availability.",
+    "watch": "The outcome of the Texas midterm elections could tighten AI oversight and further pressure Taiwan's chip supply chain, potentially triggering more memory trade warnings similar to Dell's recent inventory surge.",
+    "briefedAt": "2026-11-05T18:44:24.222Z"
   },
   {
     "id": "commoditymarkets",
@@ -50,10 +50,10 @@
   {
     "id": "portactivityinfrastructu",
     "heat": 5,
-    "state": "Port congestion remains a critical bottleneck globally, costing shipping lines millions in vessel delays and driving freight rates higher despite AI buildout efforts. Major hubs like Incheon are seeing truck traffic between containers, while specific incidents include a Docker strike bringing French ports to a standstill and Lagos Port threatening trade gains despite N4.6 trillion revenue. Conversely, strategic expansion is paying off, with Adani Ports reporting 51 MMT cargo volume in October—a 27% year-over-year increase—and PSA International winning the 'Container Terminal Operator of the Year' award.",
-    "money": "Adani Ports is capitalizing on congestion by achieving a 27% YoY growth to 51 MMT, while Maersk orders 26 new container ships to mitigate Asian port disruptions. However, operational halts like the French Docker strike and general delays across global hubs continue to erode margins for shipping lines.",
-    "watch": "Maersk's continued reliance on AI buildout to sustain high freight rates alongside its massive ship order indicates a long-term commitment to capacity expansion. Monitor the impact of ongoing strikes in France and congestion in Lagos on regional trade flows before they cascade into broader supply chain delays.",
-    "briefedAt": "2026-11-05T16:25:43.589Z"
+    "state": "Global port congestion remains a critical bottleneck, causing vessel delays that cost shipping lines millions and keeping freight rates elevated despite AI buildout efforts. Major hubs face specific disruptions, including truck traffic jams in Incheon, a Docker strike halting French ports, typhoon-induced gridlock in Ningbo, and record levels in the Middle East. Conversely, strategic expansion is driving growth, with Adani Ports reporting 51 MMT cargo volume (a 27% YoY increase) and securing new projects like the Port of Corpus Christi hub and a 15-year concession for Chittagong.",
+    "money": "Maersk wins by ordering 26 new container ships to mitigate Asian disruptions, while Adani Ports capitalizes on congestion with record October volumes. Shipping lines are bearing the brunt of operational halts in France and Lagos, which is threatening trade gains despite N4.6 trillion revenue.",
+    "watch": "Monitor the impact of ongoing strikes in France and congestion in Ningbo and the Middle East before they cascade into broader supply chain delays. Watch for the implementation of proposed railway-linked depots and empty container storage solutions to alleviate bottlenecks.",
+    "briefedAt": "2026-11-05T18:40:55.989Z"
   },
   {
     "id": "freightlinesshipping",

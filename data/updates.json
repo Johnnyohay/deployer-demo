@@ -792,6 +792,212 @@
     "orgs": []
   },
   {
+    "id": "u-20261105-hydro-flask-owner-rejects-opportunistic-takeover-p",
+    "d": "2026-11-05",
+    "title": "Hydro Flask owner rejects ‘opportunistic’ takeover proposal",
+    "body": "Helen of Troy said Empower Brands’ unsolicited offer was timed to exploit a low stock price, which has been partly impacted by U.S. tariff policies.",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [
+      "Hydro Flask",
+      "Helen of Troy",
+      "Empower Brands"
+    ],
+    "src": {
+      "t": "Retail Dive",
+      "u": "https://www.retaildive.com/news/hydro-flask-owner-rejects-opportunistic-takeover-proposal-empower-brands/873837/",
+      "q": "news"
+    },
+    "addedAt": "2026-11-05T18:36:50.491Z",
+    "auto": true,
+    "orgs": [
+      "Hydro Flask",
+      "Helen of Troy",
+      "Empower Brands"
+    ]
+  },
+  {
+    "id": "u-20261105-china-says-us-farm-purchases-hinge-on-tariff-cut-d",
+    "d": "2026-11-05",
+    "title": "China says US farm purchases hinge on tariff-cut deal",
+    "body": "China says US farm purchases hinge on tariff-cut deal",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "Reuters",
+      "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbjZCZGJiUVFJRkdBeU1DaTExb3FMSmdaLVRuLTRrQWNnd3F5MDg1YnZlTUZfclBPRWhQZXdlbWxEakVXdlNidWVWbmhFcGZTVEpSOWlJSE1FTHhOWTVlUXkwSG5rTXRNTDE5ckRWTzhnYmx3LVVJSDE2S2JNQW9CTUNFanlFNWlqMkJWdFZTMzU0VnpzX2tua25aQS0zNTdsUDNRRA?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-05T18:36:50.491Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261105-housing-stocks-jumped-on-tariff-relief-hopes-now-r",
+    "d": "2026-11-05",
+    "title": "Housing Stocks Jumped on Tariff Relief Hopes. Now Reality Is Setting in.",
+    "body": "Housing Stocks Jumped on Tariff Relief Hopes. Now Reality Is Setting in.",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "Barron's",
+      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQTZsMnVBWlNISk5qUWhEOHZabTFVNW95SUdHOFBSRUlUVFZualBPaFBfMTFEbnBtUE9iWm14NmNLQ0dPay05bFpYUTBvMUpMcVVySnV2TU9xRno0UGtpMXlIbnNVVS1oMllTcnQxR3NRVEV6bVdCOTB5ajI3OUktVXpaQmhsQQ?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-05T18:36:50.491Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261105-high-tariffs-impacted-the-election-democrats-gaine",
+    "d": "2026-11-05",
+    "title": "High Tariffs Impacted the Election: Democrats Gained Senate Seats in States with Highest Tariff Costs on Households",
+    "body": "High Tariffs Impacted the Election: Democrats Gained Senate Seats in States with Highest Tariff Costs on Households",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "National Taxpayers Union",
+      "u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOYWF4aXBWUnQtc25UMXRLTFh4Q0tocWZPWmdrRTIzMkxMcmVzeEQ1ZlB1c3R4aGl5MFNrNUVsS1JQanFvVWt1MmRhaWNrRVEzRkxOTU1RMEtLeEYxWGNTbzRRUDRoTlN4Ym5KcjNxcTctclJFaDRaUHBkTktTeWdUVDljWThSNHFqaXl1LXo3WC1HazVBb1RvTjY5WHJNNGNuNDNWeFV5YjJDb1I4VFFlTGJnbGM0Y2RMMllqMXczWWJXNEFlbzNoUVI1Z2U1X0tKanpBVlJJSDgyX0JsWTY5TnptTGdmZFdSWXc?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-05T18:36:50.491Z",
+    "auto": true,
+    "orgs": [
+      "Senate"
+    ]
+  },
+  {
+    "id": "u-20261105-trump-loses-congress-as-europe-presses-for-tariff-",
+    "d": "2026-11-05",
+    "title": "Trump loses Congress as Europe presses for tariff cuts and Ukraine aid",
+    "body": "Trump loses Congress as Europe presses for tariff cuts and Ukraine aid",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [
+      "Congress"
+    ],
+    "src": {
+      "t": "EU Perspectives",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9paWFhcmU0bVlQekZ1MHRmQ3Y4SG9YaDZmZVBEajBKYjEyYjFEcTZLU0ZRQ1ZNaWtYNGhrSGVXbXc2NXNMM0oxM0Vzdi1sQVlaQl9LTlF6RFMyZ0xwN1lUWWV1THRIdWstWHFBZGJkcmVJd2M?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-05T18:36:50.491Z",
+    "auto": true,
+    "orgs": [
+      "Congress"
+    ]
+  },
+  {
+    "id": "u-20261105-oklahoma-regulators-delay-vote-on-pso-rate-review-",
+    "d": "2026-11-05",
+    "title": "Oklahoma Regulators Delay Vote on PSO Rate Review and Large-Load Tariff",
+    "body": "Oklahoma Regulators Delay Vote on PSO Rate Review and Large-Load Tariff",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "Oklahoma Energy Today",
+      "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMXhYNTR6NHczSnpSd3JiU1ptbEw4WXByMVVxTHJXSVYwWWRuN2daRWNRWEJxTUZUbGRIS1hFN19oYUswMVphWWtqVGlfOVV2Z1lkZHNRcThFVU5fNVJFOFBMREhhUEwxVXFLSlFaMDlXYWFoclQ1dE95MG5FVGYxQ253b1V3YXJTQlJrbGViQnZKSWhMbnZtb1FGOWQwOXBndWhYS2YyNzhTQQ?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-05T18:36:50.491Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261105-how-shifting-u-s-tariff-rates-have-strained-newton",
+    "d": "2026-11-05",
+    "title": "How Shifting U.S. Tariff Rates Have Strained Newton’s Small Businesses",
+    "body": "How Shifting U.S. Tariff Rates Have Strained Newton’s Small Businesses",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [
+      "Newton"
+    ],
+    "src": {
+      "t": "The Heights",
+      "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSXpvOEdHWG5HUTZqeWpCWDBrUXlfMWdJWU1lMk5QYUtycmplMWlwYnJ1T0hhVG84eDFJa3p6TWtkeE8yNU1GSVdHNkVKR2tyQWp1UEJHa2JwN3hPWVZET1ZGaHJMbjIzM2tzSzVCbzlHdnBjMFdyUjJuSDdnVF9UNjQzUnhQUVF2Z0JmSTdGdGx6cHJGUjh2UjZ1LUt5a1p6UkRMNkZndw?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-05T18:36:50.491Z",
+    "auto": true,
+    "orgs": [
+      "Newton"
+    ]
+  },
+  {
+    "id": "u-20261105-elt-group-and-thales-announce-the-establishment-of",
+    "d": "2026-11-05",
+    "title": "ELT Group and Thales announce the establishment of a Joint Venture in naval Electronic Warfare for the export market",
+    "body": "ELT Group and Thales announce the establishment of a Joint Venture in naval Electronic Warfare for the export market",
+    "why": "Major deals often signal shifts in supply capability or new market access.",
+    "sectors": [
+      "strategicpartnershipsma"
+    ],
+    "type": "Strategic Partnership",
+    "companies": [
+      "ELT Group",
+      "Thales",
+      "Joint"
+    ],
+    "src": {
+      "t": "Naval News",
+      "u": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNMDFtN3hRTWYzMk5pSDVqc0JJVEpuMW8wa2RNOWFtQWFGUzdxYk9WelUyRmd0RWRDV3FzNDB3WjFGVWkya2ZJdUJTcjJJRTNXVmZGXzBhRDFUOFFGQlBtMGRTMkVCNm5SVTN0ZzhPeVFwMVY0NExfTUx5RTlCUUtKeGFORTFoMkdBNFRJSXk0ZlpjTllfOWpBdi1RbzBPeFI5ajA5bE0zSnJ5ZlJOX3YxeU5vMVVqQmUta3RwT1dIcDlxTU41a3ZvUXMxbnBCazlHcUFjREN3Q2NOSHhDeEYzc2NmaUNzczM5WEh6a2tjNmxvanIwRmFmTDJteEVuV0dCYV9FTGEzY2Y?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-05T18:36:50.491Z",
+    "auto": true,
+    "orgs": [
+      "ELT Group",
+      "Thales",
+      "Joint"
+    ]
+  },
+  {
+    "id": "u-20261105-pm-malaysia-must-focus-on-port-value-not-just-carg",
+    "d": "2026-11-05",
+    "title": "PM: Malaysia must focus on port value, not just cargo volume",
+    "body": "PM: Malaysia must focus on port value, not just cargo volume",
+    "why": "Port bottlenecks are the physical manifestation of supply chain friction.",
+    "sectors": [
+      "portactivityinfrastructu"
+    ],
+    "type": "News",
+    "companies": [],
+    "src": {
+      "t": "NST Online",
+      "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMG1faG1VY1h1OUN5LWlFYUEta3k3T2FWaEtSckRId056dFAtOUdjcmpGTnV5QlpLM0JkVFpCVEFvV3hJc1VBUlA3TGJJVmZTMUpJLVdXWkxNdmNQRWR4NUtWU1QzLUN1YlZqSU14dkE1SWRYaWhScU5yRGE1VEpGZFZzalJVeE9GLVI0MWlqRmFkLUZLVGY5OXNRMnZrZEs4ZzhOa1NPUG8td9IBrwFBVV95cUxNVUpwU291czQ2UVFTOS1oaGt0MVZhcGJNR05mYWQ0MGRRMnhmdjJoXzd3TXZBSEV0eGFWUDdlNlJSdWswRVRMQm8wMDEwMUZKTlRvUkFBdzRXNlJoRXZsZTlVNXBBaVpGYWVidU1xclcxcEZKUFVHU3FZeW0tRXdHUHhOb3BwdVd6dUxpNDFWNTlCUDhMVTZWckVjSjhuNjNCYkNjMnBJeEY4Skd0MUpZ?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-05T18:36:50.491Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
     "id": "u-20261104-higher-energy-gold-exports-offset-us-tariff-impact",
     "d": "2026-11-04",
     "title": "Higher Energy, Gold Exports Offset US Tariff Impact on Canada",
@@ -1387,6 +1593,322 @@
     "orgs": []
   },
   {
+    "id": "u-20261104-us-democratic-win-unlikely-to-ease-firms-cost-tari",
+    "d": "2026-11-04",
+    "title": "US Democratic win unlikely to ease firms' cost, tariff woes in near term, executives say",
+    "body": "US Democratic win unlikely to ease firms' cost, tariff woes in near term, executives say",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "Reuters",
+      "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMFREOVI1am9RMmxtb1dOZTc2dFNqaDZLMENlSFQwZEg3SWthaFdPVVV3QXEyMjlKTE5zZHI3Nk1RclhjZWt3SmZuQjNyMVM3c2RLZFo4Z0JEOEZCdXNPZFBPLVpCZnlmUkFBNWE5Zk0zcWFyTTNBZHlMR1FtaFFRVnNXWS04LTlocmtSTEFscG9GTlh6aGd3SC0tVHRmSWtYdnhKWnRqVmNHa0NhaEhkTENiRnJEaWJOREtuOEN1dVRrQQ?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-05T18:36:50.491Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261104-alcohol-stocks-jump-as-blue-wave-lifts-tariff-immi",
+    "d": "2026-11-04",
+    "title": "Alcohol Stocks Jump as Blue Wave Lifts Tariff, Immigration Hopes",
+    "body": "Alcohol Stocks Jump as Blue Wave Lifts Tariff, Immigration Hopes",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [
+      "Blue Wave",
+      "Immigration Hopes"
+    ],
+    "src": {
+      "t": "Bloomberg.com",
+      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMWJVOThEWVlwX3ZZRFFNLW5TZ2lGUHZCRkNVUmJtY21BTWJnWUl2bzNQOUw1dWRWWkRxN0hNYmdiWWJsYkZuMXBRYUhDSlQwYXFJdVZsMkxRSWlMZlFCNDcxbk5HX1pFR2MzOG1zNkRUVHNVc1ZveC13ZEg0Qk9kLVFhc3hWV2FwNVR3R0FHNURIRTVwNmZnYm1LZlFtaFFPcmpCdDMtdHF1MWszLW11bkZwWl8?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-05T18:36:50.491Z",
+    "auto": true,
+    "orgs": [
+      "Blue Wave",
+      "Immigration Hopes"
+    ]
+  },
+  {
+    "id": "u-20261104-harmonized-tariff-schedule-of-the-united-states-re",
+    "d": "2026-11-04",
+    "title": "Harmonized Tariff Schedule of the United States Revision 19 (2026)",
+    "body": "Harmonized Tariff Schedule of the United States Revision 19 (2026)",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [
+      "United States"
+    ],
+    "src": {
+      "t": "United States International Trade Commission (.gov)",
+      "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORmJUZzVEdVJvTEFzb1RDcnZlQmNYTEdsN29yUHluaVJRYW5kTm5pNmE2LVVJMEZGaGtvT3d4NHhhWTBGal96SlpiYUQ2eUNjQUphQTNINVFyeTcwZ1p3RGF0VmthRlZkaUFJWlgtd1NHSDJtU3FkSFRDZnBzTTAzMG50Umk?oc=5",
+      "q": "primary"
+    },
+    "addedAt": "2026-11-05T18:36:50.491Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261104-democrats-election-victory-raises-canada-s-hopes-o",
+    "d": "2026-11-04",
+    "title": "Democrats’ Election Victory Raises Canada’s Hopes of US Tariff Relief",
+    "body": "Democrats’ Election Victory Raises Canada’s Hopes of US Tariff Relief",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [
+      "Election Victory"
+    ],
+    "src": {
+      "t": "Morningstar",
+      "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcEtvdUt2VWw0emFoWGFxSE5tQXZpMnJYUTNQNFZ1Mks2Rm9VLVB6SnJ0cDJ4VDNzVEE1Ym1OS1gyWEVCd2g3NG1LWnlqa3VHZlFCZ3FybllSX3ljSWNpUmh5NHE1ZElSRkQ1RV83enhrY1VmRTZ2S3NyYUkwMmdVQmdoYWc5RlY2M2EtQk9WV1c2b0ZjaE5JdlB6NUFrbGhsNHd3NWgyelZkZzg4bWc?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-05T18:36:50.491Z",
+    "auto": true,
+    "orgs": [
+      "Election Victory"
+    ]
+  },
+  {
+    "id": "u-20261104-democrats-win-congress-but-costa-rica-s-us-tariff-",
+    "d": "2026-11-04",
+    "title": "Democrats Win Congress but Costa Rica’s US Tariff Stays",
+    "body": "Democrats Win Congress but Costa Rica’s US Tariff Stays",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [
+      "Congress"
+    ],
+    "src": {
+      "t": "The Tico Times",
+      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9CMUh1VkNpckt6QkU0TkNpeW1RQWttUXZnN1E0UDZtbGtWbmxUbm1ocVFIekV0RHYtcWx6TC1LWVh4VDNRbjluRXYwSUhybVc4NU9hYmM4ekVmNjE5amZnM1k3R01POVRyQmd1TzZqWlBPby1mNG94Ug?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-05T18:36:50.491Z",
+    "auto": true,
+    "orgs": [
+      "Congress"
+    ]
+  },
+  {
+    "id": "u-20261104-china-extends-tariff-relief-for-canadian-canola-lo",
+    "d": "2026-11-04",
+    "title": "China extends tariff relief for Canadian canola, lobster and crab",
+    "body": "China extends tariff relief for Canadian canola, lobster and crab",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "CBC",
+      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOM1lwOFcxUnN6aFpkdXVXaFZURlFLekpzZ3dwY3lFZlE0amd1Z3libENfam5OSS1lTzVNS3cxQlk1ckdQT0xZSlNwOW15YW04bU0wdEN3RS10N2RwVHNNUTlqSl9DUGVta3Nsek1YamxHOW02OTFoaEVLa21WYkFjU0hzaU8wSFN6Y3Q5TkpR?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-05T18:36:50.491Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261104-tax-and-tariff-relief-top-small-businesses-wish-li",
+    "d": "2026-11-04",
+    "title": "Tax and tariff relief top small businesses' wish list for Budget 2026",
+    "body": "Tax and tariff relief top small businesses' wish list for Budget 2026",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "CBC",
+      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSllCNGE5UGRVVF84YnF2VzdDSHZ2SnJLZHlQWGNLbVRXRTVzYWQtOFppVGNLWEZzWDluc0p0WWJuX0psTE5uZ0lFYl9xamMxMzI2VXZheXl5X3N0dDZaMGNEWWwta3JpLUZoTWNiWlJTVk1PZXNWSDczMnU0MVhiMnV0eXBvc2hpeEk5N2xR?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-05T18:36:50.491Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261104-importers-propose-railway-linked-depots-to-ease-po",
+    "d": "2026-11-04",
+    "title": "Importers Propose Railway-Linked Depots to Ease Port Congestion",
+    "body": "Importers Propose Railway-Linked Depots to Ease Port Congestion",
+    "why": "Sudden rate spikes or port bottlenecks are the earliest warning signs of shelf shortages.",
+    "sectors": [
+      "logisticsfreightrates",
+      "portactivityinfrastructu"
+    ],
+    "type": "Port Strike or Congestion",
+    "companies": [],
+    "src": {
+      "t": "Modern Ghana",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fMkkxeGMySzZycXZ5YVNET0hOMHV1NEJQVVhiZ0g4SldDbHhQQnBjZlkyLXQ0am95dXdaQXF0czlJZ1d5Y0E4OUFKT1puN2trUFFYRVJwYkw1VzBZaFHSAVxBVV95cUxPVWFoNVB1cFRkblVVYXFSRnJobWFTcXdTcklUX3Q0ejhwQU53UjJKVkJnQUJmRzJ0SVIzdXgwbU52YXptYVdNSTZFQ0ZubTJnT0pqNGlTeWhSZmVBOQ?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-05T18:36:50.491Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261104-exporters-urge-government-to-find-long-term-soluti",
+    "d": "2026-11-04",
+    "title": "Exporters urge government to find long-term solutions to port congestion",
+    "body": "Exporters urge government to find long-term solutions to port congestion",
+    "why": "Sudden rate spikes or port bottlenecks are the earliest warning signs of shelf shortages.",
+    "sectors": [
+      "logisticsfreightrates",
+      "portactivityinfrastructu"
+    ],
+    "type": "Port Strike or Congestion",
+    "companies": [],
+    "src": {
+      "t": "BusinessWorld Online",
+      "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSlBSOXljQXhyU0Z1VDFsUUI5NjVvSVVCX0pPNDgwcW0xOTN5T0FRT1U1TDY4T3l1TktnajM1MC0yX0VWODFKbWlNM0Jadml3OW5IVVlTVXp4bUk1VHNhRnprdFlBc25LSzNBQTJsWmRJenlESWpEcnhEUFZ0Um5aTTBqNXozckE1cUJnQWZ2anJKalJWTjZkb3g2SjNOd0NfNWlJRjlBbWxTY3hHc0pfQ2RZUXJyRVpFWFI0QnQwbEt5UQ?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-05T18:36:50.491Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261104-importers-propose-rail-linked-depots-to-tackle-por",
+    "d": "2026-11-04",
+    "title": "Importers propose rail-linked depots to tackle port congestion",
+    "body": "Importers propose rail-linked depots to tackle port congestion",
+    "why": "Sudden rate spikes or port bottlenecks are the earliest warning signs of shelf shortages.",
+    "sectors": [
+      "logisticsfreightrates",
+      "portactivityinfrastructu"
+    ],
+    "type": "Port Strike or Congestion",
+    "companies": [],
+    "src": {
+      "t": "CitiNewsroom.com",
+      "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOakNhZUtCUlpobWJrZHJlWUl5Qzlqb1MwSTQ3Vzk3V2J2MXRyaG1KclFhdFhqVmJmSlRvMFFNOTMyb1dpQWdfSXlBZjJhXzZxTVJ1dDduZU9XWGFvaW9FY2xVQ0IwY3dXT1JySWl0ODF6dVdHSnVRRkhLY0xtYVBDOFhHV1NrU2RTczYxTjY2bkV1Ri1ISFpRa0dlNGVEX1Voc3c?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-05T18:36:50.491Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261104-ningbo-port-congestion-continues-following-typhoon",
+    "d": "2026-11-04",
+    "title": "Ningbo Port Congestion Continues Following Typhoon Disruption",
+    "body": "Ningbo Port Congestion Continues Following Typhoon Disruption",
+    "why": "Sudden rate spikes or port bottlenecks are the earliest warning signs of shelf shortages.",
+    "sectors": [
+      "logisticsfreightrates",
+      "portactivityinfrastructu"
+    ],
+    "type": "Port Strike or Congestion",
+    "companies": [],
+    "src": {
+      "t": "Beckchoice",
+      "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMkVWVXByeGp0RmNQMklybzgxak9LbFkyWTViVVp3Q1F5UUl4eGo0Tk5ZeHB3RzRtcDRxRXB3cEJSVWEtcjlVRlo1c1ZzVVZvRjIzbzQ4dk5LTDQ1YU9ZcVhMSFZ3WEdfWGdpRmVXLVdlN3diSUFmVVZ3dGFJZWRiVV9vNE5oNnBENEhtOGk2RGd1QWhsdXgtRXY5QQ?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-05T18:36:50.491Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261104-importers-propose-empty-container-depots-to-ease-p",
+    "d": "2026-11-04",
+    "title": "Importers propose empty container depots to ease port congestion",
+    "body": "Importers propose empty container depots to ease port congestion",
+    "why": "Sudden rate spikes or port bottlenecks are the earliest warning signs of shelf shortages.",
+    "sectors": [
+      "logisticsfreightrates",
+      "portactivityinfrastructu"
+    ],
+    "type": "Port Strike or Congestion",
+    "companies": [],
+    "src": {
+      "t": "GhanaWeb",
+      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOURzRGZ0OUJYSk1yUzBQdWs3d2JfYmFOVlk4VUFHbGZTNUhhbFNMajZRd29ER3gxMVVSRWROZGhhTHgxMEd5QUExQ19mOUp4YUxLT1djeG81Um5oTlhiMDJmNC1kOVlLVm12cUcyRno1bU13S29yNlVZb25GaGdOckJYQjZCTkQ4SEx2T2ItUzlXNXdrajFYVkRaY3F5YUF0SXgyMEVJbV8xREhGNkRCLWhrd2lqR2tzb1l6aw?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-05T18:36:50.491Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261104-philexport-urges-long-term-port-congestion-fixes-i",
+    "d": "2026-11-04",
+    "title": "Philexport urges long-term port congestion fixes in the Philippines",
+    "body": "Philexport urges long-term port congestion fixes in the Philippines",
+    "why": "Sudden rate spikes or port bottlenecks are the earliest warning signs of shelf shortages.",
+    "sectors": [
+      "logisticsfreightrates",
+      "portactivityinfrastructu"
+    ],
+    "type": "Port Strike or Congestion",
+    "companies": [
+      "Philexport"
+    ],
+    "src": {
+      "t": "Traders Union",
+      "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUVJ4OFEtQkxmeFowUHRLR3ZLYmR3aW5aai1WdWw4WjBLTW81QzhPckhfekxMX0pVQlZGSGhYaUpBTXNRNmRUUW9OSExVZGZjZjNJWXlIYlpZcDJ3cEhZU2xZeTlONnJua08yQXJqcGpaTUZEWEh3SFZ5RlhmOHJJcjkxME5xZzRlcG4zVVZqVEU4TTdMSDhGZzdta1k?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-05T18:36:50.491Z",
+    "auto": true,
+    "orgs": [
+      "Philexport"
+    ]
+  },
+  {
+    "id": "u-20261104-intel-bets-approximately-6-billion-on-substrates-a",
+    "d": "2026-11-04",
+    "title": "Intel Bets approximately $6 Billion on Substrates as AI Chip Supply-Chain Bottleneck Benefits South Korea's Samsung Electro-Mechanics, LG Innotek",
+    "body": "Intel Bets approximately $6 Billion on Substrates as AI Chip Supply-Chain Bottleneck Benefits South Korea's Samsung Electro-Mechanics, LG Innotek",
+    "why": "Regional conflicts and energy shocks directly translate into retail cost increases.",
+    "sectors": [
+      "geopoliticalsupplyrisks"
+    ],
+    "type": "News",
+    "companies": [
+      "Intel",
+      "AI Chip Supply",
+      "Samsung Electro-Mechanics",
+      "LG Innotek"
+    ],
+    "src": {
+      "t": "BigGo Finance",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50ZVFEVkhWbGNwZVpwQnZrbVhlME1KVkpDYzVJR2I5SDBCR1k1N3J0QnA3VDdPQno3OXJaSnczTUVfNkhyVnBEOS1iVGtQamIwUTFFSnQyODI3alV4dEtuOExQajhQRXlDdGFKamhaVmt1Mm9HVnc?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-05T18:36:50.491Z",
+    "auto": true,
+    "orgs": [
+      "Intel",
+      "AI Chip Supply",
+      "Samsung Electro-Mechanics",
+      "LG Innotek"
+    ]
+  },
+  {
     "id": "u-20261103-trump-sparked-growth-but-widened-trade-deficit-slo",
     "d": "2026-11-03",
     "title": "Trump sparked growth but widened trade deficit, slowed hiring",
@@ -1829,6 +2351,103 @@
     ]
   },
   {
+    "id": "u-20261103-southport-acquisition-corp-ii-port-ut-stock-price-",
+    "d": "2026-11-03",
+    "title": "Southport Acquisition Corp. II (PORT.UT) Stock Price Today - The Wall Street Journal",
+    "body": "Southport Acquisition Corp. II (PORT.UT) Stock Price Today - The Wall Street Journal",
+    "why": "Major deals often signal shifts in supply capability or new market access.",
+    "sectors": [
+      "strategicpartnershipsma"
+    ],
+    "type": "Strategic Partnership",
+    "companies": [
+      "Southport Acquisition Corp",
+      "The Wall Street Journal"
+    ],
+    "src": {
+      "t": "WSJ",
+      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41QnA0Yks2RjM3UEF4LV9pWThoWjZkdVNMc2NIYTN3T3RrYXVDcnRlMHE0emR6RXYybGtMTDNCbTllbjI5ZE8ycG5mQjEycGo0Sm43RGt5R0I?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-05T18:36:50.491Z",
+    "auto": true,
+    "orgs": [
+      "Southport Acquisition Corp",
+      "The Wall Street Journal"
+    ]
+  },
+  {
+    "id": "u-20261103-middle-east-port-congestion-hits-record",
+    "d": "2026-11-03",
+    "title": "Middle East port congestion hits record",
+    "body": "Middle East port congestion hits record",
+    "why": "Sudden rate spikes or port bottlenecks are the earliest warning signs of shelf shortages.",
+    "sectors": [
+      "logisticsfreightrates",
+      "portactivityinfrastructu"
+    ],
+    "type": "Port Strike or Congestion",
+    "companies": [],
+    "src": {
+      "t": "Splash247",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84QlhHLXYwMzVDR0pja3ZKSmNyT1dLend1Q05DV0tqUWgwSTllX3NCQldRWFFhTTJ3VjlKQUhseWdDRTkwNUo5REc1dS0tWXJOR01fU1BqaWZfaG1tbVd4VUtPNkZWWlFGTm9ISnhBWQ?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-05T18:36:50.491Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261103-port-of-corpus-christi-weighs-a-dp-world-container",
+    "d": "2026-11-03",
+    "title": "Port of Corpus Christi weighs a DP World container terminal and 2,000-acre hub",
+    "body": "Port of Corpus Christi weighs a DP World container terminal and 2,000-acre hub",
+    "why": "Port bottlenecks are the physical manifestation of supply chain friction.",
+    "sectors": [
+      "portactivityinfrastructu"
+    ],
+    "type": "News",
+    "companies": [
+      "Port"
+    ],
+    "src": {
+      "t": "MarketScale",
+      "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNd0pDZktvQzZXX2NFTnVlWm5sM0Y0QmJPSmU2MHZIRjR3Y2ZsbGQ5MXlxRTFxYzF1czY0bmFQbldWWldseXhuMXRlUUVuM2g3MUdrZFh4VFphbEJNeXgzVE14Y21pQkZUWGxVQURCLUxocDUySDdjRnVEUUx6SldBQll3bHdIcHV5bjcyb0pfTVNHSkpUWFpaR0g4TnRzY3Y4a2VlSkMxVnFpOHJjcnFzd1FNTDQzdzRiXzJLdUlJTnJPcDBLVFdEX2pJUQ?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-05T18:36:50.491Z",
+    "auto": true,
+    "orgs": [
+      "Port"
+    ]
+  },
+  {
+    "id": "u-20261103-bangladesh-s-chittagong-port-authority-dp-world-si",
+    "d": "2026-11-03",
+    "title": "Bangladesh’s Chittagong Port Authority, DP World sign 15-year concession for New Mooring Container Terminal",
+    "body": "Bangladesh’s Chittagong Port Authority, DP World sign 15-year concession for New Mooring Container Terminal",
+    "why": "Port bottlenecks are the physical manifestation of supply chain friction.",
+    "sectors": [
+      "portactivityinfrastructu"
+    ],
+    "type": "News",
+    "companies": [
+      "Chittagong Port Authority",
+      "DP World"
+    ],
+    "src": {
+      "t": "وزارة الخارجية الإماراتية",
+      "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZkpINzN5R2owYm1xQVBnQUlZTW4tUkpyOGhKX0RkN0ZxM0g4MjQ3LS1scEk4dGpkcnpoaEl0c2dCZjRUWWdtN1NmeHF0eGhoUzhTcERDTlF2cUp4aGFiaTZNYW9EM3JRUDA4VkREcTlfUnBUSUI0S050WTBwUkhWNGVjOA?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-05T18:36:50.491Z",
+    "auto": true,
+    "orgs": [
+      "Chittagong Port Authority",
+      "DP World"
+    ]
+  },
+  {
     "id": "u-20261102-exclusive-india-moves-to-resolve-scotch-tariff-dis",
     "d": "2026-11-02",
     "title": "EXCLUSIVE: India moves to resolve Scotch tariff dispute under UK trade pact, sources say",
@@ -2238,6 +2857,161 @@
     "orgs": []
   },
   {
+    "id": "u-20261102-described-in-general-note-15-of-the-tariff-schedul",
+    "d": "2026-11-02",
+    "title": "Described in general note 15 of the tariff schedule and entered pursuant to its provisions",
+    "body": "Described in general note 15 of the tariff schedule and entered pursuant to its provisions",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "United States International Trade Commission (.gov)",
+      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5za21OaEtLSFN1ZmlkZXJVdmYxekluMTNsR1R0VndIdGdxa3JZaWM0TEZTY2ZCZUFwVU9xX2h0dzBPSlVNd01uZEU1a2dCUQ?oc=5",
+      "q": "primary"
+    },
+    "addedAt": "2026-11-05T18:36:50.491Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261102-premium-comment-capital-vs-resilience-the-intracta",
+    "d": "2026-11-02",
+    "title": "Premium Comment Capital vs resilience – the intractable problem of port congestion",
+    "body": "Premium Comment Capital vs resilience – the intractable problem of port congestion",
+    "why": "Sudden rate spikes or port bottlenecks are the earliest warning signs of shelf shortages.",
+    "sectors": [
+      "logisticsfreightrates",
+      "portactivityinfrastructu"
+    ],
+    "type": "Port Strike or Congestion",
+    "companies": [],
+    "src": {
+      "t": "The Loadstar",
+      "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTFBjMlVibGZ3d0ZjcHFNYjhhY1pLcU5VTzlvaFRQcFBtQ3VzTkRocWhsVllDWlhtZVVVeHYzQzVfVjFTU3IxUk9DQWdJTzhubXpGYXg5OFZ5U2dGYUFnOHJocHRzZktGdEt0SF9PeFdDelR0dnZ1WlFKdVlZY19hSVVnVUdoMVptQmN5bl82bGVjNUk?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-05T18:36:50.491Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261102-openai-seeks-samsung-sk-partnerships-amid-chip-sup",
+    "d": "2026-11-02",
+    "title": "OpenAI seeks Samsung, SK partnerships amid chip supply crisis",
+    "body": "OpenAI seeks Samsung, SK partnerships amid chip supply crisis",
+    "why": "Regional conflicts and energy shocks directly translate into retail cost increases.",
+    "sectors": [
+      "geopoliticalsupplyrisks"
+    ],
+    "type": "News",
+    "companies": [
+      "OpenAI",
+      "Samsung"
+    ],
+    "src": {
+      "t": "ET Datacenters",
+      "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNV2ZZRFhOQnRRejFpRUxxaU50al9Pa2FFSEhPakNqaXRfd09ZMVhWZXV4N3RveFVITlEzZzdqMi1uLXZqMzZ1dmhrX2ctMUI3bEFVT0FpQWt6eWN4Ti1nWG5jeEs0QWVnT0d6VXJtWmZqYnNGbEhIaGtzTkczcTFBUlBWZnlGQjJUZUdFVVZObE56Mmk0WVhaZER4VFdfMG1EQWZVcG00QzRxVGZieDNCNVVFNi0xajdZLTVPaTk1STdXUm00djJhcDhFbVpQY2xRRnFnQ3JiOUw1eV9ZaFFPOVRIbFjSAegBQVVfeXFMUDItVDRMRUhoX0Y4Zk9RaUtQTkRzbm9rdnh2akFSTzNYQTdoVTdmenVTSzBwVmpmd3RaZ0F0ZGZ0UmhzT1YyRzZFREQ0S1hBZThMV0VldWk0cEs2TGVnSHd6RTJndUg5VHBRZEM5SnJ6WkIzWnBIUGppWUM1YXRzck1VWEMwNHpkc2VtbHM1RWQ1U242Q2QxUnFZakFuaEZKemZ3eGY5RFRNTVFsSXlvOU9rZmpUY3dKOUdRWjlJOHk4b1ZGVDhxUlVlR29CR3NKNV9zQjU2WVE3eDFaeXcyTVFPcTRlcENoeA?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-05T18:36:50.491Z",
+    "auto": true,
+    "orgs": [
+      "OpenAI",
+      "Samsung"
+    ]
+  },
+  {
+    "id": "u-20261102-altman-turns-to-samsung-sk-as-ai-expansion-faces-c",
+    "d": "2026-11-02",
+    "title": "Altman turns to Samsung, SK as AI expansion faces chip supply challenges",
+    "body": "Altman turns to Samsung, SK as AI expansion faces chip supply challenges",
+    "why": "Regional conflicts and energy shocks directly translate into retail cost increases.",
+    "sectors": [
+      "geopoliticalsupplyrisks"
+    ],
+    "type": "News",
+    "companies": [
+      "Samsung"
+    ],
+    "src": {
+      "t": "ANI News",
+      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONWh1ZERMcE9aZExVRjlLMV9sY3d6RDhIVmpDUzhRTzJRa051d3VySjdiX0lFcmFzalJGanhtcUpIaHM3LW1VOWl5OS1aRjR4ZWZjVXhNakowSnE5aUlSakhZRjhVSFFHeGtySjNabXJrbWNzeXcyWHdrXzFpd0lsdHFWTW95SDktYThjV0RhU2V0TjRGWVRsTV9zRGRRbl9iY09KWXlQRHZIMmdfMng5N1Vkb3FkcmNHUmQ3UWVYNA?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-05T18:36:50.491Z",
+    "auto": true,
+    "orgs": [
+      "Samsung"
+    ]
+  },
+  {
+    "id": "u-20261102-egis-arcadis-selected-to-design-port-of-montr-al-s",
+    "d": "2026-11-02",
+    "title": "Egis, Arcadis selected to design Port of Montréal’s Contrecœur Container Terminal",
+    "body": "Egis, Arcadis selected to design Port of Montréal’s Contrecœur Container Terminal",
+    "why": "Port bottlenecks are the physical manifestation of supply chain friction.",
+    "sectors": [
+      "portactivityinfrastructu"
+    ],
+    "type": "News",
+    "companies": [
+      "Port of Montréal"
+    ],
+    "src": {
+      "t": "constructconnect.com",
+      "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQ3ZzMkJvQ3FTakU1RE1OQ3FLVFlmUUNGbU51czUwOGFfWVlxU1JXdHJoMEFDZ1VPeWM4TXlGaDZocU1fQWZtVHFGb3BpbTd5VzVrWmp2ZmxlUU1xYkNXRkRFM3dzQ3RMSVBZX2x0Q2dYODZRcVhPSUpWRFVzMlFmdUpQalZxZHh4bVRLNS1ySjU5blRQalRhdmlrbldCMFl6X1M0V0N4RDRmQzlKa2RMeXBxaWlFOTk1dENla0NfY3E2SUhuRzg5OE9NNkpVU0hLZXktRFRkS0J4THpDTV9DdXA2dDhwb0tQdVVSLQ?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-05T18:36:50.491Z",
+    "auto": true,
+    "orgs": [
+      "Port of Montréal"
+    ]
+  },
+  {
+    "id": "u-20261102-morocco-crown-prince-moulay-el-hassan-launches-the",
+    "d": "2026-11-02",
+    "title": "Morocco : Crown Prince Moulay El Hassan launches the first container terminal at the Nador West Med port",
+    "body": "Morocco : Crown Prince Moulay El Hassan launches the first container terminal at the Nador West Med port",
+    "why": "Port bottlenecks are the physical manifestation of supply chain friction.",
+    "sectors": [
+      "portactivityinfrastructu"
+    ],
+    "type": "News",
+    "companies": [],
+    "src": {
+      "t": "Zambia Daily Mail",
+      "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbEx2RWdUTm1EODJKTkd3b18tT01ucWVwU2REWVNrR194dFp5LTBzNVRvVUlGa1RxOHhRa29wRTVlZ0Q3NGJwZHJsdnQ3cjdsQkxSdzFHYVBXWFBoQllSd1ZrSGNEVFZSWFlnRUtGVDhWVFdyMGxVd2k3WTBMT2I1ZjZQOXZiVWx6elJzMWVra3Q0VzhEZ1VNVldTWjl6ZlBiV1liN1p3bFBvZXdzSmJxSjBXazVWdnZFRWpkQ2txRUZvZFpsWTdpX0ZWVGZkSnFFb0R4Zmg5dFFzOXM?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-05T18:36:50.491Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261102-first-container-terminal-officially-launched-at-5-",
+    "d": "2026-11-02",
+    "title": "First Container Terminal Officially Launched at $5.5bn Nador West Med Port in Morocco",
+    "body": "First Container Terminal Officially Launched at $5.5bn Nador West Med Port in Morocco",
+    "why": "Port bottlenecks are the physical manifestation of supply chain friction.",
+    "sectors": [
+      "portactivityinfrastructu"
+    ],
+    "type": "News",
+    "companies": [],
+    "src": {
+      "t": "Construction Review",
+      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONGt6ZENpZEdEQ0M5bzlpcmFwdjY3b2xfTHl2TEhiek9QSXYzS2dXczVSTUZaSVlzUmlPaURZNlJJbHYxUkd4THc2bHJ6UTJnbGZlZ0VBWnVhZEtXRkthaEtPNzZGNDY4ZHZSM09SNTVsVjNSbVpadWJGNGI0Znd2a0V0cmFTUDNJZ1BhV0VnX0tQbzF2MGQwTUlvMGdLSlZNRjRrRTJxdDFWN1ZwOXR5aHQxZkc5OWxrWHJUYWFTcw?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-05T18:36:50.491Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
     "id": "u-20261101-democratic-wins-would-shift-congress-trade-debate-",
     "d": "2026-11-01",
     "title": "Democratic wins would shift Congress' trade debate but fall short of US tariff rollbacks",
@@ -2483,6 +3257,46 @@
     ]
   },
   {
+    "id": "u-20261031-nador-west-med-port-crown-prince-moulay-el-hassan-",
+    "d": "2026-10-31",
+    "title": "Nador West Med Port: Crown Prince Moulay El Hassan Opens first Container Terminal",
+    "body": "Nador West Med Port: Crown Prince Moulay El Hassan Opens first Container Terminal",
+    "why": "Port bottlenecks are the physical manifestation of supply chain friction.",
+    "sectors": [
+      "portactivityinfrastructu"
+    ],
+    "type": "News",
+    "companies": [],
+    "src": {
+      "t": "The North Africa Post",
+      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUjE0TFB4Z2VoOU4tRnh2R1FDWmc2UlpHUTdheHFNTXFmOVdUWXdFMmc3MWFEWmh1MDYxcGlHdkZXX1F6QV9ma3VGWVBZOVZFY2ZwYm9xd09MTUNSY01TUHRXUFlCWVNsWmt5dDFyYWN0M0NtWlZJSS1SVHlfcjI0U0QwZEtiMU9aU1Y2U0NXLVpQNHcyRENhdHRzV2tvYnQ0cEtfX2h2TEY1dmNNVS1tV1g3bktUbzJFanZIRQ?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-05T18:36:50.491Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261031-crown-prince-moulay-el-hassan-launches-operations-",
+    "d": "2026-10-31",
+    "title": "Crown Prince Moulay El Hassan Launches Operations at First Container Terminal at Nador West Med Port",
+    "body": "Crown Prince Moulay El Hassan Launches Operations at First Container Terminal at Nador West Med Port",
+    "why": "Port bottlenecks are the physical manifestation of supply chain friction.",
+    "sectors": [
+      "portactivityinfrastructu"
+    ],
+    "type": "News",
+    "companies": [],
+    "src": {
+      "t": "HESPRESS English - Morocco News",
+      "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeVNXSW01RzFqMUNFUjA3WFJwdmoyYXJlaHZiWXlNSFAtVi1EbWlqVXRIRHBPYWVmb2o4QlRyMXcyUXhZR2NXaTlYY1VLTmc2cHJwUTBzREpjdXdxSHAzdGkzYmtuei1HN013VURiUG5vbnVQQmtzblk2ODc2M3Q1eWd6S1FZc1p5SmNIRkJDc2ZQNDU2VU1hdFNSazh1M3UxWVRTemQ4Z0liY0JTYVMtdlk0UC1xX0IzQU5lRnNrVl80WUtuN0hnWERkc0thNnVYWGc?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-05T18:36:50.491Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
     "id": "u-20261030-facing-a-potential-40m-us-tariff-bill-this-america",
     "d": "2026-10-30",
     "title": "Facing a potential $40M US tariff bill, this American importer is suing Trump to end some tariffs on Canada",
@@ -2707,6 +3521,139 @@
     "orgs": []
   },
   {
+    "id": "u-20261030-scotland-s-swinney-raised-scotch-whisky-tariff-con",
+    "d": "2026-10-30",
+    "title": "Scotland's Swinney raised Scotch whisky tariff concerns during India trip",
+    "body": "Scotland's Swinney raised Scotch whisky tariff concerns during India trip",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "Reuters",
+      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcHF3QkNtUmhscmpZc2VTVTdDcWcwbllNb0hhMmtsSXFGdE9hMzgwZlJ0NnFjVEE5WGZTelJ3WEZQMnktS05IX2lEZDRhSzQtMzZFUlVMNUJkZFpST1Vta0hPVEFiZFlnTXNndDNxNDJZVHM1dzVDNlFfLWNsWUZJa1FJbUp5S1M4Y05qNXlXZkJaT2gzbV9lS0FiQlI2aHpzMldNVEdieC13QWxSNjhjUjAwX3Zsck5EaU5rbg?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-05T18:36:50.491Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261030-president-trump-reportedly-promised-audi-tariff-re",
+    "d": "2026-10-30",
+    "title": "President Trump Reportedly Promised Audi Tariff Relief for Building Georgia Factory",
+    "body": "President Trump Reportedly Promised Audi Tariff Relief for Building Georgia Factory",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [
+      "Audi"
+    ],
+    "src": {
+      "t": "Road & Track",
+      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX3htaGN0ZVVFRnVLN0JmOGNxaDhValJqeWg2N0hjZzVTbk1BYktrV3RkbmwtT3g3bVhvekJpOFdvSGRGb0M2em1GT3dyRXpGbGlFOS1JbUFXNXBoNmhmbmlrakJWU0lIdzIyMTdLdE5MX1ZnaDRFNW90OXlzcVQzRWFlZjZILTdMYm9FUTlB?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-05T18:36:50.491Z",
+    "auto": true,
+    "orgs": [
+      "Audi"
+    ]
+  },
+  {
+    "id": "u-20261030-uae-port-congestion-intensifies-as-delays-increase",
+    "d": "2026-10-30",
+    "title": "UAE port congestion intensifies as delays increase at Khor Fakkan and Sharjah",
+    "body": "UAE port congestion intensifies as delays increase at Khor Fakkan and Sharjah",
+    "why": "Sudden rate spikes or port bottlenecks are the earliest warning signs of shelf shortages.",
+    "sectors": [
+      "logisticsfreightrates",
+      "portactivityinfrastructu"
+    ],
+    "type": "Port Strike or Congestion",
+    "companies": [],
+    "src": {
+      "t": "Kuehne+Nagel",
+      "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYzE3TDFuQ0pIaGVMR3VQRzZiTUdwX1pBX0hpbG04SmpsV3JtTC1ZTEtZVlI2d3ZqemVHVEJfYXRCeURiNlN6RE9yVGZVelRXMm5aMnF6RjIxc3FJWWJJX3ppc3k4WWFpZUFQaWw0RFBHYmUwWlU0QWpNckpzQjR4M2t5RC1CeW9NaXZRaw?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-05T18:36:50.491Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261030-us-import-cargo-volume-to-see-temporary-boost-befo",
+    "d": "2026-10-30",
+    "title": "US import cargo volume to see temporary boost before drops below 2025 levels into fall",
+    "body": "US import cargo volume to see temporary boost before drops below 2025 levels into fall",
+    "why": "Port bottlenecks are the physical manifestation of supply chain friction.",
+    "sectors": [
+      "portactivityinfrastructu"
+    ],
+    "type": "News",
+    "companies": [],
+    "src": {
+      "t": "Shipping Telegraph",
+      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONlNtZHp6bDVHM1Z1Mkx3NEJkZ2kyOWJHMlVfWGI3dEl4YmpCNHJxYlFHcHp0WEhQZ0hvUDhIc2k4ZmJXdjhVMG44MGVEVVNkNE8tRWpqUU5yV240RTR6UHUtVVJaQlJWMU14WkxpUzMxM3pxUWR4cWM1TUI2M214dmhDdjVGN3RnR055MWdUTjZKZk1VcVpaMFRJSW5kN3RtanIwT1pSdkYxLU12WVFtNjRXMUQ5bUlNamhhU002SnpQNXpoYlE?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-05T18:36:50.491Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261030-arcadis-egis-to-design-port-of-montr-al-s-contrec-",
+    "d": "2026-10-30",
+    "title": "Arcadis, Egis To Design Port Of Montréal's Contrecœur Container Terminal",
+    "body": "Arcadis, Egis To Design Port Of Montréal's Contrecœur Container Terminal",
+    "why": "Port bottlenecks are the physical manifestation of supply chain friction.",
+    "sectors": [
+      "portactivityinfrastructu"
+    ],
+    "type": "News",
+    "companies": [
+      "Port Of"
+    ],
+    "src": {
+      "t": "TradingView",
+      "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOG9iNUhpUW9KdXRDY3NBcTg5azM4ZXJiaXY3VUtSc3JTZG5wb0tXaDE5WnFjT09JYkRmd0REZ1F3enVoZ0FXUUwzXzkwYmc4VHBuWDhsdk1ZbGMxRHJmZjduTEF2ZEJyV0N0V2MwbFBNemNhcEFJckNYVFJfYzFzYjY2VUNQRXQySURnZlFQQ3NvSGQtSkhwUTItWHZTTDZkaUV6YW9SUnctYXhBeC1rTmJZVnozYzAyaEFWTGVidFZvSkwzQ0pBd0FWSVVWTHRiT1FmSGZKSXU?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-05T18:36:50.491Z",
+    "auto": true,
+    "orgs": [
+      "Port Of"
+    ]
+  },
+  {
+    "id": "u-20261030-arcadis-and-egis-selected-to-design-the-port-of-mo",
+    "d": "2026-10-30",
+    "title": "Arcadis and Egis selected to design the Port of Montréal's Contrecœur Container Terminal",
+    "body": "Arcadis and Egis selected to design the Port of Montréal's Contrecœur Container Terminal",
+    "why": "Port bottlenecks are the physical manifestation of supply chain friction.",
+    "sectors": [
+      "portactivityinfrastructu"
+    ],
+    "type": "News",
+    "companies": [
+      "Port of Montréal"
+    ],
+    "src": {
+      "t": "PR Newswire Canada",
+      "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbmUwc0xaa1U3QWxuQ0ZiWm02VWhibjVtUENKNG9MbXBxcmk5MXlzenRXNUZHVDBtV1p6U2M5WWh1VnUxbEtraHg0Z3BaNU45bVJTM2M3RTQ0dFBLZm1FY0dINDZMRkx2QXZQLWsxdUZGa1ItSkVTdWRBMmVhaDN3WE1KbWJRWGtXQkRfa01hbFdyQjl2LWtwWGVMcldrcG50VXBOTmVkMkhfNUQ0Y0dPbi03WWJLWnJxVHF2bDVtSm9VTHRrRFBrTFZ4ajdCRm56enl3RWlNUWxOdw?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-05T18:36:50.491Z",
+    "auto": true,
+    "orgs": [
+      "Port of Montréal"
+    ]
+  },
+  {
     "id": "u-20261029-hormuz-impact-on-ocean-freight-eases-but-diversion",
     "d": "2026-10-29",
     "title": "Hormuz impact on ocean freight eases, but diversions and port dwell remain elevated",
@@ -2748,6 +3695,54 @@
     "auto": true,
     "orgs": [
       "USDA"
+    ]
+  },
+  {
+    "id": "u-20261029-us-promises-tariff-relief-in-talks-with-audi-on-ge",
+    "d": "2026-10-29",
+    "title": "US promises tariff relief in talks with Audi on Georgia plant, sources say",
+    "body": "US promises tariff relief in talks with Audi on Georgia plant, sources say",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [
+      "Audi"
+    ],
+    "src": {
+      "t": "Reuters",
+      "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOd3Nla2xMeVNaMDYyMkZHQ0pvNzM3b1BqdEJIS3pLN0NKZm1VbjlhUnJVdm43RzYyTHhJWnR0dFdkaXR4amRNNjhJU29ibEpWanZjcEdzT3h6MzVqa3dYRXp1c3pEamVaOVRNNXRiZ0p6RGg1aS1lek1VaFdZYTN0VFhWakhhZEdBX0tqUU1BUWdhX0pqU21fcUVyMWlDTUppN1lkMFVsTjN6YnhMb29UU25LS29SbUVjVmpMSzFSTENuR3M3UkRmRHJCcnY2QQ?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-05T18:36:50.491Z",
+    "auto": true,
+    "orgs": [
+      "Audi"
+    ]
+  },
+  {
+    "id": "u-20261029-the-u-s-and-eu-could-break-their-tariff-truce-over",
+    "d": "2026-10-29",
+    "title": "The U.S. and EU could break their tariff truce over a record-breaking $3.4 billion Airbus loan",
+    "body": "The U.S. and EU could break their tariff truce over a record-breaking $3.4 billion Airbus loan",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [
+      "Airbus"
+    ],
+    "src": {
+      "t": "Fortune",
+      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaWtkeVZaUk1xdmZIaWN3QlItbHlMS0taUkdVZFBJT2tHVHprNkctZGU0cFUyRnFVNVhkSmRGQXpLQmFjVHozdzdUak5IdEM2TUFQNFZWWTFmSWZpYnlWd1VMYzFmX0FGdVF1aExRV2x1TV9PUWw1QmF0b0hVVGdzS3M5TnU1OUNNVmFvaHoxOFlzZHdRcWw1MzNvRmpTWURMM2daLTVNU1Y1akxyV1k4VEJEd2xScXYxZmJna3ZuWFQ?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-05T18:36:50.491Z",
+    "auto": true,
+    "orgs": [
+      "Airbus"
     ]
   }
 ]

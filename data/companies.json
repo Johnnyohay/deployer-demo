@@ -117,7 +117,7 @@
     "aliases": [
       "USA"
     ],
-    "latest": ""
+    "latest": "2026-11-04: Harmonized Tariff Schedule of the United States Revision 19 (2026)"
   },
   {
     "id": "world-trade-organization",
@@ -204,7 +204,18 @@
     ],
     "about": "Political party in the U.S. context (as referenced in trade war discussions) influencing trade policy and tariff debates.",
     "aliases": [],
-    "latest": "",
+    "latest": "2026-11-05: Trump loses Congress as Europe presses for tariff cuts and Ukraine aid",
     "addedAt": "2026-11-05T16:33:20.336Z"
+  },
+  {
+    "id": "samsung",
+    "name": "Samsung",
+    "kind": "company",
+    "type": "Company",
+    "sectors": [],
+    "about": "Major electronics and semiconductor manufacturer facing chip supply constraints while expanding retail strategy and AI partnerships.",
+    "aliases": [],
+    "latest": "2026-11-04: Broadcom loses final appeal over Samsung chip supply deal",
+    "addedAt": "2026-11-05T18:49:53.034Z"
   }
 ]
