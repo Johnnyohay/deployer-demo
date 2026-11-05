@@ -5,8 +5,8 @@
 domain: retail strategy, global supply chains, trade policy
 audience: a retail strategy lead who wants to see supply shocks and tariff changes coming before competitors do
 vocab:
-  theme: Themes
-  themes: Sector, Trade Policy, Logistics, Geopolitics, Retail Strategy, Commodity Markets, Port Activity, Freight Rates, Tariff Impact, Inventory Levels, Regional Supply Chains, Strategic Partnerships
+  theme: Theme
+  themes: Themes
   entity: Entity
   entities: Company, Port, Country, Trade Group, Shipment, Container Line, Manufacturer, Retailer
   state: Where it stands
