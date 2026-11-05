@@ -5,7 +5,7 @@
 domain: retail strategy, global supply chains, trade policy
 audience: a retail strategy lead who wants to see supply shocks and tariff changes coming before competitors do
 vocab:
-  theme: Theme
+  theme: Themes
   themes: Sector, Trade Policy, Logistics, Geopolitics, Retail Strategy, Commodity Markets, Port Activity, Freight Rates, Tariff Impact, Inventory Levels, Regional Supply Chains, Strategic Partnerships
   entity: Entity
   entities: Company, Port, Country, Trade Group, Shipment, Container Line, Manufacturer, Retailer
@@ -46,32 +46,20 @@ scope:
     - stockouts
     - geopolitical
     - commodity
-    - mergers
-    - acquisitions
     - ports
-    - infrastructure
     - shipping
     - retail
-    - pricing
-    - strategic
-    - partnerships
     - distributors
     - warehouses
-    - borders
     - customs
-    - regulations
     - exports
     - imports
-    - demand
-    - challenges
-    - routes
     - vessels
     - carriers
     - contracts
-    - costs
     - disruptions
-    - markets
     - tradeoffs
+    - supply chain
 sectors:
   - id: tradepolicytariffs
     name: Trade Policy & Tariffs
@@ -301,6 +289,16 @@ noise:
     - CEO interview
     - stock buyback
     - quarterly earnings call
+    - dropbox
+    - raspberry pi
+    - electronics
+    - consumer tech
+    - hardware prices
+    - tech supply chain
+    - chip shortage consumer
+    - gadget inflation
+    - laptop demand
+    - smartphone tariff
 collect:
   lookbackDays: 3
 curate:

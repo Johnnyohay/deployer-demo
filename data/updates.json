@@ -360,46 +360,6 @@
     ]
   },
   {
-    "id": "u-20261105-ghana-loses-us-46-7m-in-petroleum-demurrage-costs-",
-    "d": "2026-11-05",
-    "title": "Ghana loses US$46.7m in petroleum demurrage costs – CEMSE",
-    "body": "Ghana loses US$46.7m in petroleum demurrage costs – CEMSE",
-    "why": "Sudden rate spikes or port bottlenecks are the earliest warning signs of shelf shortages.",
-    "sectors": [
-      "logisticsfreightrates"
-    ],
-    "type": "Freight Rate Spike",
-    "companies": [],
-    "src": {
-      "t": "CitiNewsroom.com",
-      "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWmVyREdxS1YzWFFOS1I0d1FLdmx3RnlpeFRUbnhVamxmcFFmUWlLTzg5ZUhUSkNJZjFGTE9FVzdubjY0WklfLVIxV1hBbGU1dmxDUzVwRkZOczNLbTUtX3JqbFdHWFZVZl9kczMwTE9wYTBBWGdLbHluWHAtVG9QZy1aWWtrbVJWWXNhck8tMnJlM1lGZXJB?oc=5",
-      "q": "news"
-    },
-    "addedAt": "2026-11-05T16:19:46.736Z",
-    "auto": true,
-    "orgs": []
-  },
-  {
-    "id": "u-20261105-from-one-energy-crisis-to-the-next-how-the-eu-cut-",
-    "d": "2026-11-05",
-    "title": "From one energy crisis to the next: How the EU cut gas demand by a fifth",
-    "body": "From one energy crisis to the next: How the EU cut gas demand by a fifth",
-    "why": "Regional conflicts and energy shocks directly translate into retail cost increases.",
-    "sectors": [
-      "geopoliticalsupplyrisks"
-    ],
-    "type": "News",
-    "companies": [],
-    "src": {
-      "t": "Institute for Energy Economics and Financial Analysis (IEEFA)",
-      "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT2g1czlIdGFWSElZZ1NXSWxYRk9iQ18wdWplX2RFX2pGdG84b0Rld0NncVBUdTVWNGxsSFQ0M1REaVQwVUd6UGVMMTNSdWlnS3hycG5VdlF2aFZqa3FxbGZRSVozNGNYZDR3OHdDZjdnRlh1OTZOZVMzVGRHX3FtQmZfSGw?oc=5",
-      "q": "news"
-    },
-    "addedAt": "2026-11-05T16:19:46.736Z",
-    "auto": true,
-    "orgs": []
-  },
-  {
     "id": "u-20261105-ai-disruption-geopolitics-and-partnerships-in-focu",
     "d": "2026-11-05",
     "title": "AI disruption, geopolitics and partnerships in focus at Hong Kong business summit",
@@ -413,50 +373,6 @@
     "src": {
       "t": "South China Morning Post",
       "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOVR2TjVEZjZJQWVZZDMwT2ZzMVpkZXEzTS0tU0dRVXpSOVN4WDg1cjlFMDFUQUpvZUNwSU1aSUxJeWpDdXBBYkR5cjhDU1BCRTZJZWpHaDZ2NDZvOWl5X2ZHWGhMakZNdHZtXzJ3OVp4eWNIZ1E5MFEtUlBYNTNXV2V5N1ZuWTVnZ21Ka0FKMF9sbzlZaUtILU81c3l5dWwzd2EzelRXdGREVzNFNlh5cTU2Zkxid19DSE1WaUZRYXJnYkllMHBlRVBPMjIyUkszTElyem1rOHNDMzlT0gHcAUFVX3lxTE4zV1RWZk9LcHY4SmFsczZ1YVM0T242eWVVWDB3SDNWZTNVU25QQlQ4MURsWG1EWVB0NGhfQ1hFV2swaDJiV090XzM4Q213VGJjS1h1bjByb2JmRWlXSURzbk5oaFdwNlBRN2RRRl94cWhuQ0pOZ1YzTHc3WExmOXZ1Mk9TQVpkU3V3VEdFU2NHTi1uLUxWQmVBVy13MFo1dmpmcElNVDM4YllkLW1Jc0p5VE1CN3R5OHFteS0zMURnVlNmOVlMZ01oRDFEZE1aU0s5ck5rMlFRU0hCLUg?oc=5",
-      "q": "news"
-    },
-    "addedAt": "2026-11-05T16:19:46.736Z",
-    "auto": true,
-    "orgs": []
-  },
-  {
-    "id": "u-20261105-bangladesh-market-sees-surge-in-solar-panel-demand",
-    "d": "2026-11-05",
-    "title": "Bangladesh Market Sees Surge In Solar Panel Demand Amid Energy Crisis",
-    "body": "Bangladesh Market Sees Surge In Solar Panel Demand Amid Energy Crisis",
-    "why": "Regional conflicts and energy shocks directly translate into retail cost increases.",
-    "sectors": [
-      "geopoliticalsupplyrisks"
-    ],
-    "type": "News",
-    "companies": [
-      "Solar"
-    ],
-    "src": {
-      "t": "NDTV",
-      "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTklXeWpILWxMU1FWWm9CWDRUaUwyaXZMMnZSLTg5OWFVSDl5R1FObkVoemRNWThaWUtuMjJDQlZRVmMxOTN3aTJDWmlXOXlCNERRSEFmZGtLLUlDcTc5MmxEQ1VNZDF4c2d1NUF0SlZnRXdmcFZFYWpRRGg4SGFEMmJoeEkxUzNEeVJVdE01MUJFUXpMX0gyVzhleVhaWHNSNS1IY1FuWWR3OTlMRFBr0gG3AUFVX3lxTE5RLVJnZVFJOWZvOUVRa1VpNEZPb2hfeUY3bjFJNnkyWTBRWXBURzkxU3JvUmRoU3plVHdxLUNBVUNXcEZYZGpZVUZrUzNjMGdHazU1ZkVhLW9RYWcwSHlqb2IyUFY5YXltTzI3b3hYalFMbmFmOEl5b1E5R3pWRkdvcm53b3Blc1Y0ZWExSUpTa2ZnV2x3dzlNOGtFajB1VnF5MjJPRWVUZHEwX1FNaUhweTU0NnllWQ?oc=5",
-      "q": "news"
-    },
-    "addedAt": "2026-11-05T16:19:46.736Z",
-    "auto": true,
-    "orgs": [
-      "Solar"
-    ]
-  },
-  {
-    "id": "u-20261105-water-infrastructure-shifts-into-the-conflict-zone",
-    "d": "2026-11-05",
-    "title": "Water infrastructure shifts into the conflict zone crosshairs, says Unicef report",
-    "body": "Water infrastructure shifts into the conflict zone crosshairs, says Unicef report",
-    "why": "Regional conflicts and energy shocks directly translate into retail cost increases.",
-    "sectors": [
-      "geopoliticalsupplyrisks"
-    ],
-    "type": "News",
-    "companies": [],
-    "src": {
-      "t": "AOL.com",
-      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPblJRSVdBWDVQTXJWSjJHcFNSYTE5VWdEbTdHRnZzZkJLWDV4T2owMjZBNHBQTGdYNVExbi1La21qVlItektQRkpzSU9Qc0syYXhtbDRLS2dXNDhzMzk3anhaUEtyTVlQUXpxeTRpcjFhTW00TVdnSnoxcTh0UW0wbHo3ckdqUUtqR1FxU1BB?oc=5",
       "q": "news"
     },
     "addedAt": "2026-11-05T16:19:46.736Z",
@@ -580,26 +496,6 @@
       "OpenAI",
       "Supply Chain Software Development"
     ]
-  },
-  {
-    "id": "u-20261105-dropbox-plans-350m-ai-infrastructure-deal-with-tig",
-    "d": "2026-11-05",
-    "title": "Dropbox Plans $350M AI Infrastructure Deal With Tigris Buy, Its Biggest Acquisition Yet",
-    "body": "Dropbox Plans $350M AI Infrastructure Deal With Tigris Buy, Its Biggest Acquisition Yet",
-    "why": "Major deals often signal shifts in supply capability or new market access.",
-    "sectors": [
-      "strategicpartnershipsma"
-    ],
-    "type": "Strategic Partnership",
-    "companies": [],
-    "src": {
-      "t": "Crunchbase News",
-      "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdGUxQmtlemhyUldBTHFLdkx1b0FoMkNwSmRVeFNPVGktY05YZ19fa3MyUWFNN2NoeXZNNWxhenRVNXl1RUpHcmF4Q1ZKQS10WWctamRJUFhReWx1T3FUNTMtclI4cXlaWUhnY2pLRUZOcHI0NG03NV80N29jQnlRSDZ2Yw?oc=5",
-      "q": "news"
-    },
-    "addedAt": "2026-11-05T16:19:46.736Z",
-    "auto": true,
-    "orgs": []
   },
   {
     "id": "u-20261105-global-experience-specialists-announces-acquisitio",
@@ -758,26 +654,6 @@
     "orgs": []
   },
   {
-    "id": "u-20261105-england-s-energy-independence-bill-is-a-death-sent",
-    "d": "2026-11-05",
-    "title": "England’s Energy Independence Bill Is a Death Sentence to Their Domestic Production, and Increases Costs",
-    "body": "England’s Energy Independence Bill Is a Death Sentence to Their Domestic Production, and Increases Costs",
-    "why": "Shifts in regional sourcing strategies reveal where supply is becoming more volatile.",
-    "sectors": [
-      "regionalsupplychains"
-    ],
-    "type": "News",
-    "companies": [],
-    "src": {
-      "t": "Energy News Beat",
-      "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPN0N6bjZsdWNpZEFhTDlBMC1vMVB6dG1wSXBfd083Nk9WbHJQOVRKYS1IaFhSbFdGTTFkNWNEN0tDNVdWRmpydlhRbmRSN0MtSWVhWVIySUJJUDdfMVBqMnB0NUJsdU9fYnlHeGtzRFhISGpHdVBWcmx1TTN4MDQ0dUVDNk83WWd1Mk5iUUVhYVk5Mm5EcWZtWXV0YUhWbFBvYmhoR0VnMDhKSjljUmxNZWFUUkFUbUdLNnpZN1RVVlp2ZnFUWGYyUkF2ejVvbWN1Vnc5eERSNDFBZFgtSERSNGhkMA?oc=5",
-      "q": "news"
-    },
-    "addedAt": "2026-11-05T16:19:46.736Z",
-    "auto": true,
-    "orgs": []
-  },
-  {
     "id": "u-20261105-india-s-natural-gas-demand-to-decline-2-in-2026-de",
     "d": "2026-11-05",
     "title": "India's natural gas demand to decline 2% in 2026 despite 10% rise in LNG imports: IEA",
@@ -826,70 +702,6 @@
     ]
   },
   {
-    "id": "u-20261105-listings-slowdown-can-asx-50-s-rea-group-asx-rea-k",
-    "d": "2026-11-05",
-    "title": "Listings Slowdown: Can ASX 50's REA Group (ASX:REA) Keep Pricing Power?",
-    "body": "Listings Slowdown: Can ASX 50's REA Group (ASX:REA) Keep Pricing Power?",
-    "why": "Understanding retail strategy helps anticipate how supply shocks will be priced to consumers.",
-    "sectors": [
-      "retailstrategypricing"
-    ],
-    "type": "News",
-    "companies": [
-      "Group"
-    ],
-    "src": {
-      "t": "Kalkine Media",
-      "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONmJma3pNSmtjOXhtdmpBOEVxdVJNOENramJtaVlxYjdGQkYxTFZHaW9zcE9FVXdRZ3BpV0t0YTQ1NndIc3BBd20yaW1Bb05WdGt5bzU1MXJCaDU4MGlNMEpSNGlmX0R4NlRjUmE5QjR2enhzTWRTTWo2NEwxbmFEWHNiU2ZXZTZGOVBNSUdTdU5tT3hTVjVSeHFaeFIwUk1hN0lPa0FIVF9FVGc?oc=5",
-      "q": "news"
-    },
-    "addedAt": "2026-11-05T16:19:46.736Z",
-    "auto": true,
-    "orgs": [
-      "Group"
-    ]
-  },
-  {
-    "id": "u-20261105-shivagrico-implements-q2-fy27-margin-compression-d",
-    "d": "2026-11-05",
-    "title": "Shivagrico Implements Q2 FY27: Margin Compression Deepens Amid Persistent Profitability Challenges",
-    "body": "Shivagrico Implements Q2 FY27: Margin Compression Deepens Amid Persistent Profitability Challenges",
-    "why": "Understanding retail strategy helps anticipate how supply shocks will be priced to consumers.",
-    "sectors": [
-      "retailstrategypricing"
-    ],
-    "type": "News",
-    "companies": [],
-    "src": {
-      "t": "MarketsMojo",
-      "u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMDZacF9IZS1wTks2SjVudWM1NEtDTzhuYmMzS0pvVnczdHVGNWw1VEtOa3FfeEdhc0lNSmoxbzhmUkppZExQQS1sTUFUSS04cmdnd3l6MXNrNGZnNWxHdzkzeDdiS3kwdHZsRlN2X1NvR3RHV3Q0bnJxMzVkQXhTNl9EMUtHRWcxSnVIU0Jud2tLMXotWTktMXJ4bFF4V3ktMVhtOFNpdjZFejFzeFNNUWRINTIwejdXUUhxVXBhZFY1RnFmRlZka0hKemFuMkZ0bkFzbk1WSUJtT1JPVnFvbVFWUHBSdDVEV3c?oc=5",
-      "q": "news"
-    },
-    "addedAt": "2026-11-05T16:19:46.736Z",
-    "auto": true,
-    "orgs": []
-  },
-  {
-    "id": "u-20261105-e-l-f-beauty-growth-driven-by-innovation-not-just-",
-    "d": "2026-11-05",
-    "title": "E.l.f. Beauty growth driven by innovation, not just pricing power",
-    "body": "The company’s Q2 net sales jumped 51%, with industry analysts in awe of its go-to-market capabilities and Rhode brand strength.",
-    "why": "Understanding retail strategy helps anticipate how supply shocks will be priced to consumers.",
-    "sectors": [
-      "retailstrategypricing"
-    ],
-    "type": "News",
-    "companies": [],
-    "src": {
-      "t": "Retail Dive",
-      "u": "https://www.retaildive.com/news/elf-beauty-q2-earnings-sales-growth-innovation-pricing-power/873868/",
-      "q": "news"
-    },
-    "addedAt": "2026-11-05T17:17:02.208Z",
-    "auto": true,
-    "orgs": []
-  },
-  {
     "id": "u-20261105-u-s-rescinds-subsidy-duty-review-of-chinese-wood-m",
     "d": "2026-11-05",
     "title": "U.S. rescinds subsidy duty review of Chinese wood mouldings for 2025 imports",
@@ -903,52 +715,6 @@
     "src": {
       "t": "Lesprom Network",
       "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQU54MzNZaFRtQUQ3U2Z4RUpBQ3ZiMlFQQjFCVVd3YVU4ZzVpSUtRdlBPaGY2TGF2aUFlNDliMEJfTGxSWHJfZWhtQ1ljd2xSQnM2cVdfYzZsVVNIQTN6X08zNHlEcW1vSUVDd1M3dXZoaC10N1g2RkZoMEN6ZVg2bkh1MnJfbU1JcE0xUmJKa2VHang4MDlLd0FuZkZJOU9vTGNrWVhWQXEyc204ZkFxdDd5X2YyZw?oc=5",
-      "q": "news"
-    },
-    "addedAt": "2026-11-05T17:17:02.208Z",
-    "auto": true,
-    "orgs": []
-  },
-  {
-    "id": "u-20261105-the-pipeline-to-power-opportunity-how-natural-gas-",
-    "d": "2026-11-05",
-    "title": "The Pipeline-to-Power Opportunity: How Natural Gas Infrastructure Can Help Solve the Data Center Energy Crunch",
-    "body": "The Pipeline-to-Power Opportunity: How Natural Gas Infrastructure Can Help Solve the Data Center Energy Crunch",
-    "why": "Raw material price jumps are the root cause of retail margin erosion.",
-    "sectors": [
-      "commoditymarkets"
-    ],
-    "type": "Commodity Price Jump",
-    "companies": [
-      "Natural Gas Infrastructure",
-      "Data Center"
-    ],
-    "src": {
-      "t": "www.energytech.com",
-      "u": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNbHBsWHRTaEM5UzI1eWpyYXpsWnE3WGhWZ0hUOHo2UnVvZU1pbnI4RTcyVnBIZnJMNUFvbjFjeDVNRlVuNldQU2RpSy1nLXFvMTd5NW4xZ1RPczF3VDI0RGtPSHBFREh1a2o5QTBlTjFqdEg3Z256cEZIMkRCWlNlM2dtSnZzSnVqMjNWeTZadlJIdF9KajBHOHlrYml5MDA2SmZxMjJPLWpkeElVenJST3htTElyaEJuZjBXdmJJN09nR0VITjgyc0g5UkZYbHBIenhtaURIVXNHVVllZTZabS11Mzlyc3F6eHpSa0g2aVZLWWxZQ054X19HdEQ?oc=5",
-      "q": "news"
-    },
-    "addedAt": "2026-11-05T17:17:02.208Z",
-    "auto": true,
-    "orgs": [
-      "Natural Gas Infrastructure",
-      "Data Center"
-    ]
-  },
-  {
-    "id": "u-20261105-natural-gas-storage-levels-decline-signaling-risin",
-    "d": "2026-11-05",
-    "title": "Natural gas storage levels decline, signaling rising demand",
-    "body": "Natural gas storage levels decline, signaling rising demand",
-    "why": "Raw material price jumps are the root cause of retail margin erosion.",
-    "sectors": [
-      "commoditymarkets"
-    ],
-    "type": "Commodity Price Jump",
-    "companies": [],
-    "src": {
-      "t": "Investing.com",
-      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQWhDOXc2czM5OHU5OUpzaFRJR0VKbi1uTEN4VnE1VVJUaWN6bUtYaWRUWDJRems3MGlUQ25hUWxTWDBxc3BLUl95ZXZwWWhUam1PaFp6OXhQdG9kS1p2YlJyZEJSUmxDdk9mVGZPUS1EdzNac0V1VUhxNFlhTTBEaDR2VkdpTDg4UjgyRnBzUjJWSUVmWUVsSmxxR2lrREFGdC00RkNMRF9falBSbzdaU0NHQTBEVGJXZldSQlNqaw?oc=5",
       "q": "news"
     },
     "addedAt": "2026-11-05T17:17:02.208Z",
@@ -1345,26 +1111,6 @@
     ]
   },
   {
-    "id": "u-20261104-antero-resources-liquids-pricing-strength-offsets-",
-    "d": "2026-11-04",
-    "title": "Antero Resources: Liquids Pricing Strength Offsets Natural Gas Weakness (NYSE:AR)",
-    "body": "Antero Resources: Liquids Pricing Strength Offsets Natural Gas Weakness (NYSE:AR)",
-    "why": "Raw material price jumps are the root cause of retail margin erosion.",
-    "sectors": [
-      "commoditymarkets"
-    ],
-    "type": "Commodity Price Jump",
-    "companies": [],
-    "src": {
-      "t": "Seeking Alpha",
-      "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMHdYV2VpangyVjE3S3ZjQkxneHlnR05VbWI4a09VZFBDSVd5RWpWYjV4LVFMeXp1SXE1TWQ1SkFDQWFvZ3UwU1B0VHk2WVA1WmgyN2d3OG4tSEl4NDB3QWY3RzR5WWZMZmI0dHhSVnRETXMtZDJVYXBTbWYxa080VnFWNUZCWmNyRktIdTlVQXBzQllzdlVhdHVhQS1pRHg1RE5oOENYUEs1RmJRLWJQbg?oc=5",
-      "q": "news"
-    },
-    "addedAt": "2026-11-05T16:19:46.736Z",
-    "auto": true,
-    "orgs": []
-  },
-  {
     "id": "u-20261104-petrobras-keeps-natural-gas-prices-to-distributors",
     "d": "2026-11-04",
     "title": "Petrobras keeps natural gas prices to distributors unchanged",
@@ -1547,70 +1293,6 @@
     ]
   },
   {
-    "id": "u-20261104-inflation-is-running-above-3-these-3-dividend-stoc",
-    "d": "2026-11-04",
-    "title": "Inflation Is Running Above 3%. These 3 Dividend Stocks Have the Pricing Power to Keep Up.",
-    "body": "Inflation Is Running Above 3%. These 3 Dividend Stocks Have the Pricing Power to Keep Up.",
-    "why": "Understanding retail strategy helps anticipate how supply shocks will be priced to consumers.",
-    "sectors": [
-      "retailstrategypricing"
-    ],
-    "type": "News",
-    "companies": [],
-    "src": {
-      "t": "24/7 Wall St.",
-      "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbWdhT244NEw1aWpmTWFIYngtQXhMQ2FFWnhScjRtZnVkUEF0UVRJbmVSMmRFUmktdG8yQ1YwQV84UXZQblkwQkxWVjhwMVV4NmFzN01DSnF6MG5hSjhwd2JDc3dHd2FmWHVtZmx3RGlvYXVZTEFMYVpCVDM3UXk2c2NsZFg4eXJQbTIxOEVmSmQxa2lwREM4dWUwSk9ucTZxTDctclRSY05iMWQyYUk4WE52SUZpYjZ4NWZBYU96X3NuMFpVUm9TQ0Jn?oc=5",
-      "q": "news"
-    },
-    "addedAt": "2026-11-05T16:19:46.736Z",
-    "auto": true,
-    "orgs": []
-  },
-  {
-    "id": "u-20261104-news-lufthansa-cargo-rides-airfreight-pricing-powe",
-    "d": "2026-11-04",
-    "title": "News Lufthansa Cargo rides airfreight pricing power to stronger yields",
-    "body": "News Lufthansa Cargo rides airfreight pricing power to stronger yields",
-    "why": "Understanding retail strategy helps anticipate how supply shocks will be priced to consumers.",
-    "sectors": [
-      "retailstrategypricing"
-    ],
-    "type": "News",
-    "companies": [
-      "News Lufthansa Cargo"
-    ],
-    "src": {
-      "t": "The Loadstar",
-      "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbTVlTmRENUZ6R01yaTlfTXVFblRINlVDb1I1ZEI3T3Z1Z05ZbTJMM0RvN000Y1hhaF9xOFFDTWxVQ2FLaFgxNklUOXBwMHFTX3JQSjZHby16NFRnLW44bjVjLS1udHVRLVF6VWk1Y2NFRFNNeGNBOGpoX2lKRDMydDJ3VWtwRFZhYkpqRlo1RjBWUG5M?oc=5",
-      "q": "news"
-    },
-    "addedAt": "2026-11-05T16:19:46.736Z",
-    "auto": true,
-    "orgs": [
-      "News Lufthansa Cargo"
-    ]
-  },
-  {
-    "id": "u-20261104-saia-q3-2026-service-gains-are-driving-pricing-pow",
-    "d": "2026-11-04",
-    "title": "Saia Q3 2026: Service Gains Are Driving Pricing Power",
-    "body": "Saia Q3 2026: Service Gains Are Driving Pricing Power",
-    "why": "Understanding retail strategy helps anticipate how supply shocks will be priced to consumers.",
-    "sectors": [
-      "retailstrategypricing"
-    ],
-    "type": "News",
-    "companies": [],
-    "src": {
-      "t": "Commercial Carrier Journal",
-      "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPT0NEYVJTQjZDNE91eWUwYjBCNFNRMTBKMF9qU3lFeS1pMC1xYVpWZGFtanhHa0dpODBaN1dFRXpVV2I5dWJpZmxjdHNqY0d3eDZWU08ySW5RWmhOeW54UlUyZlNLX3BfcHRlZTVuUzhWeGpUM3Nja2VvNUVTUnZCMHM1eHlTUWZfNjFpMXJXSUxPSmd2ZkkxS3ltNWliY0p2M3p3TGVnQXZ2MU9I?oc=5",
-      "q": "news"
-    },
-    "addedAt": "2026-11-05T16:19:46.736Z",
-    "auto": true,
-    "orgs": []
-  },
-  {
     "id": "u-20261104-how-samsung-built-a-smarter-retail-strategy",
     "d": "2026-11-04",
     "title": "How Samsung built a smarter retail strategy",
@@ -1632,30 +1314,6 @@
     "auto": true,
     "orgs": [
       "Samsung"
-    ]
-  },
-  {
-    "id": "u-20261104-latam-airlines-shares-rise-on-pricing-power-strate",
-    "d": "2026-11-04",
-    "title": "Latam Airlines shares rise on pricing power strategy",
-    "body": "Latam Airlines shares rise on pricing power strategy",
-    "why": "Understanding retail strategy helps anticipate how supply shocks will be priced to consumers.",
-    "sectors": [
-      "retailstrategypricing"
-    ],
-    "type": "News",
-    "companies": [
-      "Latam Airlines"
-    ],
-    "src": {
-      "t": "Investing.com",
-      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVVhLM1RlRUJNdk1KeGlWSzN2VWVCalZ1NjZHWVFpalFfRlFpbV94OXRJNGE5QkJianRjQXcwbUZEOGN5amFPWDlfSzdYbXY0VzN3YmlTcEdhel9EdDRPc0ZNZEFXZmhaYzU3VF92amhWTXZLY3ZyLW1PSHZqOW10ZjFRc2FkZUNVbUlQNFJ3Y0w5TVZQV2pwS2I5aVNWT251eHNOOThxenNITWxKdUVKR2l2UHE?oc=5",
-      "q": "news"
-    },
-    "addedAt": "2026-11-05T16:19:46.736Z",
-    "auto": true,
-    "orgs": [
-      "Latam Airlines"
     ]
   },
   {
@@ -1709,30 +1367,6 @@
     ]
   },
   {
-    "id": "u-20261104-huawei-s-driver-assist-tech-is-no-longer-scarce-an",
-    "d": "2026-11-04",
-    "title": "Huawei's driver-assist tech is no longer scarce, and Chinese automakers are pushing in-house systems to reclaim pricing power",
-    "body": "Huawei's driver-assist tech is no longer scarce, and Chinese automakers are pushing in-house systems to reclaim pricing power",
-    "why": "Understanding retail strategy helps anticipate how supply shocks will be priced to consumers.",
-    "sectors": [
-      "retailstrategypricing"
-    ],
-    "type": "News",
-    "companies": [
-      "Huawei"
-    ],
-    "src": {
-      "t": "BigGo Finance",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LMUhuZDhfWjFXUHZiZ1h0TDRlU3Y0eGlyUUQ3LUNQQmlicmQyRHhxRUFkRmlhSXdvYllPRjE1V0JweW5DU3NlVmQ0czE5V24tVHdRRkxXTG9uaEtLM0pkdnpndlZ5dHZPdEJaOEVjX0tHcDlnR2c?oc=5",
-      "q": "news"
-    },
-    "addedAt": "2026-11-05T16:19:46.736Z",
-    "auto": true,
-    "orgs": [
-      "Huawei"
-    ]
-  },
-  {
     "id": "u-20261104-what-is-driving-macy-s-nyse-m-latest-retail-strate",
     "d": "2026-11-04",
     "title": "What Is Driving Macy’s (NYSE:M) Latest Retail Strategy?",
@@ -1746,46 +1380,6 @@
     "src": {
       "t": "Kalkine Media",
       "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMnlVQ2RpdnAxZXV4ZFFRLXoybVdXcUlwaTNNa3R2dWgxNy14cjJzZ3Utb0dhZERTMUdZMDRSb19UUGZrNkFkc1g0Qkg2dnVKSUtvbjROTUsyWTFKZ0ZVZ3ptYmhxbmFxa0NfWm1tWkZzRUllVXEtcDhieWNxSTktOEIxQ0hkbjBMMmxpaFlqb25WMFA5TDhB?oc=5",
-      "q": "news"
-    },
-    "addedAt": "2026-11-05T16:19:46.736Z",
-    "auto": true,
-    "orgs": []
-  },
-  {
-    "id": "u-20261104-3-dividend-stocks-with-pricing-power-keep-up-wi",
-    "d": "2026-11-04",
-    "title": "3 dividend stocks with pricing power keep up wi...",
-    "body": "3 dividend stocks with pricing power keep up wi...",
-    "why": "Understanding retail strategy helps anticipate how supply shocks will be priced to consumers.",
-    "sectors": [
-      "retailstrategypricing"
-    ],
-    "type": "News",
-    "companies": [],
-    "src": {
-      "t": "Pluang",
-      "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV1lzQ1ZmWHVvdFc3OWdfeEJVdVVMbUlXRDhEeVVBM3UzYmFDYmlrNDVGcktyVzIzcnI0eFNsS1hSUHJZXzNMelBwMVZxWV96RXZQckg2Zm9vWUxxMllLdVNTbmgtV0IxSGFudXhvckNXQWhWWEphTnJTQmNweDlTM05MUXdQVlB6TG9kYlQxXzJOOHgwUloyZ2hpaWNvSVByWURBdlhUQQ?oc=5",
-      "q": "news"
-    },
-    "addedAt": "2026-11-05T16:19:46.736Z",
-    "auto": true,
-    "orgs": []
-  },
-  {
-    "id": "u-20261104-micron-s-slide-is-a-bet-on-tomorrow-s-pricing-powe",
-    "d": "2026-11-04",
-    "title": "Micron's Slide Is a Bet on Tomorrow's Pricing Power, Not Today's Balance Sheet",
-    "body": "Micron's Slide Is a Bet on Tomorrow's Pricing Power, Not Today's Balance Sheet",
-    "why": "Understanding retail strategy helps anticipate how supply shocks will be priced to consumers.",
-    "sectors": [
-      "retailstrategypricing"
-    ],
-    "type": "News",
-    "companies": [],
-    "src": {
-      "t": "ad-hoc-news.de",
-      "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTTNxZnZ5RVF4OWdVa2VNdnJnRnFGS0R5RjQ3aTdwNTZ1MmZ6MHFiR3VXWXp6VEFncmNmZnAxT1o5RU9JTG1NSlM0N1Z3bGVObzNrR3BsVjZITFJOTmhkOUsxMFZhTWx0UGJIMXJOaUZqZW5XWFZHTlNjZ1dSNlpiMFhGYnllMW41czdQQXpBcWJaMy1NX0NObTh0dkNGZDRZZVBjOWhOMFVOeVhGYzNnZVNyZzEyc0pOWVpmUVNUTFE3cFl6enQ0T0tjZDdDbjdDOU9yM0RhNUhSYXFqQ0ctWFZiRQ?oc=5",
       "q": "news"
     },
     "addedAt": "2026-11-05T16:19:46.736Z",
@@ -2015,26 +1609,6 @@
     "orgs": []
   },
   {
-    "id": "u-20261103-lackluster-demand-sends-natural-gas-cash-prices-tu",
-    "d": "2026-11-03",
-    "title": "Lackluster Demand Sends Natural Gas Cash Prices Tumbling",
-    "body": "Lackluster Demand Sends Natural Gas Cash Prices Tumbling",
-    "why": "Raw material price jumps are the root cause of retail margin erosion.",
-    "sectors": [
-      "commoditymarkets"
-    ],
-    "type": "Commodity Price Jump",
-    "companies": [],
-    "src": {
-      "t": "Natural Gas Intelligence",
-      "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYWU0bHN3aDBHRmVhTzM2QXlCOXpMeWdVX2hHTERHTFBOSUlTanVSaGY5S3FWV1FXUGxnQVc5VXhBYXk4MlFKLTJEMGUwSkVwVHpVeGRCakpXaU5XQVEyMndxYjBMdjZLYWd1ZnB0TlVBYXFiU2FwZE04U01McHo0VVFXMmdFazBRbmhtV1lNMm1KRUFE?oc=5",
-      "q": "news"
-    },
-    "addedAt": "2026-11-05T16:19:46.736Z",
-    "auto": true,
-    "orgs": []
-  },
-  {
     "id": "u-20261103-goldman-lifts-natural-gas-price-forecasts-on-suppl",
     "d": "2026-11-03",
     "title": "Goldman lifts natural gas price forecasts on supply, weather uncertainty",
@@ -2082,32 +1656,6 @@
     "orgs": [
       "TotalEnergies",
       "ADNOC Gas"
-    ]
-  },
-  {
-    "id": "u-20261103-amdocs-enters-the-insurance-industry-through-the-a",
-    "d": "2026-11-03",
-    "title": "Amdocs Enters the Insurance Industry Through the Acquisition of EIS, Opening a Strategic Growth Opportunity",
-    "body": "Amdocs Enters the Insurance Industry Through the Acquisition of EIS, Opening a Strategic Growth Opportunity",
-    "why": "Major deals often signal shifts in supply capability or new market access.",
-    "sectors": [
-      "strategicpartnershipsma"
-    ],
-    "type": "Strategic Partnership",
-    "companies": [
-      "Amdocs",
-      "Insurance Industry"
-    ],
-    "src": {
-      "t": "Yahoo Finance",
-      "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeENINUFuR2MzTkNZRjRpeXdGUFBwYWdtRDNFQWpvbmNxWkxuNHlEaHltRzJfVTRXQnduWEwzWnhyLUk1eFFJbHN4dGxNb09aT01PcEh0RzIyVUtlT01IZ1ZaUWp5ZE1WSkxPVUNEcEVxRVFOU0dvVl9KNVRFeTljY2VlQUhHcFItUWxsYzVGcmg3VXNuRDVWVmVobnJZSXFSYjQ1TXhFNEdqWWZh?oc=5",
-      "q": "news"
-    },
-    "addedAt": "2026-11-05T16:19:46.736Z",
-    "auto": true,
-    "orgs": [
-      "Amdocs",
-      "Insurance Industry"
     ]
   },
   {
@@ -2215,172 +1763,6 @@
     "orgs": []
   },
   {
-    "id": "u-20261103-coca-cola-is-exercising-its-pricing-power-as-infla",
-    "d": "2026-11-03",
-    "title": "Coca-Cola Is Exercising its Pricing Power as Inflation Persists",
-    "body": "Coca-Cola Is Exercising its Pricing Power as Inflation Persists",
-    "why": "Understanding retail strategy helps anticipate how supply shocks will be priced to consumers.",
-    "sectors": [
-      "retailstrategypricing"
-    ],
-    "type": "News",
-    "companies": [
-      "Coca-Cola"
-    ],
-    "src": {
-      "t": "The Motley Fool",
-      "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZHd2RzFyNm9TUlhxQXVDQWtfcFBab2o0dThIX0ptWkg1ZlRfTFBNNXRjMWgwdFJXM0NCdGdoRnBrVVd2Q1FibTZMWjJBekxDOFlFN3AwUVFweUV1YjI1WTQxZktwdG96QXFPdjRBNnVybExIOVh4ajZTZkhLOEtSbFhSRlIyRTJfX3JMWDJWREI3U3k4RTRQSFItM0xEMWU2QUVXcmhTUjJvQQ?oc=5",
-      "q": "news"
-    },
-    "addedAt": "2026-11-05T16:19:46.736Z",
-    "auto": true,
-    "orgs": [
-      "Coca-Cola"
-    ]
-  },
-  {
-    "id": "u-20261103-record-3-lng-contraction-hands-winter-pricing-powe",
-    "d": "2026-11-03",
-    "title": "Record 3% LNG Contraction Hands Winter Pricing Power to Flexible Cargoes",
-    "body": "Record 3% LNG Contraction Hands Winter Pricing Power to Flexible Cargoes",
-    "why": "Understanding retail strategy helps anticipate how supply shocks will be priced to consumers.",
-    "sectors": [
-      "retailstrategypricing"
-    ],
-    "type": "News",
-    "companies": [],
-    "src": {
-      "t": "Crux Investor",
-      "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcFdENnBOczBsczdCeEVnZWRHenV4SFJkMjFaUzQtV1piRDZDa1pmY1hmbjlvTWV4TXZCVExmdkF3aVRYaHN3aTI5c0dQdVNkR3NtREVPai1Ba2ZPQnZqelZmUmE3OUNlU1ZqLXUweUtZcGUzdWVPWm1yX3IxVDlhMkpjNjhEcG1lNVVudFM1Ui1JTEZRdklITlotZEFEd3V2QklXajkwcmV2Zw?oc=5",
-      "q": "news"
-    },
-    "addedAt": "2026-11-05T16:19:46.736Z",
-    "auto": true,
-    "orgs": []
-  },
-  {
-    "id": "u-20261103-japan-tobacco-stock-and-two-japanese-staples-with-",
-    "d": "2026-11-03",
-    "title": "Japan Tobacco Stock And Two Japanese Staples With Real Pricing Power",
-    "body": "Japan Tobacco Stock And Two Japanese Staples With Real Pricing Power",
-    "why": "Understanding retail strategy helps anticipate how supply shocks will be priced to consumers.",
-    "sectors": [
-      "retailstrategypricing"
-    ],
-    "type": "News",
-    "companies": [
-      "Japan"
-    ],
-    "src": {
-      "t": "Yahoo Finance",
-      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWUVSZWFNc2xRaDd2dHRod3gzNWtrMlR2QVRscTJDOXdSVEVDTThxbjlxZ2hEUFZNSzlzd09KMVJoc05oMDZ4d3hPRjk4T0VMVEZHclkxSTc1SmVoSnpCci1HTmpTdXdSbVVINHg0cjRIV01sbkNjVFptcDRpTFNZWlk4VmwyWHZIeDFXd214dlNxR3FFUlRwZDJNUWN0Zw?oc=5",
-      "q": "news"
-    },
-    "addedAt": "2026-11-05T16:19:46.736Z",
-    "auto": true,
-    "orgs": [
-      "Japan"
-    ]
-  },
-  {
-    "id": "u-20261103-warner-music-group-pricing-power-is-proven-catalog",
-    "d": "2026-11-03",
-    "title": "Warner Music Group: Pricing Power Is Proven, Catalog Returns Are Not (NASDAQ:WMG)",
-    "body": "Warner Music Group: Pricing Power Is Proven, Catalog Returns Are Not (NASDAQ:WMG)",
-    "why": "Understanding retail strategy helps anticipate how supply shocks will be priced to consumers.",
-    "sectors": [
-      "retailstrategypricing"
-    ],
-    "type": "News",
-    "companies": [
-      "Warner Music Group"
-    ],
-    "src": {
-      "t": "Seeking Alpha",
-      "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdWJyMTB4LUxxWHg0cjBSdjl6aGk2cVhkbzZfelp5bWx6T3pxTDFSaWJ4QUhBQmg4eEFDNU1MQjZrb2djM2JOX1pRaTFQdmZIZVVsMDduUllldF9QUFd6eE5LaXQ2UUliUTVqX090ZGhHTmlWcEI2dW84TXNMQk8yM0ZLU3d4all0REpqT21NWExTSkg4R1pLRDRvNlpWejZtVGVTanFXRU0yZVU?oc=5",
-      "q": "news"
-    },
-    "addedAt": "2026-11-05T16:19:46.736Z",
-    "auto": true,
-    "orgs": [
-      "Warner Music Group"
-    ]
-  },
-  {
-    "id": "u-20261103-apple-s-margin-problem-is-micron-s-pricing-power-w",
-    "d": "2026-11-03",
-    "title": "Apple's Margin Problem Is Micron's Pricing Power: Why Memory Stocks Are Bouncing Today",
-    "body": "Apple's Margin Problem Is Micron's Pricing Power: Why Memory Stocks Are Bouncing Today",
-    "why": "Understanding retail strategy helps anticipate how supply shocks will be priced to consumers.",
-    "sectors": [
-      "retailstrategypricing"
-    ],
-    "type": "News",
-    "companies": [
-      "Apple",
-      "Micron"
-    ],
-    "src": {
-      "t": "Benzinga",
-      "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTmVaWUM3UUp6LUVlb252OUhPd29BVWt1eDZ3VTZPUXZITnV0SjVCSGhMMGtHWk5qaTBSVnVKWWUycC1KQkJZLVh6SF9oSGpBclJoWjFEZ3pyS1FGZ2dLN1VaVEpWZ1hJUXhkTEtpNnFRZTViX25PaTktbnhLLWJRMGtYRGFEbjNxd3FycmR1SEZRaS1mbWJ3NVp5OVNyM0dldzNrczBjZ0cxbFpv?oc=5",
-      "q": "news"
-    },
-    "addedAt": "2026-11-05T16:19:46.736Z",
-    "auto": true,
-    "orgs": [
-      "Apple",
-      "Micron"
-    ]
-  },
-  {
-    "id": "u-20261103-geberit-ag-gberf-q3-2026-earnings-call-highlights-",
-    "d": "2026-11-03",
-    "title": "Geberit AG (GBERF) (Q3 2026) Earnings Call Highlights: Strong Sales Growth and Pricing Power ...",
-    "body": "Geberit AG (GBERF) (Q3 2026) Earnings Call Highlights: Strong Sales Growth and Pricing Power ...",
-    "why": "Understanding retail strategy helps anticipate how supply shocks will be priced to consumers.",
-    "sectors": [
-      "retailstrategypricing"
-    ],
-    "type": "News",
-    "companies": [
-      "Geberit AG"
-    ],
-    "src": {
-      "t": "Yahoo Finance",
-      "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaGhtT2lRemhXYXNjMFp6MlY0bXlIRV92WTJUSHE2dE9oZU9rU3B6R3pSY3pIZzRKOVc5ZXRTekZrd2xvaGVESmpseXJ2ZUIzVkduQ0ZHSUFiamF3eTViaERJQzFqN0p4X3NkZXVOQUNEU0R3TE94bHdMaDhkbm1OR1NLMEw3S0pIajBERUMtQlotRkE?oc=5",
-      "q": "news"
-    },
-    "addedAt": "2026-11-05T16:19:46.736Z",
-    "auto": true,
-    "orgs": [
-      "Geberit AG"
-    ]
-  },
-  {
-    "id": "u-20261103-martin-marietta-earnings-in-focus-as-pricing-power",
-    "d": "2026-11-03",
-    "title": "Martin Marietta earnings in focus as pricing power faces test",
-    "body": "Martin Marietta earnings in focus as pricing power faces test",
-    "why": "Understanding retail strategy helps anticipate how supply shocks will be priced to consumers.",
-    "sectors": [
-      "retailstrategypricing"
-    ],
-    "type": "News",
-    "companies": [
-      "Martin Marietta"
-    ],
-    "src": {
-      "t": "Investing.com",
-      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTHZLZGFzcGpHVldBaFk5ME10M21JMllQMlIwcVpEZDNXN0VwdFVaUXc3Q3ZOampMTTZVakN6RGVLci1FVjQwWDU5SmR4NlJqR25YVzhXT2N6NzN3bUdHaktBVFE1YW5xdUNMZlpXZmtqMlZQck04WHljYjVpUGtFU0FRNmI4VmNzQ2ZVSG9YbDVqdFRodFZUbjliV2Z0czFNUXYyZ2NiTmhxM3J4VlZVSzFjbDg?oc=5",
-      "q": "news"
-    },
-    "addedAt": "2026-11-05T16:19:46.736Z",
-    "auto": true,
-    "orgs": [
-      "Martin Marietta"
-    ]
-  },
-  {
     "id": "u-20261103-why-is-best-buy-nyse-bby-expanding-its-digital-ret",
     "d": "2026-11-03",
     "title": "Why Is Best Buy (NYSE:BBY) Expanding Its Digital Retail Strategy?",
@@ -2394,50 +1776,6 @@
     "src": {
       "t": "Kalkine Media",
       "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaG40YzBSNllrRFlsbUhzNHFkcUh0bXNjVlVBcUQzeWxYLXNfQlFoWnJZMzlxOHlpWXVwQU1ITnFTUzhWVjh2ZFd1d3d6Vm9hYnFGSi13MFZ5TnNLU2hpN1NsWWcyVGZyYll6NXJaT1NBVzQzN2lOWVF5eVdIZUdmMkYxWDJuVC1oUkpJM0MyeUQzRmx2NEEwWDJwWGpuU3FIekxDLXZB?oc=5",
-      "q": "news"
-    },
-    "addedAt": "2026-11-05T16:19:46.736Z",
-    "auto": true,
-    "orgs": []
-  },
-  {
-    "id": "u-20261103-coca-cola-europacific-partners-asx-ccl-can-pricing",
-    "d": "2026-11-03",
-    "title": "Coca-Cola Europacific Partners (ASX:CCL): Can Pricing Power Protect Volumes?",
-    "body": "Coca-Cola Europacific Partners (ASX:CCL): Can Pricing Power Protect Volumes?",
-    "why": "Understanding retail strategy helps anticipate how supply shocks will be priced to consumers.",
-    "sectors": [
-      "retailstrategypricing"
-    ],
-    "type": "News",
-    "companies": [
-      "Coca-Cola Europacific Partners"
-    ],
-    "src": {
-      "t": "Kalkine Media",
-      "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQVRHSVJva0ZUWmtOY1VabF9mTUtiWm5mNWFMUmNVaUdIZkdmTi13MnpoMFFVazVSblNxd2trWlZHNldyNkdCUVdnb1JZc3QxdFlxdF9VWUFjNHlWSHA0TU1vZGQ5YnBWTHh4MjItOFdEZWgydW9ZTkhaZWttNFRjX0Fpd2JxZXBOLVZMdnBOMWhfN0laZWUtWmtmRXFKMDlDS29nVjZWMEpDcjNvem1JbERfbHR2QQ?oc=5",
-      "q": "news"
-    },
-    "addedAt": "2026-11-05T16:19:46.736Z",
-    "auto": true,
-    "orgs": [
-      "Coca-Cola Europacific Partners"
-    ]
-  },
-  {
-    "id": "u-20261103-brambles-asx-bxb-can-pricing-power-keep-this-asx-2",
-    "d": "2026-11-03",
-    "title": "Brambles (ASX:BXB): Can Pricing Power Keep This ASX 200 Stock Moving?",
-    "body": "Brambles (ASX:BXB): Can Pricing Power Keep This ASX 200 Stock Moving?",
-    "why": "Understanding retail strategy helps anticipate how supply shocks will be priced to consumers.",
-    "sectors": [
-      "retailstrategypricing"
-    ],
-    "type": "News",
-    "companies": [],
-    "src": {
-      "t": "Kalkine Media",
-      "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYTliak1uMGVtQWduQXZPTDMtai1vVlFhZGlVaFBwQ25HWWI2M2R1OFpKWUtBM0dyZVQwQV9tWF9VbXd6WnNaazdpc1JSVmtyeDZDdDl3YmRrM0FNTXowVktjY2dERlUySnRQNDJ2eEZFcWFfZXZVWVFxSklLNF9pVndDRGo5X3l3ZHk3QTYwT29DWjdHUTI2RzFxdjFLMVI4S0lZNEVTQl95NGc2VXBn?oc=5",
       "q": "news"
     },
     "addedAt": "2026-11-05T16:19:46.736Z",
@@ -2620,30 +1958,6 @@
     "orgs": []
   },
   {
-    "id": "u-20261102-major-food-importer-cuts-annual-demurrage-and-dete",
-    "d": "2026-11-02",
-    "title": "Major food importer cuts annual demurrage and detention costs from $1.3 million to near zero with Beacon",
-    "body": "Major food importer cuts annual demurrage and detention costs from $1.3 million to near zero with Beacon",
-    "why": "Sudden rate spikes or port bottlenecks are the earliest warning signs of shelf shortages.",
-    "sectors": [
-      "logisticsfreightrates"
-    ],
-    "type": "Freight Rate Spike",
-    "companies": [
-      "Beacon"
-    ],
-    "src": {
-      "t": "The Loadstar",
-      "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbXJMWkZCMHprQ1Q5S0xDVm9ZaXVwVlNzWk9Tc3lMLWM4bFl3S0NrX016MFoyd3V6RkhfeXVKVFZDbTg0aHZORjl6NXQ3aHh5Z1FadWF5MWw2RHBVY2RMNk52NGdnV1h5Y0pNS0FyNFpYOXJPZVBUd1MyUmFMLTNtZHVVWGhVYWxva1RCTGJ2czI1c1ZBVE5wVEF0cTk1eGVwa3JpZmdCWVFVZWpNNUJwakQ1OFY1ZEdFc1lWWlZQS2VBOXV5dENwQ0w4NFpoa1NnVXdDaUtKcTNldkZxaWc?oc=5",
-      "q": "news"
-    },
-    "addedAt": "2026-11-05T16:19:46.736Z",
-    "auto": true,
-    "orgs": [
-      "Beacon"
-    ]
-  },
-  {
     "id": "u-20261102-port-congestion-costs-shipping-lines-millions-of-d",
     "d": "2026-11-02",
     "title": "Port congestion costs shipping lines millions of dollars in vessel delays – SOAAG executive",
@@ -2713,34 +2027,6 @@
     "addedAt": "2026-11-05T16:19:46.736Z",
     "auto": true,
     "orgs": []
-  },
-  {
-    "id": "u-20261102-ai-power-demand-energy-crisis-push-global-nuclear-",
-    "d": "2026-11-02",
-    "title": "AI Power Demand, Energy Crisis Push Global Nuclear Construction to 40-Year High",
-    "body": "AI Power Demand, Energy Crisis Push Global Nuclear Construction to 40-Year High",
-    "why": "Regional conflicts and energy shocks directly translate into retail cost increases.",
-    "sectors": [
-      "geopoliticalsupplyrisks"
-    ],
-    "type": "News",
-    "companies": [
-      "AI Power Demand",
-      "Energy",
-      "Nuclear Construction"
-    ],
-    "src": {
-      "t": "아시아경제",
-      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBFYmlYVW85cVNDNHd1QjJRQkpLcEc1enJaN1pXT1Fva3dFYVppZVB4UmxTWUFKMHUtZWZFMXBaQU9UdEJDZzFCQTA5Ql9HU19wTmJ1RzhTMmVFWXlJLUk4ZVd4WGpGZmVUZzN4X01Pb1YyVFJEU0lR?oc=5",
-      "q": "news"
-    },
-    "addedAt": "2026-11-05T16:19:46.736Z",
-    "auto": true,
-    "orgs": [
-      "AI Power Demand",
-      "Energy",
-      "Nuclear Construction"
-    ]
   },
   {
     "id": "u-20261102-the-world-has-eroded-its-supply-buffers-adnoc-chie",
@@ -2952,202 +2238,6 @@
     "orgs": []
   },
   {
-    "id": "u-20261102-align-technology-q3-results-expose-weak-pricing-po",
-    "d": "2026-11-02",
-    "title": "Align Technology: Q3 Results Expose Weak Pricing Power Amidst Declining Market Share",
-    "body": "Align Technology: Q3 Results Expose Weak Pricing Power Amidst Declining Market Share",
-    "why": "Understanding retail strategy helps anticipate how supply shocks will be priced to consumers.",
-    "sectors": [
-      "retailstrategypricing"
-    ],
-    "type": "News",
-    "companies": [],
-    "src": {
-      "t": "Seeking Alpha",
-      "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbGxkTS1jcWo0MGdfM1ljNlRNeGFoZ241dldSV1JnbUNEa2RCX3d2SEdsMHhoZzB6YzVaWlY3WFBrYWVuQTNpUWphSVJ5SHJxUXdPSEJ1NGpRS2hvYlhZSlZHMm42UW9Yc25PN2NXcHFfWWNTOFVEYTZ3TWRRZTBOYVdRcVlKSWRaY3ZNWElwZWR3NEluODFYSTduaGRYNDJ2RjJWbjJGNHZ0VGdCOGxaUEFfWk5STjhCQjMyTTJfU2NsQQ?oc=5",
-      "q": "news"
-    },
-    "addedAt": "2026-11-05T16:19:46.736Z",
-    "auto": true,
-    "orgs": []
-  },
-  {
-    "id": "u-20261102-ferrari-in-the-spotlight-can-pricing-power-offset-",
-    "d": "2026-11-02",
-    "title": "Ferrari in the spotlight: Can pricing power offset volume slide?",
-    "body": "Ferrari in the spotlight: Can pricing power offset volume slide?",
-    "why": "Understanding retail strategy helps anticipate how supply shocks will be priced to consumers.",
-    "sectors": [
-      "retailstrategypricing"
-    ],
-    "type": "News",
-    "companies": [
-      "Ferrari"
-    ],
-    "src": {
-      "t": "Investing.com",
-      "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ0ZZWXlYRnZxYW5MOHNYNU04b1pudjFHclgydU16QkhsajFiZnFDejZQZDZTOGRJdm94NEJPckRXWFpraEszOTVrLVQ5bVhaeEphRUlFeWQtZ1NxTTdRVnJwLXFBbzJUcWZNcGthVUJaWWZYUU03RkpWNXNFVmFHNUhhMGMyc3NuVkZMSUZrUFF6cEUwNzFmd1FTVGRORmNnekU3cUNob1VTYU40Njk2cHFGdnlNQQ?oc=5",
-      "q": "news"
-    },
-    "addedAt": "2026-11-05T16:19:46.736Z",
-    "auto": true,
-    "orgs": [
-      "Ferrari"
-    ]
-  },
-  {
-    "id": "u-20261102-japan-airlines-pricing-power-and-non-aviation-grow",
-    "d": "2026-11-02",
-    "title": "Japan Airlines: Pricing power and non-aviation growth offset fuel pressure; FY26 guidance remains on track",
-    "body": "Japan Airlines: Pricing power and non-aviation growth offset fuel pressure; FY26 guidance remains on track",
-    "why": "Understanding retail strategy helps anticipate how supply shocks will be priced to consumers.",
-    "sectors": [
-      "retailstrategypricing"
-    ],
-    "type": "News",
-    "companies": [
-      "Japan Airlines"
-    ],
-    "src": {
-      "t": "TradingView",
-      "u": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNVnpjSHZIQ3c1R3BETHlDX3IwbVZuNlRNbHl0MTE3RjFBT3ZtWGtMTzJrVWNaQXJ0MnVfc2hxT1dSajYzNktDdDBaQnU2Skc4UEFyOGx2c2VLekkwQVVxYlVQV0tzWGlrNnYzLWhaUGN0NlNZQUh6dmhsV0VjeFB3UzM1YzRoaXVhYVU1WjM0OEZKMUNqY01EeXNuRk5tc3ZUbGtyTVRMNG00T2xibWdXcXhWSEt1cW45MEF6cUtPZVl3Y2c2eE1nTVp6UzhaVkoxZ3RkSEpCTmJfQzctd2xRTno1V2c1SWpOdTdwTFlHMlBUNlhZTVV3OWticExUWDNqaTFyOVBoRGZpc2k5N1FGdnRuWnhMUQ?oc=5",
-      "q": "news"
-    },
-    "addedAt": "2026-11-05T16:19:46.736Z",
-    "auto": true,
-    "orgs": [
-      "Japan Airlines"
-    ]
-  },
-  {
-    "id": "u-20261102-can-gfl-environmental-tsx-gfl-turn-pricing-power-i",
-    "d": "2026-11-02",
-    "title": "Can GFL Environmental (TSX:GFL) Turn Pricing Power Into Growth?",
-    "body": "Can GFL Environmental (TSX:GFL) Turn Pricing Power Into Growth?",
-    "why": "Understanding retail strategy helps anticipate how supply shocks will be priced to consumers.",
-    "sectors": [
-      "retailstrategypricing"
-    ],
-    "type": "News",
-    "companies": [
-      "GFL Environmental"
-    ],
-    "src": {
-      "t": "Kalkine Media",
-      "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb0RQWkoyN0hGNk9Yai1uTjBuSmUxMC1KZUF5b0hfblNvR3NhMVZnY1VOMjU3ZnFkeFltSlVrWU5SWjZaWmdRMGdmcXZncW9QLXg3Tm5femZCZjdMd2hnUTBNZ0hseHVXdmVEdlZiN3otbi1SSnZhVDRnSTBzbWVyaG5VMzBxN1UtSElWNF82Rk9raEo1aU1sSm84a2RnLTVXMnl3?oc=5",
-      "q": "news"
-    },
-    "addedAt": "2026-11-05T16:19:46.736Z",
-    "auto": true,
-    "orgs": [
-      "GFL Environmental"
-    ]
-  },
-  {
-    "id": "u-20261102-broadcom-shows-strong-pricing-power-and-secures-ke",
-    "d": "2026-11-02",
-    "title": "Broadcom shows strong pricing power and secures key TSMC capacity, easing market concerns over TPU chip deals.",
-    "body": "Broadcom shows strong pricing power and secures key TSMC capacity, easing market concerns over TPU chip deals.",
-    "why": "Understanding retail strategy helps anticipate how supply shocks will be priced to consumers.",
-    "sectors": [
-      "retailstrategypricing"
-    ],
-    "type": "News",
-    "companies": [
-      "Broadcom",
-      "TSMC"
-    ],
-    "src": {
-      "t": "Pluang",
-      "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMC1Sb3Q4S3lPVC1HNHlNaVF3VjJrWTNONlpXak5sRzFreF9lVjdkSGtHN25mOWthQ241dWpVNEFvX3RuSF8yOHpmMXo4SXZIdi0wbFZyVmhEZzYtbno3VUhhTkQyM0E0elUxVjZRZUs2bVgyREFQNmlNWWNaWlBvQ0RtcW5qR0RSSl9RZDl6cUgtVFk?oc=5",
-      "q": "news"
-    },
-    "addedAt": "2026-11-05T16:19:46.736Z",
-    "auto": true,
-    "orgs": [
-      "Broadcom",
-      "TSMC"
-    ]
-  },
-  {
-    "id": "u-20261102-coca-cola-europacific-partners-asx-ccl-can-pricing",
-    "d": "2026-11-02",
-    "title": "Coca-Cola Europacific Partners (ASX:CCL): Can Pricing Power Hold Volumes?",
-    "body": "Coca-Cola Europacific Partners (ASX:CCL): Can Pricing Power Hold Volumes?",
-    "why": "Understanding retail strategy helps anticipate how supply shocks will be priced to consumers.",
-    "sectors": [
-      "retailstrategypricing"
-    ],
-    "type": "News",
-    "companies": [
-      "Coca-Cola Europacific Partners"
-    ],
-    "src": {
-      "t": "Kalkine Media",
-      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYXVpQ3MwZjh3QUxaT3BzUzJzZnlXS0Q2VHNjS096N012VWI0aDEtS1diUzhoYXUzOS1rOUZrY0RxYV9EV0ZqTV84bEdNTE8zTGEwNXlKOEdRWE9jM2RqWFZEcFY2cGJTbXd3LUxzREp2NGlzcXMtMXZQdjRqbzlwUktEelhvYUtlV29CUVpab2ZqdUg3RXVJUk5BZ2FQdTBTZWdSMGNMVjJoSEplZVZYdW5XaDA?oc=5",
-      "q": "news"
-    },
-    "addedAt": "2026-11-05T16:19:46.736Z",
-    "auto": true,
-    "orgs": [
-      "Coca-Cola Europacific Partners"
-    ]
-  },
-  {
-    "id": "u-20261102-raspberry-pi-5-16gb-now-costs-385-after-another-pr",
-    "d": "2026-11-02",
-    "title": "Raspberry Pi 5 16GB Now Costs $385 After Another Price Increase",
-    "body": "Raspberry Pi 5 16GB Now Costs $385 After Another Price Increase",
-    "why": "Understanding retail strategy helps anticipate how supply shocks will be priced to consumers.",
-    "sectors": [
-      "retailstrategypricing"
-    ],
-    "type": "News",
-    "companies": [
-      "Raspberry Pi"
-    ],
-    "src": {
-      "t": "Windows Report",
-      "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRDhtc0JBS2VfeXRJUmxpVEV6b2RjUjk1LUljU3JMZENsUDk3MFpBT2ZLUDN5Q29BNENrY1JiRWxSdG9tcTJrdE1WRmlGaW1tNi14UFZQQy0tUTBTVlJFeW5MUldzRHZlWlhjdjR5R0NfY3ZLM0ZwRjRsZlBwcG5DbmV6M19BZ2RYNjJ1MkhtUmdkeXM?oc=5",
-      "q": "news"
-    },
-    "addedAt": "2026-11-05T16:19:46.736Z",
-    "auto": true,
-    "orgs": [
-      "Raspberry Pi"
-    ]
-  },
-  {
-    "id": "u-20261102-epa-enhances-federalism-takes-aim-at-costly-oil-an",
-    "d": "2026-11-02",
-    "title": "EPA Enhances Federalism, Takes Aim at Costly Oil and Natural Gas Regulations",
-    "body": "EPA Enhances Federalism, Takes Aim at Costly Oil and Natural Gas Regulations",
-    "why": "Raw material price jumps are the root cause of retail margin erosion.",
-    "sectors": [
-      "commoditymarkets"
-    ],
-    "type": "Commodity Price Jump",
-    "companies": [
-      "EPA",
-      "and Natural",
-      "Oil",
-      "Natural Gas"
-    ],
-    "src": {
-      "t": "American Legislative Exchange Council",
-      "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU0RRbGpaMFpPQU9Odnp3X0hEMzlDZzFyMG92LW0xUDdLaVpWelpaNVVwUG5fdHRua0pJeDVjUTg2RWZQUUtPNlVLdVNvSTY0VVZaWlRTRjlrMHdXMFBuUVRIMlF5Q0Y4S205ZjdFckt2dG1BODhUU3Uxbi1IMTdyZHZjZ1h4NjRsMEZRYnFBZVJIRUFJU2lTSzhIWUM3alFsNTZF?oc=5",
-      "q": "news"
-    },
-    "addedAt": "2026-11-05T17:17:02.208Z",
-    "auto": true,
-    "orgs": [
-      "EPA",
-      "and Natural",
-      "Oil",
-      "Natural Gas"
-    ]
-  },
-  {
     "id": "u-20261101-democratic-wins-would-shift-congress-trade-debate-",
     "d": "2026-11-01",
     "title": "Democratic wins would shift Congress' trade debate but fall short of US tariff rollbacks",
@@ -3251,26 +2341,6 @@
     "orgs": []
   },
   {
-    "id": "u-20261101-stock-markets-to-track-geopolitics-oil-earnings-th",
-    "d": "2026-11-01",
-    "title": "Stock Markets to Track Geopolitics, Oil, Earnings This Week",
-    "body": "Stock Markets to Track Geopolitics, Oil, Earnings This Week",
-    "why": "Regional conflicts and energy shocks directly translate into retail cost increases.",
-    "sectors": [
-      "geopoliticalsupplyrisks"
-    ],
-    "type": "News",
-    "companies": [],
-    "src": {
-      "t": "Rediff MoneyWiz",
-      "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONXhhMTduckZaRmYxTGRDNzJ1TjhUV0U5YUp6R0tqVFhOU1JEamQzb0kwTlc5bjhvUHBrMDVRazQ5aDVxclJtZmNPRlNianpsbDBqaTNha3k4eWNvajNlRnhSUjJHRmVOWUU1aFBCcnNDelZUYkE0Z1lTTHNQdTk4VlIzTEFXSTRsOTZyQzc3aGNUOXctSUpSMEkyMnFzMk9XMjZkd2FKNW5SemRpelHSAbMBQVVfeXFMT3Q3d1hHMzAyc3BqTXN4STVjYk9GbWZsTGljNWlzd210V3R5Tm9NSDZTU3pWaDZQNW5MX3hLMHdrZVRHdHhlSVY2RldBT2c3Q1FSY1lpNzZ6emNlOGxOZ050LXQtanpwLUhhWndEMlJWUk1OQlEzX2Z4NHBYX1lyNldqaXlXa2lSM2h1RjAta2JNckVyS3ZlcUpDNjB4Q3ZPWWpobUFBaURYUy0zM2xKWXEyMEU?oc=5",
-      "q": "news"
-    },
-    "addedAt": "2026-11-05T16:19:46.736Z",
-    "auto": true,
-    "orgs": []
-  },
-  {
     "id": "u-20261101-far-eastern-shipping-company-plc-fesh-me-seasonal-",
     "d": "2026-11-01",
     "title": "Far-Eastern Shipping Company PLC. (FESH.ME) Seasonal returns chart",
@@ -3319,56 +2389,6 @@
     ]
   },
   {
-    "id": "u-20261101-sekisui-chemical-h1-fy2026-slides-record-profit-on",
-    "d": "2026-11-01",
-    "title": "Sekisui Chemical H1 FY2026 slides: record profit on pricing power By Investing.com",
-    "body": "Sekisui Chemical H1 FY2026 slides: record profit on pricing power By Investing.com",
-    "why": "Understanding retail strategy helps anticipate how supply shocks will be priced to consumers.",
-    "sectors": [
-      "retailstrategypricing"
-    ],
-    "type": "News",
-    "companies": [
-      "Sekisui Chemical",
-      "com"
-    ],
-    "src": {
-      "t": "Investing.com South Africa",
-      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZGpsRmNFNG9wVk5saklpVkd1WGFSenFaTXlmRWt1U1N2eDR3UW93VTJ5UGRLT0pLMEhsNmlObl8yRVZUMlF0N3p2cF9YN1FyaF95T3luOENRbEl0NFBSSE5YMzFMRm9GYWtlRkI4Y2JOV1JJWkpFSno1bzREZ1A1X25DTEdzUXNFOEdaV2xuTG1KSi1iTFFCODhtOFphY0JPZ2VWNnhrQk96U3NmUzBtMUhRdVdmUTNIS1otUnBGRjZ2SzA?oc=5",
-      "q": "news"
-    },
-    "addedAt": "2026-11-05T16:19:46.736Z",
-    "auto": true,
-    "orgs": [
-      "Sekisui Chemical",
-      "com"
-    ]
-  },
-  {
-    "id": "u-20261101-3-ai-chip-stocks-linked-to-tsmc-cowos-pricing-powe",
-    "d": "2026-11-01",
-    "title": "3 AI Chip Stocks Linked To TSMC CoWoS Pricing Power",
-    "body": "3 AI Chip Stocks Linked To TSMC CoWoS Pricing Power",
-    "why": "Understanding retail strategy helps anticipate how supply shocks will be priced to consumers.",
-    "sectors": [
-      "retailstrategypricing"
-    ],
-    "type": "News",
-    "companies": [
-      "Power"
-    ],
-    "src": {
-      "t": "Simply Wall St",
-      "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOY0lNMUV1TERGSk1yb2l1MV9KMGtXa0VRZlpWY0xTcHZabGJBYVV1Ny1ycGpQaDVQNkRnZDk5NEQtR1BBeTQ3WDRia1pWZmhXSXo0UDV6bkdOd0pzemw0a1R6T2F5UTJDdHBSQUcxMkhYLXQxTVNVT25LTVNjNzdVb0RoN2hhblh1N3dSTHBuSFNWaURPaHZkNF9UbU9EZ3NDbmREU1BPVkFJMmVvcno3SmR6RGpPZWtaemh2dktCTlZiQ3o3UUd2YzdGQmFlSEkxdVU1UEU4QjQ4S0Z3bXFRbdIB5gFBVV95cUxPeUxTVjhsLThVM09iQXdEV0NBeVRtN3VFbFZSMThoRTZSRDMtMVRmMEtRYnFyNXlRYTRzd1NlMkZoVkIyWV9kM0lmLVlENzlRT3YtRFNwbzBUZW1NMHFXc0xPOVRHc0U4UUpuMHktWFc5NnctcUlHQmRwcmQ1ZlIwNW5kbXliWDI1LUhYQjNIbW1JUzZGMkFCWW81M0pGNHVLcnN6TVY2SmZ6d0NYblZjb1Byd0pseU9yTUFzZ2xmMVZvaGJZcDhwd1hpdjRlWXVJd3IzQzRET3RicVNDRERGNGNDcFNEdw?oc=5",
-      "q": "news"
-    },
-    "addedAt": "2026-11-05T16:19:46.736Z",
-    "auto": true,
-    "orgs": [
-      "Power"
-    ]
-  },
-  {
     "id": "u-20261031-carney-says-no-hurry-on-trade-deal-if-us-won-t-off",
     "d": "2026-10-31",
     "title": "Carney Says No Hurry on Trade Deal If US Won’t Offer Good Terms",
@@ -3382,26 +2402,6 @@
     "src": {
       "t": "Bloomberg.com",
       "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWU1sNlY1ZkgtQkhzUWEwQVMtcEJrS2w4MDdhZDVNeENJOGJrV1FZWWk0ZWR5MU8xbkw5N1p0dG52VlI4Z0NBMUk4cHR0WmJlR1AxZlQyUnN6QUZRdkd0d1NzT25EZ095WVVzSjZrV3BLbmx6LVFmdXRiYUw1c2s3LXNoSW9WNGx4YWZSWFd1RzlQczduWjhWczctTzVINlVpWW9BWlpPZGd2bVRiOUxfMmctUjU?oc=5",
-      "q": "news"
-    },
-    "addedAt": "2026-11-05T16:19:46.736Z",
-    "auto": true,
-    "orgs": []
-  },
-  {
-    "id": "u-20261031-iran-s-energy-crisis-and-pollution-demand-a-new-pa",
-    "d": "2026-10-31",
-    "title": "Iran’s energy crisis and pollution demand a new path to prosperity",
-    "body": "Iran’s energy crisis and pollution demand a new path to prosperity",
-    "why": "Regional conflicts and energy shocks directly translate into retail cost increases.",
-    "sectors": [
-      "geopoliticalsupplyrisks"
-    ],
-    "type": "News",
-    "companies": [],
-    "src": {
-      "t": "The Jerusalem Post",
-      "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5rTERINTZkNjh0eXRvNGxUZDJpS0xhZDlyN25uRnNoQ1A0OVJvdEE4cXp4N3gzYjU3S2g1ZkwxNDBYbXd0YllWOHBmQ1dSMl9TenhIR0w1TQ?oc=5",
       "q": "news"
     },
     "addedAt": "2026-11-05T16:19:46.736Z",
@@ -3483,30 +2483,6 @@
     ]
   },
   {
-    "id": "u-20261031-amd-reportedly-plans-another-radeon-price-increase",
-    "d": "2026-10-31",
-    "title": "AMD reportedly plans another Radeon price increase in November as GDDR6 memory costs rise",
-    "body": "AMD reportedly plans another Radeon price increase in November as GDDR6 memory costs rise",
-    "why": "Understanding retail strategy helps anticipate how supply shocks will be priced to consumers.",
-    "sectors": [
-      "retailstrategypricing"
-    ],
-    "type": "News",
-    "companies": [
-      "AMD"
-    ],
-    "src": {
-      "t": "TweakTown",
-      "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTzJKZzA1Zl9kSkFTdlpPZ0FlczJta005QjhRQjRZSEs0aGVISlc0dmpYaDFYMy1YM3RIeUJqYzNqRWtaNVpYVXZPeXlIb2lBWGtmSDBPRlg3WUVwRFBYN19OU1FiYjZjRlgxaktudE44QnhGSWpZcEVZQ2ZTWWFNMmsycGZxZ0E1d1QxOXc2QnB1UW9yY3EyR0RxYTh4RnlrUDhpVVBFc1p2SzFrbDlxTndMeDhqeVYtU0VWSlRRYnZKVjBJOFFLZ09qLVRMZjV6ekZzSA?oc=5",
-      "q": "news"
-    },
-    "addedAt": "2026-11-05T16:19:46.736Z",
-    "auto": true,
-    "orgs": [
-      "AMD"
-    ]
-  },
-  {
     "id": "u-20261030-facing-a-potential-40m-us-tariff-bill-this-america",
     "d": "2026-10-30",
     "title": "Facing a potential $40M US tariff bill, this American importer is suing Trump to end some tariffs on Canada",
@@ -3548,30 +2524,6 @@
     "auto": true,
     "orgs": [
       "Intel"
-    ]
-  },
-  {
-    "id": "u-20261030-tesla-spacex-merger-does-make-strategic-sense-anal",
-    "d": "2026-10-30",
-    "title": "Tesla-SpaceX Merger ‘Does Make Strategic Sense,’ Analyst Says — But SpaceX Needs Nearly 2x The Growth",
-    "body": "Tesla-SpaceX Merger ‘Does Make Strategic Sense,’ Analyst Says — But SpaceX Needs Nearly 2x The Growth",
-    "why": "Major deals often signal shifts in supply capability or new market access.",
-    "sectors": [
-      "strategicpartnershipsma"
-    ],
-    "type": "Strategic Partnership",
-    "companies": [
-      "SpaceX"
-    ],
-    "src": {
-      "t": "Yahoo Finance",
-      "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY2ZOdWMwMEc4SjU3RU5ROTB5am16bEltbmRDbnpMaERPLVoxWXppbUVtdkVVN2JiY2l5OHZ1akNYS0lnUFdMUmJzS3I5ZVNYVVdMeGJ5cnl0bFpqYldtc09wRUROeTV1S0JWR1E0cFJCcG1xamVDYlBKTnNhWFdvMGxVZWxvU1NJR1EtWUR6cDlfaXFOQkIta0pjVVJPbzUx?oc=5",
-      "q": "news"
-    },
-    "addedAt": "2026-11-05T16:19:46.736Z",
-    "auto": true,
-    "orgs": [
-      "SpaceX"
     ]
   },
   {
@@ -3755,98 +2707,6 @@
     "orgs": []
   },
   {
-    "id": "u-20261030-news-amsterdam-s-rising-tourism-taxes-test-hotel-p",
-    "d": "2026-10-30",
-    "title": "News | Amsterdam's rising tourism taxes test hotel pricing power",
-    "body": "News | Amsterdam's rising tourism taxes test hotel pricing power",
-    "why": "Understanding retail strategy helps anticipate how supply shocks will be priced to consumers.",
-    "sectors": [
-      "retailstrategypricing"
-    ],
-    "type": "News",
-    "companies": [
-      "News"
-    ],
-    "src": {
-      "t": "CoStar",
-      "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSkNKeWtVZU14V2NDUjlEeWFmRUR1N2JFRDRnX2piUHY2UGJ3d090M2t0WFhCTWJNdklvM3oyczU3RkhhWHFDOVIxNjFWMU9JTTdvNkw4R05oNk96TldUZEVOejNST2k3Z0NvQm5wdW1reTJfMm5mdzFtQ2ZZM0ZYbzVmbU1tV2E2X1ZOY1Uwc2lBclVWZWxzSS02V2plUXc?oc=5",
-      "q": "news"
-    },
-    "addedAt": "2026-11-05T16:19:46.736Z",
-    "auto": true,
-    "orgs": [
-      "News"
-    ]
-  },
-  {
-    "id": "u-20261030-gpu-rental-rates-show-pricing-power-for-scarce-com",
-    "d": "2026-10-30",
-    "title": "GPU rental rates show pricing power for scarce compute, Citadel Securities' Flight says (NVDA:NASDAQ)",
-    "body": "GPU rental rates show pricing power for scarce compute, Citadel Securities' Flight says (NVDA:NASDAQ)",
-    "why": "Understanding retail strategy helps anticipate how supply shocks will be priced to consumers.",
-    "sectors": [
-      "retailstrategypricing"
-    ],
-    "type": "News",
-    "companies": [
-      "Citadel Securities"
-    ],
-    "src": {
-      "t": "Seeking Alpha",
-      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNam11VWpneVU3YWVpb2FfTTNKZVpVWEloSmJPRlZrY2loREwyX25GdXlXbWhlLUI2eWtCMWFfMWZUT1V4MUtkbmw2TUhMNE9mLXR5ZUVEV3NXeHhlOWl3MW9CWmRSV2pfS1hoVmt2S2xrUWY3WUllcWZKZnFKUWhVSDEwVW1CVWJXbldyUk5DaHI4bUJXd1lzRDdPWDhCNWpfRXlZUE1nOU5COTRranhNaXF2VQ?oc=5",
-      "q": "news"
-    },
-    "addedAt": "2026-11-05T16:19:46.736Z",
-    "auto": true,
-    "orgs": [
-      "Citadel Securities"
-    ]
-  },
-  {
-    "id": "u-20261030-japan-tobacco-continues-to-flex-its-pricing-power-",
-    "d": "2026-10-30",
-    "title": "Japan Tobacco Continues to Flex Its Pricing Power Across Its Combustibles Footprint",
-    "body": "Japan Tobacco Continues to Flex Its Pricing Power Across Its Combustibles Footprint",
-    "why": "Understanding retail strategy helps anticipate how supply shocks will be priced to consumers.",
-    "sectors": [
-      "retailstrategypricing"
-    ],
-    "type": "News",
-    "companies": [
-      "Japan Tobacco"
-    ],
-    "src": {
-      "t": "Morningstar",
-      "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMlJQejF4RHRaaXFIaTVadHk4MWRNVjFab0I0a1d6WjNXdU95Sm5NR1FCTnlZZG04RExhZGtndS1nM2UxRVlxU3VEaWZLcXd2d1dqYUJ3MkxCYnZ5VFYyN0Y0WWJwaHNOSXg4QjBOdFh0N0J3ZFdfbzlXYkY4TExLWDI5Yy1RQm1scDFwQ0JEZDdBNkZmT01SWXRFc0lab3VrRGVaM2J4ak5mZ2NwT2k5N25GN1AyQ2x3QkZ6SFFDWnowSmpwN2JYXzlCRWpJQXNP?oc=5",
-      "q": "news"
-    },
-    "addedAt": "2026-11-05T16:19:46.736Z",
-    "auto": true,
-    "orgs": [
-      "Japan Tobacco"
-    ]
-  },
-  {
-    "id": "u-20261030-major-events-put-hotel-pricing-power-to-the-test",
-    "d": "2026-10-30",
-    "title": "Major events put hotel pricing power to the test",
-    "body": "Major events put hotel pricing power to the test",
-    "why": "Understanding retail strategy helps anticipate how supply shocks will be priced to consumers.",
-    "sectors": [
-      "retailstrategypricing"
-    ],
-    "type": "News",
-    "companies": [],
-    "src": {
-      "t": "www.hotelmanagement.com.au",
-      "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUl9OVW9SSG9BZ1R5MWRWWUlzZXBERTBSeloxS0hnVE9CYUl0UlQzYzhFRDhlek1IbE1lWXh2MjI5NkxqOFZVTHZNTlFqXzZjbmxXcmY0c19Hc3dudnNhMHpOQzRYX2ZvYmZ6X1ZwRDI1WWE3ZGdBUnJQekVNTjVWMXBLR3VnZFRaUDV0ZXZLUnBrVlMxcGFEU2VNbw?oc=5",
-      "q": "news"
-    },
-    "addedAt": "2026-11-05T16:19:46.736Z",
-    "auto": true,
-    "orgs": []
-  },
-  {
     "id": "u-20261029-hormuz-impact-on-ocean-freight-eases-but-diversion",
     "d": "2026-10-29",
     "title": "Hormuz impact on ocean freight eases, but diversions and port dwell remain elevated",
@@ -3888,90 +2748,6 @@
     "auto": true,
     "orgs": [
       "USDA"
-    ]
-  },
-  {
-    "id": "u-20261029-equinix-says-data-project-barriers-could-boost-pri",
-    "d": "2026-10-29",
-    "title": "Equinix Says Data-Project Barriers Could Boost Pricing Power",
-    "body": "Equinix Says Data-Project Barriers Could Boost Pricing Power",
-    "why": "Understanding retail strategy helps anticipate how supply shocks will be priced to consumers.",
-    "sectors": [
-      "retailstrategypricing"
-    ],
-    "type": "News",
-    "companies": [],
-    "src": {
-      "t": "Bloomberg.com",
-      "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdGxTc0hPc2o1SkRXd3VEc2I1Y3pKTDdvT1ZjejlZQjNmN2JZaWtXX0g1XzVmdUtKemUycjdxSUNnMi1qbW9lYVBvTUY5SFFvLWxrZUVzQ0lpb0trT1VXX0E2RGV6aG5NdXNiVVQ5eFh1Q0ZzWDFBeXQ2QUVsemNyYmpySkhkSENuUVBUT19wMi1KSEtJV3Z6eTNEQmluNTRKdGtFYjFDdVdUWVhtV0hGUXVma2owUQ?oc=5",
-      "q": "news"
-    },
-    "addedAt": "2026-11-05T16:19:46.736Z",
-    "auto": true,
-    "orgs": []
-  },
-  {
-    "id": "u-20261029-ppc-q3-deep-dive-margin-compression-amid-mixed-dem",
-    "d": "2026-10-29",
-    "title": "PPC Q3 deep dive: margin compression amid mixed demand and ongoing portfolio investments",
-    "body": "PPC Q3 deep dive: margin compression amid mixed demand and ongoing portfolio investments",
-    "why": "Understanding retail strategy helps anticipate how supply shocks will be priced to consumers.",
-    "sectors": [
-      "retailstrategypricing"
-    ],
-    "type": "News",
-    "companies": [],
-    "src": {
-      "t": "Yahoo Finance",
-      "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeGVIN0hFLS0yRWpCRkRfNndnMnNta3Yxbjd6WE56YnJBNTRXd2xwRl85aUZPRVA1bFFWSmdpQ1JiWHVsQmpNaktaNFBEYlFZeVdmQ2ZLeS10T0htWGdlMVNjVGs0cmU1T3pKQmVyNmYwTzB2REYtQzUtX19iUkROMkZBcDFOR0swbFpjSFF1Qjl3UQ?oc=5",
-      "q": "news"
-    },
-    "addedAt": "2026-11-05T16:19:46.736Z",
-    "auto": true,
-    "orgs": []
-  },
-  {
-    "id": "u-20261029-seagate-pricing-power-60-eps-growth-and-a-0-2x-peg",
-    "d": "2026-10-29",
-    "title": "Seagate: Pricing Power, 60% EPS Growth And A 0.2x PEG (Upgrade To Buy) (NASDAQ:STX)",
-    "body": "Seagate: Pricing Power, 60% EPS Growth And A 0.2x PEG (Upgrade To Buy) (NASDAQ:STX)",
-    "why": "Understanding retail strategy helps anticipate how supply shocks will be priced to consumers.",
-    "sectors": [
-      "retailstrategypricing"
-    ],
-    "type": "News",
-    "companies": [],
-    "src": {
-      "t": "Seeking Alpha",
-      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObGx0aTNfM2NzLVJNYWRkLWo3QkNERnhUWEFZWmc1X2FLS2FENGxoWEItQTdWNUc5YnBlclNKMnlGUmwwZHZ4ZDl4VHNVVEF5UVdIdlkxOWVnSG9WUmFxSmtKNzhpVkVrTUhRM1hzdzlwUy1nT3QzNl8tN2VGS2JJZmdCQUJ2d21xakxWTHZERWNpYUt1dXI5c1ZsV2tsaUhKOUx6SmJvTjhnZkRnNkM5QUZTaS0?oc=5",
-      "q": "news"
-    },
-    "addedAt": "2026-11-05T16:19:46.736Z",
-    "auto": true,
-    "orgs": []
-  },
-  {
-    "id": "u-20261029-amrize-ltd-amrz-q3-2026-earnings-call-highlights-p",
-    "d": "2026-10-29",
-    "title": "Amrize Ltd (AMRZ) Q3 2026 Earnings Call Highlights: Pricing Power Drives Growth Amid Weather ...",
-    "body": "Amrize Ltd (AMRZ) Q3 2026 Earnings Call Highlights: Pricing Power Drives Growth Amid Weather ...",
-    "why": "Understanding retail strategy helps anticipate how supply shocks will be priced to consumers.",
-    "sectors": [
-      "retailstrategypricing"
-    ],
-    "type": "News",
-    "companies": [
-      "Amrize Ltd"
-    ],
-    "src": {
-      "t": "Yahoo Finance",
-      "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSThFOF9kSkpzZDJnMHBmR2ZBdjJ5QkZDaTVlb3RPdlo0ajltTWdiQW1oaWVXUXhzRi1Hekp4eGpTb0Raa3JlMDBYd2tfQ2xBLXNXRFVQclI2akluS051U2VrTVlvRk1hMHhaUnJWVFl5YVNqdk9jdDE4cDRqMTVYT195ck1xYnlyV1llWndveFJoUQ?oc=5",
-      "q": "news"
-    },
-    "addedAt": "2026-11-05T16:19:46.736Z",
-    "auto": true,
-    "orgs": [
-      "Amrize Ltd"
     ]
   }
 ]
