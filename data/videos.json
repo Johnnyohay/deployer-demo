@@ -1,12 +1,142 @@
 [
  {
+  "id": "_6I6BVbqS-w",
+  "title": "FreightWaves Today | November 5",
+  "channel": "FreightWaves",
+  "topic": "tradepolicytariffs",
+  "d": "2026-11-05T17:00:44+00:00",
+  "short": false,
+  "views": 6,
+  "desc": "Craig and Julie are live from the UP. Summit from NASA Kennedy Space Center in Cape Canaveral."
+ },
+ {
+  "id": "DhK_xEmKznU",
+  "title": "Evos Demo at F3",
+  "channel": "FreightWaves",
+  "topic": "tradepolicytariffs",
+  "d": "2026-11-05T16:49:40+00:00",
+  "short": false,
+  "views": 1,
+  "desc": ""
+ },
+ {
+  "id": "RkMMFrRCe_c",
+  "title": "E3 Group Demo at F3",
+  "channel": "FreightWaves",
+  "topic": "tradepolicytariffs",
+  "d": "2026-11-05T16:44:47+00:00",
+  "short": false,
+  "views": 0,
+  "desc": ""
+ },
+ {
+  "id": "339h6TGbjro",
+  "title": "Cargo Theft: The Shipper's Blind Spot",
+  "channel": "FreightWaves",
+  "topic": "tradepolicytariffs",
+  "d": "2026-11-05T16:42:23+00:00",
+  "short": false,
+  "views": 1,
+  "desc": "Shippers own the loss when freight walks off, yet most have no visibility into who's actually picking it up. Why cargo theft has become the defining risk shippers can no longer treat as a broker problem."
+ },
+ {
+  "id": "i5VRsrNrkAk",
+  "title": "CloneOps Demo at F3",
+  "channel": "FreightWaves",
+  "topic": "tradepolicytariffs",
+  "d": "2026-11-05T16:27:36+00:00",
+  "short": false,
+  "views": 1,
+  "desc": ""
+ },
+ {
+  "id": "f0vlUf0gl-E",
+  "title": "Cleo Demo at F3",
+  "channel": "FreightWaves",
+  "topic": "tradepolicytariffs",
+  "d": "2026-11-05T16:26:19+00:00",
+  "short": false,
+  "views": 1,
+  "desc": ""
+ },
+ {
+  "id": "1WM_0ZkXasQ",
+  "title": "Class8 Demo at F3",
+  "channel": "FreightWaves",
+  "topic": "tradepolicytariffs",
+  "d": "2026-11-05T16:25:17+00:00",
+  "short": false,
+  "views": 0,
+  "desc": ""
+ },
+ {
+  "id": "peh3RKJ4ouA",
+  "title": "Chain Demo at F3",
+  "channel": "FreightWaves",
+  "topic": "tradepolicytariffs",
+  "d": "2026-11-05T16:24:25+00:00",
+  "short": false,
+  "views": 1,
+  "desc": ""
+ },
+ {
+  "id": "-T_Ikr_J0I4",
+  "title": "Centerline Demo at F3",
+  "channel": "FreightWaves",
+  "topic": "tradepolicytariffs",
+  "d": "2026-11-05T16:23:27+00:00",
+  "short": false,
+  "views": 0,
+  "desc": ""
+ },
+ {
+  "id": "Gc432YYx7eA",
+  "title": "Cargofy Demo at F3",
+  "channel": "FreightWaves",
+  "topic": "tradepolicytariffs",
+  "d": "2026-11-05T16:21:53+00:00",
+  "short": false,
+  "views": 0,
+  "desc": ""
+ },
+ {
+  "id": "Ae1PKmeoRSA",
+  "title": "123 Loadboard Demo at F3",
+  "channel": "FreightWaves",
+  "topic": "tradepolicytariffs",
+  "d": "2026-11-05T16:20:58+00:00",
+  "short": false,
+  "views": 0,
+  "desc": ""
+ },
+ {
+  "id": "E6p4UulNCKY",
+  "title": "Augment Demo at F#",
+  "channel": "FreightWaves",
+  "topic": "tradepolicytariffs",
+  "d": "2026-11-05T16:19:50+00:00",
+  "short": false,
+  "views": 0,
+  "desc": ""
+ },
+ {
+  "id": "jQhgmZrEVGE",
+  "title": "123LoadBoard on FreightWaves Today at F3",
+  "channel": "FreightWaves",
+  "topic": "tradepolicytariffs",
+  "d": "2026-11-05T16:18:22+00:00",
+  "short": false,
+  "views": 0,
+  "desc": "Carmelo Messina (VP of Sales, 123Loadboard) joins the desk to explain how uniting under one network expands access to loads and trucks under a single subscription, highlighting tools like Capacity Radar and Rate Engine while keeping humans in the loop."
+ },
+ {
   "id": "pfUp6XqhNZg",
   "title": "Innovation in Motion: How Federal Research Is Shaping Your Supply Chain",
   "channel": "FreightWaves",
   "topic": "tradepolicytariffs",
   "d": "2026-11-05T16:11:58+00:00",
   "short": false,
-  "views": 3,
+  "views": 4,
   "desc": "Deputy Assistant Secretary John Eitel reveals how federal research and technology are fundamentally reshaping the US supply chain."
  },
  {
@@ -16,7 +146,7 @@
   "topic": "tradepolicytariffs",
   "d": "2026-11-05T16:11:40+00:00",
   "short": false,
-  "views": 0,
+  "views": 2,
   "desc": "FMCSA Deputy Administrator Jesse Elison lays out what trucking should watch next on safety, enforcement and regulation. In this on-stage FreightWaves conversation, Elison speaks directly to carriers and supply chain leaders about the issues shaping the road ahead."
  },
  {

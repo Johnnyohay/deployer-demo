@@ -17,7 +17,11 @@
   },
   {
     "id": "retailinventorystockouts",
-    "heat": 5
+    "heat": 5,
+    "state": "In travel retail, SKU growth is outpacing available shelf space. The global energy crisis has deepened, with industry executives warning that efforts to plug the resulting supply gap are falling short. WELCORP reported record H1 EBITDA driven by backlog, though this growth is tempered by ongoing regional supply-chain risks.",
+    "money": "WELCORP is winning with record H1 EBITDA supported by strong backlog orders.",
+    "watch": "Travel retailers must monitor if shelf space constraints force further SKU reductions. Industry leaders will watch how the deepening energy crisis impacts future supply gap resolution efforts.",
+    "briefedAt": "2026-11-05T17:19:20.707Z"
   },
   {
     "id": "geopoliticalsupplyrisks",
@@ -29,11 +33,19 @@
   },
   {
     "id": "commoditymarkets",
-    "heat": 5
+    "heat": 5,
+    "state": "Natural gas storage levels are declining while demand remains lackluster, yet Goldman Sachs has lifted price forecasts citing supply uncertainty and weather risks. European prices have risen due to US election results and Strait of Hormuz tensions, whereas India's natural gas demand is projected to fall by 2% in 2026 despite a 10% increase in LNG imports. Antero Resources sees liquids pricing strength offsetting natural gas weakness, and TotalEnergies has signed a five-year LNG supply agreement with UAE's ADNOC.",
+    "money": "US WTI crude oil is testing support near $85.17 as Gulf supply recovers, while Petrobras keeps distributor natural gas prices unchanged despite regional volatility. European markets are paying a premium for energy security amid geopolitical friction, but Indian demand contraction suggests limited upside for regional LNG traders.",
+    "watch": "The outcome of the US election and stability in the Strait of Hormuz will likely dictate whether European gas prices sustain their current rise or correct on supply fears. Goldman Sachs' updated forecasts on weather-related supply shocks could trigger a rapid re-pricing of natural gas cash markets.",
+    "briefedAt": "2026-11-05T17:18:33.413Z"
   },
   {
     "id": "strategicpartnershipsma",
-    "heat": 5
+    "heat": 5,
+    "state": "EQT and Range are in crosshairs for a merger that would put midstream and pipe contracts at risk, while OpenAI acquired Pierre to lead supply chain software development. Dropbox is executing its largest acquisition yet with a $350M deal with Tigris Buy for AI infrastructure. In retail finance, India's regulator approved Kotak Mahindra's purchase of Deutsche Bank's retail business, and Amdocs entered insurance by acquiring EIS.",
+    "money": "OpenAI is winning the supply chain software development race through its Pierre acquisition. Dropbox is securing its biggest deal to date with a $350M investment in Tigris Buy for AI infrastructure.",
+    "watch": "The outcome of the EQT-Range merger will determine the fate of midstream and pipe contracts, while Tesla-SpaceX analysts note the merger requires nearly 2x growth to make strategic sense.",
+    "briefedAt": "2026-11-05T17:19:02.265Z"
   },
   {
     "id": "portactivityinfrastructu",
@@ -53,7 +65,11 @@
   },
   {
     "id": "regionalsupplychains",
-    "heat": 5
+    "heat": 5,
+    "state": "Serbia, Bosnia, and the Philippines are increasing food imports due to declining domestic production, while Venezuela reports a 38.8% drop in food imports as local output expands; simultaneously, Brazil faces lower wheat production requiring record imports, and England's Energy Independence Bill is raising costs by undermining domestic energy generation.",
+    "money": "Thai energy producers and qualified suppliers for nearshoring are positioning themselves to win by securing data center growth and retail power models through lower tariffs and local sourcing rules, while NEPES wins recognition for strengthening the semiconductor supply chain via reshored materials and components.",
+    "watch": "USDA's expansion of domestic fertilizer production will determine if global supply concerns persist into 2027, and El Paso's nearshoring opportunities will reveal how trade challenges impact cross-border logistics for AI infrastructure and biopharma cold chains.",
+    "briefedAt": "2026-11-05T17:17:53.457Z"
   },
   {
     "id": "retailstrategypricing",
