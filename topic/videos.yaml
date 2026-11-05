@@ -1,0 +1,14 @@
+# YouTube channels for the Watch tab (topic = a theme id)
+# Written by `deployer init` from your description; edit freely or open a "Change my setup" issue.
+# A mistake here stops the build with a message naming the line, so the site never breaks.
+
+keepDays: 60
+maxVideos: 400
+channels:
+  - name: Retail Dive
+    id: UC8O0UcWVUws_D7BD-RXuMDA
+    topic: tradepolicytariffs
+  - name: FreightWaves
+    id: UC36dglNLPZNKuSp30JVP5yg
+    topic: tradepolicytariffs
+match: {}

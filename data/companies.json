@@ -1,0 +1,182 @@
+[
+  {
+    "id": "amazon",
+    "name": "Amazon",
+    "kind": "company",
+    "type": "Company",
+    "sectors": [
+      "retailstrategypricing",
+      "logisticsfreightrates"
+    ],
+    "about": "The world's largest retailer whose real-time inventory data and supply chain disruptions directly impact global retail strategy.",
+    "aliases": [
+      "AMZN"
+    ],
+    "latest": ""
+  },
+  {
+    "id": "walmart",
+    "name": "Walmart",
+    "kind": "company",
+    "type": "Company",
+    "sectors": [
+      "retailstrategypricing",
+      "strategicpartnershipsma"
+    ],
+    "about": "A global retail giant that leverages massive purchasing power to negotiate favorable terms with suppliers and logistics providers.",
+    "aliases": [
+      "WMT"
+    ],
+    "latest": ""
+  },
+  {
+    "id": "maersk",
+    "name": "Maersk",
+    "kind": "containerline",
+    "type": "Container Line",
+    "sectors": [
+      "freightlinesshipping",
+      "logisticsfreightrates"
+    ],
+    "about": "The world's largest container shipping company providing critical infrastructure for moving goods across international supply chains.",
+    "aliases": [
+      "MAERSK"
+    ],
+    "latest": ""
+  },
+  {
+    "id": "msc",
+    "name": "MSC",
+    "kind": "containerline",
+    "type": "Container Line",
+    "sectors": [
+      "freightlinesshipping",
+      "portactivityinfrastructu"
+    ],
+    "about": "A major global logistics provider whose fleet movements and port utilization rates are key indicators of trade flow volatility.",
+    "aliases": [
+      "MCS"
+    ],
+    "latest": ""
+  },
+  {
+    "id": "new-york-port-authority",
+    "name": "New York Port Authority",
+    "kind": "port",
+    "type": "Port",
+    "sectors": [
+      "portactivityinfrastructu",
+      "geopoliticalsupplyrisks"
+    ],
+    "about": "The primary gateway for US East Coast imports, where congestion and infrastructure issues often trigger regional supply shocks.",
+    "aliases": [
+      "NYP"
+    ],
+    "latest": ""
+  },
+  {
+    "id": "rotterdam-port-authority",
+    "name": "Rotterdam Port Authority",
+    "kind": "port",
+    "type": "Port",
+    "sectors": [
+      "portactivityinfrastructu",
+      "regionalsupplychains"
+    ],
+    "about": "Europe's busiest port that serves as a critical hub for redistributing goods between Asia, Africa, and the Americas.",
+    "aliases": [
+      "RPA"
+    ],
+    "latest": ""
+  },
+  {
+    "id": "european-union",
+    "name": "European Union",
+    "kind": "country",
+    "type": "Country",
+    "sectors": [
+      "tradepolicytariffs",
+      "geopoliticalsupplyrisks"
+    ],
+    "about": "A major economic bloc whose harmonized trade policies and tariff regulations significantly alter global retail cost structures.",
+    "aliases": [
+      "EU"
+    ],
+    "latest": ""
+  },
+  {
+    "id": "united-states",
+    "name": "United States",
+    "kind": "country",
+    "type": "Country",
+    "sectors": [
+      "tradepolicytariffs",
+      "strategicpartnershipsma"
+    ],
+    "about": "The world's largest consumer market where import tariffs and domestic logistics policy dictate the competitive landscape for retailers.",
+    "aliases": [
+      "USA"
+    ],
+    "latest": ""
+  },
+  {
+    "id": "world-trade-organization",
+    "name": "World Trade Organization",
+    "kind": "tradegroup",
+    "type": "Trade Group",
+    "sectors": [
+      "tradepolicytariffs",
+      "geopoliticalsupplyrisks"
+    ],
+    "about": "The international organization that sets global trade rules, making its dispute resolution outcomes vital for predicting tariff changes.",
+    "aliases": [
+      "WTO"
+    ],
+    "latest": ""
+  },
+  {
+    "id": "us-customs-and-border-protection",
+    "name": "US Customs and Border Protection",
+    "kind": "tradegroup",
+    "type": "Trade Group",
+    "sectors": [
+      "tradepolicytariffs",
+      "logisticsfreightrates"
+    ],
+    "about": "The US federal agency responsible for enforcing import laws and collecting duties, directly affecting the cost of goods entering the market.",
+    "aliases": [
+      "CBP"
+    ],
+    "latest": ""
+  },
+  {
+    "id": "suez-canal-authority",
+    "name": "Suez Canal Authority",
+    "kind": "tradegroup",
+    "type": "Trade Group",
+    "sectors": [
+      "portactivityinfrastructu",
+      "geopoliticalsupplyrisks"
+    ],
+    "about": "The operator of a critical maritime chokepoint whose congestion or closure causes immediate global supply chain disruptions.",
+    "aliases": [
+      "SCA"
+    ],
+    "latest": ""
+  },
+  {
+    "id": "evergreen-marine",
+    "name": "Evergreen Marine",
+    "kind": "containerline",
+    "type": "Container Line",
+    "sectors": [
+      "freightlinesshipping",
+      "logisticsfreightrates"
+    ],
+    "about": "A major container carrier known for its aggressive pricing strategies that influence freight rates and retail inventory costs.",
+    "aliases": [
+      "EVE"
+    ],
+    "latest": ""
+  }
+]

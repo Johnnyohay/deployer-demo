@@ -1,0 +1,22 @@
+# How the site looks: its name and tabs
+# Written by `deployer init` from your description; edit freely or open a "Change my setup" issue.
+# A mistake here stops the build with a message naming the line, so the site never breaks.
+
+site:
+  name: Shelf Signal
+  owner: Johnnyohay
+  tagline: Predicting supply shocks and tariff shifts before they hit the shelf.
+desks:
+  - id: news
+    label: Today
+    page: ./
+    enabled: true
+  - id: videos
+    label: Watch
+    page: videos.html
+    enabled: true
+  - id: docs
+    label: Docs
+    page: docs.html
+    enabled: true
+flags: {}

@@ -1,0 +1,359 @@
+# What Shelf Signal follows: retail strategy, global supply chains, trade policy
+# Written by `deployer init` from your description; edit freely or open a "Change my setup" issue.
+# A mistake here stops the build with a message naming the line, so the site never breaks.
+
+domain: retail strategy, global supply chains, trade policy
+audience: a retail strategy lead who wants to see supply shocks and tariff changes coming before competitors do
+vocab:
+  theme: Theme
+  themes: Sector, Trade Policy, Logistics, Geopolitics, Retail Strategy, Commodity Markets, Port Activity, Freight Rates, Tariff Impact, Inventory Levels, Regional Supply Chains, Strategic Partnerships
+  entity: Entity
+  entities: Company, Port, Country, Trade Group, Shipment, Container Line, Manufacturer, Retailer
+  state: Where it stands
+  money: Who's winning
+  watch: What to watch next
+  ideas: Strategic Moves
+  ideasIntro: Concrete actions to take based on the day's news.
+  updatesIntro: Every sourced story, newest first.
+  searchExample: tariff on steel imports, port strike in LA, freight rate spike, semiconductor shortage, inventory depletion
+entityKinds:
+  - id: company
+    label: Company
+    plural: companies
+  - id: port
+    label: Port
+    plural: ports
+  - id: country
+    label: Country
+    plural: countries
+  - id: tradegroup
+    label: Trade Group
+    plural: trade groups
+  - id: shipment
+    label: Shipment
+    plural: shipments
+  - id: containerline
+    label: Container Line
+    plural: container lines
+scope:
+  keywords:
+    - tariffs
+    - trade
+    - supply
+    - logistics
+    - freight
+    - inventory
+    - stockouts
+    - geopolitical
+    - commodity
+    - mergers
+    - acquisitions
+    - ports
+    - infrastructure
+    - shipping
+    - retail
+    - pricing
+    - strategic
+    - partnerships
+    - distributors
+    - warehouses
+    - borders
+    - customs
+    - regulations
+    - exports
+    - imports
+    - demand
+    - challenges
+    - routes
+    - vessels
+    - carriers
+    - contracts
+    - costs
+    - disruptions
+    - markets
+    - tradeoffs
+sectors:
+  - id: tradepolicytariffs
+    name: Trade Policy & Tariffs
+    keywords:
+      - tariff
+      - duty
+      - trade war
+      - import ban
+      - export restriction
+      - Section 232
+      - Section 301
+      - inflation reduction act
+      - subsidy
+      - trade deal
+      - customs clearance
+      - border tax
+      - tariff hike
+      - retail import duty
+      - global trade pact
+      - sanction
+      - embargo
+      - export control
+      - supply chain regulation
+      - commodity tax
+    soWhat: Early tariff signals indicate which products will face margin compression first.
+  - id: logisticsfreightrates
+    name: Logistics & Freight Rates
+    keywords:
+      - freight rate
+      - container cost
+      - shipping lane
+      - port congestion
+      - demurrage
+      - deadhead
+      - bunker adjustment
+      - fuel surcharge
+      - sea freight
+      - air cargo
+      - last mile
+      - truck shortage
+      - rail capacity
+      - port strike
+      - vessel delay
+      - supply chain disruption
+    soWhat: Sudden rate spikes or port bottlenecks are the earliest warning signs of shelf shortages.
+  - id: retailinventorystockouts
+    name: Retail Inventory & Stockouts
+    keywords:
+      - inventory level
+      - stockout
+      - shelf space
+      - SKU depletion
+      - reorder point
+      - backlog
+      - warehouse capacity
+      - demand surge
+      - product availability
+      - retail stock
+      - supply gap
+      - merchandising
+      - sales velocity
+    soWhat: Seeing inventory drain before competitors reveals where the market is overheating.
+  - id: geopoliticalsupplyrisks
+    name: Geopolitical Supply Risks
+    keywords:
+      - geopolitics
+      - conflict zone
+      - energy crisis
+      - semiconductor shortage
+      - chip supply
+      - manufacturing halt
+      - raw material price
+      - steel import
+      - aluminum tariff
+      - global instability
+      - trade route
+      - foreign direct investment
+      - supply chain risk
+    soWhat: Regional conflicts and energy shocks directly translate into retail cost increases.
+  - id: commoditymarkets
+    name: Commodity Markets
+    keywords:
+      - commodity price
+      - oil spike
+      - natural gas
+      - copper price
+      - wheat futures
+      - soybean export
+      - grain shipment
+      - metal cost
+      - raw material
+      - inflationary pressure
+      - cost of goods sold
+      - input cost
+      - commodity index
+    soWhat: Raw material price jumps are the root cause of retail margin erosion.
+  - id: strategicpartnershipsma
+    name: Strategic Partnerships & M&A
+    keywords:
+      - acquisition
+      - merger
+      - joint venture
+      - strategic partner
+      - supply chain partner
+      - logistics deal
+      - retail expansion
+      - brand acquisition
+      - partnership agreement
+      - collaboration
+      - market entry
+    soWhat: Major deals often signal shifts in supply capability or new market access.
+  - id: portactivityinfrastructu
+    name: Port Activity & Infrastructure
+    keywords:
+      - port activity
+      - container terminal
+      - dock strike
+      - cargo volume
+      - shipping infrastructure
+      - port congestion
+      - harbor capacity
+      - cargo handling
+      - logistics hub
+    soWhat: Port bottlenecks are the physical manifestation of supply chain friction.
+  - id: freightlinesshipping
+    name: Freight Lines & Shipping
+    keywords:
+      - container line
+      - shipping company
+      - vessel schedule
+      - fleet capacity
+      - ocean freight
+      - cargo ship
+      - maritime route
+      - shipping carrier
+    soWhat: Fleet reductions or route changes indicate long-term supply constraints.
+  - id: regionalsupplychains
+    name: Regional Supply Chains
+    keywords:
+      - regional supply chain
+      - local sourcing
+      - domestic production
+      - nearshoring
+      - reshoring
+      - supply chain resilience
+      - regional trade
+      - local manufacturing
+    soWhat: Shifts in regional sourcing strategies reveal where supply is becoming more volatile.
+  - id: retailstrategypricing
+    name: Retail Strategy & Pricing
+    keywords:
+      - retail strategy
+      - pricing power
+      - margin compression
+      - price increase
+      - cost pass-through
+      - competitive advantage
+      - market share
+      - consumer demand
+    soWhat: Understanding retail strategy helps anticipate how supply shocks will be priced to consumers.
+storyTypes:
+  - name: Tariff Announcement
+    weight: 3
+    keywords:
+      - tariff
+      - duty
+      - trade war
+      - import ban
+      - export restriction
+  - name: Port Strike or Congestion
+    weight: 3
+    keywords:
+      - port strike
+      - congestion
+      - cargo backlog
+      - dock workers
+      - shipping delay
+  - name: Freight Rate Spike
+    weight: 2
+    keywords:
+      - freight rate
+      - container cost
+      - shipping lane
+      - fuel surcharge
+      - demurrage
+  - name: Inventory Alert
+    weight: 2
+    keywords:
+      - inventory level
+      - stockout
+      - shelf space
+      - SKU depletion
+      - warehouse capacity
+  - name: Commodity Price Jump
+    weight: 2
+    keywords:
+      - commodity price
+      - oil spike
+      - natural gas
+      - raw material
+      - input cost
+  - name: Supply Chain Disruption
+    weight: 2
+    keywords:
+      - supply chain disruption
+      - manufacturing halt
+      - semiconductor shortage
+      - raw material price
+  - name: Strategic Partnership
+    weight: 1
+    keywords:
+      - acquisition
+      - merger
+      - joint venture
+      - strategic partner
+      - supply chain partner
+defaultType:
+  name: News
+  weight: 1
+noise:
+  keywords:
+    - personnel move
+    - webinar
+    - podcast
+    - sponsored post
+    - roundup
+    - CEO interview
+    - stock buyback
+    - quarterly earnings call
+collect:
+  lookbackDays: 3
+curate:
+  ideas: true
+brief:
+  title: Today in retail, supply chain and geopolitics
+  stories: 5
+ask:
+  intro: Shelf Signal is an AI assistant designed to track trends in retail, supply chains, and geopolitics for a retail strategy lead. It helps identify supply shocks and tariff changes before competitors by synthesizing data from trusted sources like Supply Chain Dive, Retail Dive, and FreightWaves.
+  rules:
+    - Prioritize early warning signals on trade policy shifts and freight rate volatility over general market noise.
+    - Always cite specific sources using tags like [Supply Chain Dive] or [FreightWaves] to validate claims about supply disruptions.
+    - Focus analysis on actionable retail strategy implications rather than just reporting raw data points.
+    - Track specific entities (companies, ports, countries) to monitor their unique exposure to global shocks.
+    - Synthesize cross-sector trends to predict how geopolitical risks will cascade into inventory or pricing decisions.
+  examples:
+    cite: "[Supply Chain Dive] [FreightWaves]"
+    query: '"port congestion" or "tariff"'
+    company: '"Amazon"'
+    paper: '"inventory turnover rates" or "commodity price volatility"'
+  modes:
+    - id: news
+      label: Latest Alerts
+      instruction: Summarize breaking news on trade policy, freight rates, and supply chain disruptions that could impact retail inventory or pricing in the next 24-48 hours.
+      suggest:
+        - "{scope} {when}"
+        - "{company} {scope}"
+        - "{entity} {scope}"
+    - id: learn
+      label: Deep Dive
+      instruction: Explain the mechanics of a specific supply shock or tariff change, its historical precedents, and how it affects retail strategy.
+      suggest:
+        - "{scope} history"
+        - "{company} impact analysis"
+        - "{entity} risk factors"
+    - id: advise
+      label: Strategic Advice
+      instruction: Provide actionable recommendations on how to adjust inventory levels, sourcing strategies, or pricing models based on identified supply chain risks.
+      suggest:
+        - "{scope} mitigation"
+        - "{company} strategy"
+        - "{entity} contingency"
+    - id: company
+      label: Company Watch
+      instruction: Track a specific company's exposure to global supply shocks, tariff changes, and their strategic responses.
+      suggest:
+        - "{company} supply chain"
+        - "{company} tariff exposure"
+        - "{company} inventory levels"
+    - id: compare
+      label: Competitor Analysis
+      instruction: Compare how different retailers are responding to the same supply shock or trade policy change.
+      suggest:
+        - "{company} vs {company}"
+        - "{scope} industry response"
+        - "{entity} market share"

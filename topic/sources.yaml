@@ -1,0 +1,86 @@
+# Where the news comes from (RSS/Atom feeds and Google News searches)
+# Written by `deployer init` from your description; edit freely or open a "Change my setup" issue.
+# A mistake here stops the build with a message naming the line, so the site never breaks.
+
+feeds:
+  - name: Supply Chain Dive
+    url: https://www.supplychaindive.com/feeds/news/
+    tier: news
+  - name: Retail Dive
+    url: https://www.retaildive.com/feeds/news/
+    tier: news
+  - name: FreightWaves
+    url: https://freightwaves.com/feed/
+    tier: news
+  - name: The Wall Street Journal - Global Trade
+    googleNews: site:wsj.com (tariff OR "freight rate" OR "inventory level" OR geopolitics OR "commodity price" OR acquisition)
+    tier: news
+    lang: en-US
+  - name: Reuters - Commodities & Shipping
+    googleNews: site:reuters.com (tariff OR "freight rate" OR "inventory level" OR geopolitics OR "commodity price" OR acquisition)
+    tier: news
+    lang: en-US
+  - name: Bloomberg Supply Chain
+    googleNews: site:bloomberg.com (tariff OR "freight rate" OR "inventory level" OR geopolitics OR "commodity price" OR acquisition)
+    tier: news
+    lang: en-US
+  - name: USITC (U.S. International Trade Commission)
+    googleNews: site:usitc.gov (tariff OR "freight rate" OR "inventory level" OR geopolitics OR "commodity price" OR acquisition)
+    tier: primary
+    lang: en-US
+  - name: EU Trade
+    googleNews: site:trade.ec.europa.eu (tariff OR "freight rate" OR "inventory level" OR geopolitics OR "commodity price" OR acquisition)
+    tier: primary
+    lang: en-US
+  - name: Carnegie Endowment for International Peace - Global Trade
+    googleNews: site:carnegieendowment.org (tariff OR "freight rate" OR "inventory level" OR geopolitics OR "commodity price" OR acquisition)
+    tier: research
+    lang: en-US
+  - name: Center for Strategic and International Studies (CSIS) - Supply Chain Security
+    googleNews: site:csis.org (tariff OR "freight rate" OR "inventory level" OR geopolitics OR "commodity price" OR acquisition)
+    tier: research
+    lang: en-US
+  - name: Port of Los Angeles & Long Beach Authority
+    googleNews: site:portofla.com (tariff OR "freight rate" OR "inventory level" OR geopolitics OR "commodity price" OR acquisition)
+    tier: primary
+    lang: en-US
+  - name: "Google News: Trade Policy & Tariffs"
+    googleNews: tariff OR duty OR "trade war" OR "import ban" OR "export restriction"
+    tier: news
+    lang: en-US
+  - name: "Google News: Logistics & Freight Rates"
+    googleNews: '"freight rate" OR "container cost" OR "shipping lane" OR "port congestion" OR demurrage'
+    tier: news
+    lang: en-US
+  - name: "Google News: Retail Inventory & Stockouts"
+    googleNews: '"inventory level" OR stockout OR "shelf space" OR "SKU depletion" OR "reorder point"'
+    tier: news
+    lang: en-US
+  - name: "Google News: Geopolitical Supply Risks"
+    googleNews: geopolitics OR "conflict zone" OR "energy crisis" OR "semiconductor shortage" OR "chip supply"
+    tier: news
+    lang: en-US
+  - name: "Google News: Commodity Markets"
+    googleNews: '"commodity price" OR "oil spike" OR "natural gas" OR "copper price" OR "wheat futures"'
+    tier: news
+    lang: en-US
+  - name: "Google News: Strategic Partnerships & M&A"
+    googleNews: acquisition OR merger OR "joint venture" OR "strategic partner" OR "supply chain partner"
+    tier: news
+    lang: en-US
+  - name: "Google News: Port Activity & Infrastructure"
+    googleNews: '"port activity" OR "container terminal" OR "dock strike" OR "cargo volume" OR "shipping infrastructure"'
+    tier: news
+    lang: en-US
+  - name: "Google News: Freight Lines & Shipping"
+    googleNews: '"container line" OR "shipping company" OR "vessel schedule" OR "fleet capacity" OR "ocean freight"'
+    tier: news
+    lang: en-US
+  - name: "Google News: Regional Supply Chains"
+    googleNews: '"regional supply chain" OR "local sourcing" OR "domestic production" OR nearshoring OR reshoring'
+    tier: news
+    lang: en-US
+  - name: "Google News: Retail Strategy & Pricing"
+    googleNews: '"retail strategy" OR "pricing power" OR "margin compression" OR "price increase" OR "cost pass-through"'
+    tier: news
+    lang: en-US
