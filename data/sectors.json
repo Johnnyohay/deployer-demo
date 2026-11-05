@@ -1,1 +1,66 @@
-[]
+[
+  {
+    "id": "tradepolicytariffs",
+    "heat": 5,
+    "state": "Democrats now control the trade agenda, having gained influence over policy while Republicans face a midterm rout that limits their ability to veto tariff repeals. Canada and China are extending bilateral deals to boost exports, whereas the U.S. is moving to revoke duty-free access for South Africa and Rwanda under AGOA. Meanwhile, record imports in the U.S. persist despite tariff pressure, though Canadian cabinet makers and craft brewers face doubled duties from Trump's policies.",
+    "money": "Democrats control the trade agenda but fall short of rolling back tariffs, while Canada extends deals with China to protect its $24.1 billion export potential against U.S. duties. South Africa and Rwanda lose duty-free status as the U.S. revokes AGOA access, yet China signals willingness to expand farm imports if reciprocal tariff cuts are implemented.",
+    "watch": "The next move will depend on whether Democrats can shift Congress's trade debate before Republicans leverage midterm losses to enforce stricter tariffs. Retailers must monitor if China expands US farm imports or if India resolves its Scotch tariff dispute under the UK trade pact, as these could alter regional supply chain costs.",
+    "briefedAt": "2026-11-05T16:22:03.577Z"
+  },
+  {
+    "id": "logisticsfreightrates",
+    "heat": 5,
+    "state": "Port strikes continue to delay operations at Los Angeles and Long Beach while Maersk orders 26 new container ships to combat Asian port congestion. Simultaneously, the Red Sea remains a contested zone as Houthis launch drone warfare from a strategic island near Yemen's mouth of the shipping lane, and customs delays in Delhi are flagging mounting demurrage costs.",
+    "money": "Ghana lost US$46.7 million in petroleum demurrage costs due to adjudication delays, while major food importers have successfully cut annual demurrage expenses from $1.3 million to near zero using Beacon technology.",
+    "watch": "The outcome of contract talks between longshore unions and employers at the LA/LB ports could trigger further strikes, and Maersk's continued reliance on AI buildouts suggests freight rates will remain elevated until congestion resolves.",
+    "briefedAt": "2026-11-05T16:24:50.566Z"
+  },
+  {
+    "id": "retailinventorystockouts",
+    "heat": 5
+  },
+  {
+    "id": "geopoliticalsupplyrisks",
+    "heat": 5,
+    "state": "Global energy demand has eroded supply buffers, with the EU cutting gas consumption by a fifth and nuclear construction hitting a 40-year high due to AI power needs. Simultaneously, geopolitical friction is tightening chip logistics; Intel shares fell after hours amid supply constraints, while Nvidia dropped 2.96% as China's chip availability shrinks. Trade policy remains volatile, with Trump's tariffs widening the US trade deficit despite sparking growth.",
+    "money": "Vertiv secured a three-year power chip deal with Infineon to lock in capacity, while Logitech balances growth against supply risk. Intel continues burning significant cash due to constraints, and Broadcom lost its final appeal regarding Samsung chip supply terms.",
+    "watch": "The outcome of the Texas midterm elections could tighten AI oversight and further pressure Taiwan's chip supply chain. Investors should monitor if memory trade warnings pile up as Dell's tripled inventory signals that chip supply is rapidly approaching demand limits.",
+    "briefedAt": "2026-11-05T16:23:01.162Z"
+  },
+  {
+    "id": "commoditymarkets",
+    "heat": 5
+  },
+  {
+    "id": "strategicpartnershipsma",
+    "heat": 5
+  },
+  {
+    "id": "portactivityinfrastructu",
+    "heat": 5,
+    "state": "Port congestion remains a critical bottleneck globally, costing shipping lines millions in vessel delays and driving freight rates higher despite AI buildout efforts. Major hubs like Incheon are seeing truck traffic between containers, while specific incidents include a Docker strike bringing French ports to a standstill and Lagos Port threatening trade gains despite N4.6 trillion revenue. Conversely, strategic expansion is paying off, with Adani Ports reporting 51 MMT cargo volume in October—a 27% year-over-year increase—and PSA International winning the 'Container Terminal Operator of the Year' award.",
+    "money": "Adani Ports is capitalizing on congestion by achieving a 27% YoY growth to 51 MMT, while Maersk orders 26 new container ships to mitigate Asian port disruptions. However, operational halts like the French Docker strike and general delays across global hubs continue to erode margins for shipping lines.",
+    "watch": "Maersk's continued reliance on AI buildout to sustain high freight rates alongside its massive ship order indicates a long-term commitment to capacity expansion. Monitor the impact of ongoing strikes in France and congestion in Lagos on regional trade flows before they cascade into broader supply chain delays.",
+    "briefedAt": "2026-11-05T16:25:43.589Z"
+  },
+  {
+    "id": "freightlinesshipping",
+    "heat": 5,
+    "state": "Ocean freight volumes are surging globally, with Rhenus reporting a 26% growth in China-Europe routes and DHL Global Forwarding revenue jumping as ocean freight rises. However, spot rates are forecast to fall by 30% in 2027 due to capacity flooding back from the Red Sea return, while specific routes like the Punta Arenas-Malvinas bridge face geopolitical complications.",
+    "money": "TJX Companies faces margin pressure from diesel and ocean freight costs, yet major players like Rhenus and DHL are capitalizing on rising volumes. Wakeo is integrating AI into tender decisions to optimize these high-volume operations.",
+    "watch": "The easing of the Hormuz impact may reduce diversions, but port dwell times remain elevated; monitor if this trend continues into late 2026. Watch for Russia's share sale process in Sovcomflot as it could alter regional capacity dynamics.",
+    "briefedAt": "2026-11-05T16:23:59.325Z"
+  },
+  {
+    "id": "regionalsupplychains",
+    "heat": 5
+  },
+  {
+    "id": "retailstrategypricing",
+    "heat": 5,
+    "state": "Inflation remains above 3%, pressuring margins for retailers like Shivagrico and ASX's REA Group while enabling companies like Coca-Cola, Lufthansa Cargo, and Micron to exercise or bet on pricing power. Samsung is shifting its retail strategy to improve efficiency, whereas Align Technology faces declining market share due to weak pricing ability.",
+    "money": "Coca-Cola, Lufthansa Cargo, Saia, Geberit AG, and Micron are currently winning by leveraging inflationary conditions or supply constraints to maintain or increase prices, while retailers like Beaverbrooks and tech firms like Huawei face volume slides or internal competition that erodes margins.",
+    "watch": "The next critical moves will be how Chinese automakers reclaim pricing power with in-house driver-assist systems, whether winter LNG contraction extends flexible cargo pricing, and if Best Buy's digital expansion can offset traditional retail headwinds.",
+    "briefedAt": "2026-11-05T16:20:57.642Z"
+  }
+]

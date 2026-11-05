@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "id": "i-20261105-geopolitical-supply-risks",
+    "t": "Geopolitical Supply Risks",
+    "what": "Monitor the link between US midterm election results and potential tariff reversals, specifically targeting sectors like Canadian cabinet makers and craft brewers currently facing doubled duties.",
+    "why": "Recent reports show Trump's midterm rout has given allies like South Africa hope for a trade reset, suggesting current protectionist policies are fragile and could shift within weeks.",
+    "sectors": [
+      "Retail Inventory & Stockouts",
+      "Trade Policy & Tariffs"
+    ],
+    "at": "2026-11-05"
+  },
+  {
+    "id": "i-20261105-logistics-freight-rates",
+    "t": "Logistics & Freight Rates",
+    "what": "Prepare contingency plans for a 30% drop in ocean freight rates by late 2027 while simultaneously hedging against immediate port strikes at Los Angeles and Long Beach.",
+    "why": "Analysts predict capacity flooding will lower costs, but ongoing labor disputes and the AI buildout driving current congestion mean short-term volatility remains high.",
+    "sectors": [
+      "Logistics & Freight Rates",
+      "Port Activity & Infrastructure"
+    ],
+    "at": "2026-11-05"
+  },
+  {
+    "id": "i-20261105-strategic-partnerships-m-a",
+    "t": "Strategic Partnerships & M&A",
+    "what": "Evaluate supply chain software vendors that are acquiring AI capabilities, such as OpenAI's recent moves, to future-proof inventory management against tariff-induced disruptions.",
+    "why": "The convergence of geopolitical instability and digital transformation means companies with integrated AI-driven logistics tools will be better positioned to navigate complex trade routes.",
+    "sectors": [
+      "Strategic Partnerships & M&A",
+      "Retail Strategy & Pricing"
+    ],
+    "at": "2026-11-05"
+  }
+]

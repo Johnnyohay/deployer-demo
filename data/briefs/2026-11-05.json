@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-05",
+  "title": "Today in retail, supply chain and geopolitics",
+  "big": "167 new stories since the last brief. The busiest areas: retail strategy & pricing and trade policy & tariffs.",
+  "stories": [
+    {
+      "tag": "Logistics & Freight Rates",
+      "h": "Maersk raises outlook again as AI buildout, port congestion keep freight rates high",
+      "what": "Maersk raises outlook again as AI buildout, port congestion keep freight rates high",
+      "you": "Sudden rate spikes or port bottlenecks are the earliest warning signs of shelf shortages.",
+      "ref": "u-20261105-maersk-raises-outlook-again-as-ai-buildout-port-co"
+    },
+    {
+      "tag": "Trade Policy & Tariffs",
+      "h": "Trump’s midterm rout gives Ramaphosa hope for US reset days after South Africa loses duty-free access to $24.1 billion trade partner",
+      "what": "Trump’s midterm rout gives Ramaphosa hope for US reset days after South Africa loses duty-free access to $24.1 billion trade partner",
+      "you": "Early tariff signals indicate which products will face margin compression first.",
+      "ref": "u-20261105-trump-s-midterm-rout-gives-ramaphosa-hope-for-us-r"
+    },
+    {
+      "tag": "Commodity Markets",
+      "h": "Natural Gas and Oil Forecast: Gulf Supply Recovers, Can WTI Hold $85.17?",
+      "what": "Natural Gas and Oil Forecast: Gulf Supply Recovers, Can WTI Hold $85.17?",
+      "you": "Raw material price jumps are the root cause of retail margin erosion.",
+      "ref": "u-20261105-natural-gas-and-oil-forecast-gulf-supply-recovers-"
+    },
+    {
+      "tag": "Strategic Partnerships & M&A",
+      "h": "Dropbox Plans $350M AI Infrastructure Deal With Tigris Buy, Its Biggest Acquisition Yet",
+      "what": "Dropbox Plans $350M AI Infrastructure Deal With Tigris Buy, Its Biggest Acquisition Yet",
+      "you": "Major deals often signal shifts in supply capability or new market access.",
+      "ref": "u-20261105-dropbox-plans-350m-ai-infrastructure-deal-with-tig"
+    },
+    {
+      "tag": "Retail Strategy & Pricing",
+      "h": "Raspberry Pi 5 16GB Now Costs $385 After Another Price Increase",
+      "what": "Raspberry Pi 5 16GB Now Costs $385 After Another Price Increase",
+      "you": "Understanding retail strategy helps anticipate how supply shocks will be priced to consumers.",
+      "ref": "u-20261102-raspberry-pi-5-16gb-now-costs-385-after-another-pr"
+    }
+  ],
+  "watch": {
+    "h": "Nothing scheduled",
+    "why": ""
+  },
+  "idea": {
+    "h": "",
+    "why": ""
+  },
+  "auto": true
+}

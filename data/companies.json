@@ -42,7 +42,7 @@
     "aliases": [
       "MAERSK"
     ],
-    "latest": ""
+    "latest": "2026-11-05: Maersk raises outlook again as AI buildout, port congestion keep freight rates high"
   },
   {
     "id": "msc",
@@ -178,5 +178,33 @@
       "EVE"
     ],
     "latest": ""
+  },
+  {
+    "id": "adani-ports",
+    "name": "Adani Ports",
+    "kind": "port",
+    "type": "Port",
+    "sectors": [
+      "logisticsfreightrates",
+      "portactivityinfrastructu"
+    ],
+    "about": "Major Indian port operator reporting significant cargo volume growth and share gains, relevant to logistics infrastructure and freight rates.",
+    "aliases": [],
+    "latest": "2026-11-02: Adani Ports' Cargo Volume Rises 27% In October; Shares Gain 0.46%",
+    "addedAt": "2026-11-05T16:33:20.336Z"
+  },
+  {
+    "id": "congress",
+    "name": "Congress",
+    "kind": "tradegroup",
+    "type": "Trade Group",
+    "sectors": [
+      "tradepolicytariffs",
+      "geopoliticalsupplyrisks"
+    ],
+    "about": "Political party in the U.S. context (as referenced in trade war discussions) influencing trade policy and tariff debates.",
+    "aliases": [],
+    "latest": "",
+    "addedAt": "2026-11-05T16:33:20.336Z"
   }
 ]
