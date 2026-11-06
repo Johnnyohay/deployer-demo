@@ -2,18 +2,18 @@
   {
     "id": "tradepolicytariffs",
     "heat": 5,
-    "state": "Democrats control the trade agenda but face a Republican veto wall on tariff repeals following midterm losses; South Africa lost $24.1 billion in AGOA duty-free status while Canada extends bilateral deals with China to protect exports, though Canadian cabinet makers and craft brewers now face doubled U.S. duties.",
-    "money": "China signals willingness to expand U.S. farm imports if reciprocal tariff cuts are implemented, whereas the U.S. rescinded its subsidy duty review on Chinese wood mouldings for 2025; meanwhile, record U.S. imports persist despite tariff pressure, yet housing stocks have dropped as reality sets in after earlier relief hopes.",
-    "watch": "Whether Democrats can shift Congress's trade debate before Republicans leverage midterm losses to enforce stricter tariffs, and if China expands U.S. farm imports or India resolves its Scotch tariff dispute under the UK trade pact.",
-    "briefedAt": "2026-11-05T18:38:53.627Z"
+    "state": "Democrats control the trade agenda but face a Republican veto wall on repealing tariffs following midterm losses. The US International Trade Commission has published a new Harmonized Tariff Schedule reflecting ongoing rate adjustments, while record imports persist despite tariff pressure. Copper prices have fallen as the US election undermines AI and tariff trade confidence.",
+    "money": "Democrats won the tariff argument politically, yet MAT Q3 earnings showed revenues missing estimates due to tariff refund costs. Wall Street recorded its worst selloff since the 2025 tariff shock, driven by uncertainty over future rates ranging from 15% to 25% for sectors like robotaxis and automakers.",
+    "watch": "The clash between Trump and Congress on politically toxic tariff blitzes will determine if further rate hikes occur before midterms. Investors are watching whether the US blue wave can end the Canada trade war or if EU climate tax risks trigger a new trade conflict with India.",
+    "briefedAt": "2026-11-06T17:50:24.803Z"
   },
   {
     "id": "logisticsfreightrates",
     "heat": 5,
-    "state": "Port strikes remain active at Los Angeles and Long Beach while contract talks continue, and Maersk has ordered 26 new container ships to address Asian port congestion. Simultaneously, the Red Sea shipping lane is contested by Houthis launching drone warfare from a strategic island near Yemen's mouth, and Delhi customs adjudication delays are causing mounting demurrage costs globally, including $46.7 million in petroleum losses for Ghana.",
-    "money": "Maersk is winning the capacity race by deploying 26 new ships to counter congestion, while importers like Ghana are winning on cost reduction through Beacon technology that cut annual demurrage expenses from $1.3 million to near zero.",
-    "watch": "The outcome of contract talks between longshore unions and employers at LA/LB ports could trigger further strikes, and Maersk's continued reliance on AI buildouts suggests freight rates will remain elevated until congestion resolves.",
-    "briefedAt": "2026-11-05T18:42:45.539Z"
+    "state": "Port strikes at Los Angeles and Long Beach remain active with contract talks delayed, while Maersk orders 26 new container ships to combat Asian congestion. Simultaneously, the Red Sea lane faces drone warfare from Houthis near Yemen's mouth, Delhi customs delays cause global demurrage costs including $46.7 million in Ghanaian petroleum losses, and Ningbo port is stuck following typhoon disruption.",
+    "money": "Maersk wins capacity by deploying 26 new ships to counter congestion and raising its 2026 profit outlook on higher freight rates. Importers win cost reduction through Beacon technology in Ghana, cutting annual demurrage from $1.3 million to near zero.",
+    "watch": "Contract talks at LA/LB ports could trigger further strikes if unresolved, while Maersk's continued AI buildout suggests rates will stay elevated until congestion resolves.",
+    "briefedAt": "2026-11-06T17:53:19.929Z"
   },
   {
     "id": "retailinventorystockouts",
@@ -50,18 +50,18 @@
   {
     "id": "portactivityinfrastructu",
     "heat": 5,
-    "state": "Global port congestion remains a critical bottleneck, causing vessel delays that cost shipping lines millions and keeping freight rates elevated despite AI buildout efforts. Major hubs face specific disruptions, including truck traffic jams in Incheon, a Docker strike halting French ports, typhoon-induced gridlock in Ningbo, and record levels in the Middle East. Conversely, strategic expansion is driving growth, with Adani Ports reporting 51 MMT cargo volume (a 27% YoY increase) and securing new projects like the Port of Corpus Christi hub and a 15-year concession for Chittagong.",
-    "money": "Maersk wins by ordering 26 new container ships to mitigate Asian disruptions, while Adani Ports capitalizes on congestion with record October volumes. Shipping lines are bearing the brunt of operational halts in France and Lagos, which is threatening trade gains despite N4.6 trillion revenue.",
+    "state": "Port congestion remains a critical bottleneck driving freight rates higher and costing shipping lines millions in vessel delays, with specific disruptions including truck traffic jams in Incheon, strikes halting French ports, typhoon-induced gridlock in Ningbo, and record levels in the Middle East. Conversely, strategic expansion is driving growth, with Adani Ports reporting 51 MMT cargo volume (a 27% YoY increase) and securing new projects like the Port of Corpus Christi hub and a 15-year concession for Chittagong. Maersk wins by ordering 26 new container ships to mitigate Asian disruptions, while APM Terminals takes action to ease congestion and flow.",
+    "money": "Maersk is winning by raising its 2026 profit outlook as port congestion drives freight rates higher, while Adani Ports capitalizes on congestion with record October volumes that boosted shares. Shipping lines are bearing the brunt of operational halts in France and Lagos, which is threatening trade gains despite N4.6 trillion revenue.",
     "watch": "Monitor the impact of ongoing strikes in France and congestion in Ningbo and the Middle East before they cascade into broader supply chain delays. Watch for the implementation of proposed railway-linked depots and empty container storage solutions to alleviate bottlenecks.",
-    "briefedAt": "2026-11-05T18:40:55.989Z"
+    "briefedAt": "2026-11-06T17:54:34.347Z"
   },
   {
     "id": "freightlinesshipping",
     "heat": 5,
-    "state": "Ocean freight volumes are surging globally, with Rhenus reporting a 26% growth in China-Europe routes and DHL Global Forwarding revenue jumping as ocean freight rises. However, spot rates are forecast to fall by 30% in 2027 due to capacity flooding back from the Red Sea return, while specific routes like the Punta Arenas-Malvinas bridge face geopolitical complications.",
-    "money": "TJX Companies faces margin pressure from diesel and ocean freight costs, yet major players like Rhenus and DHL are capitalizing on rising volumes. Wakeo is integrating AI into tender decisions to optimize these high-volume operations.",
-    "watch": "The easing of the Hormuz impact may reduce diversions, but port dwell times remain elevated; monitor if this trend continues into late 2026. Watch for Russia's share sale process in Sovcomflot as it could alter regional capacity dynamics.",
-    "briefedAt": "2026-11-05T16:23:59.325Z"
+    "state": "Ocean freight volumes are surging globally, with Rhenus reporting 26% growth on China-Europe routes and DHL Global Forwarding revenue jumping as capacity returns from the Red Sea. However, spot rates are forecast to fall by 30% in 2027 due to this flooding back, while specific geopolitical complications persist at the Punta Arenas-Malvinas bridge.",
+    "money": "Major players like Rhenus and DHL are capitalizing on rising volumes, whereas TJX Companies faces margin pressure from diesel and ocean freight costs. Meanwhile, Great Eastern Shipping Company declared a ₹14.40 dividend and buyback despite hitting intraday lows amid price pressure.",
+    "watch": "Monitor if the easing of Hormuz impact continues to reduce diversions into late 2026 as port dwell times remain elevated. Watch for Russia's share sale process in Sovcomflot, which could alter regional capacity dynamics.",
+    "briefedAt": "2026-11-06T17:51:34.701Z"
   },
   {
     "id": "regionalsupplychains",
@@ -74,9 +74,9 @@
   {
     "id": "retailstrategypricing",
     "heat": 5,
-    "state": "Inflation remains above 3%, pressuring margins for retailers like Shivagrico and ASX's REA Group while enabling companies like Coca-Cola, Lufthansa Cargo, and Micron to exercise or bet on pricing power. Samsung is shifting its retail strategy to improve efficiency, whereas Align Technology faces declining market share due to weak pricing ability.",
-    "money": "Coca-Cola, Lufthansa Cargo, Saia, Geberit AG, and Micron are currently winning by leveraging inflationary conditions or supply constraints to maintain or increase prices, while retailers like Beaverbrooks and tech firms like Huawei face volume slides or internal competition that erodes margins.",
-    "watch": "The next critical moves will be how Chinese automakers reclaim pricing power with in-house driver-assist systems, whether winter LNG contraction extends flexible cargo pricing, and if Best Buy's digital expansion can offset traditional retail headwinds.",
-    "briefedAt": "2026-11-05T16:20:57.642Z"
+    "state": "David Jones entered voluntary administration, marking a significant failure in the Australian retail sector. Meanwhile, Toy Kingdom launched an AI-powered digital strategy to modernize its operations, while Serruya Private Equity appointed Jenny Frankel to lead The Body Shop's brand growth. In contrast, Beaverbrooks demonstrated resilience through strategic adjustments, and Macy's is actively restructuring its retail approach amid market pressures.",
+    "money": "Companies like Coca-Cola, Lufthansa Cargo, Micron, and Saia are winning by leveraging inflationary conditions and supply constraints to maintain or increase prices. Conversely, retailers such as Beaverbrooks face volume slides, tech firms like Huawei struggle with internal competition eroding margins, and Align Technology continues to lose market share due to weak pricing power.",
+    "watch": "The outcome of David Jones' administration will reveal vulnerabilities in the Australian retail model. Observers will watch how Toy Kingdom's AI integration scales and whether Best Buy's digital expansion can successfully offset traditional headwinds.",
+    "briefedAt": "2026-11-06T17:52:15.168Z"
   }
 ]

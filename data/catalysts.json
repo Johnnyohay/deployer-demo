@@ -1,1 +1,115 @@
-[]
+[
+  {
+    "id": "c-20261115-us-china-tariff-truce-under-strain-ahead-of-potent",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "US-China tariff truce under strain ahead of potential trade war escalation",
+    "why": "Both nations are bracing for a potential trade war as current agreements face pressure",
+    "sectors": [
+      "tradepolicytariffs",
+      "geopoliticalsupplyrisks"
+    ],
+    "ref": "u-20261106-eu-china-truce-under-strain-as-both-sides-brace-fo"
+  },
+  {
+    "id": "c-20261115-port-labor-risk-and-tariff-pressure-test-supply-ch",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "Port labor risk and tariff pressure test supply chains",
+    "why": "Labor shortages combined with ongoing tariff pressures are creating significant operational risks for ports",
+    "sectors": [
+      "logisticsfreightrates",
+      "regionalsupplychains"
+    ],
+    "ref": "u-20261106-first-shift-port-labor-risk-tariff-pressure-and-en"
+  },
+  {
+    "id": "c-20261115-automakers-face-tariff-hearings-with-15-25-rates-u",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "Automakers face tariff hearings with 15%-25% rates under new Congress scrutiny",
+    "why": "New legislative scrutiny is imposing significant tariff rates on the automotive and robotaxi sectors",
+    "sectors": [
+      "tradepolicytariffs",
+      "strategicpartnershipsma"
+    ],
+    "ref": "u-20261106-tariff-hearings-robotaxi-scrutiny-15-25-rates-2026"
+  },
+  {
+    "id": "c-20261115-winter-natural-gas-forwards-tumble-due-to-supply-g",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "Winter natural gas forwards tumble due to supply glut and warmth",
+    "why": "A surplus of natural gas and warmer weather are causing a sharp decline in forward pricing",
+    "sectors": [
+      "commoditymarkets"
+    ],
+    "ref": "u-20261106-winter-natural-gas-forwards-tumble-as-warmth-suppl"
+  },
+  {
+    "id": "c-20261115-closing-mexico-s-natural-gas-supply-gap",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "Closing Mexico's natural gas supply gap",
+    "why": "Efforts are underway to address a critical shortage in Mexico's natural gas infrastructure",
+    "sectors": [
+      "commoditymarkets"
+    ],
+    "ref": "u-20261106-closing-mexico-s-natural-gas-supply-gap"
+  },
+  {
+    "id": "c-20261115-xeneta-forecasts-30-drop-in-ocean-freight-spot-rat",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "Xeneta forecasts 30% drop in ocean freight spot rates for 2027",
+    "why": "Market analysts predict a significant decline in shipping costs over the coming year",
+    "sectors": [
+      "freightlinesshipping"
+    ],
+    "ref": "u-20261106-xeneta-forecasts-30-drop-in-ocean-freight-spot-rat"
+  },
+  {
+    "id": "c-20261115-wisetech-global-releases-november-ocean-freight-ri",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "WiseTech Global releases November Ocean Freight Risk Outlook",
+    "why": "New data and analysis are being provided to assess current risks in global ocean freight markets",
+    "sectors": [
+      "logisticsfreightrates"
+    ],
+    "ref": "u-20261106-wisetech-global-november-ocean-freight-risk-outloo"
+  },
+  {
+    "id": "c-20261115-maersk-raises-2026-profit-outlook-citing-port-cong",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "Maersk raises 2026 profit outlook citing port congestion driving rates higher",
+    "why": "Despite general market trends, specific port congestion issues are keeping freight rates elevated",
+    "sectors": [
+      "logisticsfreightrates"
+    ],
+    "ref": "u-20261106-maersk-raises-2026-profit-outlook-as-port-congesti"
+  },
+  {
+    "id": "c-20261115-apm-terminals-takes-action-to-ease-port-congestion",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "APM Terminals takes action to ease port congestion and cargo flow",
+    "why": "Operational measures are being implemented to mitigate bottlenecks at major ports",
+    "sectors": [
+      "portactivityinfrastructu"
+    ],
+    "ref": "u-20261106-apm-terminals-takes-action-to-ease-port-congestion"
+  },
+  {
+    "id": "c-20261115-eu-climate-tax-risks-opening-a-new-trade-war-with-",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "EU climate tax risks opening a new trade war with India at COP31",
+    "why": "Environmental regulations are creating friction that could escalate into broader trade conflicts",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "ref": "u-20261106-europe-s-climate-tax-risks-opening-a-new-trade-war"
+  }
+]

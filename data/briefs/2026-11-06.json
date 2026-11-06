@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-06",
+  "title": "Today in retail, supply chain and geopolitics",
+  "big": "44 new stories since the last brief. The busiest areas: trade policy & tariffs and freight lines & shipping.",
+  "stories": [
+    {
+      "tag": "Logistics & Freight Rates",
+      "h": "Maersk raises 2026 profit outlook as port congestion drives freight rates higher",
+      "what": "Maersk raises 2026 profit outlook as port congestion drives freight rates higher",
+      "you": "Sudden rate spikes or port bottlenecks are the earliest warning signs of shelf shortages.",
+      "ref": "u-20261106-maersk-raises-2026-profit-outlook-as-port-congesti"
+    },
+    {
+      "tag": "Trade Policy & Tariffs",
+      "h": "Trump, Congress Set to Clash on Politically Toxic Tariff Blitz",
+      "what": "Trump, Congress Set to Clash on Politically Toxic Tariff Blitz",
+      "you": "Early tariff signals indicate which products will face margin compression first.",
+      "ref": "u-20261106-trump-congress-set-to-clash-on-politically-toxic-t"
+    },
+    {
+      "tag": "Retail Inventory & Stockouts",
+      "h": "Closing Mexico’s Natural Gas Supply Gap",
+      "what": "Closing Mexico’s Natural Gas Supply Gap",
+      "you": "Seeing inventory drain before competitors reveals where the market is overheating.",
+      "ref": "u-20261106-closing-mexico-s-natural-gas-supply-gap"
+    },
+    {
+      "tag": "Commodity Markets",
+      "h": "Winter Natural Gas Forwards Tumble as Warmth, Supply Glut Batter Prices",
+      "what": "Winter Natural Gas Forwards Tumble as Warmth, Supply Glut Batter Prices",
+      "you": "Raw material price jumps are the root cause of retail margin erosion.",
+      "ref": "u-20261106-winter-natural-gas-forwards-tumble-as-warmth-suppl"
+    },
+    {
+      "tag": "Geopolitical Supply Risks",
+      "h": "Centre may prioritise chip supply chain projects under component scheme",
+      "what": "Centre may prioritise chip supply chain projects under component scheme",
+      "you": "Regional conflicts and energy shocks directly translate into retail cost increases.",
+      "ref": "u-20261106-centre-may-prioritise-chip-supply-chain-projects-u"
+    }
+  ],
+  "watch": {
+    "h": "Nothing scheduled",
+    "why": ""
+  },
+  "idea": {
+    "h": "Geopolitical Supply Risks",
+    "why": "Monitor the link between US midterm election results and potential tariff reversals, specifically targeting sectors like Canadian cabinet makers and craft brewers currently facing doubled duties. Recent reports show Trump's midterm rout has given allies like South Africa hope for a trade reset, suggesting current protectionist policies are fragile and could shift within weeks."
+  },
+  "auto": true
+}
