@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-07",
+  "title": "Today in retail, supply chain and geopolitics",
+  "big": "31 new stories since the last brief. The busiest areas: trade policy & tariffs and freight lines & shipping.",
+  "stories": [
+    {
+      "tag": "Trade Policy & Tariffs",
+      "h": "U.S. poultry imports tariff-free benefit from South Africa will have to be reevaluated",
+      "what": "U.S. poultry imports tariff-free benefit from South Africa will have to be reevaluated",
+      "you": "Early tariff signals indicate which products will face margin compression first.",
+      "ref": "u-20261107-u-s-poultry-imports-tariff-free-benefit-from-south"
+    },
+    {
+      "tag": "Commodity Markets",
+      "h": "Storage Limits Force Northeast Natural Gas Pipelines to Turn Away Excess Supply",
+      "what": "Storage Limits Force Northeast Natural Gas Pipelines to Turn Away Excess Supply",
+      "you": "Raw material price jumps are the root cause of retail margin erosion.",
+      "ref": "u-20261106-storage-limits-force-northeast-natural-gas-pipelin"
+    },
+    {
+      "tag": "Geopolitical Supply Risks",
+      "h": "Nvidia Stock Pushes Focus Toward 3 Chip Supply Chain Compliance Plays",
+      "what": "Nvidia Stock Pushes Focus Toward 3 Chip Supply Chain Compliance Plays",
+      "you": "Regional conflicts and energy shocks directly translate into retail cost increases.",
+      "ref": "u-20261107-nvidia-stock-pushes-focus-toward-3-chip-supply-cha"
+    },
+    {
+      "tag": "Freight Lines & Shipping",
+      "h": "World's second-largest shipping company's investment arm moves to acquire port operators in Singapore and Belgium in deal covering two African countries",
+      "what": "World's second-largest shipping company's investment arm moves to acquire port operators in Singapore and Belgium in deal covering two African countries",
+      "you": "Fleet reductions or route changes indicate long-term supply constraints.",
+      "ref": "u-20261107-world-s-second-largest-shipping-company-s-investme"
+    },
+    {
+      "tag": "Regional Supply Chains",
+      "h": "Summit showcases nearshoring opportunities amid trade challenges",
+      "what": "Summit showcases nearshoring opportunities amid trade challenges",
+      "you": "Shifts in regional sourcing strategies reveal where supply is becoming more volatile.",
+      "ref": "u-20261107-summit-showcases-nearshoring-opportunities-amid-tr"
+    }
+  ],
+  "watch": {
+    "h": "US-China tariff truce under strain ahead of potential trade war escalation",
+    "why": "Around November 15. Both nations are bracing for a potential trade war as current agreements face pressure"
+  },
+  "idea": {
+    "h": "Logistics & Freight Rates",
+    "why": "Prepare contingency plans for a 30% drop in ocean freight rates by late 2027 while simultaneously hedging against immediate port strikes at Los Angeles and Long Beach. Analysts predict capacity flooding will lower costs, but ongoing labor disputes and the AI buildout driving current congestion mean short-term volatility remains high."
+  },
+  "auto": true
+}

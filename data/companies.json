@@ -132,7 +132,7 @@
     "aliases": [
       "WTO"
     ],
-    "latest": ""
+    "latest": "2026-11-07: World's second-largest shipping company's investment arm moves to acquire port operators in Singapore and Belgium in deal covering two African countries"
   },
   {
     "id": "us-customs-and-border-protection",
@@ -217,5 +217,34 @@
     "aliases": [],
     "latest": "2026-11-04: Broadcom loses final appeal over Samsung chip supply deal",
     "addedAt": "2026-11-05T18:49:53.034Z"
+  },
+  {
+    "id": "dp-world",
+    "name": "DP World",
+    "kind": "company",
+    "type": "Company",
+    "sectors": [
+      "logisticsfreightrates",
+      "strategicpartnershipsma",
+      "portactivityinfrastructu"
+    ],
+    "about": "Global logistics and port operator involved in strategic partnerships and freight rate discussions.",
+    "aliases": [],
+    "latest": "2026-11-07: ‘Ocean freight rates will come down eventually, we have seen this before’: DP World COO",
+    "addedAt": "2026-11-07T16:59:35.572Z"
+  },
+  {
+    "id": "great-eastern-shipping-company",
+    "name": "Great Eastern Shipping Company",
+    "kind": "company",
+    "type": "Company",
+    "sectors": [
+      "commoditymarkets",
+      "logisticsfreightrates"
+    ],
+    "about": "Indian shipping firm focusing on gas carriers, with recent dividend declarations and profit jumps.",
+    "aliases": [],
+    "latest": "2026-11-06: Great Eastern Shipping Company Declares ₹14.40 Dividend and Buyback",
+    "addedAt": "2026-11-07T16:59:35.572Z"
   }
 ]

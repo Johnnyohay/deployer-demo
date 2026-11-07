@@ -4,8 +4,8 @@
     "heat": 5,
     "state": "Democrats control the trade agenda but face a Republican veto wall on repealing tariffs following midterm losses. The US International Trade Commission has published a new Harmonized Tariff Schedule reflecting ongoing rate adjustments, while record imports persist despite tariff pressure. Copper prices have fallen as the US election undermines AI and tariff trade confidence.",
     "money": "Democrats won the tariff argument politically, yet MAT Q3 earnings showed revenues missing estimates due to tariff refund costs. Wall Street recorded its worst selloff since the 2025 tariff shock, driven by uncertainty over future rates ranging from 15% to 25% for sectors like robotaxis and automakers.",
-    "watch": "The clash between Trump and Congress on politically toxic tariff blitzes will determine if further rate hikes occur before midterms. Investors are watching whether the US blue wave can end the Canada trade war or if EU climate tax risks trigger a new trade conflict with India.",
-    "briefedAt": "2026-11-06T17:50:24.803Z"
+    "watch": "Trump and Congress are set to clash on politically toxic tariff blitzes which will determine if further rate hikes occur before midterms. Investors are watching whether the US blue wave can end the Canada trade war or if EU climate tax risks trigger a new trade conflict with India.",
+    "briefedAt": "2026-11-07T16:46:19.270Z"
   },
   {
     "id": "logisticsfreightrates",
@@ -26,26 +26,26 @@
   {
     "id": "geopoliticalsupplyrisks",
     "heat": 5,
-    "state": "Global energy buffers are eroded as the EU cuts gas consumption by a fifth and nuclear construction hits a 40-year high for AI power needs. Chip logistics face tightening geopolitical friction, with Intel burning approximately $6 billion on substrates while Broadcom lost its final appeal over Samsung supply terms. Trade policy remains volatile; Trump's tariffs sparked growth but widened the US trade deficit and slowed hiring.",
-    "money": "Vertiv secured a three-year deal with Infineon to lock in power chip capacity, while OpenAI actively seeks partnerships with Samsung and SK Hynix to expand AI infrastructure. Logitech is balancing strong growth against supply risk as Nvidia's stock fell 2.96% due to shrinking China chip availability.",
-    "watch": "The outcome of the Texas midterm elections could tighten AI oversight and further pressure Taiwan's chip supply chain, potentially triggering more memory trade warnings similar to Dell's recent inventory surge.",
-    "briefedAt": "2026-11-05T18:44:24.222Z"
+    "state": "Global energy buffers are eroded as the world's supply gap falls short of plug efforts, with ADNOC warning of a crisis. Chip logistics face tightening friction; Intel burns ~$6B on substrates while Broadcom lost its final appeal over Samsung terms. Nvidia stock fell 2.96% due to shrinking China availability, and Logitech balances growth against these risks. Texas midterm flips could tighten AI oversight, pressuring Taiwan's supply chain and triggering more inventory warnings like Dell's tripled stock.",
+    "money": "Vertiv secured a three-year deal with Infineon to lock in power chip capacity. OpenAI is actively seeking partnerships with Samsung and SK Hynix to expand AI infrastructure. Intel continues heavy spending (~$6B) on substrates despite supply bottlenecks.",
+    "watch": "The outcome of the Texas midterm elections could tighten AI oversight and further pressure Taiwan's chip supply chain. India's Rs 40,000-crore weapon export surge and Iran war energy crisis are fueling geopolitical shifts that may alter chip trade flows.",
+    "briefedAt": "2026-11-07T16:50:05.397Z"
   },
   {
     "id": "commoditymarkets",
     "heat": 5,
-    "state": "Natural gas storage levels are declining while demand remains lackluster, yet Goldman Sachs has lifted price forecasts citing supply uncertainty and weather risks. European prices have risen due to US election results and Strait of Hormuz tensions, whereas India's natural gas demand is projected to fall by 2% in 2026 despite a 10% increase in LNG imports. Antero Resources sees liquids pricing strength offsetting natural gas weakness, and TotalEnergies has signed a five-year LNG supply agreement with UAE's ADNOC.",
-    "money": "US WTI crude oil is testing support near $85.17 as Gulf supply recovers, while Petrobras keeps distributor natural gas prices unchanged despite regional volatility. European markets are paying a premium for energy security amid geopolitical friction, but Indian demand contraction suggests limited upside for regional LNG traders.",
-    "watch": "The outcome of the US election and stability in the Strait of Hormuz will likely dictate whether European gas prices sustain their current rise or correct on supply fears. Goldman Sachs' updated forecasts on weather-related supply shocks could trigger a rapid re-pricing of natural gas cash markets.",
-    "briefedAt": "2026-11-05T17:18:33.413Z"
+    "state": "Winter natural gas forwards have tumbled as warmth and supply gluts batter prices, yet storage limits in the Northeast are forcing pipelines to turn away excess. European prices remain elevated due to US election results and Strait of Hormuz tensions, while India's demand is projected to fall 2% in 2026 despite a 10% rise in LNG imports. Goldman Sachs has lifted price forecasts citing supply uncertainty, and US WTI crude is testing support near $85.17 as Gulf supply recovers.",
+    "money": "TotalEnergies is winning the long-term supply game with a five-year LNG deal with UAE's ADNOC, while Petrobras maintains stable distributor pricing despite regional volatility. European markets continue paying a premium for energy security, but Indian traders face limited upside due to demand contraction.",
+    "watch": "The outcome of the US election and stability in the Strait of Hormuz will dictate whether European gas prices sustain their rise or correct on supply fears. Goldman Sachs' updated forecasts on weather-related supply shocks could trigger a rapid re-pricing of natural gas cash markets.",
+    "briefedAt": "2026-11-07T16:52:22.680Z"
   },
   {
     "id": "strategicpartnershipsma",
     "heat": 5,
-    "state": "EQT and Range are in crosshairs for a merger that would put midstream and pipe contracts at risk, while OpenAI acquired Pierre to lead supply chain software development. Dropbox is executing its largest acquisition yet with a $350M deal with Tigris Buy for AI infrastructure. In retail finance, India's regulator approved Kotak Mahindra's purchase of Deutsche Bank's retail business, and Amdocs entered insurance by acquiring EIS.",
-    "money": "OpenAI is winning the supply chain software development race through its Pierre acquisition. Dropbox is securing its biggest deal to date with a $350M investment in Tigris Buy for AI infrastructure.",
-    "watch": "The outcome of the EQT-Range merger will determine the fate of midstream and pipe contracts, while Tesla-SpaceX analysts note the merger requires nearly 2x growth to make strategic sense.",
-    "briefedAt": "2026-11-05T17:19:02.265Z"
+    "state": "EQT and Range are in crosshairs for a merger that threatens midstream and pipe contracts, while PS Logistics expanded its Tennessee flatbed network by acquiring Roane Transportation Services and its 170 drivers. In finance, India's regulator approved Kotak Mahindra's purchase of Deutsche Bank's retail business, and OpenAI acquired Pierre to lead supply chain software development. Yoé is also pursuing a Canadian prestige retail expansion as the luxury biotech skincare brand grows in the U.S.",
+    "money": "OpenAI is winning the supply chain software development race through its Pierre acquisition, while Dropbox secured its largest deal yet with a $350M investment in Tigris Buy for AI infrastructure. EQT's potential merger with Range puts midstream and pipe contracts at risk, suggesting significant value shifts if the deal proceeds.",
+    "watch": "The outcome of the EQT-Range merger will determine the fate of midstream and pipe contracts, and analysts note such a merger requires nearly 2x growth to make strategic sense. PS Logistics continues expanding its physical footprint in Tennessee with the Roane acquisition, indicating ongoing consolidation in flatbed logistics.",
+    "briefedAt": "2026-11-07T16:51:12.678Z"
   },
   {
     "id": "portactivityinfrastructu",
@@ -58,18 +58,18 @@
   {
     "id": "freightlinesshipping",
     "heat": 5,
-    "state": "Ocean freight volumes are surging globally, with Rhenus reporting 26% growth on China-Europe routes and DHL Global Forwarding revenue jumping as capacity returns from the Red Sea. However, spot rates are forecast to fall by 30% in 2027 due to this flooding back, while specific geopolitical complications persist at the Punta Arenas-Malvinas bridge.",
-    "money": "Major players like Rhenus and DHL are capitalizing on rising volumes, whereas TJX Companies faces margin pressure from diesel and ocean freight costs. Meanwhile, Great Eastern Shipping Company declared a ₹14.40 dividend and buyback despite hitting intraday lows amid price pressure.",
+    "state": "Ocean freight volumes are surging globally, with Rhenus reporting 26% growth on China-Europe routes and DHL Global Forwarding revenue jumping as capacity returns from the Red Sea. However, spot rates are forecast to fall by 30% in 2027 due to this flooding back, while specific geopolitical complications persist at the Punta Arenas-Malvinas bridge. Major players like Rhenus and DHL are capitalizing on rising volumes, whereas TJX Companies faces margin pressure from diesel and ocean freight costs.",
+    "money": "Rhenus and DHL Global Forwarding are winning by capitalizing on surging volumes and capacity returns, while Great Eastern Shipping Company declared a ₹14.40 dividend and buyback despite hitting intraday lows amid price pressure.",
     "watch": "Monitor if the easing of Hormuz impact continues to reduce diversions into late 2026 as port dwell times remain elevated. Watch for Russia's share sale process in Sovcomflot, which could alter regional capacity dynamics.",
-    "briefedAt": "2026-11-06T17:51:34.701Z"
+    "briefedAt": "2026-11-07T16:48:13.791Z"
   },
   {
     "id": "regionalsupplychains",
     "heat": 5,
-    "state": "Serbia, Bosnia, and the Philippines are increasing food imports due to declining domestic production, while Venezuela reports a 38.8% drop in food imports as local output expands; simultaneously, Brazil faces lower wheat production requiring record imports, and England's Energy Independence Bill is raising costs by undermining domestic energy generation.",
-    "money": "Thai energy producers and qualified suppliers for nearshoring are positioning themselves to win by securing data center growth and retail power models through lower tariffs and local sourcing rules, while NEPES wins recognition for strengthening the semiconductor supply chain via reshored materials and components.",
+    "state": "Serbia, Bosnia, and the Philippines are increasing food imports due to declining domestic production, while Venezuela reports a 38.8% drop in food imports as local output expands; simultaneously, Brazil faces lower wheat production requiring record imports, and El Paso's nearshoring opportunities reveal how trade challenges impact cross-border logistics for AI infrastructure and biopharma cold chains.",
+    "money": "Thai energy producers and qualified suppliers are positioning themselves to win by securing data center growth through lower tariffs and local sourcing rules, while NEPES wins recognition for strengthening the semiconductor supply chain via reshored materials and components.",
     "watch": "USDA's expansion of domestic fertilizer production will determine if global supply concerns persist into 2027, and El Paso's nearshoring opportunities will reveal how trade challenges impact cross-border logistics for AI infrastructure and biopharma cold chains.",
-    "briefedAt": "2026-11-05T17:17:53.457Z"
+    "briefedAt": "2026-11-07T16:53:45.544Z"
   },
   {
     "id": "retailstrategypricing",
