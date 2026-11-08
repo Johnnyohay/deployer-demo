@@ -111,5 +111,253 @@
       "tradepolicytariffs"
     ],
     "ref": "u-20261106-europe-s-climate-tax-risks-opening-a-new-trade-war"
+  },
+  {
+    "id": "c-20261115-usmca-tariff-obstacle-resolution-push-in-borderlan",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "USMCA tariff obstacle resolution push in Borderlands Mexico",
+    "why": "Mexico is deploying National Guard officers to secure highways while US foreign-trade zones attempt to resolve specific USMCA tariff barriers.",
+    "sectors": [
+      "tradepolicytariffs",
+      "logisticsfreightrates"
+    ],
+    "ref": "u-20261108-borderlands-mexico-us-foreign-trade-zones-push-to-"
+  },
+  {
+    "id": "c-20261115-harmonized-tariff-schedule-update",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "Harmonized Tariff Schedule update",
+    "why": "The USITC publishes an updated Harmonized Tariff Schedule which may impact import costs and trade compliance.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "ref": "u-20261107-harmonized-tariff-schedule"
+  },
+  {
+    "id": "c-20261115-nepra-special-industrial-tariff-adjustment",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "Nepra special industrial tariff adjustment",
+    "why": "A special industrial tariff in Pakistan is raised to Rs25.30 per unit despite dissent from industry stakeholders.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "ref": "u-20261107-nepra-raises-special-industrial-tariff-to-rs25-30-"
+  },
+  {
+    "id": "c-20261115-czechia-import-plunge-following-new-eu-customs-dut",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "Czechia import plunge following new EU customs duty",
+    "why": "New EU customs duties caused cheap imports into Czechia to drop by 81 percent, affecting local supply chains.",
+    "sectors": [
+      "tradepolicytariffs",
+      "regionalsupplychains"
+    ],
+    "ref": "u-20261107-cheap-imports-to-czechia-plunge-81-percent-after-n"
+  },
+  {
+    "id": "c-20261115-lrt-jabodebek-tariff-adjustment-proposal",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "LRT Jabodebek tariff adjustment proposal",
+    "why": "A proposal suggests that if there is an adjustment, the LRT Jabodebek tariff should not burden users.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "ref": "u-20261108-if-there-is-adjustment-lrt-jabodebek-tariff-should"
+  },
+  {
+    "id": "c-20261115-ocean-freight-rate-stabilization-expectation",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "Ocean freight rate stabilization expectation",
+    "why": "Market participants expect ocean freight rates to come down eventually after recent rebounds and price fluctuations.",
+    "sectors": [
+      "freightlinesshipping",
+      "commoditymarkets"
+    ],
+    "ref": "u-20261107-ocean-freight-rates-will-come-down-eventually-we-h"
+  },
+  {
+    "id": "c-20261115-b-c-crab-harvesters-welcome-chinese-tariff-relief",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "B.C. crab harvesters welcome Chinese tariff relief",
+    "why": "British Columbia crab harvesters have welcomed a zero-tariff offer from China which helps offset trade blows to South Africa.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "ref": "u-20261108-chinese-tariff-relief-welcomed-by-b-c-crab-harvest"
+  },
+  {
+    "id": "c-20261115-blue-wave-tariff-chaos-warning-from-california-por",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "Blue wave tariff chaos warning from California port king",
+    "why": "Industry leaders warn that the 'blue wave' political shift will not immediately end ongoing tariff chaos affecting ports.",
+    "sectors": [
+      "tradepolicytariffs",
+      "logisticsfreightrates"
+    ],
+    "ref": "u-20261108-blue-wave-won-t-end-tariff-chaos-warns-california-"
+  },
+  {
+    "id": "c-20261115-us-poultry-import-tariff-reevaluation-for-south-af",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "US poultry import tariff reevaluation for South Africa",
+    "why": "Tariff-free benefits for US poultry imports from South Africa are set to be reevaluated under new trade policies.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "ref": "u-20261107-u-s-poultry-imports-tariff-free-benefit-from-south"
+  },
+  {
+    "id": "c-20261115-i-ca-cepa-growth-potential-for-indonesian-exporter",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "I-CA CEPA growth potential for Indonesian exporters",
+    "why": "Indonesian exporters are exploring how to convert tariff relief under I-CA CEPA into tangible economic growth.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "ref": "u-20261107-i-ca-cepa-can-indonesian-exporters-turn-tariff-rel"
+  },
+  {
+    "id": "c-20261115-chile-carriers-end-strike-after-8-tariff-increase",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "Chile carriers end strike after 8% tariff increase",
+    "why": "A strike at the San Antonio port in Chile has ended following an 8% tariff increase that impacted logistics.",
+    "sectors": [
+      "logisticsfreightrates"
+    ],
+    "ref": "u-20261107-in-chile-carriers-end-strike-at-san-antonio-port-a"
+  },
+  {
+    "id": "c-20261115-strategic-partnership-for-port-operators-in-africa",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "Strategic partnership for port operators in Africa",
+    "why": "A major shipping company's investment arm is acquiring port operators in Singapore and Belgium with a deal covering two African nations.",
+    "sectors": [
+      "strategicpartnershipsma",
+      "portactivityinfrastructu"
+    ],
+    "ref": "u-20261107-world-s-second-largest-shipping-company-s-investme"
+  },
+  {
+    "id": "c-20261115-s-p-500-worst-week-since-april-2025-tariff-crash",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "S&P 500 worst week since April 2025 tariff crash",
+    "why": "The S&P 500 experienced its worst weekly performance since the April 2025 tariff-induced market crash.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "ref": "u-20261107-the-s-p-500-just-had-its-worst-week-since-the-apri"
+  },
+  {
+    "id": "c-20261115-nintendo-rules-out-switch-2-price-hike-due-to-chip",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "Nintendo rules out Switch 2 price hike due to chip supply",
+    "why": "Nintendo has decided against raising prices for the Switch 2, citing ongoing memory chip supply chain constraints.",
+    "sectors": [
+      "retailstrategypricing"
+    ],
+    "ref": "u-20261107-nintendo-reportedly-rules-out-a-switch-2-price-hik"
+  },
+  {
+    "id": "c-20261115-fao-food-price-index-edges-down-in-october",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "FAO food price index edges down in October",
+    "why": "The FAO Food Price Index decreased in October, with commodity prices easing except for sugar and vegetable oils.",
+    "sectors": [
+      "commoditymarkets"
+    ],
+    "ref": "u-20261107-fao-food-price-index-edges-down-in-october-with-co"
+  },
+  {
+    "id": "c-20261115-summit-showcases-nearshoring-opportunities-amid-tr",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "Summit showcases nearshoring opportunities amid trade challenges",
+    "why": "A recent summit highlighted nearshoring opportunities as a strategic response to ongoing global trade challenges.",
+    "sectors": [
+      "retailstrategypricing"
+    ],
+    "ref": "u-20261107-summit-showcases-nearshoring-opportunities-amid-tr"
+  },
+  {
+    "id": "c-20261115-seagis-acquires-warehouse-near-port-newark",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "Seagis acquires warehouse near Port Newark",
+    "why": "Seagis has acquired a vacant 171,000 sq. ft. warehouse adjacent to Port Newark Container Terminal to expand logistics capacity.",
+    "sectors": [
+      "logisticsfreightrates"
+    ],
+    "ref": "u-20261106-seagis-grabs-vacant-171-000-sq-ft-warehouse-adjace"
+  },
+  {
+    "id": "c-20261115-ps-logistics-expands-tennessee-flatbed-network",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "PS Logistics expands Tennessee flatbed network",
+    "why": "PS Logistics expanded its flatbed presence in Tennessee by acquiring Roane Transportation Services and its drivers.",
+    "sectors": [
+      "logisticsfreightrates"
+    ],
+    "ref": "u-20261106-ps-logistics-expands-tennessee-flatbed-presence-wi"
+  },
+  {
+    "id": "c-20261115-cape-town-container-terminal-performance-improves",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "Cape Town container terminal performance improves",
+    "why": "Vessel waiting times have fallen at the Cape Town container terminal, improving overall port efficiency.",
+    "sectors": [
+      "portactivityinfrastructu"
+    ],
+    "ref": "u-20261106-cape-town-container-terminal-performance-improves-"
+  },
+  {
+    "id": "c-20261115-torrent-power-receives-gst-demand-on-ocean-freight",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "Torrent Power receives GST demand on ocean freight",
+    "why": "Torrent Power received a GST demand of ₹6.47 crore related to ocean freight costs.",
+    "sectors": [
+      "freightlinesshipping"
+    ],
+    "ref": "u-20261106-torrent-power-receives-6-47-crore-gst-demand-on-oc"
+  },
+  {
+    "id": "c-20261115-wisetech-faces-rising-ocean-freight-risks",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "WiseTech faces rising ocean freight risks",
+    "why": "WiseTech stock is facing increased risks due to volatile ocean freight rates into November.",
+    "sectors": [
+      "freightlinesshipping"
+    ],
+    "ref": "u-20261106-wisetech-stock-faces-rising-ocean-freight-risks-in"
+  },
+  {
+    "id": "c-20270101-end-of-duty-free-access-for-african-car-producers",
+    "d": "2027-01-01",
+    "approx": true,
+    "title": "End of duty-free access for African car producers",
+    "why": "A major African automotive manufacturer faces job and export losses in 2027 as the world's largest economy ends its duty-free trade status.",
+    "sectors": [
+      "tradepolicytariffs",
+      "geopoliticalsupplyrisks"
+    ],
+    "ref": "u-20261108-like-canada-africa-s-largest-car-producer-faces-20"
   }
 ]

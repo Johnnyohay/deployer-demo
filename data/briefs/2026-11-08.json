@@ -1,0 +1,44 @@
+{
+  "date": "2026-11-08",
+  "title": "Today in retail, supply chain and geopolitics",
+  "big": "19 new stories since the last brief. The busiest areas: trade policy & tariffs and geopolitical supply risks.",
+  "stories": [
+    {
+      "tag": "Trade Policy & Tariffs",
+      "h": "Like Canada, Africa’s largest car producer faces 2027 job and export losses as world’s $32 trillion economy ends duty-free access, with China and Europe offering hope",
+      "what": "Like Canada, Africa’s largest car producer faces 2027 job and export losses as world’s $32 trillion economy ends duty-free access, with China and Europe offering hope",
+      "you": "Early tariff signals indicate which products will face margin compression first.",
+      "ref": "u-20261108-like-canada-africa-s-largest-car-producer-faces-20"
+    },
+    {
+      "tag": "Commodity Markets",
+      "h": "FAO Food Price Index edges down in October, with commodity price indices easing except for sugar and vegetable oils",
+      "what": "FAO Food Price Index edges down in October, with commodity price indices easing except for sugar and vegetable oils",
+      "you": "Raw material price jumps are the root cause of retail margin erosion.",
+      "ref": "u-20261107-fao-food-price-index-edges-down-in-october-with-co"
+    },
+    {
+      "tag": "Geopolitical Supply Risks",
+      "h": "Vertiv Locks Down Chip Supply as Its Order Book Runs at Triple-Digit Growth",
+      "what": "Vertiv Locks Down Chip Supply as Its Order Book Runs at Triple-Digit Growth",
+      "you": "Regional conflicts and energy shocks directly translate into retail cost increases.",
+      "ref": "u-20261108-vertiv-locks-down-chip-supply-as-its-order-book-ru"
+    },
+    {
+      "tag": "Freight Lines & Shipping",
+      "h": "Stena buys Norwegian shipping company Color Line",
+      "what": "Stena buys Norwegian shipping company Color Line",
+      "you": "Fleet reductions or route changes indicate long-term supply constraints.",
+      "ref": "u-20261105-stena-buys-norwegian-shipping-company-color-line"
+    }
+  ],
+  "watch": {
+    "h": "US-China tariff truce under strain ahead of potential trade war escalation",
+    "why": "Around November 15. Both nations are bracing for a potential trade war as current agreements face pressure"
+  },
+  "idea": {
+    "h": "Strategic Partnerships & M&A",
+    "why": "Evaluate supply chain software vendors that are acquiring AI capabilities, such as OpenAI's recent moves, to future-proof inventory management against tariff-induced disruptions. The convergence of geopolitical instability and digital transformation means companies with integrated AI-driven logistics tools will be better positioned to navigate complex trade routes."
+  },
+  "auto": true
+}
