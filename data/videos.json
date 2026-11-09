@@ -1,12 +1,82 @@
 [
  {
+  "id": "UbInoWlAxVw",
+  "title": "FreightWaves Today | November 9",
+  "channel": "FreightWaves",
+  "topic": "tradepolicytariffs",
+  "d": "2026-11-09T19:00:13+00:00",
+  "short": false,
+  "views": 39,
+  "desc": "On Monday’s freight edition of FreightWaves Today, the team reflects on a week at the Up Summit and Cape Week, then dives into the day’s top transportation and supply chain stories, guest interviews, and the latest freight market data from Sonar."
+ },
+ {
+  "id": "rCsv_b--kWM",
+  "title": "AI in Logistics: How to Get Real ROI, Not Just Hype",
+  "channel": "FreightWaves",
+  "topic": "tradepolicytariffs",
+  "d": "2026-11-09T18:54:44+00:00",
+  "short": false,
+  "views": 11,
+  "desc": "The world of global trade is in constant flux, from shifting political landscapes to unexpected disruptions like drone attacks. In this dynamic environment, how can logistics professionals leverage AI to not just survive, but thrive?"
+ },
+ {
+  "id": "qA-YFyUmaqQ",
+  "title": "SELF-DRIVING Trucks Are HERE: Venti CEO Reveals US Fleet Operations",
+  "channel": "FreightWaves",
+  "topic": "tradepolicytariffs",
+  "d": "2026-11-09T18:08:44+00:00",
+  "short": false,
+  "views": 20,
+  "desc": "Venti CEO Heidi Wyle shares how her company is deploying self-driving trucks within heavy logistics supply chain environments, including ports and rail yards."
+ },
+ {
+  "id": "Erd-qses8k8",
+  "title": "Freight Demand Jumps 5% as Spot Rates Climb",
+  "channel": "FreightWaves",
+  "topic": "tradepolicytariffs",
+  "d": "2026-11-09T18:06:59+00:00",
+  "short": false,
+  "views": 46,
+  "desc": "Freight demand is up nearly 5% week over week, and spot rates are still climbing. In this SONAR update, Julie Van de Kamp breaks down tender rejections near 13%, rising van contract and spot rates, flatbed conditions and new LTL National Insights data."
+ },
+ {
+  "id": "_LrLPazwsZk",
+  "title": "FreightWaves Today | November 9",
+  "channel": "FreightWaves",
+  "topic": "tradepolicytariffs",
+  "d": "2026-11-09T16:59:41+00:00",
+  "short": false,
+  "views": 131,
+  "desc": "Craig and Julie talk to Heidi Wyle from Venti about rail yard automation. Julie will have a SONAR market update showcasing some new data that's now included in the Truckload National Insights. They wrap up the show with Adrian Smith about automation."
+ },
+ {
+  "id": "mKm0gZUwmiI",
+  "title": "November Monthly Rail Report",
+  "channel": "FreightWaves",
+  "topic": "tradepolicytariffs",
+  "d": "2026-11-09T16:40:07+00:00",
+  "short": false,
+  "views": 46,
+  "desc": "What’s shaping the North American rail market right now? In this month’s Monthly Rail Report webinar, FreightWaves and Trains Magazine, in partnership with Sonar, break down the latest on intermodal, trucking, and the railroads’ third quarter results."
+ },
+ {
+  "id": "BLAHDaYzmXM",
+  "title": "Walmart Responds to Dynamic Pricing Concerns",
+  "channel": "Retail Dive",
+  "topic": "tradepolicytariffs",
+  "d": "2026-11-09T15:21:20+00:00",
+  "short": true,
+  "views": 15,
+  "desc": "CEO John Furner publicly addressed concerns that the retailer is leveraging personalized pricing. Listen to the full conversation: https://youtu.be/VzArTFFU4U0?si=eCELqupPeq45wbb5"
+ },
+ {
   "id": "ErMW_kfpbuQ",
   "title": "BNSF Q3 Earnings Climb, Walmart Drone Delivery Expands, & CBP Meth Seizure in Texas | Morning Minute",
   "channel": "FreightWaves",
   "topic": "tradepolicytariffs",
   "d": "2026-11-09T14:00:17+00:00",
   "short": false,
-  "views": 5,
+  "views": 89,
   "desc": "In this episode, we kick things off by examining a strong financial performance from one of the nation's largest Class I railroads."
  },
  {
@@ -16,7 +86,7 @@
   "topic": "tradepolicytariffs",
   "d": "2026-11-09T13:46:39+00:00",
   "short": false,
-  "views": 2,
+  "views": 68,
   "desc": ""
  },
  {
@@ -26,7 +96,7 @@
   "topic": "tradepolicytariffs",
   "d": "2026-11-07T06:51:13+00:00",
   "short": false,
-  "views": 524,
+  "views": 531,
   "desc": "Craig and Julie are live from the UP. Summit from NASA Kennedy Space Center in Cape Canaveral."
  },
  {
@@ -36,7 +106,7 @@
   "topic": "tradepolicytariffs",
   "d": "2026-11-06T20:30:34+00:00",
   "short": false,
-  "views": 231,
+  "views": 245,
   "desc": "Innovation is taking flight—and the future of freight, logistics, aviation and space is changing faster than ever."
  },
  {
@@ -56,7 +126,7 @@
   "topic": "tradepolicytariffs",
   "d": "2026-11-06T19:45:22+00:00",
   "short": false,
-  "views": 123,
+  "views": 132,
   "desc": "DoorDash Labs Head Harrison Shih discusses the reality of drone food delivery. He explains how drone delivery expands reach to suburban and rural areas, reduces traffic, and offers unmatched convenience, building on the multi-modal delivery systems already in place."
  },
  {
@@ -66,7 +136,7 @@
   "topic": "tradepolicytariffs",
   "d": "2026-11-06T19:42:29+00:00",
   "short": false,
-  "views": 138,
+  "views": 149,
   "desc": "Ed Mehr, CEO of Machina Labs, unveils how their 'RoboCraftsmen' are tackling the neglected mid-volume manufacturing sector."
  },
  {
@@ -76,7 +146,7 @@
   "topic": "tradepolicytariffs",
   "d": "2026-11-06T18:58:05+00:00",
   "short": false,
-  "views": 211,
+  "views": 233,
   "desc": "NASA is making a giant leap with its ST-1 Freedom mission, set to launch the first fission reactor to Mars since the 1960s."
  },
  {
@@ -86,7 +156,7 @@
   "topic": "tradepolicytariffs",
   "d": "2026-11-06T18:12:56+00:00",
   "short": false,
-  "views": 110,
+  "views": 111,
   "desc": "Self-flying planes are closer than most aviation and freight pros think. Reliable Robotics CEO Robert Rose breaks down why small aircraft still operate with outdated systems, what true aviation automation requires, and where autonomous cargo aircraft fit in the supply chain."
  },
  {
@@ -96,7 +166,7 @@
   "topic": "tradepolicytariffs",
   "d": "2026-11-06T07:51:18+00:00",
   "short": false,
-  "views": 494,
+  "views": 496,
   "desc": "Craig and Julie are live from the UP. Summit from NASA Kennedy Space Center in Cape Canaveral."
  },
  {
@@ -656,7 +726,7 @@
   "topic": "tradepolicytariffs",
   "d": "2026-10-29T20:19:01+00:00",
   "short": false,
-  "views": 97,
+  "views": 100,
   "desc": "Consumers are zeroed in on price heading into the holiday season now more than ever, and Walmart is taking the heat."
  }
 ]

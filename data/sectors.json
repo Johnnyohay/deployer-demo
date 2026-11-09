@@ -2,10 +2,10 @@
   {
     "id": "tradepolicytariffs",
     "heat": 5,
-    "state": "China extended its suspension of the 24% additional tariff on US imports for two months while retaining a 10% floor, and the US extended Section 301 exclusions for ten seafood lines. Meanwhile, Mexico deployed 826 National Guard officers to secure foreign-trade zone highways amid USMCA tariff obstacles, and Wisconsin agricultural exports hit record $2 billion despite disruptions.",
-    "money": "The Democratic 'blue wave' won the political argument but failed to end trade chaos or stop businesses from seeking immediate relief, causing MAT Q3 revenues to miss estimates due to tariff refund costs. Copper prices fell as election uncertainty undermined AI and tariff trade confidence, contributing to Wall Street's worst selloff since the 2025 tariff shock.",
-    "watch": "Investors are watching whether the US blue wave can end the Canada trade war or if EU climate tax risks trigger a new trade conflict with India. The next critical movement is the clash between Trump and Congress on politically toxic tariff blitzes which will determine if further rate hikes occur before midterms.",
-    "briefedAt": "2026-11-09T14:47:28.720Z"
+    "state": "China extended its suspension of the 24% additional tariff on US imports for two months while retaining a 10% floor and port fee waivers, effectively extending the trade truce through January. The US simultaneously extended Section 301 exclusions for ten seafood lines but kept Chinese vessel fees on hold, while political tensions remain high as Pritzker calls Congress to bring tariff relief to consumers without immediate success. Despite these disruptions, Wisconsin agricultural exports hit a record $2 billion, and NRF reported that import cargo remained strong at the end of the peak season.",
+    "money": "The Democrats' partial return to tariff sanity has renewed hopes for Canadian aluminum tariff relief, yet Trump's tariff-free beef imports have failed to significantly lower consumer prices. Investors are watching whether this political shift can prevent further rate hikes before midterms, as Wall Street recently saw its worst selloff since the 2025 tariff shock driven by election uncertainty.",
+    "watch": "The next critical movement is the clash between Trump and Congress on politically toxic tariff blitzes which will determine if further rate hikes occur before midterms. Additionally, the outcome of the upcoming Trump-Xi meeting in China could either solidify the current truce or trigger a new trade conflict involving India's climate tax risks.",
+    "briefedAt": "2026-11-09T21:17:09.044Z"
   },
   {
     "id": "logisticsfreightrates",
@@ -34,10 +34,10 @@
   {
     "id": "commoditymarkets",
     "heat": 5,
-    "state": "Winter natural gas forwards have tumbled as warmth and supply gluts batter prices, yet storage limits in the Northeast are forcing pipelines to turn away excess. European prices remain elevated due to US election results and Strait of Hormuz tensions, while India's demand is projected to fall 2% in 2026 despite a 10% rise in LNG imports. Goldman Sachs has lifted price forecasts citing supply uncertainty, and US WTI crude is testing support near $85.17 as Gulf supply recovers.",
-    "money": "TotalEnergies is winning the long-term supply game with a five-year LNG deal with UAE's ADNOC, while Petrobras maintains stable distributor pricing despite regional volatility. European markets continue paying a premium for energy security, but Indian traders face limited upside due to demand contraction.",
+    "state": "Winter natural gas forwards have tumbled due to warmth and supply gluts, yet storage limits in the Northeast are forcing pipelines to turn away excess. European prices remain elevated from US election results and Strait of Hormuz tensions, while India's demand is projected to fall 2% in 2026 despite a 10% rise in LNG imports. Abu Qir Fertilizers has been notified for a 33% reduction in natural gas supplies, and Port St. Joe Elementary School was evacuated due to strong natural gas odors.",
+    "money": "TotalEnergies is winning the long-term supply game with a five-year LNG deal with UAE's ADNOC, while Petrobras maintains stable distributor pricing despite regional volatility. Goldman Sachs has lifted price forecasts citing supply uncertainty, and US WTI crude is testing support near $85.17 as Gulf supply recovers.",
     "watch": "The outcome of the US election and stability in the Strait of Hormuz will dictate whether European gas prices sustain their rise or correct on supply fears. Goldman Sachs' updated forecasts on weather-related supply shocks could trigger a rapid re-pricing of natural gas cash markets.",
-    "briefedAt": "2026-11-07T16:52:22.680Z"
+    "briefedAt": "2026-11-09T21:18:01.511Z"
   },
   {
     "id": "strategicpartnershipsma",
@@ -74,9 +74,9 @@
   {
     "id": "retailstrategypricing",
     "heat": 5,
-    "state": "David Jones entered voluntary administration, marking a significant failure in the Australian retail sector. Meanwhile, Toy Kingdom launched an AI-powered digital strategy to modernize its operations, while Serruya Private Equity appointed Jenny Frankel to lead The Body Shop's brand growth. In contrast, Beaverbrooks demonstrated resilience through strategic adjustments, and Macy's is actively restructuring its retail approach amid market pressures.",
-    "money": "Companies like Coca-Cola, Lufthansa Cargo, Micron, and Saia are winning by leveraging inflationary conditions and supply constraints to maintain or increase prices. Conversely, retailers such as Beaverbrooks face volume slides, tech firms like Huawei struggle with internal competition eroding margins, and Align Technology continues to lose market share due to weak pricing power.",
+    "state": "David Jones has entered voluntary administration, a collapse confirmed by Juanita Neville-Te Rito as a major sector failure. Toy Kingdom is modernizing operations with a new AI-powered digital strategy, while Serruya Private Equity appointed Jenny Frankel to lead The Body Shop's brand growth. In contrast, Beaverbrooks remains resilient through strategic adjustments, and NPI has added a former Walmart sourcing executive to its retail leadership team.",
+    "money": "Companies leveraging supply constraints and inflationary conditions are winning, specifically shipping stocks with pricing power as energy trade routes shift. Conversely, retailers like Beaverbrooks face volume slides, tech firms such as Huawei struggle with internal competition eroding margins, and Align Technology loses market share due to weak pricing power.",
     "watch": "The outcome of David Jones' administration will reveal vulnerabilities in the Australian retail model. Observers will watch how Toy Kingdom's AI integration scales and whether Best Buy's digital expansion can successfully offset traditional headwinds.",
-    "briefedAt": "2026-11-06T17:52:15.168Z"
+    "briefedAt": "2026-11-09T21:18:49.074Z"
   }
 ]
