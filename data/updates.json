@@ -1,5 +1,25 @@
 [
   {
+    "id": "u-20261109-china-extends-suspension-of-24-tariff-on-us-import",
+    "d": "2026-11-09",
+    "title": "China extends suspension of 24% tariff on US imports for two months",
+    "body": "China extends suspension of 24% tariff on US imports for two months",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "Reuters",
+      "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSTA2TElMOUVJb2VPUWp2RnhuNWtoOHhncWpKUW9Ob1lEQ19BVUluTWRvRkZTYWJTYlU5RlZNR2F6UmZOcW5GLXlrQVJuMzMxakd2V2M4d1dXRDBCU3FBN182RlFQTjVBbVpTbzQ2cXZzdkk4YUJxZkF4NUVoZXlXR1haVlZIY2lpMnJQeTdFWTFMQkR5QWxiaWtqZUJSSUI5bFpzdGNmUENfU2h4dWIxcg?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-09T03:12:14.000Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
     "id": "u-20261108-borderlands-mexico-us-foreign-trade-zones-push-to-",
     "d": "2026-11-08",
     "title": "Borderlands Mexico: US foreign-trade zones push to fix USMCA tariff obstacles",
@@ -173,6 +193,26 @@
     "orgs": [
       "Down"
     ]
+  },
+  {
+    "id": "u-20261108-after-midterm-defeat-democrats-take-aim-at-tariffs",
+    "d": "2026-11-08",
+    "title": "After Midterm Defeat, Democrats Take Aim at Tariffs, With Canada Trade War as First Target",
+    "body": "After Midterm Defeat, Democrats Take Aim at Tariffs, With Canada Trade War as First Target",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "BigGo Finance",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE10WnhMNU9PRU9jWnluYlF3UUhjUVMyYXo1RTRqREhiOXBMNEpndVBKYzRBU0R1YUlPWnNyMDdnOWM0cno0dzlPSzh0M1VYNlBia05naS1VS3UwUXJGUFhGTzhkNzBRRWJUV1UyZW9iSW0zZkhOUkE?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-09T03:12:14.000Z",
+    "auto": true,
+    "orgs": []
   },
   {
     "id": "u-20261107-bessent-greer-raise-concerns-on-china-trade-deal-a",
@@ -1661,6 +1701,26 @@
       "q": "news"
     },
     "addedAt": "2026-11-08T16:54:11.080Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261106-what-is-a-trade-war-history-tariffs-impact",
+    "d": "2026-11-06",
+    "title": "What Is a Trade War? History, Tariffs, & Impact",
+    "body": "What Is a Trade War? History, Tariffs, & Impact",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "Britannica",
+      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBOQm1yN1o4dXBKdWVGdE1IeG9xN3NTaUdJQUFDOXR3NDZlZmVhYTVhSjdPMFllWHA5SXduczlPMTNoU3FmNEIybl80SEZjYnBPYVpZeHFQekFaVVAtNG9N?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-09T03:12:14.000Z",
     "auto": true,
     "orgs": []
   },

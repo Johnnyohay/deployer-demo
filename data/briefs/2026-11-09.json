@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-09",
+  "title": "Today in retail, supply chain and geopolitics",
+  "big": "3 new stories since the last brief. The busiest areas: trade policy & tariffs.",
+  "stories": [
+    {
+      "tag": "Trade Policy & Tariffs",
+      "h": "China extends suspension of 24% tariff on US imports for two months",
+      "what": "China extends suspension of 24% tariff on US imports for two months",
+      "you": "Early tariff signals indicate which products will face margin compression first.",
+      "ref": "u-20261109-china-extends-suspension-of-24-tariff-on-us-import"
+    }
+  ],
+  "watch": {
+    "h": "US-China tariff truce under strain ahead of potential trade war escalation",
+    "why": "Around November 15. Both nations are bracing for a potential trade war as current agreements face pressure"
+  },
+  "idea": {
+    "h": "Geopolitical Supply Risks",
+    "why": "Monitor the link between US midterm election results and potential tariff reversals, specifically targeting sectors like Canadian cabinet makers and craft brewers currently facing doubled duties. Recent reports show Trump's midterm rout has given allies like South Africa hope for a trade reset, suggesting current protectionist policies are fragile and could shift within weeks."
+  },
+  "auto": true
+}

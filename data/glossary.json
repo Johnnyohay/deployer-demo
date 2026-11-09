@@ -1,0 +1,72 @@
+[
+  {
+    "term": "Trade Deficit",
+    "aliases": [
+      "Balance of Trade"
+    ],
+    "topic": "main",
+    "short": "A trade deficit occurs when a country imports more goods than it exports, often leading to pressure on currency value and potential tariff increases.",
+    "by": "qwen3.5:4b run inside the GitHub job (free)",
+    "at": "2026-11-09"
+  },
+  {
+    "term": "Supply Chain Resilience",
+    "aliases": [
+      "Supply Chain Agility"
+    ],
+    "topic": "main",
+    "short": "The ability of a supply chain to anticipate, respond to, and recover from disruptions such as natural disasters or geopolitical conflicts.",
+    "by": "qwen3.5:4b run inside the GitHub job (free)",
+    "at": "2026-11-09"
+  },
+  {
+    "term": "Freight Volatility",
+    "aliases": [],
+    "topic": "main",
+    "short": "The rapid and unpredictable changes in the cost of moving goods, often caused by fuel prices, demand surges, or port congestion.",
+    "by": "qwen3.5:4b run inside the GitHub job (free)",
+    "at": "2026-11-09"
+  },
+  {
+    "term": "Just-In-Time Inventory",
+    "aliases": [
+      "Lean Inventory"
+    ],
+    "topic": "main",
+    "short": "A strategy where goods are ordered and received only as they are needed in the production process to minimize storage costs.",
+    "by": "qwen3.5:4b run inside the GitHub job (free)",
+    "at": "2026-11-09"
+  },
+  {
+    "term": "Geopolitical Risk",
+    "aliases": [],
+    "topic": "main",
+    "short": "The potential for political events, such as wars or sanctions, to disrupt international trade routes and increase the cost of imported goods.",
+    "by": "qwen3.5:4b run inside the GitHub job (free)",
+    "at": "2026-11-09"
+  },
+  {
+    "term": "Tariff Escalation",
+    "aliases": [],
+    "topic": "main",
+    "short": "A trade policy where the tax rate on a product increases as the product moves further up the value chain in the importing country.",
+    "by": "qwen3.5:4b run inside the GitHub job (free)",
+    "at": "2026-11-09"
+  },
+  {
+    "term": "Port Congestion",
+    "aliases": [],
+    "topic": "main",
+    "short": "A situation where shipping ports are unable to process incoming vessels quickly enough, causing delays and increased demurrage fees for shippers.",
+    "by": "qwen3.5:4b run inside the GitHub job (free)",
+    "at": "2026-11-09"
+  },
+  {
+    "term": "Commodity Hedging",
+    "aliases": [],
+    "topic": "main",
+    "short": "The use of financial instruments to offset potential losses in the price of raw materials like oil, wheat, or copper.",
+    "by": "qwen3.5:4b run inside the GitHub job (free)",
+    "at": "2026-11-09"
+  }
+]

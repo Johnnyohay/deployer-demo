@@ -349,6 +349,29 @@
     "ref": "u-20261106-wisetech-stock-faces-rising-ocean-freight-risks-in"
   },
   {
+    "id": "c-20261115-usmca-tariff-obstacles-fix-deadline-in-borderlands",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "USMCA tariff obstacles fix deadline in Borderlands Mexico",
+    "why": "Mexico's foreign-trade zones are pushing to resolve specific USMCA tariff barriers that could disrupt cross-border logistics and supply chain efficiency.",
+    "sectors": [
+      "tradepolicytariffs",
+      "logisticsfreightrates"
+    ],
+    "ref": "u-20261108-borderlands-mexico-us-foreign-trade-zones-push-to-"
+  },
+  {
+    "id": "c-20261121-china-extends-suspension-of-24-tariff-on-us-import",
+    "d": "2026-11-21",
+    "approx": false,
+    "title": "China extends suspension of 24% tariff on US imports for two months",
+    "why": "The extension delays the imposition of new duties, providing temporary relief to US importers and stabilizing trade flows between the two nations.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "ref": "u-20261109-china-extends-suspension-of-24-tariff-on-us-import"
+  },
+  {
     "id": "c-20270101-end-of-duty-free-access-for-african-car-producers",
     "d": "2027-01-01",
     "approx": true,
@@ -359,5 +382,16 @@
       "geopoliticalsupplyrisks"
     ],
     "ref": "u-20261108-like-canada-africa-s-largest-car-producer-faces-20"
+  },
+  {
+    "id": "c-20270101-potential-new-tariff-adjustments-in-indonesia-lrt-",
+    "d": "2027-01-01",
+    "approx": true,
+    "title": "Potential new tariff adjustments in Indonesia (LRT Jabodebek)",
+    "why": "The article suggests that if tariff adjustments occur, they should not burden users, implying a potential policy change affecting local transport and logistics costs.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "ref": "u-20261108-if-there-is-adjustment-lrt-jabodebek-tariff-should"
   }
 ]
