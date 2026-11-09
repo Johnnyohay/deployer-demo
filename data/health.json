@@ -1,5 +1,5 @@
 {
- "checkedAt": "2026-11-09T03:25:46.682Z",
+ "checkedAt": "2026-11-09T14:45:16.210Z",
  "feeds": [
   {
    "name": "Supply Chain Dive",
@@ -11,55 +11,55 @@
    "name": "Retail Dive",
    "url": "https://www.retaildive.com/feeds/news/",
    "items": 10,
-   "recent": 6
+   "recent": 8
   },
   {
    "name": "FreightWaves",
    "url": "https://freightwaves.com/feed/",
    "items": 50,
-   "recent": 22
+   "recent": 26
   },
   {
    "name": "The Wall Street Journal - Global Trade",
    "url": "https://news.google.com/rss/search?q=site%3Awsj.com%20(tariff%20OR%20%22freight%20rate%22%20OR%20%22inventory%20level%22%20OR%20geopolitics%20OR%20%22commodity%20price%22%20OR%20acquisition)%20when%3A7d&hl=en-US&gl=US&ceid=US:en",
    "items": 100,
-   "recent": 32
+   "recent": 42
   },
   {
    "name": "Reuters - Commodities & Shipping",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com%20(tariff%20OR%20%22freight%20rate%22%20OR%20%22inventory%20level%22%20OR%20geopolitics%20OR%20%22commodity%20price%22%20OR%20acquisition)%20when%3A7d&hl=en-US&gl=US&ceid=US:en",
    "items": 100,
-   "recent": 23
+   "recent": 35
   },
   {
    "name": "Bloomberg Supply Chain",
    "url": "https://news.google.com/rss/search?q=site%3Abloomberg.com%20(tariff%20OR%20%22freight%20rate%22%20OR%20%22inventory%20level%22%20OR%20geopolitics%20OR%20%22commodity%20price%22%20OR%20acquisition)%20when%3A7d&hl=en-US&gl=US&ceid=US:en",
    "items": 100,
-   "recent": 29
+   "recent": 36
   },
   {
    "name": "USITC (U.S. International Trade Commission)",
    "url": "https://news.google.com/rss/search?q=site%3Ausitc.gov%20(tariff%20OR%20%22freight%20rate%22%20OR%20%22inventory%20level%22%20OR%20geopolitics%20OR%20%22commodity%20price%22%20OR%20acquisition)%20when%3A7d&hl=en-US&gl=US&ceid=US:en",
-   "items": 10,
+   "items": 9,
    "recent": 5
   },
   {
    "name": "EU Trade",
    "url": "https://news.google.com/rss/search?q=site%3Atrade.ec.europa.eu%20(tariff%20OR%20%22freight%20rate%22%20OR%20%22inventory%20level%22%20OR%20geopolitics%20OR%20%22commodity%20price%22%20OR%20acquisition)%20when%3A7d&hl=en-US&gl=US&ceid=US:en",
-   "items": 16,
+   "items": 18,
    "recent": 8
   },
   {
    "name": "Carnegie Endowment for International Peace - Global Trade",
    "url": "https://news.google.com/rss/search?q=site%3Acarnegieendowment.org%20(tariff%20OR%20%22freight%20rate%22%20OR%20%22inventory%20level%22%20OR%20geopolitics%20OR%20%22commodity%20price%22%20OR%20acquisition)%20when%3A7d&hl=en-US&gl=US&ceid=US:en",
-   "items": 15,
-   "recent": 3
+   "items": 14,
+   "recent": 4
   },
   {
    "name": "Center for Strategic and International Studies (CSIS) - Supply Chain Security",
    "url": "https://news.google.com/rss/search?q=site%3Acsis.org%20(tariff%20OR%20%22freight%20rate%22%20OR%20%22inventory%20level%22%20OR%20geopolitics%20OR%20%22commodity%20price%22%20OR%20acquisition)%20when%3A7d&hl=en-US&gl=US&ceid=US:en",
-   "items": 72,
-   "recent": 5
+   "items": 66,
+   "recent": 6
   },
   {
    "name": "Port of Los Angeles & Long Beach Authority",
@@ -71,61 +71,61 @@
    "name": "Google News: Trade Policy & Tariffs",
    "url": "https://news.google.com/rss/search?q=tariff%20OR%20duty%20OR%20%22trade%20war%22%20OR%20%22import%20ban%22%20OR%20%22export%20restriction%22%20when%3A7d&hl=en-US&gl=US&ceid=US:en",
    "items": 100,
-   "recent": 74
+   "recent": 77
   },
   {
    "name": "Google News: Logistics & Freight Rates",
    "url": "https://news.google.com/rss/search?q=%22freight%20rate%22%20OR%20%22container%20cost%22%20OR%20%22shipping%20lane%22%20OR%20%22port%20congestion%22%20OR%20demurrage%20when%3A7d&hl=en-US&gl=US&ceid=US:en",
-   "items": 35,
+   "items": 30,
    "recent": 5
   },
   {
    "name": "Google News: Retail Inventory & Stockouts",
    "url": "https://news.google.com/rss/search?q=%22inventory%20level%22%20OR%20stockout%20OR%20%22shelf%20space%22%20OR%20%22SKU%20depletion%22%20OR%20%22reorder%20point%22%20when%3A7d&hl=en-US&gl=US&ceid=US:en",
-   "items": 29,
-   "recent": 11
+   "items": 25,
+   "recent": 12
   },
   {
    "name": "Google News: Geopolitical Supply Risks",
    "url": "https://news.google.com/rss/search?q=geopolitics%20OR%20%22conflict%20zone%22%20OR%20%22energy%20crisis%22%20OR%20%22semiconductor%20shortage%22%20OR%20%22chip%20supply%22%20when%3A7d&hl=en-US&gl=US&ceid=US:en",
-   "items": 100,
-   "recent": 46
+   "items": 94,
+   "recent": 60
   },
   {
    "name": "Google News: Commodity Markets",
    "url": "https://news.google.com/rss/search?q=%22commodity%20price%22%20OR%20%22oil%20spike%22%20OR%20%22natural%20gas%22%20OR%20%22copper%20price%22%20OR%20%22wheat%20futures%22%20when%3A7d&hl=en-US&gl=US&ceid=US:en",
    "items": 100,
-   "recent": 39
+   "recent": 64
   },
   {
    "name": "Google News: Strategic Partnerships & M&A",
    "url": "https://news.google.com/rss/search?q=acquisition%20OR%20merger%20OR%20%22joint%20venture%22%20OR%20%22strategic%20partner%22%20OR%20%22supply%20chain%20partner%22%20when%3A7d&hl=en-US&gl=US&ceid=US:en",
    "items": 100,
-   "recent": 67
+   "recent": 79
   },
   {
    "name": "Google News: Port Activity & Infrastructure",
    "url": "https://news.google.com/rss/search?q=%22port%20activity%22%20OR%20%22container%20terminal%22%20OR%20%22dock%20strike%22%20OR%20%22cargo%20volume%22%20OR%20%22shipping%20infrastructure%22%20when%3A7d&hl=en-US&gl=US&ceid=US:en",
-   "items": 28,
-   "recent": 7
+   "items": 26,
+   "recent": 11
   },
   {
    "name": "Google News: Freight Lines & Shipping",
    "url": "https://news.google.com/rss/search?q=%22container%20line%22%20OR%20%22shipping%20company%22%20OR%20%22vessel%20schedule%22%20OR%20%22fleet%20capacity%22%20OR%20%22ocean%20freight%22%20when%3A7d&hl=en-US&gl=US&ceid=US:en",
-   "items": 26,
-   "recent": 12
+   "items": 25,
+   "recent": 14
   },
   {
    "name": "Google News: Regional Supply Chains",
    "url": "https://news.google.com/rss/search?q=%22regional%20supply%20chain%22%20OR%20%22local%20sourcing%22%20OR%20%22domestic%20production%22%20OR%20nearshoring%20OR%20reshoring%20when%3A7d&hl=en-US&gl=US&ceid=US:en",
-   "items": 41,
-   "recent": 9
+   "items": 39,
+   "recent": 11
   },
   {
    "name": "Google News: Retail Strategy & Pricing",
    "url": "https://news.google.com/rss/search?q=%22retail%20strategy%22%20OR%20%22pricing%20power%22%20OR%20%22margin%20compression%22%20OR%20%22price%20increase%22%20OR%20%22cost%20pass-through%22%20when%3A7d&hl=en-US&gl=US&ceid=US:en",
-   "items": 96,
-   "recent": 37
+   "items": 99,
+   "recent": 49
   }
  ]
 }

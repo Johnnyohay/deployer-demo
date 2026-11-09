@@ -27,7 +27,7 @@
     "aliases": [
       "WMT"
     ],
-    "latest": ""
+    "latest": "2026-11-09: NPI Adds Former Walmart Sourcing Executive to Lead Retail Strategy"
   },
   {
     "id": "maersk",
@@ -204,7 +204,7 @@
     ],
     "about": "Political party in the U.S. context (as referenced in trade war discussions) influencing trade policy and tariff debates.",
     "aliases": [],
-    "latest": "2026-11-06: Trump, Congress Set to Clash on Politically Toxic Tariff Blitz",
+    "latest": "2026-11-09: Pritzker calls on Congress to bring tariff relief to consumers",
     "addedAt": "2026-11-05T16:33:20.336Z"
   },
   {
@@ -244,7 +244,21 @@
     ],
     "about": "Indian shipping firm focusing on gas carriers, with recent dividend declarations and profit jumps.",
     "aliases": [],
-    "latest": "2026-11-06: Great Eastern Shipping Company Declares ₹14.40 Dividend and Buyback",
+    "latest": "2026-11-09: The Great Eastern Shipping Company Limited Q2 PAT Rises 118%",
     "addedAt": "2026-11-07T16:59:35.572Z"
+  },
+  {
+    "id": "great-eastern-shipping-company-limited",
+    "name": "Great Eastern Shipping Company Limited",
+    "kind": "company",
+    "type": "Company",
+    "sectors": [
+      "logisticsfreightrates",
+      "strategicpartnershipsma"
+    ],
+    "about": "A shipping firm experiencing significant Q2 profit growth and seasonal trading activity, relevant to freight rates and logistics performance.",
+    "aliases": [],
+    "latest": "2026-11-05: The Great Eastern Shipping Company Limited (GESHIP.NS) Seasonal returns chart - Yahoo Finance",
+    "addedAt": "2026-11-09T14:59:08.636Z"
   }
 ]

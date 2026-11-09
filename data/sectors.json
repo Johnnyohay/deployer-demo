@@ -2,10 +2,10 @@
   {
     "id": "tradepolicytariffs",
     "heat": 5,
-    "state": "The USITC released updated Harmonized Tariff Schedules with new rate adjustments, while Mexico deploys 826 National Guard officers to secure foreign-trade zone highways. China has extended its suspension of the 24% tariff on US imports for two months, and B.C. crab harvesters welcomed Chinese tariff relief. The S&P 500 recorded its worst week since the April 2025 crash amid fears of politically toxic tariff blitzes between Trump and Congress.",
-    "money": "The 'blue wave' won the political argument but failed to end trade chaos or stop businesses from seeking immediate relief, causing MAT Q3 revenues to miss estimates due to tariff refund costs. Copper prices fell as the US election undermined AI and tariff trade confidence, contributing to Wall Street's worst selloff since the 2025 tariff shock.",
-    "watch": "The next critical movement is the clash between Trump and Congress on politically toxic tariff blitzes which will determine if further rate hikes occur before midterms. Investors are watching whether the US blue wave can end the Canada trade war or if EU climate tax risks trigger a new trade conflict with India.",
-    "briefedAt": "2026-11-09T03:13:34.029Z"
+    "state": "China extended its suspension of the 24% additional tariff on US imports for two months while retaining a 10% floor, and the US extended Section 301 exclusions for ten seafood lines. Meanwhile, Mexico deployed 826 National Guard officers to secure foreign-trade zone highways amid USMCA tariff obstacles, and Wisconsin agricultural exports hit record $2 billion despite disruptions.",
+    "money": "The Democratic 'blue wave' won the political argument but failed to end trade chaos or stop businesses from seeking immediate relief, causing MAT Q3 revenues to miss estimates due to tariff refund costs. Copper prices fell as election uncertainty undermined AI and tariff trade confidence, contributing to Wall Street's worst selloff since the 2025 tariff shock.",
+    "watch": "Investors are watching whether the US blue wave can end the Canada trade war or if EU climate tax risks trigger a new trade conflict with India. The next critical movement is the clash between Trump and Congress on politically toxic tariff blitzes which will determine if further rate hikes occur before midterms.",
+    "briefedAt": "2026-11-09T14:47:28.720Z"
   },
   {
     "id": "logisticsfreightrates",
@@ -26,10 +26,10 @@
   {
     "id": "geopoliticalsupplyrisks",
     "heat": 5,
-    "state": "Global energy buffers are eroded as the world's supply gap falls short of plug efforts, with ADNOC warning of a crisis. Chip logistics face tightening friction; Intel burns ~$6B on substrates while Broadcom lost its final appeal over Samsung terms. Nvidia stock fell 2.96% due to shrinking China availability, and Logitech balances growth against these risks. Texas midterm flips could tighten AI oversight, pressuring Taiwan's supply chain and triggering more inventory warnings like Dell's tripled stock.",
-    "money": "Vertiv secured a three-year deal with Infineon to lock in power chip capacity. OpenAI is actively seeking partnerships with Samsung and SK Hynix to expand AI infrastructure. Intel continues heavy spending (~$6B) on substrates despite supply bottlenecks.",
-    "watch": "The outcome of the Texas midterm elections could tighten AI oversight and further pressure Taiwan's chip supply chain. India's Rs 40,000-crore weapon export surge and Iran war energy crisis are fueling geopolitical shifts that may alter chip trade flows.",
-    "briefedAt": "2026-11-07T16:50:05.397Z"
+    "state": "Global energy buffers are eroded with ADNOC warning of a crisis, while Nvidia stock fell 2.96% due to shrinking China availability and Broadcom lost its final appeal over Samsung terms. Intel is burning approximately $6 billion on substrates despite bottlenecks, and Dell's inventory has tripled as memory trade warnings pile up. Meanwhile, India unleashed a Rs 40,000-crore weapon export surge, and Trump's tariffs have widened the trade deficit while slowing hiring.",
+    "money": "Vertiv secured a three-year deal with Infineon to lock in power chip capacity, and Megaspeed is acquiring $4.6 billion worth of Nvidia equipment. OpenAI is actively seeking partnerships with Samsung and SK Hynix to expand AI infrastructure, contrasting with Nintendo ruling out a Switch 2 price hike due to memory chip supply constraints.",
+    "watch": "The outcome of the Texas midterm elections could tighten AI oversight and further pressure Taiwan's chip supply chain, potentially triggering more inventory warnings. Geopolitical shifts from India's weapon exports and the Iran war energy crisis may alter chip trade flows, with Silicon Valley focusing on compliance plays as the AI boom draws supply from other end-markets.",
+    "briefedAt": "2026-11-09T14:49:34.879Z"
   },
   {
     "id": "commoditymarkets",
@@ -50,18 +50,18 @@
   {
     "id": "portactivityinfrastructu",
     "heat": 5,
-    "state": "Port congestion remains a critical bottleneck driving freight rates higher and costing shipping lines millions in vessel delays, with specific disruptions including truck traffic jams in Incheon, strikes halting French ports, typhoon-induced gridlock in Ningbo, and record levels in the Middle East. Conversely, strategic expansion is driving growth, with Adani Ports reporting 51 MMT cargo volume (a 27% YoY increase) and securing new projects like the Port of Corpus Christi hub and a 15-year concession for Chittagong. Maersk wins by ordering 26 new container ships to mitigate Asian disruptions, while APM Terminals takes action to ease congestion and flow.",
-    "money": "Maersk is winning by raising its 2026 profit outlook as port congestion drives freight rates higher, while Adani Ports capitalizes on congestion with record October volumes that boosted shares. Shipping lines are bearing the brunt of operational halts in France and Lagos, which is threatening trade gains despite N4.6 trillion revenue.",
+    "state": "Port congestion remains a critical bottleneck causing vessel delays that cost shipping lines millions, with specific disruptions including truck jams in Incheon, strikes halting French ports, typhoon-induced gridlock in Ningbo, and record levels in the Middle East. Strategic expansion is driving growth, evidenced by Adani Ports reporting 51 MMT cargo volume (a 27% YoY increase) and securing a 15-year concession for Chittagong alongside a new Corpus Christi hub project. Maersk mitigates Asian disruptions by ordering 26 new container ships while raising its 2026 profit outlook, whereas APM Terminals is taking action to ease congestion and Cape Town terminal performance has improved as waiting times fall.",
+    "money": "Maersk is winning by raising its 2026 profit outlook as port congestion drives freight rates higher, while Adani Ports capitalizes on congestion with record October volumes that boosted shares. Shipping lines are bearing the brunt of operational halts in France and Lagos, which threatens trade gains despite N4.6 trillion revenue.",
     "watch": "Monitor the impact of ongoing strikes in France and congestion in Ningbo and the Middle East before they cascade into broader supply chain delays. Watch for the implementation of proposed railway-linked depots and empty container storage solutions to alleviate bottlenecks.",
-    "briefedAt": "2026-11-06T17:54:34.347Z"
+    "briefedAt": "2026-11-09T14:53:40.319Z"
   },
   {
     "id": "freightlinesshipping",
     "heat": 5,
-    "state": "Ocean freight volumes are surging globally, with Rhenus reporting 26% growth on China-Europe routes and DHL Global Forwarding revenue jumping as capacity returns from the Red Sea. However, spot rates are forecast to fall by 30% in 2027 due to this flooding back, while specific geopolitical complications persist at the Punta Arenas-Malvinas bridge. Major players like Rhenus and DHL are capitalizing on rising volumes, whereas TJX Companies faces margin pressure from diesel and ocean freight costs.",
+    "state": "Ocean freight volumes are surging globally, with Rhenus reporting 26% growth on China-Europe routes and DHL Global Forwarding revenue jumping as capacity returns from the Red Sea. Spot rates are forecast to fall by 30% in 2027 due to this flooding back, while specific geopolitical complications persist at the Punta Arenas-Malvinas bridge. Major players like Rhenus and DHL are capitalizing on rising volumes, whereas TJX Companies faces margin pressure from diesel and ocean freight costs.",
     "money": "Rhenus and DHL Global Forwarding are winning by capitalizing on surging volumes and capacity returns, while Great Eastern Shipping Company declared a ₹14.40 dividend and buyback despite hitting intraday lows amid price pressure.",
     "watch": "Monitor if the easing of Hormuz impact continues to reduce diversions into late 2026 as port dwell times remain elevated. Watch for Russia's share sale process in Sovcomflot, which could alter regional capacity dynamics.",
-    "briefedAt": "2026-11-07T16:48:13.791Z"
+    "briefedAt": "2026-11-09T14:51:33.254Z"
   },
   {
     "id": "regionalsupplychains",
