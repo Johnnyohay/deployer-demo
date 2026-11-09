@@ -372,6 +372,17 @@
     "ref": "u-20261109-china-extends-suspension-of-24-tariff-on-us-import"
   },
   {
+    "id": "c-20261209-china-extends-suspension-of-24-tariff-on-us-import",
+    "d": "2026-12-09",
+    "approx": false,
+    "title": "China extends suspension of 24% tariff on US imports",
+    "why": "The two-month extension delays the imposition of a significant trade barrier, affecting supply chain planning and pricing strategies for US retailers importing from China.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "ref": "u-20261109-china-extends-suspension-of-24-tariff-on-us-import"
+  },
+  {
     "id": "c-20270101-end-of-duty-free-access-for-african-car-producers",
     "d": "2027-01-01",
     "approx": true,
@@ -393,5 +404,16 @@
       "tradepolicytariffs"
     ],
     "ref": "u-20261108-if-there-is-adjustment-lrt-jabodebek-tariff-should"
+  },
+  {
+    "id": "c-20270103-potential-us-tariff-escalation-targeting-canada",
+    "d": "2027-01-03",
+    "approx": true,
+    "title": "Potential US tariff escalation targeting Canada",
+    "why": "With Democrats aiming to address tariffs following midterm losses, the first target is identified as a trade war against Canada, suggesting imminent policy shifts.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "ref": "u-20261108-after-midterm-defeat-democrats-take-aim-at-tariffs"
   }
 ]

@@ -7,7 +7,8 @@
     "topic": "main",
     "short": "A trade deficit occurs when a country imports more goods than it exports, often leading to pressure on currency value and potential tariff increases.",
     "by": "qwen3.5:4b run inside the GitHub job (free)",
-    "at": "2026-11-09"
+    "at": "2026-11-09",
+    "long": "A trade deficit occurs when a country imports more goods than it exports, creating an imbalance that can pressure the currency's value and trigger protective tariff increases to boost domestic production. For example, if a major retailer relies heavily on imported electronics while exporting few services, a widening deficit might signal rising import duties from trading partners. This matters because understanding these deficits allows you to anticipate shifts in global trade flows before they impact your cost structure or inventory availability, giving you a strategic edge over competitors who react only after tariffs are enacted."
   },
   {
     "term": "Supply Chain Resilience",
@@ -17,7 +18,8 @@
     "topic": "main",
     "short": "The ability of a supply chain to anticipate, respond to, and recover from disruptions such as natural disasters or geopolitical conflicts.",
     "by": "qwen3.5:4b run inside the GitHub job (free)",
-    "at": "2026-11-09"
+    "at": "2026-11-09",
+    "long": "Supply chain resilience is the capacity of a logistics network to anticipate, respond to, and recover from disruptions like natural disasters or geopolitical conflicts. A concrete example is a retailer diversifying its supplier base across multiple continents to avoid single-point failures during regional strikes or weather events. This matters because in an era of frequent shocks, resilient strategies prevent costly downtime and stockouts. By prioritizing resilience early, you can maintain customer satisfaction and market share while competitors face operational paralysis due to unmanaged risks."
   },
   {
     "term": "Freight Volatility",
@@ -25,7 +27,8 @@
     "topic": "main",
     "short": "The rapid and unpredictable changes in the cost of moving goods, often caused by fuel prices, demand surges, or port congestion.",
     "by": "qwen3.5:4b run inside the GitHub job (free)",
-    "at": "2026-11-09"
+    "at": "2026-11-09",
+    "long": "Freight volatility refers to the rapid and unpredictable fluctuations in shipping costs driven by fuel prices, demand surges, or port congestion. For instance, a sudden spike in container rates at key hubs can double transportation expenses overnight due to labor shortages or canal closures. This matters because anticipating these swings allows you to hedge logistics costs more effectively than rivals who rely on fixed-rate contracts. Early insight into volatility patterns enables dynamic pricing and smarter inventory positioning, protecting margins during periods of market instability."
   },
   {
     "term": "Just-In-Time Inventory",
@@ -66,6 +69,70 @@
     "aliases": [],
     "topic": "main",
     "short": "The use of financial instruments to offset potential losses in the price of raw materials like oil, wheat, or copper.",
+    "by": "qwen3.5:4b run inside the GitHub job (free)",
+    "at": "2026-11-09"
+  },
+  {
+    "term": "COO",
+    "aliases": [],
+    "topic": "main",
+    "short": "The COO runs daily business operations, translating strategy into execution and spotting inefficiencies before they become crises.",
+    "by": "qwen3.5:4b run inside the GitHub job (free)",
+    "at": "2026-11-09"
+  },
+  {
+    "term": "CSSC",
+    "aliases": [],
+    "topic": "main",
+    "short": "A massive state-owned shipping giant whose vessels dominate global trade routes and set freight rates for everyone.",
+    "by": "qwen3.5:4b run inside the GitHub job (free)",
+    "at": "2026-11-09"
+  },
+  {
+    "term": "GESHIP",
+    "aliases": [],
+    "topic": "main",
+    "short": "A private equity-backed shipping firm known for aggressive fleet expansion and high operational costs.",
+    "by": "qwen3.5:4b run inside the GitHub job (free)",
+    "at": "2026-11-09"
+  },
+  {
+    "term": "ADNOC",
+    "aliases": [],
+    "topic": "main",
+    "short": "A major energy producer whose supply agreements dictate fuel availability and prices for international markets.",
+    "by": "qwen3.5:4b run inside the GitHub job (free)",
+    "at": "2026-11-09"
+  },
+  {
+    "term": "SK",
+    "aliases": [],
+    "topic": "main",
+    "short": "A leading chip manufacturer whose production capacity directly impacts the cost and availability of electronics globally.",
+    "by": "qwen3.5:4b run inside the GitHub job (free)",
+    "at": "2026-11-09"
+  },
+  {
+    "term": "FESH",
+    "aliases": [],
+    "topic": "main",
+    "short": "A shipping firm focused on regional routes, often serving as a critical link in specific supply chain segments.",
+    "by": "qwen3.5:4b run inside the GitHub job (free)",
+    "at": "2026-11-09"
+  },
+  {
+    "term": "NYSE",
+    "aliases": [],
+    "topic": "main",
+    "short": "The primary stock exchange where retail company performance is publicly tracked and analyzed by investors.",
+    "by": "qwen3.5:4b run inside the GitHub job (free)",
+    "at": "2026-11-09"
+  },
+  {
+    "term": "PLC",
+    "aliases": [],
+    "topic": "main",
+    "short": "A corporate structure indicating a company is publicly traded, subject to strict regulatory reporting and scrutiny.",
     "by": "qwen3.5:4b run inside the GitHub job (free)",
     "at": "2026-11-09"
   }

@@ -1,5 +1,5 @@
 {
- "checkedAt": "2026-11-09T03:12:14.000Z",
+ "checkedAt": "2026-11-09T03:25:46.682Z",
  "feeds": [
   {
    "name": "Supply Chain Dive",
@@ -23,13 +23,13 @@
    "name": "The Wall Street Journal - Global Trade",
    "url": "https://news.google.com/rss/search?q=site%3Awsj.com%20(tariff%20OR%20%22freight%20rate%22%20OR%20%22inventory%20level%22%20OR%20geopolitics%20OR%20%22commodity%20price%22%20OR%20acquisition)%20when%3A7d&hl=en-US&gl=US&ceid=US:en",
    "items": 100,
-   "recent": 33
+   "recent": 32
   },
   {
    "name": "Reuters - Commodities & Shipping",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com%20(tariff%20OR%20%22freight%20rate%22%20OR%20%22inventory%20level%22%20OR%20geopolitics%20OR%20%22commodity%20price%22%20OR%20acquisition)%20when%3A7d&hl=en-US&gl=US&ceid=US:en",
    "items": 100,
-   "recent": 15
+   "recent": 23
   },
   {
    "name": "Bloomberg Supply Chain",
@@ -46,8 +46,8 @@
   {
    "name": "EU Trade",
    "url": "https://news.google.com/rss/search?q=site%3Atrade.ec.europa.eu%20(tariff%20OR%20%22freight%20rate%22%20OR%20%22inventory%20level%22%20OR%20geopolitics%20OR%20%22commodity%20price%22%20OR%20acquisition)%20when%3A7d&hl=en-US&gl=US&ceid=US:en",
-   "items": 14,
-   "recent": 6
+   "items": 16,
+   "recent": 8
   },
   {
    "name": "Carnegie Endowment for International Peace - Global Trade",
@@ -82,8 +82,8 @@
   {
    "name": "Google News: Retail Inventory & Stockouts",
    "url": "https://news.google.com/rss/search?q=%22inventory%20level%22%20OR%20stockout%20OR%20%22shelf%20space%22%20OR%20%22SKU%20depletion%22%20OR%20%22reorder%20point%22%20when%3A7d&hl=en-US&gl=US&ceid=US:en",
-   "items": 28,
-   "recent": 10
+   "items": 29,
+   "recent": 11
   },
   {
    "name": "Google News: Geopolitical Supply Risks",
@@ -95,7 +95,7 @@
    "name": "Google News: Commodity Markets",
    "url": "https://news.google.com/rss/search?q=%22commodity%20price%22%20OR%20%22oil%20spike%22%20OR%20%22natural%20gas%22%20OR%20%22copper%20price%22%20OR%20%22wheat%20futures%22%20when%3A7d&hl=en-US&gl=US&ceid=US:en",
    "items": 100,
-   "recent": 38
+   "recent": 39
   },
   {
    "name": "Google News: Strategic Partnerships & M&A",
@@ -106,7 +106,7 @@
   {
    "name": "Google News: Port Activity & Infrastructure",
    "url": "https://news.google.com/rss/search?q=%22port%20activity%22%20OR%20%22container%20terminal%22%20OR%20%22dock%20strike%22%20OR%20%22cargo%20volume%22%20OR%20%22shipping%20infrastructure%22%20when%3A7d&hl=en-US&gl=US&ceid=US:en",
-   "items": 30,
+   "items": 28,
    "recent": 7
   },
   {
@@ -118,13 +118,13 @@
   {
    "name": "Google News: Regional Supply Chains",
    "url": "https://news.google.com/rss/search?q=%22regional%20supply%20chain%22%20OR%20%22local%20sourcing%22%20OR%20%22domestic%20production%22%20OR%20nearshoring%20OR%20reshoring%20when%3A7d&hl=en-US&gl=US&ceid=US:en",
-   "items": 42,
-   "recent": 10
+   "items": 41,
+   "recent": 9
   },
   {
    "name": "Google News: Retail Strategy & Pricing",
    "url": "https://news.google.com/rss/search?q=%22retail%20strategy%22%20OR%20%22pricing%20power%22%20OR%20%22margin%20compression%22%20OR%20%22price%20increase%22%20OR%20%22cost%20pass-through%22%20when%3A7d&hl=en-US&gl=US&ceid=US:en",
-   "items": 97,
+   "items": 96,
    "recent": 37
   }
  ]
