@@ -1,12 +1,92 @@
 [
  {
+  "id": "l1BhrRKjZ2c",
+  "title": "Tech Transformation: ShipStation Global's AI Overhauls Freight Operations",
+  "channel": "FreightWaves",
+  "topic": "tradepolicytariffs",
+  "d": "2026-11-10T18:05:47+00:00",
+  "short": false,
+  "views": 0,
+  "desc": "The freight industry faces unprecedented challenges, from complex peak season demands to surging cargo theft. ShipStation Global's Joel Clum and Nick Ciubotariu reveal how their innovative AI-powered platform is transforming logistics."
+ },
+ {
+  "id": "TUFsGgVUvd4",
+  "title": "Trucking Market: Why Is It Flat Despite 12.8% Rejection?",
+  "channel": "FreightWaves",
+  "topic": "tradepolicytariffs",
+  "d": "2026-11-10T18:05:26+00:00",
+  "short": false,
+  "views": 7,
+  "desc": "The latest SONAR data shows truckload rejections at 12.8%, double last year's rate, yet the market feels unexpectedly soft."
+ },
+ {
+  "id": "ZoaVagfGGjo",
+  "title": "American Trucking: Why We're Betting On Resilience [Interview]",
+  "channel": "FreightWaves",
+  "topic": "tradepolicytariffs",
+  "d": "2026-11-10T17:26:39+00:00",
+  "short": false,
+  "views": 4,
+  "desc": "The American trucking industry is facing unprecedented challenges, but the spirit of its people and products remains unbroken."
+ },
+ {
+  "id": "US7nV0vq3Qs",
+  "title": "This Custom Peterbilt Blew Past $50K — And Shows It",
+  "channel": "FreightWaves",
+  "topic": "tradepolicytariffs",
+  "d": "2026-11-10T17:24:43+00:00",
+  "short": false,
+  "views": 4,
+  "desc": "A custom Peterbilt with a $50,000 joke built right into the truck. Ben Storlie breaks down the story behind this red show rig, the fab work, the 359-inspired look, and the budget that got blown up fast."
+ },
+ {
+  "id": "WzbJ5samDto",
+  "title": "FreightWaves Today | November 10",
+  "channel": "FreightWaves",
+  "topic": "tradepolicytariffs",
+  "d": "2026-11-10T16:59:12+00:00",
+  "short": false,
+  "views": 54,
+  "desc": "Craig and Julie talk to Joel Clum and Nick Ciubotariu from ShipStation. Then we'll have a SONAR market update. Eric Kulisch comes on to talk AI data centers and drone air cargo. John Kingston wraps up the show talking fuel."
+ },
+ {
+  "id": "WQwVr_Xjy60",
+  "title": "THE TRUCKING INDUSTRY ISN'T DEAD… AND WE FOUND THE PROOF! | BRAKE CHECK",
+  "channel": "FreightWaves",
+  "topic": "tradepolicytariffs",
+  "d": "2026-11-10T15:00:22+00:00",
+  "short": false,
+  "views": 121,
+  "desc": "🔥 BRAKE CHECK went LIVE from the Stars, Stripes & White Lines Truck Show at EchoPark Speedway outside Atlanta, Georgia, thanks to the Bennett Family of Companies! We traded the boardrooms, industry predictions, and doom-and-gloom headlines from trucking media for the REAL…"
+ },
+ {
+  "id": "6GADj8Ilqug",
+  "title": "RICO Suit Vs. C.H. Robinson, TQL Eyes 2028; COSCO Profit Up 81%; $11.4M Nvidia Theft",
+  "channel": "FreightWaves",
+  "topic": "tradepolicytariffs",
+  "d": "2026-11-10T15:00:15+00:00",
+  "short": false,
+  "views": 59,
+  "desc": "In today’s Morning Minute, a massive RICO lawsuit filed by a coalition of carriers against brokerage giants C.H. Robinson and TQL won’t reach jury selection until April 3, 2028, 17 months away."
+ },
+ {
+  "id": "_LrLPazwsZk",
+  "title": "FreightWaves Today | November 9",
+  "channel": "FreightWaves",
+  "topic": "tradepolicytariffs",
+  "d": "2026-11-10T06:24:22+00:00",
+  "short": false,
+  "views": 239,
+  "desc": "Craig and Julie talk to Heidi Wyle from Venti about rail yard automation. Julie will have a SONAR market update showcasing some new data that's now included in the Truckload National Insights. They wrap up the show with Adrian Smith about automation."
+ },
+ {
   "id": "UbInoWlAxVw",
   "title": "FreightWaves Today | November 9",
   "channel": "FreightWaves",
   "topic": "tradepolicytariffs",
   "d": "2026-11-09T19:00:13+00:00",
   "short": false,
-  "views": 39,
+  "views": 277,
   "desc": "On Monday’s freight edition of FreightWaves Today, the team reflects on a week at the Up Summit and Cape Week, then dives into the day’s top transportation and supply chain stories, guest interviews, and the latest freight market data from Sonar."
  },
  {
@@ -16,7 +96,7 @@
   "topic": "tradepolicytariffs",
   "d": "2026-11-09T18:54:44+00:00",
   "short": false,
-  "views": 11,
+  "views": 139,
   "desc": "The world of global trade is in constant flux, from shifting political landscapes to unexpected disruptions like drone attacks. In this dynamic environment, how can logistics professionals leverage AI to not just survive, but thrive?"
  },
  {
@@ -26,7 +106,7 @@
   "topic": "tradepolicytariffs",
   "d": "2026-11-09T18:08:44+00:00",
   "short": false,
-  "views": 20,
+  "views": 254,
   "desc": "Venti CEO Heidi Wyle shares how her company is deploying self-driving trucks within heavy logistics supply chain environments, including ports and rail yards."
  },
  {
@@ -36,18 +116,8 @@
   "topic": "tradepolicytariffs",
   "d": "2026-11-09T18:06:59+00:00",
   "short": false,
-  "views": 46,
+  "views": 487,
   "desc": "Freight demand is up nearly 5% week over week, and spot rates are still climbing. In this SONAR update, Julie Van de Kamp breaks down tender rejections near 13%, rising van contract and spot rates, flatbed conditions and new LTL National Insights data."
- },
- {
-  "id": "_LrLPazwsZk",
-  "title": "FreightWaves Today | November 9",
-  "channel": "FreightWaves",
-  "topic": "tradepolicytariffs",
-  "d": "2026-11-09T16:59:41+00:00",
-  "short": false,
-  "views": 131,
-  "desc": "Craig and Julie talk to Heidi Wyle from Venti about rail yard automation. Julie will have a SONAR market update showcasing some new data that's now included in the Truckload National Insights. They wrap up the show with Adrian Smith about automation."
  },
  {
   "id": "mKm0gZUwmiI",
@@ -56,7 +126,7 @@
   "topic": "tradepolicytariffs",
   "d": "2026-11-09T16:40:07+00:00",
   "short": false,
-  "views": 46,
+  "views": 126,
   "desc": "What’s shaping the North American rail market right now? In this month’s Monthly Rail Report webinar, FreightWaves and Trains Magazine, in partnership with Sonar, break down the latest on intermodal, trucking, and the railroads’ third quarter results."
  },
  {
@@ -66,7 +136,7 @@
   "topic": "tradepolicytariffs",
   "d": "2026-11-09T15:21:20+00:00",
   "short": true,
-  "views": 15,
+  "views": 48,
   "desc": "CEO John Furner publicly addressed concerns that the retailer is leveraging personalized pricing. Listen to the full conversation: https://youtu.be/VzArTFFU4U0?si=eCELqupPeq45wbb5"
  },
  {
@@ -76,7 +146,7 @@
   "topic": "tradepolicytariffs",
   "d": "2026-11-09T14:00:17+00:00",
   "short": false,
-  "views": 89,
+  "views": 167,
   "desc": "In this episode, we kick things off by examining a strong financial performance from one of the nation's largest Class I railroads."
  },
  {
@@ -86,7 +156,7 @@
   "topic": "tradepolicytariffs",
   "d": "2026-11-09T13:46:39+00:00",
   "short": false,
-  "views": 68,
+  "views": 125,
   "desc": ""
  },
  {
@@ -116,7 +186,7 @@
   "topic": "tradepolicytariffs",
   "d": "2026-11-06T20:28:51+00:00",
   "short": true,
-  "views": 2,
+  "views": 3,
   "desc": "eading into the peak holiday season, monthly retail sales results are beginning to show the impact inflation has had on overall spending."
  },
  {
@@ -716,7 +786,7 @@
   "topic": "tradepolicytariffs",
   "d": "2026-11-04T15:36:54+00:00",
   "short": true,
-  "views": 41,
+  "views": 45,
   "desc": "Groundwork Collaborative has raised concerns over several of Walmart’s patents, including one that could adjust prices for consumers using its scan-and-go technology. Listen to the full conversation: https://www.youtube.com/watch?v=VzArTFFU4U0&t=140s"
  },
  {

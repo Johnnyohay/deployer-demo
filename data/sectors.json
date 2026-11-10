@@ -2,18 +2,18 @@
   {
     "id": "tradepolicytariffs",
     "heat": 5,
-    "state": "China extended its suspension of the 24% additional tariff on US imports for two months while retaining a 10% floor and port fee waivers, effectively extending the trade truce through January. The US simultaneously extended Section 301 exclusions for ten seafood lines but kept Chinese vessel fees on hold, while political tensions remain high as Pritzker calls Congress to bring tariff relief to consumers without immediate success. Despite these disruptions, Wisconsin agricultural exports hit a record $2 billion, and NRF reported that import cargo remained strong at the end of the peak season.",
-    "money": "The Democrats' partial return to tariff sanity has renewed hopes for Canadian aluminum tariff relief, yet Trump's tariff-free beef imports have failed to significantly lower consumer prices. Investors are watching whether this political shift can prevent further rate hikes before midterms, as Wall Street recently saw its worst selloff since the 2025 tariff shock driven by election uncertainty.",
-    "watch": "The next critical movement is the clash between Trump and Congress on politically toxic tariff blitzes which will determine if further rate hikes occur before midterms. Additionally, the outcome of the upcoming Trump-Xi meeting in China could either solidify the current truce or trigger a new trade conflict involving India's climate tax risks.",
-    "briefedAt": "2026-11-09T21:17:09.044Z"
+    "state": "China has extended its suspension of the 24% additional tariff on US imports by two months, maintaining a 10% floor while waiving port fees through January. Canada is simultaneously expanding US tariff exemptions for certain goods and introducing an exemption process, though uncertainty continues to cost Canadian manufacturers significant business in the US market.",
+    "money": "ON Holdings shares fell 5% in premarket trading as tariff refunds negatively impacted its Q3 profit beat despite unchanged sales outlooks. Conversely, a sneaker brand and a Swiss shoe manufacturer both lifted their profit outlooks driven by strong demand and tariff refund benefits.",
+    "watch": "The outcome of the Trump-Xi meeting could either solidify the current trade truce or trigger new conflicts involving India's proposed 35% crop protection tariff. Investors are closely monitoring whether the clash between Trump and Congress will prevent further rate hikes before the midterms.",
+    "briefedAt": "2026-11-10T18:27:42.102Z"
   },
   {
     "id": "logisticsfreightrates",
     "heat": 5,
-    "state": "Port strikes at Los Angeles and Long Beach remain active with contract talks delayed, while Maersk orders 26 new container ships to combat Asian congestion. Simultaneously, the Red Sea lane faces drone warfare from Houthis near Yemen's mouth, Delhi customs delays cause global demurrage costs including $46.7 million in Ghanaian petroleum losses, and Ningbo port is stuck following typhoon disruption.",
-    "money": "Maersk wins capacity by deploying 26 new ships to counter congestion and raising its 2026 profit outlook on higher freight rates. Importers win cost reduction through Beacon technology in Ghana, cutting annual demurrage from $1.3 million to near zero.",
-    "watch": "Contract talks at LA/LB ports could trigger further strikes if unresolved, while Maersk's continued AI buildout suggests rates will stay elevated until congestion resolves.",
-    "briefedAt": "2026-11-06T17:53:19.929Z"
+    "state": "Freight rates are climbing due to cargo surges and persistent congestion in the Far East, while Maersk has ordered 26 new container ships to counter these disruptions. Simultaneously, port strikes at Los Angeles and Long Beach remain delayed as contract talks continue, and the Red Sea lane faces active drone warfare from Houthis near Yemen's strategic island. In Asia, Ningbo port remains stuck following typhoon disruption, while customs delays in India and Delhi are generating mounting demurrage costs.",
+    "money": "Maersk is winning by raising its 2026 profit outlook as elevated freight rates driven by congestion and AI buildout continue to boost margins. Importers are gaining cost control through proposals for empty container depots and railway-linked storage, which aim to mitigate the $46.7 million in demurrage losses seen previously.",
+    "watch": "The return of ships through the Suez Canal could limit further November freight rate increases, but unresolved LA/LB contract talks risk triggering renewed strikes. Houthis' control of a strategic island at the mouth of the Red Sea lane suggests continued disruption to the vital shipping corridor.",
+    "briefedAt": "2026-11-10T18:33:33.466Z"
   },
   {
     "id": "retailinventorystockouts",
@@ -26,18 +26,18 @@
   {
     "id": "geopoliticalsupplyrisks",
     "heat": 5,
-    "state": "Global energy buffers are eroded with ADNOC warning of a crisis, while Nvidia stock fell 2.96% due to shrinking China availability and Broadcom lost its final appeal over Samsung terms. Intel is burning approximately $6 billion on substrates despite bottlenecks, and Dell's inventory has tripled as memory trade warnings pile up. Meanwhile, India unleashed a Rs 40,000-crore weapon export surge, and Trump's tariffs have widened the trade deficit while slowing hiring.",
-    "money": "Vertiv secured a three-year deal with Infineon to lock in power chip capacity, and Megaspeed is acquiring $4.6 billion worth of Nvidia equipment. OpenAI is actively seeking partnerships with Samsung and SK Hynix to expand AI infrastructure, contrasting with Nintendo ruling out a Switch 2 price hike due to memory chip supply constraints.",
-    "watch": "The outcome of the Texas midterm elections could tighten AI oversight and further pressure Taiwan's chip supply chain, potentially triggering more inventory warnings. Geopolitical shifts from India's weapon exports and the Iran war energy crisis may alter chip trade flows, with Silicon Valley focusing on compliance plays as the AI boom draws supply from other end-markets.",
-    "briefedAt": "2026-11-09T14:49:34.879Z"
+    "state": "Chip supply chains face acute strain as Nvidia stock fell 2.96% due to shrinking China availability, while Broadcom lost its final appeal over Samsung terms and Intel is burning approximately $6 billion on substrates. AI demand is diverting chip supplies from automotive sectors, causing Nexperia and STMicroelectronics to warn of bottlenecks, and Dell's inventory has tripled amid memory trade warnings. Geopolitical friction persists with India unleashing a Rs 40,000-crore weapon export surge, Texas midterm flips potentially tightening AI oversight on Taiwan's supply chain, and US tariffs widening the trade deficit despite sparking growth.",
+    "money": "Vertiv secured a three-year deal with Infineon to lock in power chip capacity while Megaspeed is acquiring $4.6 billion worth of Nvidia equipment. Broadcom rose on Google chip supply deal optimism, contrasting with Alibaba stock potentially remaining below fair value due to AI pressure, and Logitech weighed strong growth against chip supply risks.",
+    "watch": "The outcome of the Texas midterm elections could tighten AI oversight and further pressure Taiwan's chip supply chain, while the Iran war energy crisis fueled a 61% jump in China's electric vehicle exports. Nvidia CEO Huang's spy scandal is currently testing Korea's chip supply chain stability.",
+    "briefedAt": "2026-11-10T18:28:59.302Z"
   },
   {
     "id": "commoditymarkets",
     "heat": 5,
-    "state": "Winter natural gas forwards have tumbled due to warmth and supply gluts, yet storage limits in the Northeast are forcing pipelines to turn away excess. European prices remain elevated from US election results and Strait of Hormuz tensions, while India's demand is projected to fall 2% in 2026 despite a 10% rise in LNG imports. Abu Qir Fertilizers has been notified for a 33% reduction in natural gas supplies, and Port St. Joe Elementary School was evacuated due to strong natural gas odors.",
+    "state": "German manufacturers face financial strain as natural gas prices surge, while winter forwards have tumbled due to warmth and supply gluts despite storage limits in the Northeast forcing pipelines to turn away excess. European prices remain elevated from US election results and Strait of Hormuz tensions, whereas India's demand is projected to fall 2% in 2026 despite a 10% rise in LNG imports. Abu Qir Fertilizers received a notification for a 33% reduction in natural gas supplies, and Port St. Joe Elementary School was evacuated due to strong natural gas odors.",
     "money": "TotalEnergies is winning the long-term supply game with a five-year LNG deal with UAE's ADNOC, while Petrobras maintains stable distributor pricing despite regional volatility. Goldman Sachs has lifted price forecasts citing supply uncertainty, and US WTI crude is testing support near $85.17 as Gulf supply recovers.",
-    "watch": "The outcome of the US election and stability in the Strait of Hormuz will dictate whether European gas prices sustain their rise or correct on supply fears. Goldman Sachs' updated forecasts on weather-related supply shocks could trigger a rapid re-pricing of natural gas cash markets.",
-    "briefedAt": "2026-11-09T21:18:01.511Z"
+    "watch": "Iran plans a new pipeline with Russia to import 110 bcm of natural gas annually, which could alter global trade flows if executed. The outcome of the US election and stability in the Strait of Hormuz will dictate whether European gas prices sustain their rise or correct on supply fears.",
+    "briefedAt": "2026-11-10T18:32:22.425Z"
   },
   {
     "id": "strategicpartnershipsma",
@@ -50,18 +50,18 @@
   {
     "id": "portactivityinfrastructu",
     "heat": 5,
-    "state": "Port congestion remains a critical bottleneck causing vessel delays that cost shipping lines millions, with specific disruptions including truck jams in Incheon, strikes halting French ports, typhoon-induced gridlock in Ningbo, and record levels in the Middle East. Strategic expansion is driving growth, evidenced by Adani Ports reporting 51 MMT cargo volume (a 27% YoY increase) and securing a 15-year concession for Chittagong alongside a new Corpus Christi hub project. Maersk mitigates Asian disruptions by ordering 26 new container ships while raising its 2026 profit outlook, whereas APM Terminals is taking action to ease congestion and Cape Town terminal performance has improved as waiting times fall.",
-    "money": "Maersk is winning by raising its 2026 profit outlook as port congestion drives freight rates higher, while Adani Ports capitalizes on congestion with record October volumes that boosted shares. Shipping lines are bearing the brunt of operational halts in France and Lagos, which threatens trade gains despite N4.6 trillion revenue.",
-    "watch": "Monitor the impact of ongoing strikes in France and congestion in Ningbo and the Middle East before they cascade into broader supply chain delays. Watch for the implementation of proposed railway-linked depots and empty container storage solutions to alleviate bottlenecks.",
-    "briefedAt": "2026-11-09T14:53:40.319Z"
+    "state": "Port congestion remains a critical bottleneck driving freight rates up, with the Port of Los Angeles recording its highest cargo volume in 118 years and the Far East–Middle East corridor seeing climbing rates. Major disruptions persist in Ningbo following typhoon damage, Lagos despite N4.6 trillion revenue, and the Middle East hitting record levels, while importers propose empty container depots and railway-linked facilities to alleviate backups.",
+    "money": "Maersk is winning by raising its 2026 profit outlook twice as port congestion drives freight rates higher, aided by AI buildouts and strong China service demand. Adani Ports continues capitalizing on global volume surges with a race for an Rs 11,733-crore VOC Port container terminal deal.",
+    "watch": "Monitor the implementation of proposed importer empty container depots and railway-linked storage solutions to see if they can ease congestion before it cascades further. Watch for the impact of ongoing typhoon recovery in Ningbo and record Middle East delays on broader supply chain throughput.",
+    "briefedAt": "2026-11-10T18:30:10.383Z"
   },
   {
     "id": "freightlinesshipping",
     "heat": 5,
-    "state": "Ocean freight volumes are surging globally, with Rhenus reporting 26% growth on China-Europe routes and DHL Global Forwarding revenue jumping as capacity returns from the Red Sea. Spot rates are forecast to fall by 30% in 2027 due to this flooding back, while specific geopolitical complications persist at the Punta Arenas-Malvinas bridge. Major players like Rhenus and DHL are capitalizing on rising volumes, whereas TJX Companies faces margin pressure from diesel and ocean freight costs.",
-    "money": "Rhenus and DHL Global Forwarding are winning by capitalizing on surging volumes and capacity returns, while Great Eastern Shipping Company declared a ₹14.40 dividend and buyback despite hitting intraday lows amid price pressure.",
-    "watch": "Monitor if the easing of Hormuz impact continues to reduce diversions into late 2026 as port dwell times remain elevated. Watch for Russia's share sale process in Sovcomflot, which could alter regional capacity dynamics.",
-    "briefedAt": "2026-11-09T14:51:33.254Z"
+    "state": "Ocean freight volumes are surging globally with DHL Global Forwarding revenue jumping as capacity returns from the Red Sea, while Great Eastern Shipping and Cosco report record profits and dividends driven by rising trans-Pacific trade. Despite this volume boom, Xeneta forecasts a 30% drop in spot rates for 2027 due to expected capacity flooding back, and geopolitical friction persists at the Punta Arenas-Malvinas bridge where a Chilean company admitted British Embassy involvement in its conception.",
+    "money": "DHL Global Forwarding, Great Eastern Shipping Company, and Cosco are winning by capitalizing on surging volumes and record Q2/Q3 profits, whereas retailers like TJX face margin pressure from these rising costs.",
+    "watch": "Monitor if the easing of Hormuz impact continues to reduce diversions into late 2026 as port dwell times remain elevated, and watch for DP World's confirmation that rates will eventually come down after the current rebound.",
+    "briefedAt": "2026-11-10T18:31:21.516Z"
   },
   {
     "id": "regionalsupplychains",

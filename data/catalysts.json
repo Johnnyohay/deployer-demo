@@ -361,6 +361,226 @@
     "ref": "u-20261108-borderlands-mexico-us-foreign-trade-zones-push-to-"
   },
   {
+    "id": "c-20261115-china-extends-suspension-of-24-us-tariff-by-two-mo",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "China extends suspension of 24% US tariff by two months",
+    "why": "Delays the implementation of new trade barriers, providing temporary relief for US importers and exporters.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "ref": "u-20261109-china-extends-suspension-of-24-tariff-on-us-import"
+  },
+  {
+    "id": "c-20261115-canada-extends-tariff-relief-on-certain-us-goods-a",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "Canada extends tariff relief on certain US goods and introduces exemption process",
+    "why": "Maintains trade flow stability while allowing Canada to manage specific import exemptions.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "ref": "u-20261110-canada-extends-tariff-relief-on-certain-us-goods-i"
+  },
+  {
+    "id": "c-20261115-brazil-s-proposed-35-crop-protection-tariff-implem",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "Brazil's proposed 35% crop protection tariff implementation date",
+    "why": "Creates uncertainty for agricultural exporters and impacts market share calculations between China, India, and Brazil.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "ref": "u-20261110-brazil-s-proposed-35-crop-protection-tariff-who-wi"
+  },
+  {
+    "id": "c-20261115-us-tariff-refund-deadline-for-q3-profit-beat-adjus",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "US tariff refund deadline for Q3 profit beat adjustments",
+    "why": "Affects retail and manufacturing margins as companies adjust financial reporting based on returned tariffs.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "ref": "u-20261110-on-holding-shares-fall-5-in-premarket-as-tariff-re"
+  },
+  {
+    "id": "c-20261115-ups-court-bid-to-recover-tariff-payments-ruling-da",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "UPS court bid to recover tariff payments ruling date",
+    "why": "Legal precedent may alter how shipping companies handle tariff liabilities and pricing models.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "ref": "u-20261110-news-ups-in-court-bid-to-recover-tariff-payments-r"
+  },
+  {
+    "id": "c-20261115-suez-return-impact-on-november-freight-rate-increa",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "Suez return impact on November freight rate increases assessment",
+    "why": "Potential reduction in shipping costs could alter global supply chain cost structures.",
+    "sectors": [
+      "freightlinesshipping"
+    ],
+    "ref": "u-20261110-suez-return-could-limit-november-freight-rate-incr"
+  },
+  {
+    "id": "c-20261115-adani-ports-voc-port-container-terminal-constructi",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "Adani Ports VOC Port container terminal construction deal deadline",
+    "why": "Major infrastructure investment impacts regional port activity and capacity expansion in India.",
+    "sectors": [
+      "portactivityinfrastructu"
+    ],
+    "ref": "u-20261110-adani-ports-in-race-for-rs-11-733-crore-voc-port-c"
+  },
+  {
+    "id": "c-20261115-ho-chi-minh-city-regional-supply-chain-connector-r",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "Ho Chi Minh City regional supply chain connector reinforcement review",
+    "why": "Strengthens Southeast Asia's position as a hub for global trade and logistics.",
+    "sectors": [
+      "regionalsupplychains"
+    ],
+    "ref": "u-20261110-ho-chi-minh-city-reinforces-position-as-regional-s"
+  },
+  {
+    "id": "c-20261115-tihar-festival-economic-impact-review-period",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "Tihar Festival economic impact review period",
+    "why": "High imports and low domestic production highlight seasonal trade dynamics in the region.",
+    "sectors": [
+      "regionalsupplychains"
+    ],
+    "ref": "u-20261110-tihar-festival-s-economic-impact-high-imports-low-"
+  },
+  {
+    "id": "c-20261115-ai-chip-supply-chain-bottleneck-resolution-for-aut",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "AI chip supply chain bottleneck resolution for automotive sector",
+    "why": "Continued pressure on chip availability affects vehicle production schedules and retail inventory.",
+    "sectors": [
+      "retailinventorystockouts"
+    ],
+    "ref": "u-20261110-ai-demand-fueling-chip-supply-chain-bottlenecks-fo"
+  },
+  {
+    "id": "c-20261115-nvidia-ceo-troubles-impact-on-ai-chip-supply-chain",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "NVIDIA CEO troubles impact on AI chip supply chain dominance",
+    "why": "Market shifts toward custom ASIC chips could alter competitive landscapes and supply reliability.",
+    "sectors": [
+      "strategicpartnershipsma"
+    ],
+    "ref": "u-20261110-nvidia-ceo-huang-s-troubles-send-shockwaves-across"
+  },
+  {
+    "id": "c-20261115-broadcom-google-chip-supply-deal-optimization-time",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "Broadcom Google chip supply deal optimization timeline",
+    "why": "Strategic partnership deals aim to stabilize supply chains and optimize production efficiency.",
+    "sectors": [
+      "strategicpartnershipsma"
+    ],
+    "ref": "u-20261110-broadcom-rises-on-google-chip-supply-deal-optimism"
+  },
+  {
+    "id": "c-20261115-carrier-process-equipment-group-acquisition-comple",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "Carrier Process Equipment Group acquisition completion date",
+    "why": "Acquisition of Cyclonaire Corporation expands equipment capabilities for bulk shipping operations.",
+    "sectors": [
+      "strategicpartnershipsma"
+    ],
+    "ref": "u-20261110-carrier-process-equipment-group-completes-acquisit"
+  },
+  {
+    "id": "c-20261115-iran-russia-natural-gas-pipeline-import-capacity-r",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "Iran-Russia natural gas pipeline import capacity review",
+    "why": "New pipeline infrastructure aims to secure energy supply and reduce geopolitical risks.",
+    "sectors": [
+      "commoditymarkets"
+    ],
+    "ref": "u-20261110-iran-plans-new-pipeline-with-russia-to-import-110-"
+  },
+  {
+    "id": "c-20261115-china-crude-imports-bounce-back-as-natural-gas-dem",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "China crude imports bounce-back as natural gas demand lags",
+    "why": "Shift in energy import mix impacts global commodity markets and pricing strategies.",
+    "sectors": [
+      "commoditymarkets"
+    ],
+    "ref": "u-20261110-china-s-crude-imports-bounce-back-as-natural-gas-d"
+  },
+  {
+    "id": "c-20261115-german-manufacturers-financial-strain-due-to-natur",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "German manufacturers financial strain due to natural gas prices surge",
+    "why": "Rising energy costs threaten manufacturing profitability and supply chain stability.",
+    "sectors": [
+      "commoditymarkets"
+    ],
+    "ref": "u-20261110-german-manufacturers-face-financial-strain-as-natu"
+  },
+  {
+    "id": "c-20261115-duty-free-americas-contract-expiry-at-atlanta-airp",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "Duty Free Americas contract expiry at Atlanta Airport",
+    "why": "Contract expiration leads to potential service disruption and new tender requirements.",
+    "sectors": [
+      "portactivityinfrastructu"
+    ],
+    "ref": "u-20261110-duty-free-americas-exits-atlanta-airport-upon-cont"
+  },
+  {
+    "id": "c-20261115-strong-import-cargo-volume-leads-to-port-backups-s",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "Strong import cargo volume leads to port backups; strike avoided",
+    "why": "High cargo volumes create logistical bottlenecks but prevent labor disputes.",
+    "sectors": [
+      "logisticsfreightrates"
+    ],
+    "ref": "u-20261110-strong-import-cargo-volume-leads-to-port-backups-s"
+  },
+  {
+    "id": "c-20261115-cargo-surge-and-port-congestion-send-far-east-midd",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "Cargo surge and port congestion send Far East–Middle East rates climbing",
+    "why": "Supply chain disruptions drive up freight costs across key trade routes.",
+    "sectors": [
+      "freightlinesshipping"
+    ],
+    "ref": "u-20261110-news-cargo-surge-and-port-congestion-send-far-east"
+  },
+  {
+    "id": "c-20261115-when-ocean-freight-fails-switching-to-air-should-b",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "When ocean freight fails, switching to air should be a considered decision",
+    "why": "Evaluates cost-benefit analysis for urgent shipments and supply chain resilience.",
+    "sectors": [
+      "logisticsfreightrates"
+    ],
+    "ref": "u-20261110-when-ocean-freight-fails-switching-to-air-should-b"
+  },
+  {
     "id": "c-20261121-china-extends-suspension-of-24-tariff-on-us-import",
     "d": "2026-11-21",
     "approx": false,

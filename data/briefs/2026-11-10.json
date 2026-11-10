@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-10",
+  "title": "Today in retail, supply chain and geopolitics",
+  "big": "47 new stories since the last brief. The busiest areas: trade policy & tariffs and port activity & infrastructure.",
+  "stories": [
+    {
+      "tag": "Trade Policy & Tariffs",
+      "h": "With Brazil's Proposed Tariff, Who Could Lose More Market Share: China or India?",
+      "what": "With Brazil's Proposed Tariff, Who Could Lose More Market Share: China or India?",
+      "you": "Early tariff signals indicate which products will face margin compression first.",
+      "ref": "u-20261110-with-brazil-s-proposed-tariff-who-could-lose-more-"
+    },
+    {
+      "tag": "Logistics & Freight Rates",
+      "h": "News Cargo surge and port congestion send Far East–Middle East rates climbing",
+      "what": "News Cargo surge and port congestion send Far East–Middle East rates climbing",
+      "you": "Sudden rate spikes or port bottlenecks are the earliest warning signs of shelf shortages.",
+      "ref": "u-20261110-news-cargo-surge-and-port-congestion-send-far-east"
+    },
+    {
+      "tag": "Port Activity & Infrastructure",
+      "h": "Drone view shows a cargo ship approaching a container terminal at Lianyungang port",
+      "what": "Drone view shows a cargo ship approaching a container terminal at Lianyungang port",
+      "you": "Port bottlenecks are the physical manifestation of supply chain friction.",
+      "ref": "u-20261110-drone-view-shows-a-cargo-ship-approaching-a-contai"
+    },
+    {
+      "tag": "Commodity Markets",
+      "h": "German manufacturers face financial strain as natural gas prices surge (NG1:COM:Commodity)",
+      "what": "German manufacturers face financial strain as natural gas prices surge (NG1:COM:Commodity)",
+      "you": "Raw material price jumps are the root cause of retail margin erosion.",
+      "ref": "u-20261110-german-manufacturers-face-financial-strain-as-natu"
+    },
+    {
+      "tag": "Retail Strategy & Pricing",
+      "h": "Amazon, alternative carriers gained parcel volume in 2026’s first half",
+      "what": "The e-commerce giant has continued to grab market share as it relies less on UPS for shipping and expands its delivery reach, per ShipMatrix.",
+      "you": "Understanding retail strategy helps anticipate how supply shocks will be priced to consumers.",
+      "ref": "u-20261110-amazon-alternative-carriers-gained-parcel-volume-i"
+    }
+  ],
+  "watch": {
+    "h": "US-China tariff truce under strain ahead of potential trade war escalation",
+    "why": "Around November 15. Both nations are bracing for a potential trade war as current agreements face pressure"
+  },
+  "idea": {
+    "h": "Logistics & Freight Rates",
+    "why": "Prepare contingency plans for a 30% drop in ocean freight rates by late 2027 while simultaneously hedging against immediate port strikes at Los Angeles and Long Beach. Analysts predict capacity flooding will lower costs, but ongoing labor disputes and the AI buildout driving current congestion mean short-term volatility remains high."
+  },
+  "auto": true
+}
