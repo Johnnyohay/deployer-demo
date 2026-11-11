@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-11",
+  "title": "Today in retail, supply chain and geopolitics",
+  "big": "38 new stories since the last brief. The busiest areas: trade policy & tariffs and logistics & freight rates.",
+  "stories": [
+    {
+      "tag": "Trade Policy & Tariffs",
+      "h": "Harmonized Tariff Schedule of the United States Revision 23 (2026)",
+      "what": "Harmonized Tariff Schedule of the United States Revision 23 (2026)",
+      "you": "Early tariff signals indicate which products will face margin compression first.",
+      "ref": "u-20261110-harmonized-tariff-schedule-of-the-united-states-re"
+    },
+    {
+      "tag": "Logistics & Freight Rates",
+      "h": "‘Port congestion is the next major challenge, interoperability across the supply chain can help’",
+      "what": "‘Port congestion is the next major challenge, interoperability across the supply chain can help’",
+      "you": "Sudden rate spikes or port bottlenecks are the earliest warning signs of shelf shortages.",
+      "ref": "u-20261111-port-congestion-is-the-next-major-challenge-intero"
+    },
+    {
+      "tag": "Freight Lines & Shipping",
+      "h": "The Great Eastern Shipping Company Q2 2027 Earnings Call Is Live",
+      "what": "The Great Eastern Shipping Company Q2 2027 Earnings Call Is Live",
+      "you": "Fleet reductions or route changes indicate long-term supply constraints.",
+      "ref": "u-20261111-the-great-eastern-shipping-company-q2-2027-earning"
+    },
+    {
+      "tag": "Retail Inventory & Stockouts",
+      "h": "Global Energy Crisis Deepens – Efforts to Plug Supply Gap Fall Short, Industry Executives Warn",
+      "what": "Global Energy Crisis Deepens – Efforts to Plug Supply Gap Fall Short, Industry Executives Warn",
+      "you": "Seeing inventory drain before competitors reveals where the market is overheating.",
+      "ref": "u-20261109-global-energy-crisis-deepens-efforts-to-plug-suppl"
+    },
+    {
+      "tag": "Strategic Partnerships & M&A",
+      "h": "ShipBob opens AI agent Bobby, giving brands an AI supply chain partner that works for them",
+      "what": "ShipBob opens AI agent Bobby, giving brands an AI supply chain partner that works for them",
+      "you": "Major deals often signal shifts in supply capability or new market access.",
+      "ref": "u-20261111-shipbob-opens-ai-agent-bobby-giving-brands-an-ai-s"
+    }
+  ],
+  "watch": {
+    "h": "US-China tariff truce under strain ahead of potential trade war escalation",
+    "why": "Around November 15. Both nations are bracing for a potential trade war as current agreements face pressure"
+  },
+  "idea": {
+    "h": "Strategic Partnerships & M&A",
+    "why": "Evaluate supply chain software vendors that are acquiring AI capabilities, such as OpenAI's recent moves, to future-proof inventory management against tariff-induced disruptions. The convergence of geopolitical instability and digital transformation means companies with integrated AI-driven logistics tools will be better positioned to navigate complex trade routes."
+  },
+  "auto": true
+}

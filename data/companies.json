@@ -117,7 +117,7 @@
     "aliases": [
       "USA"
     ],
-    "latest": "2026-11-04: Harmonized Tariff Schedule of the United States Revision 19 (2026)"
+    "latest": "2026-11-10: Harmonized Tariff Schedule of the United States Revision 23 (2026)"
   },
   {
     "id": "world-trade-organization",
@@ -244,7 +244,7 @@
     ],
     "about": "Indian shipping firm focusing on gas carriers, with recent dividend declarations and profit jumps.",
     "aliases": [],
-    "latest": "2026-11-09: The Great Eastern Shipping Company Limited Q2 PAT Rises 118%",
+    "latest": "2026-11-11: The Great Eastern Shipping Company Q2 2027 Earnings Call Is Live",
     "addedAt": "2026-11-07T16:59:35.572Z"
   },
   {
@@ -260,5 +260,20 @@
     "aliases": [],
     "latest": "2026-11-05: The Great Eastern Shipping Company Limited (GESHIP.NS) Seasonal returns chart - Yahoo Finance",
     "addedAt": "2026-11-09T14:59:08.636Z"
+  },
+  {
+    "id": "audi",
+    "name": "Audi",
+    "kind": "company",
+    "type": "Company",
+    "sectors": [
+      "retailinventorystockouts",
+      "tradepolicytariffs",
+      "geopoliticalsupplyrisks"
+    ],
+    "about": "German automotive manufacturer facing potential US tariff relief agreements for its new Georgia manufacturing facility.",
+    "aliases": [],
+    "latest": "2026-11-10: Toyota Wants Audi’s Rumored Sweetheart Tariff Deal: TDS",
+    "addedAt": "2026-11-11T18:27:52.460Z"
   }
 ]
