@@ -1,5 +1,38 @@
 [
   {
+    "id": "i-20261112-monitor-the-bipartisan-push-to-curb-presidential-t",
+    "t": "Monitor the bipartisan push to curb presidential tariff power alongside ongoing US-China liaison on cuts.",
+    "what": "Retailers should prepare contingency plans assuming potential tariff reductions could lower import costs for key categories like electronics and apparel.",
+    "why": "Congressional bills restricting Trump's tariff authority combined with China-US diplomatic efforts suggest a high probability of trade policy shifts that will directly impact pricing strategies soon.",
+    "sectors": [
+      "tradepolicytariffs",
+      "geopoliticalsupplyrisks"
+    ],
+    "at": "2026-11-12"
+  },
+  {
+    "id": "i-20261112-diversify-logistics-networks-to-mitigate-risks-fro",
+    "t": "Diversify logistics networks to mitigate risks from the Black Sea becoming the world's deadliest shipping lane.",
+    "what": "Secure alternative routes and increase inventory buffers for goods transiting through high-risk zones like the Black Sea and Hormuz.",
+    "why": "Recent reports of intensified conflict in the Black Sea and Maersk's data breach highlight escalating geopolitical supply chain vulnerabilities that threaten freight reliability.",
+    "sectors": [
+      "logisticsfreightrates",
+      "geopoliticalsupplyrisks"
+    ],
+    "at": "2026-11-12"
+  },
+  {
+    "id": "i-20261112-leverage-the-166-billion-tariff-refund-opportunity",
+    "t": "Leverage the $166 billion tariff refund opportunity to optimize working capital for import-dependent retailers.",
+    "what": "Analyze which specific import categories will benefit most from the universal refunds and adjust stock levels accordingly.",
+    "why": "Fortune reports that American importers are one step closer to receiving massive refunds, creating a window to reduce cash flow constraints and potentially lower consumer prices.",
+    "sectors": [
+      "retailstrategypricing",
+      "commoditymarkets"
+    ],
+    "at": "2026-11-12"
+  },
+  {
     "id": "i-20261105-geopolitical-supply-risks",
     "t": "Geopolitical Supply Risks",
     "what": "Monitor the link between US midterm election results and potential tariff reversals, specifically targeting sectors like Canadian cabinet makers and craft brewers currently facing doubled duties.",

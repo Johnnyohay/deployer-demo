@@ -581,6 +581,105 @@
     "ref": "u-20261110-when-ocean-freight-fails-switching-to-air-should-b"
   },
   {
+    "id": "c-20261115-us-congress-bills-to-restrict-presidential-tariff-",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "US Congress bills to restrict presidential tariff power",
+    "why": "Three proposed bills aim to significantly limit the President's ability to impose tariffs if passed into law.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "ref": "u-20261112-bipartisan-push-possible-to-curb-trump-tariffs"
+  },
+  {
+    "id": "c-20261115-eu-delays-10-tariff-on-electric-cars-from-uk",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "EU delays 10% tariff on electric cars from UK",
+    "why": "The European Union is set to postpone the implementation of a new tariff on vehicles imported from the United Kingdom.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "ref": "u-20261112-eu-set-to-delay-10-tariff-on-electric-cars-from-uk"
+  },
+  {
+    "id": "c-20261115-us-importers-receive-166-billion-in-universal-tari",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "US importers receive $166 billion in universal tariff refunds",
+    "why": "American importers are approaching the distribution of a massive refund package intended to offset recent tariff costs.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "ref": "u-20261112-american-importers-are-one-step-closer-to-receivin"
+  },
+  {
+    "id": "c-20261115-ftc-probes-companies-withholding-tariff-refunds-fr",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "FTC probes companies withholding tariff refunds from consumers",
+    "why": "The Federal Trade Commission is urging an investigation into businesses that are not passing on tariff relief to their customers.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "ref": "u-20261112-ftc-urged-to-probe-companies-not-sharing-tariff-re"
+  },
+  {
+    "id": "c-20261115-india-detains-scotch-whisky-containers-in-tariff-d",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "India detains Scotch whisky containers in tariff dispute",
+    "why": "Indian customs authorities have seized shipments of Scottish whisky due to ongoing trade disagreements.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "ref": "u-20261112-indian-customs-detains-scotch-whisky-containers-in"
+  },
+  {
+    "id": "c-20261115-trump-warns-mexico-over-caravans-and-potential-tar",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "Trump warns Mexico over caravans and potential tariffs",
+    "why": "The US President has issued a threat to impose tariffs on Mexican goods if border security issues are not resolved.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "ref": "u-20261112-trump-sends-tariff-warning-to-mexico-is-caravans-d"
+  },
+  {
+    "id": "c-20261115-black-sea-shipping-lane-becomes-world-s-deadliest",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "Black Sea shipping lane becomes world's deadliest",
+    "why": "Geopolitical tensions involving the Ukraine war have turned the Black Sea into a highly dangerous route for commercial vessels.",
+    "sectors": [
+      "geopoliticalsupplyrisks"
+    ],
+    "ref": "u-20261112-ukraine-war-turns-black-sea-into-world-s-deadliest"
+  },
+  {
+    "id": "c-20261115-iran-claims-attack-on-omani-island-targets-oil-shi",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "Iran claims attack on Omani island targets oil shipping infrastructure",
+    "why": "Tehran alleges a recent strike on an island in the Gulf of Oman was designed to disrupt global oil supply chains.",
+    "sectors": [
+      "geopoliticalsupplyrisks"
+    ],
+    "ref": "u-20261112-iran-claims-attack-on-omani-island-aiming-at-oil-s"
+  },
+  {
+    "id": "c-20261115-hapag-lloyd-q3-2026-earnings-surge-on-freight-rate",
+    "d": "2026-11-15",
+    "approx": true,
+    "title": "Hapag-Lloyd Q3 2026 earnings surge on freight rate strength",
+    "why": "The German shipping line reported a significant profit increase driven by sustained high ocean freight rates.",
+    "sectors": [
+      "freightlinesshipping"
+    ],
+    "ref": "u-20261112-hapag-lloyd-q3-2026-slides-earnings-surge-on-freig"
+  },
+  {
     "id": "c-20261121-china-extends-suspension-of-24-tariff-on-us-import",
     "d": "2026-11-21",
     "approx": false,

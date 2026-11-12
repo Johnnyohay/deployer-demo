@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-12",
+  "title": "Today in retail, supply chain and geopolitics",
+  "big": "53 new stories since the last brief. The busiest areas: trade policy & tariffs and geopolitical supply risks.",
+  "stories": [
+    {
+      "tag": "Trade Policy & Tariffs",
+      "h": "Harmonized Tariff Schedule of the United States Revision 22 (2026)",
+      "what": "Harmonized Tariff Schedule of the United States Revision 22 (2026)",
+      "you": "Early tariff signals indicate which products will face margin compression first.",
+      "ref": "u-20261111-harmonized-tariff-schedule-of-the-united-states-re"
+    },
+    {
+      "tag": "Logistics & Freight Rates",
+      "h": "‘Port congestion has become a new normal’: Soren Toft",
+      "what": "‘Port congestion has become a new normal’: Soren Toft",
+      "you": "Sudden rate spikes or port bottlenecks are the earliest warning signs of shelf shortages.",
+      "ref": "u-20261112-port-congestion-has-become-a-new-normal-soren-toft"
+    },
+    {
+      "tag": "Freight Lines & Shipping",
+      "h": "Shipping company Maersk suffers data breach, ransomware gang demands $5 million",
+      "what": "Shipping company Maersk suffers data breach, ransomware gang demands $5 million",
+      "you": "Fleet reductions or route changes indicate long-term supply constraints.",
+      "ref": "u-20261112-shipping-company-maersk-suffers-data-breach-ransom"
+    },
+    {
+      "tag": "Port Activity & Infrastructure",
+      "h": "FILE PHOTO: Drone view shows a cargo ship approaching a container terminal at Lianyungang port",
+      "what": "FILE PHOTO: Drone view shows a cargo ship approaching a container terminal at Lianyungang port",
+      "you": "Port bottlenecks are the physical manifestation of supply chain friction.",
+      "ref": "u-20261111-file-photo-drone-view-shows-a-cargo-ship-approachi"
+    },
+    {
+      "tag": "Geopolitical Supply Risks",
+      "h": "TSMC Approves Up to $500 Million Anthropic IPO Stake as Anthropic Filing Flags TSMC Chip Supply Risk",
+      "what": "TSMC Approves Up to $500 Million Anthropic IPO Stake as Anthropic Filing Flags TSMC Chip Supply Risk",
+      "you": "Regional conflicts and energy shocks directly translate into retail cost increases.",
+      "ref": "u-20261110-tsmc-approves-up-to-500-million-anthropic-ipo-stak"
+    }
+  ],
+  "watch": {
+    "h": "US-China tariff truce under strain ahead of potential trade war escalation",
+    "why": "Around November 15. Both nations are bracing for a potential trade war as current agreements face pressure"
+  },
+  "idea": {
+    "h": "Geopolitical Supply Risks",
+    "why": "Monitor the link between US midterm election results and potential tariff reversals, specifically targeting sectors like Canadian cabinet makers and craft brewers currently facing doubled duties. Recent reports show Trump's midterm rout has given allies like South Africa hope for a trade reset, suggesting current protectionist policies are fragile and could shift within weeks."
+  },
+  "auto": true
+}

@@ -2,18 +2,18 @@
   {
     "id": "tradepolicytariffs",
     "heat": 5,
-    "state": "The 24% additional tariff on US imports remains suspended for two more months with a 10% floor and waived port fees through January, while Canada expands exemptions for specific goods but faces ongoing uncertainty that costs manufacturers significant business. ON Holdings shares dropped 5% in premarket trading as tariff refunds negatively impacted its Q3 profit beat despite unchanged sales outlooks, whereas a sneaker brand and a Swiss shoe manufacturer lifted profit forecasts driven by strong demand and refund benefits. Meanwhile, India holds Pernod Diageo Scotch shipments while investigating higher tariffs, and Brazil proposes a 35% crop protection tariff that could force China or India to lose market share.",
-    "money": "A sneaker brand and a Swiss shoe manufacturer are winning by lifting profit outlooks on strong demand and tariff refunds, whereas ON Holdings is losing ground as its Q3 profit beat suffers from negative tariff refund impacts. Canada is navigating a precarious middle ground where expanded exemptions for certain goods coexist with uncertainty that continues to erode business in the US market.",
-    "watch": "Investors are monitoring whether the clash between Trump and Congress prevents further rate hikes before midterms, particularly regarding India's proposed 35% crop protection tariff and Microsoft's request to reconsider import bans on Chinese optical transceivers. The outcome of the Trump-Xi meeting could solidify the current truce or trigger new conflicts involving these high-stakes trade disputes.",
-    "briefedAt": "2026-11-11T18:18:34.678Z"
+    "state": "A bipartisan push in Congress aims to restrict presidential tariff power, while the EU and UK jointly delay a 10% tariff on electric cars from the UK following industry pressure. Simultaneously, Beijing and Washington are in close liaison regarding potential tariff cuts, though India has detained 85 containers of Scotch whisky pending investigation into higher rates. US importers are one step closer to receiving $166 billion in universal refunds, yet a new FTC probe targets companies failing to share these funds with consumers.",
+    "money": "Companies benefiting from the $166 billion refund stream and strong demand are lifting profit forecasts, while ON Holdings faces a 5% share drop due to negative refund impacts on its Q3 beat. The EU-UK delay on EV tariffs suggests temporary relief for manufacturers in that sector, contrasting with India's ongoing trade friction over Scotch whisky.",
+    "watch": "The outcome of the bipartisan legislative push to curb Trump's tariff authority and the final status of the China-US liaison on reciprocal cuts will determine if current truces hold. Investors should monitor whether the FTC probe results force broader compliance changes that could alter refund distribution dynamics.",
+    "briefedAt": "2026-11-12T18:43:23.314Z"
   },
   {
     "id": "logisticsfreightrates",
     "heat": 5,
-    "state": "Freight rates are climbing globally due to cargo surges and persistent congestion in the Far East, while Maersk has raised its 2026 profit outlook citing AI buildout and port issues. Port strikes at Los Angeles and Long Beach remain delayed as contract talks continue, and the Red Sea lane faces active drone warfare from Houthis who now control a strategic island near Yemen. In Asia, Ningbo port remains stuck following typhoon disruption, while customs delays in India's Bombay High Court and Delhi are generating mounting demurrage costs for importers.",
-    "money": "Maersk is winning by raising its 2026 profit outlook as elevated freight rates driven by congestion and AI buildout continue to boost margins. Importers are gaining cost control through proposals for empty container depots and railway-linked storage, which aim to mitigate the $46.7 million in demurrage losses seen previously.",
-    "watch": "Sogese warns that ships returning through the Suez Canal could limit further November freight rate increases, but unresolved LA/LB contract talks risk triggering renewed strikes. The Bombay High Court has directed customs to bear warehousing charges for delays in assessing imported goods, suggesting a shift in liability for demurrage costs.",
-    "briefedAt": "2026-11-11T18:19:26.502Z"
+    "state": "Global freight rates are surging due to cargo surges, persistent Far East congestion, and AI-driven demand, while the Black Sea has become the world's deadliest shipping lane following Houthi drone warfare that allows them to control a strategic island at the mouth of the Red Sea. Port strikes in Los Angeles and Long Beach remain delayed as contract talks continue, and customs delays in India's Bombay High Court and Delhi are generating mounting demurrage costs for importers. Maersk is raising its 2026 profit outlook citing AI buildout and port issues, while Hapag-Lloyd reports Q3 earnings surges on freight rate strength.",
+    "money": "Maersk and Hapag-Lloyd are winning by leveraging elevated rates driven by congestion and AI adoption to boost margins. Importers are attempting to gain cost control through proposals for empty container depots and railway-linked storage to mitigate demurrage losses, though the Bombay High Court has directed customs to bear warehousing charges for delays in assessing imported goods.",
+    "watch": "The Black Sea's transformation into a high-risk zone due to Houthi drone operations could further disrupt global supply chains, while Sogese warns that ships returning through the Suez Canal may limit November freight rate increases. Unresolved contract talks at LA/LB risk triggering renewed strikes, and interoperability challenges remain a major challenge for easing port congestion.",
+    "briefedAt": "2026-11-12T18:45:07.942Z"
   },
   {
     "id": "retailinventorystockouts",
@@ -26,10 +26,10 @@
   {
     "id": "geopoliticalsupplyrisks",
     "heat": 5,
-    "state": "Chip supply chains face acute strain as Nvidia stock fell 2.96% due to shrinking China availability, while Broadcom lost its final appeal over Samsung terms and Intel is burning approximately $6 billion on substrates. AI demand is diverting chip supplies from automotive sectors, causing Nexperia and STMicroelectronics to warn of bottlenecks, and Dell's inventory has tripled amid memory trade warnings. Geopolitical friction persists with India unleashing a Rs 40,000-crore weapon export surge, Texas midterm flips potentially tightening AI oversight on Taiwan's supply chain, and US tariffs widening the trade deficit despite sparking growth. Vertiv secured a three-year deal with Infineon to lock in power chip capacity while Megaspeed is acquiring $4.6 billion worth of Nvidia equipment. Broadcom rose on Google chip supply deal optimism, contrasting with Alibaba stock potentially remaining below fair value due to AI pressure, and Logitech weighed strong growth against chip supply risks. The outcome of the Texas midterm elections could tighten AI oversight and further pressure Taiwan's chip supply chain, while the Iran war energy crisis fueled a 61% jump in China's electric vehicle exports. Nvidia CEO Huang's spy scandal is currently testing Korea's chip supply chain stability.",
-    "money": "Nvidia stock fell 2.96% as China availability shrinks, yet Broadcom rose on Google chip supply deal optimism. Vertiv secured a three-year deal with Infineon to lock in power chip capacity while Megaspeed acquired $4.6 billion worth of Nvidia equipment. Logitech weighed strong growth against chip supply risks, and Alibaba stock could still sit below fair value due to AI pressure.",
-    "watch": "Nvidia CEO Huang's spy scandal is testing Korea's chip supply chain stability as the company faces potential dominance loss to custom ASIC chips. The Texas midterm election outcome could tighten AI oversight and further pressure Taiwan's chip supply chain.",
-    "briefedAt": "2026-11-11T18:20:28.605Z"
+    "state": "Nvidia stock fell 2.96% as CEO Huang's spy scandal tests Korea's chip supply chain stability, while Broadcom rose on Google deal optimism. AI demand is creating bottlenecks for automotive sectors, causing Nexperia and STMicroelectronics to warn of shortages, and TSMC faces cyber risk from three incidents. Vertiv secured a three-year deal with Infineon to lock capacity as its order book runs at triple-digit growth, contrasting with Alibaba stock potentially remaining below fair value due to supply pressure.",
+    "money": "Broadcom is winning on Google chip supply deal optimism while Nvidia loses market share to custom ASIC chips. Vertiv and Megaspeed are securing massive orders ($4.6B equipment) and capacity locks, whereas Nintendo rules out price hikes citing memory chip scarcity.",
+    "watch": "The outcome of the Texas midterm elections could tighten AI oversight and pressure Taiwan's supply chain, alongside ongoing Russia-Africa arms trade dynamics that may further disrupt global logistics.",
+    "briefedAt": "2026-11-12T18:44:13.143Z"
   },
   {
     "id": "commoditymarkets",
@@ -49,27 +49,27 @@
   },
   {
     "id": "portactivityinfrastructu",
-    "heat": 5,
-    "state": "Port of Los Angeles recorded its highest cargo volume in 118 years, while Far East–Middle East rates climb due to cargo surges and ongoing typhoon damage at Ningbo. Importers are proposing empty container depots and railway-linked facilities to alleviate backups, though long-term solutions remain a priority for exporters globally.",
-    "money": "Maersk is winning by raising its 2026 profit outlook twice as port congestion drives freight rates higher, aided by AI buildouts and strong China service demand. Adani Ports continues capitalizing on global volume surges with a race for an Rs 11,733-crore VOC Port container terminal deal.",
+    "heat": 4,
+    "state": "Port congestion has become a new normal, with the Port of Los Angeles recording its highest cargo volume in 118 years and strong import volumes causing backups despite strikes being avoided. Freight costs are rising due to these surges, impacting solar equipment deliveries, while geopolitical tensions like claims of attacks on Omani oil infrastructure threaten shipping routes. Meanwhile, Georgia's automotive growth is driving local port activity, and various terminals are expanding capacity or optimizing performance.",
+    "money": "Maersk is winning by raising its 2026 profit outlook twice as congestion drives freight rates higher, aided by AI buildouts and strong China service demand. Adani Ports continues capitalizing on global volume surges with a race for an Rs 11,733-crore VOC Port container terminal deal.",
     "watch": "Monitor the implementation of proposed importer empty container depots and railway-linked storage solutions to see if they can ease congestion before it cascades further. Watch for the impact of ongoing typhoon recovery in Ningbo and record Middle East delays on broader supply chain throughput.",
-    "briefedAt": "2026-11-11T18:22:39.378Z"
+    "briefedAt": "2026-11-12T18:46:39.687Z"
   },
   {
     "id": "freightlinesshipping",
     "heat": 5,
-    "state": "Ocean freight volumes remain surging globally as capacity returns from the Red Sea, with Great Eastern Shipping reporting an 118% rise in Q2 PAT and Cosco seeing profits jump 81% due to strong trans-Pacific trade. Despite this boom, Xeneta forecasts a 30% drop in spot rates for 2027 as capacity is expected to flood back, while geopolitical friction persists at the Punta Arenas-Malvinas bridge.",
-    "money": "Great Eastern Shipping and Cosco are winning by capitalizing on record Q2/Q3 profits and interim dividends driven by rising trade volumes. Retailers like TJX face margin pressure from these elevated costs, though DP World's COO warns that rates will eventually come down after the current rebound.",
+    "state": "Trans-Pacific ocean freight rates remain elevated despite US midterm political uncertainty, while Great Eastern Shipping reported an 118% rise in Q2 PAT and Cosco profits jumped 81%. Meanwhile, Xeneta forecasts a 30% drop in spot rates for 2027 as capacity is expected to flood back, though French shipping companies are imposing additional fees for Black Sea shipments.",
+    "money": "Great Eastern Shipping and Cosco are winning by capitalizing on record Q2/Q3 profits and interim dividends driven by rising trade volumes, while DP World's COO warns that rates will eventually come down after the current rebound.",
     "watch": "Monitor if the easing of Hormuz impact continues to reduce diversions into late 2026 as port dwell times remain elevated. Watch for confirmation on whether indicative prices for imported bauxite falling will stabilize market trading or trigger a shift to air freight when ocean fails.",
-    "briefedAt": "2026-11-11T18:21:55.152Z"
+    "briefedAt": "2026-11-12T18:47:27.524Z"
   },
   {
     "id": "regionalsupplychains",
     "heat": 5,
-    "state": "Serbia, Bosnia, and the Philippines are increasing food imports due to declining domestic production, while Venezuela reports a 38.8% drop in food imports as local output expands; simultaneously, Brazil faces lower wheat production requiring record imports, and El Paso's nearshoring opportunities reveal how trade challenges impact cross-border logistics for AI infrastructure and biopharma cold chains.",
-    "money": "Thai energy producers and qualified suppliers are positioning themselves to win by securing data center growth through lower tariffs and local sourcing rules, while NEPES wins recognition for strengthening the semiconductor supply chain via reshored materials and components.",
-    "watch": "USDA's expansion of domestic fertilizer production will determine if global supply concerns persist into 2027, and El Paso's nearshoring opportunities will reveal how trade challenges impact cross-border logistics for AI infrastructure and biopharma cold chains.",
-    "briefedAt": "2026-11-07T16:53:45.544Z"
+    "state": "Serbia, Bosnia and Herzegovina (80% of food), the Philippines, and Brazil are increasing food imports due to declining domestic output, while Venezuela reduced its food import volume by 38.8% as local production expanded. Meanwhile, Thai energy producers seek lower tariffs for data center growth, and NEPES won a presidential citation for strengthening semiconductor supply chains through reshored materials.",
+    "money": "Thai energy producers are positioning to win AI infrastructure contracts by securing local sourcing rules, while US-based contract manufacturers like Mobilicom expand domestic cybersecure datalink production. ScottishPower Renewables has crossed the £100m regional supply chain investment mark, and NEPES is recognized for its role in semiconductor reshoring.",
+    "watch": "USDA's expansion of domestic fertilizer production will determine if global supply concerns persist into 2027, and the outcome of upcoming US elections regarding strategic tariffs could impact nearshoring factory growth.",
+    "briefedAt": "2026-11-12T18:45:52.492Z"
   },
   {
     "id": "retailstrategypricing",

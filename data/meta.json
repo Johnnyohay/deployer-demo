@@ -1,46 +1,44 @@
 {
   "createdAt": "2026-11-05T16:17:16.035Z",
   "request": "### What do you want to follow?\n\nTrends in retail, supply chain and geopolitics\n\n### Who is it for, and what do you want from it?\n\nI work in retail strategy and want to see supply shocks and tariff changes coming before competitors do.\n\n### A name for your site (optional)\n\nShelf Signal\n\n### Sources you already read or trust (optional)\n\nSupply Chain Dive, Retail Dive, FreightWaves\n\n### YouTube channels you like on this (optional)\n\n_No response_",
-  "collectedAt": "2026-11-11T18:17:33.230Z",
-  "headline": "Geopolitical instability and tariff volatility are reshaping global supply chains, driving freight costs while prompting strategic M&A in logistics software.",
+  "collectedAt": "2026-11-12T18:42:25.340Z",
+  "headline": "Bipartisan legislative shifts and geopolitical flashpoints are creating a volatile trade environment where tariff relief is imminent but regional supply risks remain acute.",
   "forces": [
     {
       "t": "tradepolicytariffs",
-      "b": "Democrats have gained influence over the trade agenda but face a veto wall from Trump regarding tariff repeals, creating uncertainty for Canadian cabinet makers facing doubled duties. China is attempting to tie US farm imports to reciprocal tariff cuts, while Canada seeks to extend deals with China to boost exports despite US pressure.",
+      "b": "A bipartisan push to restrict presidential tariff power has gained traction with three bills in Congress, while importers anticipate receiving $166 billion in universal refunds. Simultaneously, the EU and UK are delaying a 10% tariff on electric cars following industry pushback, and China-US liaison continues on reciprocal cuts.",
       "s": [
         "tradepolicytariffs",
-        "geopoliticalsupplyrisks"
+        "strategicpartnershipsma"
       ]
     },
     {
       "t": "logisticsfreightrates",
-      "b": "Port strikes at Los Angeles and Long Beach remain delayed due to ongoing contract talks, causing mounting demurrage costs for industries like Ghana's petroleum sector. Analysts forecast a 30% drop in ocean freight spot rates by 2027 as Red Sea capacity returns, yet current congestion keeps Maersk's outlook high.",
+      "b": "Ocean freight rates remain elevated despite easing from near-record peaks, with port congestion now described as a 'new normal' in the US. The Black Sea has emerged as the world's deadliest shipping lane due to the Ukraine war, complicating global logistics.",
       "s": [
         "logisticsfreightrates",
-        "portactivityinfrastructu",
         "geopoliticalsupplyrisks"
       ]
     },
     {
-      "t": "strategicpartnershipsma",
-      "b": "Major logistics and retail firms are executing significant acquisitions to secure AI infrastructure and supply chain software, including Dropbox's $350M deal with Tigris Buy. OpenAI's Pierre acquisition signals a new era for development in this sector.",
+      "t": "retailinventorystockouts",
+      "b": "While $166 billion in tariff refunds are expected to benefit US retail importers stocks, India has detained 85 containers of Scotch whisky and continues to hold Pernod Diageo shipments due to disputes. These friction points threaten specific regional inventory flows despite broader refund hopes.",
       "s": [
-        "strategicpartnershipsma",
-        "retailstrategypricing"
+        "retailinventorystockouts",
+        "regionalsupplychains"
       ]
     },
     {
       "t": "geopoliticalsupplyrisks",
-      "b": "Houthis launched a drone war to control the Red Sea shipping lane, complicating routes for companies like DHL and The Black Sea Shipping Company. Regional conflicts are also impacting food imports in Venezuela and water infrastructure stability globally.",
+      "b": "The Ukraine war has turned the Black Sea into a high-risk zone, while Iran claims attacks on Omani islands aim to disrupt oil infrastructure. Additionally, Russia's African arms trade involving gold and guns adds another layer of geopolitical complexity.",
       "s": [
         "geopoliticalsupplyrisks",
-        "regionalsupplychains",
         "commoditymarkets"
       ]
     }
   ],
-  "pictureAt": "2026-11-05T16:27:45.806Z",
-  "ideasAt": "2026-11-05T16:34:58.500Z",
-  "curatedAt": "2026-11-11T18:27:52.461Z",
+  "pictureAt": "2026-11-12T18:48:47.106Z",
+  "ideasAt": "2026-11-12T18:53:01.466Z",
+  "curatedAt": "2026-11-12T18:53:01.468Z",
   "glossaryAt": "2026-11-09T03:29:44.391Z"
 }

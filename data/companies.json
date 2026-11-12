@@ -42,7 +42,7 @@
     "aliases": [
       "MAERSK"
     ],
-    "latest": "2026-11-06: Maersk raises 2026 profit outlook as port congestion drives freight rates higher"
+    "latest": "2026-11-12: Shipping company Maersk suffers data breach, ransomware gang demands $5 million"
   },
   {
     "id": "msc",
@@ -117,7 +117,7 @@
     "aliases": [
       "USA"
     ],
-    "latest": "2026-11-10: Harmonized Tariff Schedule of the United States Revision 23 (2026)"
+    "latest": "2026-11-11: Harmonized Tariff Schedule of the United States Revision 22 (2026)"
   },
   {
     "id": "world-trade-organization",
@@ -204,7 +204,7 @@
     ],
     "about": "Political party in the U.S. context (as referenced in trade war discussions) influencing trade policy and tariff debates.",
     "aliases": [],
-    "latest": "2026-11-09: Pritzker calls on Congress to bring tariff relief to consumers",
+    "latest": "2026-11-12: Bipartisan push possible to curb Trump tariffs",
     "addedAt": "2026-11-05T16:33:20.336Z"
   },
   {
@@ -230,7 +230,7 @@
     ],
     "about": "Global logistics and port operator involved in strategic partnerships and freight rate discussions.",
     "aliases": [],
-    "latest": "2026-11-07: ‘Ocean freight rates will come down eventually, we have seen this before’: DP World COO",
+    "latest": "2026-11-09: ‘Ocean freight rates will come down eventually, we have seen this before’: DP World COO",
     "addedAt": "2026-11-07T16:59:35.572Z"
   },
   {
@@ -275,5 +275,16 @@
     "aliases": [],
     "latest": "2026-11-10: Toyota Wants Audi’s Rumored Sweetheart Tariff Deal: TDS",
     "addedAt": "2026-11-11T18:27:52.460Z"
+  },
+  {
+    "id": "nvidia",
+    "name": "Nvidia",
+    "kind": "company",
+    "type": "Company",
+    "sectors": [],
+    "about": "Leading semiconductor manufacturer whose leadership uncertainty and supply chain issues with Korean partners are impacting global chip availability.",
+    "aliases": [],
+    "latest": "2026-11-12: Nvidia leadership uncertainty puts Korean chip supply deals under scrutiny",
+    "addedAt": "2026-11-12T18:51:59.428Z"
   }
 ]
