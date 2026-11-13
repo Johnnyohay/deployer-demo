@@ -691,6 +691,18 @@
     "ref": "u-20261109-china-extends-suspension-of-24-tariff-on-us-import"
   },
   {
+    "id": "c-20261201-hapag-lloyd-raises-far-east-to-europe-freight-rate",
+    "d": "2026-12-01",
+    "approx": false,
+    "title": "Hapag-Lloyd raises Far East to Europe freight rates",
+    "why": "Ocean carriers are increasing costs for shipping containers between Asia and Europe.",
+    "sectors": [
+      "logisticsfreightrates",
+      "regionalsupplychains"
+    ],
+    "ref": "u-20261113-hapag-lloyd-to-raise-far-east-to-europe-freight-al"
+  },
+  {
     "id": "c-20261209-china-extends-suspension-of-24-tariff-on-us-import",
     "d": "2026-12-09",
     "approx": false,
@@ -723,6 +735,29 @@
       "tradepolicytariffs"
     ],
     "ref": "u-20261108-if-there-is-adjustment-lrt-jabodebek-tariff-should"
+  },
+  {
+    "id": "c-20270101-usps-implements-5-9-shipping-price-increase-and-fu",
+    "d": "2027-01-01",
+    "approx": true,
+    "title": "USPS implements 5.9% shipping price increase and fuel surcharge",
+    "why": "Postage rates will rise following significant financial losses, impacting retail logistics costs.",
+    "sectors": [
+      "logisticsfreightrates",
+      "retailstrategypricing"
+    ],
+    "ref": "u-20261113-usps-plans-a-5-9-shipping-price-increase-in-januar"
+  },
+  {
+    "id": "c-20270101-usps-price-hike-effective-date-confirmed",
+    "d": "2027-01-01",
+    "approx": true,
+    "title": "USPS price hike effective date confirmed",
+    "why": "The 5.9% increase and permanent fuel surcharge are scheduled to take effect in January.",
+    "sectors": [
+      "logisticsfreightrates"
+    ],
+    "ref": "u-20261113-usps-seeks-5-9-shipping-price-increase-after-6-5-b"
   },
   {
     "id": "c-20270103-potential-us-tariff-escalation-targeting-canada",

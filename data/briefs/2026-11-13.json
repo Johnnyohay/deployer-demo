@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-13",
+  "title": "Today in retail, supply chain and geopolitics",
+  "big": "42 new stories since the last brief. The busiest areas: trade policy & tariffs and geopolitical supply risks.",
+  "stories": [
+    {
+      "tag": "Logistics & Freight Rates",
+      "h": "Freight rates ease, but port congestion persists",
+      "what": "Freight rates ease, but port congestion persists",
+      "you": "Sudden rate spikes or port bottlenecks are the earliest warning signs of shelf shortages.",
+      "ref": "u-20261113-freight-rates-ease-but-port-congestion-persists"
+    },
+    {
+      "tag": "Trade Policy & Tariffs",
+      "h": "Harmonized Tariff Schedule",
+      "what": "Harmonized Tariff Schedule",
+      "you": "Early tariff signals indicate which products will face margin compression first.",
+      "ref": "u-20261112-harmonized-tariff-schedule"
+    },
+    {
+      "tag": "Geopolitical Supply Risks",
+      "h": "SemiAnalysis' Dylan Patel expects Nvidia's grip on AI chip supply chain to weaken",
+      "what": "SemiAnalysis' Dylan Patel expects Nvidia's grip on AI chip supply chain to weaken",
+      "you": "Regional conflicts and energy shocks directly translate into retail cost increases.",
+      "ref": "u-20261113-semianalysis-dylan-patel-expects-nvidia-s-grip-on-"
+    },
+    {
+      "tag": "Strategic Partnerships & M&A",
+      "h": "FTC Challenges $3.5B Veterinary Supplies Merger",
+      "what": "FTC Challenges $3.5B Veterinary Supplies Merger",
+      "you": "Major deals often signal shifts in supply capability or new market access.",
+      "ref": "u-20261113-ftc-challenges-3-5b-veterinary-supplies-merger"
+    },
+    {
+      "tag": "Freight Lines & Shipping",
+      "h": "[T3EX Global Holdings FY2026 Q3 Earnings Call] Ocean Freight Rates Double Plus Volume Growth Lift T3EX Q3 Profit 270%; Quarterly EPS NT$3.73, Up 193.7% Year-on-Year",
+      "what": "[T3EX Global Holdings FY2026 Q3 Earnings Call] Ocean Freight Rates Double Plus Volume Growth Lift T3EX Q3 Profit 270%; Quarterly EPS NT$3.73, Up 193.7% Year-on-Year",
+      "you": "Fleet reductions or route changes indicate long-term supply constraints.",
+      "ref": "u-20261113-t3ex-global-holdings-fy2026-q3-earnings-call-ocean"
+    }
+  ],
+  "watch": {
+    "h": "US-China tariff truce under strain ahead of potential trade war escalation",
+    "why": "Around November 15. Both nations are bracing for a potential trade war as current agreements face pressure"
+  },
+  "idea": {
+    "h": "Logistics & Freight Rates",
+    "why": "Prepare contingency plans for a 30% drop in ocean freight rates by late 2027 while simultaneously hedging against immediate port strikes at Los Angeles and Long Beach. Analysts predict capacity flooding will lower costs, but ongoing labor disputes and the AI buildout driving current congestion mean short-term volatility remains high."
+  },
+  "auto": true
+}

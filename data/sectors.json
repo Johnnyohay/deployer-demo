@@ -2,34 +2,34 @@
   {
     "id": "tradepolicytariffs",
     "heat": 5,
-    "state": "A bipartisan push in Congress aims to restrict presidential tariff power, while the EU and UK jointly delay a 10% tariff on electric cars from the UK following industry pressure. Simultaneously, Beijing and Washington are in close liaison regarding potential tariff cuts, though India has detained 85 containers of Scotch whisky pending investigation into higher rates. US importers are one step closer to receiving $166 billion in universal refunds, yet a new FTC probe targets companies failing to share these funds with consumers.",
-    "money": "Companies benefiting from the $166 billion refund stream and strong demand are lifting profit forecasts, while ON Holdings faces a 5% share drop due to negative refund impacts on its Q3 beat. The EU-UK delay on EV tariffs suggests temporary relief for manufacturers in that sector, contrasting with India's ongoing trade friction over Scotch whisky.",
-    "watch": "The outcome of the bipartisan legislative push to curb Trump's tariff authority and the final status of the China-US liaison on reciprocal cuts will determine if current truces hold. Investors should monitor whether the FTC probe results force broader compliance changes that could alter refund distribution dynamics.",
-    "briefedAt": "2026-11-12T18:43:23.314Z"
+    "state": "A bipartisan push in Congress aims to restrict presidential tariff power through three new bills, while Beijing and Washington maintain close liaison on potential reciprocal tariff cuts. Simultaneously, India has agreed to honor duty cuts on Scotch whisky imports following the release of detained containers, contrasting with Hapag-Lloyd's decision to raise Far East to Europe freight rates starting December 1, 2026. American importers remain one step closer to receiving $166 billion in universal refunds, though an FTC probe led by Senators Slotkin and Warren targets companies withholding these funds from consumers.",
+    "money": "Companies benefiting from the upcoming $166 billion refund stream and strong demand are lifting profit forecasts, while ON Holdings faces a 5% share drop due to negative refund impacts on its Q3 beat. The EU-UK delay on a 10% electric vehicle tariff provides temporary relief for manufacturers in that sector, whereas Chinese e-commerce sellers brace for potential 30% Thai duties that could hurt sales.",
+    "watch": "The final legislative outcome of the bipartisan push to curb Trump's tariff authority and the specific terms of the China-US liaison on reciprocal cuts will determine if current trade truces hold. Investors should monitor whether FTC probe results force broader compliance changes that could alter refund distribution dynamics and impact utility-linked infrastructure investments.",
+    "briefedAt": "2026-11-13T18:23:50.437Z"
   },
   {
     "id": "logisticsfreightrates",
     "heat": 5,
-    "state": "Global freight rates are surging due to cargo surges, persistent Far East congestion, and AI-driven demand, while the Black Sea has become the world's deadliest shipping lane following Houthi drone warfare that allows them to control a strategic island at the mouth of the Red Sea. Port strikes in Los Angeles and Long Beach remain delayed as contract talks continue, and customs delays in India's Bombay High Court and Delhi are generating mounting demurrage costs for importers. Maersk is raising its 2026 profit outlook citing AI buildout and port issues, while Hapag-Lloyd reports Q3 earnings surges on freight rate strength.",
-    "money": "Maersk and Hapag-Lloyd are winning by leveraging elevated rates driven by congestion and AI adoption to boost margins. Importers are attempting to gain cost control through proposals for empty container depots and railway-linked storage to mitigate demurrage losses, though the Bombay High Court has directed customs to bear warehousing charges for delays in assessing imported goods.",
-    "watch": "The Black Sea's transformation into a high-risk zone due to Houthi drone operations could further disrupt global supply chains, while Sogese warns that ships returning through the Suez Canal may limit November freight rate increases. Unresolved contract talks at LA/LB risk triggering renewed strikes, and interoperability challenges remain a major challenge for easing port congestion.",
-    "briefedAt": "2026-11-12T18:45:07.942Z"
+    "state": "Global freight rates have eased slightly but port congestion remains persistent, with the Black Sea now designated as the world's deadliest shipping lane due to Houthi drone warfare. Major carriers like Maersk and Hapag-Lloyd are raising profit outlooks and reporting earnings surges driven by AI-fueled demand and ongoing Far East congestion, while US importers face mounting demurrage costs from delays at LA/LB ports, Bombay High Court, and Delhi courts.",
+    "money": "Hapag-Lloyd and HMM are winning with Q3 earnings surges and fivefold profit jumps respectively, leveraging elevated rates caused by cargo surges and AI adoption. Maersk is securing margin growth by citing both AI buildout and port issues as key drivers for its raised 2026 profit outlook.",
+    "watch": "Sogese warns that ships returning through the Suez Canal could limit November freight rate increases, while unresolved contract talks at Los Angeles and Long Beach risk triggering renewed strikes. Interoperability challenges remain a critical hurdle for easing port congestion despite proposals for empty container depots.",
+    "briefedAt": "2026-11-13T18:31:58.479Z"
   },
   {
     "id": "retailinventorystockouts",
     "heat": 4,
-    "state": "In travel retail, SKU growth is outpacing available shelf space. The global energy crisis has deepened, with industry executives warning that efforts to plug the resulting supply gap are falling short. WELCORP reported record H1 EBITDA driven by backlog, though this growth is tempered by ongoing regional supply-chain risks.",
-    "money": "WELCORP is winning with record H1 EBITDA supported by strong backlog orders.",
-    "watch": "Travel retailers must monitor if shelf space constraints force further SKU reductions. Industry leaders will watch how the deepening energy crisis impacts future supply gap resolution efforts.",
-    "briefedAt": "2026-11-05T17:19:20.707Z"
+    "state": "Global energy crises are deepening as efforts to plug supply gaps fail, specifically affecting Mexico's natural gas reserves and U.S. wine exports which plunged 78%. In travel retail, SKU growth continues to outpace available shelf space, while Ciena faces a supply test where backlog meets pricing power constraints.",
+    "money": "WELCORP is winning with record H1 EBITDA driven by strong backlog orders that are currently tempering regional supply-chain risks.",
+    "watch": "Industry leaders will monitor how the deepening energy crisis impacts future resolution of global supply gaps and if shelf space constraints force further SKU reductions in travel retail.",
+    "briefedAt": "2026-11-13T18:29:54.593Z"
   },
   {
     "id": "geopoliticalsupplyrisks",
     "heat": 5,
-    "state": "Nvidia stock fell 2.96% as CEO Huang's spy scandal tests Korea's chip supply chain stability, while Broadcom rose on Google deal optimism. AI demand is creating bottlenecks for automotive sectors, causing Nexperia and STMicroelectronics to warn of shortages, and TSMC faces cyber risk from three incidents. Vertiv secured a three-year deal with Infineon to lock capacity as its order book runs at triple-digit growth, contrasting with Alibaba stock potentially remaining below fair value due to supply pressure.",
-    "money": "Broadcom is winning on Google chip supply deal optimism while Nvidia loses market share to custom ASIC chips. Vertiv and Megaspeed are securing massive orders ($4.6B equipment) and capacity locks, whereas Nintendo rules out price hikes citing memory chip scarcity.",
-    "watch": "The outcome of the Texas midterm elections could tighten AI oversight and pressure Taiwan's supply chain, alongside ongoing Russia-Africa arms trade dynamics that may further disrupt global logistics.",
-    "briefedAt": "2026-11-12T18:44:13.143Z"
+    "state": "SMIC forecasts AI chip supply remains tight through 2027 with 2026 revenue exceeding $12 billion, while Nvidia faces leadership uncertainty amid spy allegations that are scrutinizing Korean chip supply deals. TSMC has approved a $500 million stake in Anthropic despite flagging internal cyber risks from three incidents, and Nordic envoys now view the Philippines as a key player in global chip logistics.",
+    "money": "Broadcom is gaining market traction on Google chip deal optimism while Nvidia loses share to custom ASIC chips; meanwhile, ASMedia raised prices due to climbing supply costs and Alibaba remains pressured below fair value.",
+    "watch": "Nvidia's grip on the AI supply chain is expected to weaken as Alice Huang-linked firms invest in DeepSeek alternatives, and geopolitical trade risks from Russia-Africa arms deals may further disrupt global logistics.",
+    "briefedAt": "2026-11-13T18:27:23.637Z"
   },
   {
     "id": "commoditymarkets",
@@ -42,10 +42,10 @@
   {
     "id": "strategicpartnershipsma",
     "heat": 5,
-    "state": "EQT's proposed merger with Range puts midstream and pipe contracts in direct crosshairs, requiring nearly 2x growth to justify the deal, while PS Logistics solidified its Tennessee flatbed network by acquiring Roane Transportation Services and its 170 drivers. In software, OpenAI secured Pierre to lead supply chain development, and ShipBob launched AI agent Bobby as a new partner model for brands. Financial approvals include India's regulator clearing Kotak Mahindra's purchase of Deutsche Bank's retail business, Yoé moving into Canadian prestige retail, and Carrier Process Equipment Group completing the Cyclonaire acquisition in dry bulk.",
-    "money": "OpenAI is winning the supply chain software development race through its Pierre acquisition, while ShipBob entered the market with AI agent Bobby to serve brands directly. In logistics consolidation, PS Logistics expanded its Tennessee footprint by acquiring Roane Transportation Services and its 170 drivers, and Carrier Process Equipment Group completed the Cyclonaire Corporation acquisition.",
-    "watch": "The outcome of the EQT-Range merger will determine the fate of midstream and pipe contracts, which analysts note requires nearly 2x growth to make strategic sense. Diplomat entered Mexico with a $45 million acquisition of two local distributors, signaling potential expansion into new geographic markets.",
-    "briefedAt": "2026-11-11T18:21:07.419Z"
+    "state": "In veterinary supply chains, the FTC has challenged a $3.5B merger between two major players, prompting North Carolina's attorney general to sue and block the deal citing rising pet care costs. Simultaneously, OpenAI continues its dominance in software by integrating Pierre into supply chain development, while ShipBob reinforces this trend with AI agent Bobby for direct brand partnerships. In logistics, PS Logistics solidified its Tennessee flatbed network by acquiring Roane Transportation Services and its 170 drivers, and Carrier Process Equipment Group finalized the Cyclonaire Corporation acquisition in dry bulk.",
+    "money": "OpenAI is winning the supply chain software development race through its Pierre acquisition, while ShipBob entered the market with AI agent Bobby to serve brands directly. PS Logistics expanded its Tennessee footprint by acquiring Roane Transportation Services and its more than 170 drivers, and Carrier Process Equipment Group completed the Cyclonaire Corporation acquisition.",
+    "watch": "The outcome of the EQT-Range merger will determine the fate of midstream and pipe contracts, which analysts note requires nearly 2x growth to make strategic sense. The FTC's challenge to the $3.5B veterinary supplies merger could reshape pet care supply chains if regulators approve the block.",
+    "briefedAt": "2026-11-13T18:29:04.093Z"
   },
   {
     "id": "portactivityinfrastructu",
@@ -65,7 +65,7 @@
   },
   {
     "id": "regionalsupplychains",
-    "heat": 5,
+    "heat": 4,
     "state": "Serbia, Bosnia and Herzegovina (80% of food), the Philippines, and Brazil are increasing food imports due to declining domestic output, while Venezuela reduced its food import volume by 38.8% as local production expanded. Meanwhile, Thai energy producers seek lower tariffs for data center growth, and NEPES won a presidential citation for strengthening semiconductor supply chains through reshored materials.",
     "money": "Thai energy producers are positioning to win AI infrastructure contracts by securing local sourcing rules, while US-based contract manufacturers like Mobilicom expand domestic cybersecure datalink production. ScottishPower Renewables has crossed the £100m regional supply chain investment mark, and NEPES is recognized for its role in semiconductor reshoring.",
     "watch": "USDA's expansion of domestic fertilizer production will determine if global supply concerns persist into 2027, and the outcome of upcoming US elections regarding strategic tariffs could impact nearshoring factory growth.",
@@ -74,9 +74,9 @@
   {
     "id": "retailstrategypricing",
     "heat": 5,
-    "state": "David Jones has entered voluntary administration, a collapse confirmed by Juanita Neville-Te Rito as a major sector failure. Toy Kingdom is modernizing operations with a new AI-powered digital strategy, while Serruya Private Equity appointed Jenny Frankel to lead The Body Shop's brand growth. In contrast, Beaverbrooks remains resilient through strategic adjustments, and NPI has added a former Walmart sourcing executive to its retail leadership team.",
-    "money": "Companies leveraging supply constraints and inflationary conditions are winning, specifically shipping stocks with pricing power as energy trade routes shift. Conversely, retailers like Beaverbrooks face volume slides, tech firms such as Huawei struggle with internal competition eroding margins, and Align Technology loses market share due to weak pricing power.",
-    "watch": "The outcome of David Jones' administration will reveal vulnerabilities in the Australian retail model. Observers will watch how Toy Kingdom's AI integration scales and whether Best Buy's digital expansion can successfully offset traditional headwinds.",
-    "briefedAt": "2026-11-09T21:18:49.074Z"
+    "state": "USPS faces a 5.9% price hike and an 11% permanent fuel surcharge following a $6.5 billion loss, while Amazon has shifted reliance away from UPS to alternative carriers in the first half of 2026. In Australia, David Jones collapsed into voluntary administration, whereas Beaverbrooks maintained resilience through strategic adjustments despite volume slides.",
+    "money": "Shipping stocks with pricing power are outperforming as energy trade routes shift, while retailers like Beaverbrooks and tech firms such as Huawei struggle with eroding margins or volume declines.",
+    "watch": "The impact of Brazil's proposed tariffs on China versus India market share, alongside whether plug-in solar adoption will challenge AGL Energy's retail strategy.",
+    "briefedAt": "2026-11-13T18:25:32.375Z"
   }
 ]

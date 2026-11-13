@@ -284,7 +284,48 @@
     "sectors": [],
     "about": "Leading semiconductor manufacturer whose leadership uncertainty and supply chain issues with Korean partners are impacting global chip availability.",
     "aliases": [],
-    "latest": "2026-11-12: Nvidia leadership uncertainty puts Korean chip supply deals under scrutiny",
+    "latest": "2026-11-13: SemiAnalysis' Dylan Patel expects Nvidia's grip on AI chip supply chain to weaken",
     "addedAt": "2026-11-12T18:51:59.428Z"
+  },
+  {
+    "id": "stellantis",
+    "name": "Stellantis",
+    "kind": "company",
+    "type": "Company",
+    "sectors": [
+      "retailstrategypricing"
+    ],
+    "about": "Global automotive manufacturer facing legal threats from Canada over auto plant sales amid US-China trade tensions.",
+    "aliases": [],
+    "latest": "2026-11-13: ‘We will sue them’: Canada threatens Stellantis as Trump trade war reshapes Jeep production plans",
+    "addedAt": "2026-11-13T18:35:38.251Z"
+  },
+  {
+    "id": "drewry",
+    "name": "Drewry",
+    "kind": "containerline",
+    "type": "Container Line",
+    "sectors": [
+      "logisticsfreightrates",
+      "freightlinesshipping"
+    ],
+    "about": "Freight analytics firm whose benchmarking data is being integrated into major ocean freight platforms, influencing logistics rate transparency.",
+    "aliases": [],
+    "latest": "",
+    "addedAt": "2026-11-13T18:35:38.251Z"
+  },
+  {
+    "id": "cargoo",
+    "name": "Cargoo",
+    "kind": "company",
+    "type": "Company",
+    "sectors": [
+      "logisticsfreightrates",
+      "strategicpartnershipsma"
+    ],
+    "about": "Ocean freight platform integrating Drewry's benchmarking data to improve shipping cost visibility and supply chain planning.",
+    "aliases": [],
+    "latest": "2026-11-13: Drewry Benchmarking Club data now available on Cargoo’s ocean freight management platform for Club members",
+    "addedAt": "2026-11-13T18:35:38.251Z"
   }
 ]
