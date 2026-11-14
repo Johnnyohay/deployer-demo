@@ -327,5 +327,31 @@
     "aliases": [],
     "latest": "2026-11-13: Drewry Benchmarking Club data now available on Cargoo’s ocean freight management platform for Club members",
     "addedAt": "2026-11-13T18:35:38.251Z"
+  },
+  {
+    "id": "ftc",
+    "name": "FTC",
+    "kind": "company",
+    "type": "Company",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "about": "Federal Trade Commission investigating corporate practices regarding tariff refunds and mergers.",
+    "aliases": [],
+    "latest": "2026-11-14: FTC sues Maine-based veterinary supplies company over acquisition",
+    "addedAt": "2026-11-14T16:56:29.657Z"
+  },
+  {
+    "id": "china",
+    "name": "China",
+    "kind": "country",
+    "type": "Country",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "about": "Extended a 24% US tariff suspension with port fee waivers for two months.",
+    "aliases": [],
+    "latest": "",
+    "addedAt": "2026-11-14T16:56:29.657Z"
   }
 ]

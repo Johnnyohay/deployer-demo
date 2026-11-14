@@ -769,5 +769,27 @@
       "tradepolicytariffs"
     ],
     "ref": "u-20261108-after-midterm-defeat-democrats-take-aim-at-tariffs"
+  },
+  {
+    "id": "c-20271231-smic-ai-chip-supply-chain-tightness-persists-throu",
+    "d": "2027-12-31",
+    "approx": true,
+    "title": "SMIC AI chip supply chain tightness persists through end of year",
+    "why": "Continued scarcity in advanced semiconductor manufacturing impacts global tech supply",
+    "sectors": [
+      "commoditymarkets"
+    ],
+    "ref": "u-20261113-smic-says-ai-chip-supply-chain-will-remain-tight-t"
+  },
+  {
+    "id": "c-20271231-smic-ai-chip-supply-tightness-persists-through-end",
+    "d": "2027-12-31",
+    "approx": true,
+    "title": "SMIC AI chip supply tightness persists through end of year",
+    "why": "Continued scarcity in advanced semiconductor manufacturing impacts global tech supply",
+    "sectors": [
+      "commoditymarkets"
+    ],
+    "ref": "u-20261113-smic-says-ai-chip-supply-will-stay-tight-through-2"
   }
 ]

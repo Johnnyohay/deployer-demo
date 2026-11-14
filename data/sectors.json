@@ -2,10 +2,10 @@
   {
     "id": "tradepolicytariffs",
     "heat": 5,
-    "state": "A bipartisan push in Congress aims to restrict presidential tariff power through three new bills, while Beijing and Washington maintain close liaison on potential reciprocal tariff cuts. Simultaneously, India has agreed to honor duty cuts on Scotch whisky imports following the release of detained containers, contrasting with Hapag-Lloyd's decision to raise Far East to Europe freight rates starting December 1, 2026. American importers remain one step closer to receiving $166 billion in universal refunds, though an FTC probe led by Senators Slotkin and Warren targets companies withholding these funds from consumers.",
-    "money": "Companies benefiting from the upcoming $166 billion refund stream and strong demand are lifting profit forecasts, while ON Holdings faces a 5% share drop due to negative refund impacts on its Q3 beat. The EU-UK delay on a 10% electric vehicle tariff provides temporary relief for manufacturers in that sector, whereas Chinese e-commerce sellers brace for potential 30% Thai duties that could hurt sales.",
-    "watch": "The final legislative outcome of the bipartisan push to curb Trump's tariff authority and the specific terms of the China-US liaison on reciprocal cuts will determine if current trade truces hold. Investors should monitor whether FTC probe results force broader compliance changes that could alter refund distribution dynamics and impact utility-linked infrastructure investments.",
-    "briefedAt": "2026-11-13T18:23:50.437Z"
+    "state": "A bipartisan congressional push to restrict presidential tariff power is stalled by Democrats' inability to end the trade war, while a migrant caravan crossing Mexico has triggered new Trump tariff threats. Simultaneously, China and the US opened first trade council talks with $30 billion in tariff cuts on the table, contrasting with Canada's threat to sue Stellantis over Jeep production disruptions. The Supreme Court is reviewing Minnesota's bill for small business refunds, and an FTC probe led by Senators Slotkin and Warren targets companies withholding $166 billion in universal refunds from consumers.",
+    "money": "Companies benefiting from the upcoming $166 billion refund stream are lifting profit forecasts, whereas ON Holdings shares dropped 5% due to negative refund impacts on its Q3 beat. A Utah coffee company is extending tariff credits to customers despite wholesale prices easing, while Hapag-Lloyd raises Far East to Europe freight rates starting December 1, 2026.",
+    "watch": "The outcome of the bipartisan push to curb Trump's tariff authority and specific terms of China-US reciprocal cuts will determine if current trade truces hold. Investors must monitor whether FTC probe results force broader compliance changes that could alter refund distribution dynamics and impact utility-linked infrastructure investments.",
+    "briefedAt": "2026-11-14T16:52:00.560Z"
   },
   {
     "id": "logisticsfreightrates",
@@ -34,10 +34,10 @@
   {
     "id": "commoditymarkets",
     "heat": 5,
-    "state": "German manufacturers face financial strain as natural gas prices surge, while winter forwards have tumbled due to warmth and supply gluts despite storage limits in the Northeast forcing pipelines to turn away excess. European prices remain elevated from US election results and Strait of Hormuz tensions, whereas India's demand is projected to fall 2% in 2026 despite a 10% rise in LNG imports. Abu Qir Fertilizers received a notification for a 33% reduction in natural gas supplies, and Port St. Joe Elementary School was evacuated due to strong natural gas odors.",
+    "state": "Natural gas cash prices hit a seven-week high as cold weather arrives, reversing previous forward price tumbles caused by warmth and supply gluts. Storage limits in the Northeast are forcing pipelines to turn away excess supply, while US exports to Mexico rebound despite weak domestic demand outlooks. European prices remain elevated due to US election results and Strait of Hormuz tensions, whereas India's natural gas demand is projected to fall 2% in 2026 even as LNG imports rise by 10%.",
     "money": "TotalEnergies is winning the long-term supply game with a five-year LNG deal with UAE's ADNOC, while Petrobras maintains stable distributor pricing despite regional volatility. Goldman Sachs has lifted price forecasts citing supply uncertainty, and US WTI crude is testing support near $85.17 as Gulf supply recovers.",
     "watch": "Iran plans a new pipeline with Russia to import 110 bcm of natural gas annually, which could alter global trade flows if executed. The outcome of the US election and stability in the Strait of Hormuz will dictate whether European gas prices sustain their rise or correct on supply fears.",
-    "briefedAt": "2026-11-10T18:32:22.425Z"
+    "briefedAt": "2026-11-14T16:53:09.682Z"
   },
   {
     "id": "strategicpartnershipsma",
@@ -50,14 +50,14 @@
   {
     "id": "portactivityinfrastructu",
     "heat": 4,
-    "state": "Port congestion has become a new normal, with the Port of Los Angeles recording its highest cargo volume in 118 years and strong import volumes causing backups despite strikes being avoided. Freight costs are rising due to these surges, impacting solar equipment deliveries, while geopolitical tensions like claims of attacks on Omani oil infrastructure threaten shipping routes. Meanwhile, Georgia's automotive growth is driving local port activity, and various terminals are expanding capacity or optimizing performance.",
+    "state": "Port congestion has become a new normal, with the Port of Los Angeles hitting its highest cargo volume in 118 years and strong import volumes causing backups despite avoided strikes. Freight costs remain elevated due to these surges, impacting solar equipment deliveries, while geopolitical claims of attacks on Omani oil infrastructure threaten shipping routes. In response, Sabah has rolled out new parking and storage yards to curb Sepanggar port congestion following a fatal crash.",
     "money": "Maersk is winning by raising its 2026 profit outlook twice as congestion drives freight rates higher, aided by AI buildouts and strong China service demand. Adani Ports continues capitalizing on global volume surges with a race for an Rs 11,733-crore VOC Port container terminal deal.",
     "watch": "Monitor the implementation of proposed importer empty container depots and railway-linked storage solutions to see if they can ease congestion before it cascades further. Watch for the impact of ongoing typhoon recovery in Ningbo and record Middle East delays on broader supply chain throughput.",
-    "briefedAt": "2026-11-12T18:46:39.687Z"
+    "briefedAt": "2026-11-14T16:54:20.910Z"
   },
   {
     "id": "freightlinesshipping",
-    "heat": 5,
+    "heat": 4,
     "state": "Trans-Pacific ocean freight rates remain elevated despite US midterm political uncertainty, while Great Eastern Shipping reported an 118% rise in Q2 PAT and Cosco profits jumped 81%. Meanwhile, Xeneta forecasts a 30% drop in spot rates for 2027 as capacity is expected to flood back, though French shipping companies are imposing additional fees for Black Sea shipments.",
     "money": "Great Eastern Shipping and Cosco are winning by capitalizing on record Q2/Q3 profits and interim dividends driven by rising trade volumes, while DP World's COO warns that rates will eventually come down after the current rebound.",
     "watch": "Monitor if the easing of Hormuz impact continues to reduce diversions into late 2026 as port dwell times remain elevated. Watch for confirmation on whether indicative prices for imported bauxite falling will stabilize market trading or trigger a shift to air freight when ocean fails.",

@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-14",
+  "title": "Today in retail, supply chain and geopolitics",
+  "big": "31 new stories since the last brief. The busiest areas: trade policy & tariffs and strategic partnerships & m&a.",
+  "stories": [
+    {
+      "tag": "Trade Policy & Tariffs",
+      "h": "US and China Open First Trade Council Talks With $30 Billion Tariff Cut on the Table",
+      "what": "US and China Open First Trade Council Talks With $30 Billion Tariff Cut on the Table",
+      "you": "Early tariff signals indicate which products will face margin compression first.",
+      "ref": "u-20261114-us-and-china-open-first-trade-council-talks-with-3"
+    },
+    {
+      "tag": "Logistics & Freight Rates",
+      "h": "Sabah rolls out new parking, storage yards to curb Sepanggar port congestion after fatal crash",
+      "what": "Sabah rolls out new parking, storage yards to curb Sepanggar port congestion after fatal crash",
+      "you": "Sudden rate spikes or port bottlenecks are the earliest warning signs of shelf shortages.",
+      "ref": "u-20261114-sabah-rolls-out-new-parking-storage-yards-to-curb-"
+    },
+    {
+      "tag": "Commodity Markets",
+      "h": "Natural Gas Hits Seven-Week High as Cold Arrives and LNG Exports Set Records",
+      "what": "Natural Gas Hits Seven-Week High as Cold Arrives and LNG Exports Set Records",
+      "you": "Raw material price jumps are the root cause of retail margin erosion.",
+      "ref": "u-20261113-natural-gas-hits-seven-week-high-as-cold-arrives-a"
+    },
+    {
+      "tag": "Strategic Partnerships & M&A",
+      "h": "FTC sues Maine-based veterinary supplies company over acquisition",
+      "what": "FTC sues Maine-based veterinary supplies company over acquisition",
+      "you": "Major deals often signal shifts in supply capability or new market access.",
+      "ref": "u-20261114-ftc-sues-maine-based-veterinary-supplies-company-o"
+    },
+    {
+      "tag": "Retail Strategy & Pricing",
+      "h": "The CLX Multi-Brand Phenomenon: How Nasar Dagga’s Retail Strategy Is Capturing the Attention of the U.S. Marke...",
+      "what": "The CLX Multi-Brand Phenomenon: How Nasar Dagga’s Retail Strategy Is Capturing the Attention of the U.S. Marke...",
+      "you": "Understanding retail strategy helps anticipate how supply shocks will be priced to consumers.",
+      "ref": "u-20261114-the-clx-multi-brand-phenomenon-how-nasar-dagga-s-r"
+    }
+  ],
+  "watch": {
+    "h": "US-China tariff truce under strain ahead of potential trade war escalation",
+    "why": "Around November 15. Both nations are bracing for a potential trade war as current agreements face pressure"
+  },
+  "idea": {
+    "h": "Strategic Partnerships & M&A",
+    "why": "Evaluate supply chain software vendors that are acquiring AI capabilities, such as OpenAI's recent moves, to future-proof inventory management against tariff-induced disruptions. The convergence of geopolitical instability and digital transformation means companies with integrated AI-driven logistics tools will be better positioned to navigate complex trade routes."
+  },
+  "auto": true
+}
