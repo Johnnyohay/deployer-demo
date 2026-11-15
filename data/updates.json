@@ -1,5 +1,120 @@
 [
   {
+    "id": "u-20261115-can-china-and-the-us-settle-the-tariff-fight-at-th",
+    "d": "2026-11-15",
+    "title": "Can China and the US Settle the Tariff Fight at Their First Trade Council Meeting?",
+    "body": "Can China and the US Settle the Tariff Fight at Their First Trade Council Meeting?",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [
+      "China"
+    ],
+    "src": {
+      "t": "Modern Diplomacy",
+      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUmlLZ2h2SDh3VTMxcGF1MjZaYlNUZlFfdXM4OE5JaHBSdE42U1VqLTkyajR5SXFCTktTSThBLTlDS2p0SFJQMkd5RmpEa0tjZUhfeEJzUW10LTNGeUpVY083ZURmWDJfMVpxOGg3cTFPRFdBcGVZOFg1OUFZUE16RzZicVQtdF92VVVQRXd4TFRtaDFYUDRIWHhSQTA1RGdiNGxqTV9pRnVfZnZWZ3V2MllLZzRmaFpxejRHZg?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-15T17:32:55.671Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261115-nvidia-partner-megaspeed-breaks-silence-on-alice-h",
+    "d": "2026-11-15",
+    "title": "Nvidia Partner Megaspeed Breaks Silence on Alice Huang, Launches Probe Into China Chip Supply Links",
+    "body": "Nvidia Partner Megaspeed Breaks Silence on Alice Huang, Launches Probe Into China Chip Supply Links",
+    "why": "Regional conflicts and energy shocks directly translate into retail cost increases.",
+    "sectors": [
+      "geopoliticalsupplyrisks"
+    ],
+    "type": "News",
+    "companies": [
+      "Nvidia",
+      "China"
+    ],
+    "src": {
+      "t": "Benzinga",
+      "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaHgta1FxWjAxNjA2OC1IY3pnWjNVUWdvMktkV2xLXzZrVk9ad0FFa1JRbzJPamxkYXhzWmc4ZFY1VlBsZDV5WXFwZVFVOWRSR1FXN05CNGhESmJXZE8wWkZLRlB4OFpnZmxJTTBRTUFrczJqcmEtT0plUnh0dXhnd2U2LUkxbUc1cmRWVTQ1ZjdkaElEU0JveTlNU3pvNzRpcFNNZENabndoZl9INUljWjhwTUVjSUpqRTJwSUZRM3Z3cF9hSDliOXpBcnpjYnpKQ19FS3FzRGZTOTd1aG0zQ3ZfY2VPZw?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-15T17:32:55.671Z",
+    "auto": true,
+    "orgs": [
+      "Nvidia"
+    ]
+  },
+  {
+    "id": "u-20261115-asean-leaders-discuss-trade-security-and-the-energ",
+    "d": "2026-11-15",
+    "title": "ASEAN leaders discuss trade, security, and the energy crisis in Manila ahead of Donald Trump’s visit to the region",
+    "body": "ASEAN leaders discuss trade, security, and the energy crisis in Manila ahead of Donald Trump’s visit to the region",
+    "why": "Regional conflicts and energy shocks directly translate into retail cost increases.",
+    "sectors": [
+      "geopoliticalsupplyrisks"
+    ],
+    "type": "News",
+    "companies": [],
+    "src": {
+      "t": "Informat.ro",
+      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUnhRcXkxcXVJN1YtMEZONkpKbF9LTElYY191RzJuTk01VjZhSDZUdm5GeXRkVUZCTjVvR2wtTUpuQXVwMGdEQmFyMDNSRXM4OWw5RGFYSDIycTNiZ2xWY1RNdEEyNVc2U3JWQWd3aDJROHhLLTB5MFgxdHc5Y1VyeW1TRUc1VFBqTmkzMm5BTUJCaWt6OFQ5bGg3SjFsUQ?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-15T17:32:55.671Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261115-brokers-are-upgrading-their-views-on-the-national-",
+    "d": "2026-11-15",
+    "title": "Brokers Are Upgrading Their Views On The National Shipping Company of Saudi Arabia (TADAWUL:4030) With These New Forecasts",
+    "body": "Brokers Are Upgrading Their Views On The National Shipping Company of Saudi Arabia (TADAWUL:4030) With These New Forecasts",
+    "why": "Fleet reductions or route changes indicate long-term supply constraints.",
+    "sectors": [
+      "freightlinesshipping"
+    ],
+    "type": "News",
+    "companies": [
+      "National Shipping Company of Saudi"
+    ],
+    "src": {
+      "t": "Simply Wall St",
+      "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNdmhUb0NmRTFBSXRkQ1ZNNmQyQVJyRm5TaFFjbzhlNTNRSURCRnV0UUpOR1lPNW9kWjhJdm9jckVGMktCVlVaVmFCSEx2S3drQ1dXemVwNDBIWC1sZEpFRkU4WEhTMjZZQXRwcGlTa2Q4UkVtVU43ejZkTThkM3djbW5rcllHOTdXcVNVM1VyME9IQXBXQzNhQ2lHMmV1THpfWExHTHlrYjNRNEpROEowejdPa3ZmQVpEXzNJb25sRHVRczR1d2w2aWExRDlwR1Y0OXdNRldtVnpiRVNtbUgzSkU0WEZBQ0tTQ3l6d19aU1NhNnd2Y1HSAfsBQVVfeXFMT00wb0ZZa0RSWU5WSWs3WXBkZVpLcFRWQnZtQ19qU3hOdnJNX2tGUG1lQ3h0VVktX3VVYkEyTm44Ty0tWDB0N2dST1ZLX2VNZGM3aEdVY2R5YjFqQmpMYmdYaVpGRlIxYnRIVkh1NEZtbnNRM1FEaXZPQUJVSXpfcFZ0U0ZaUC13bWh4Z3lUUlFWeW0xb2lzRG9xYUR1TTFWQ0xBR0xtMlpEdFFEUDQtUkVxSnVEal9SSk1STDdTbldzVXBwQlFyaURhaEwzdEkxVDJwZlcwZTgyQk5fTlBBS0ZlUENRS3hya2llZW4zWVJQRWxXQzI2cTV5X0U?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-15T17:32:55.671Z",
+    "auto": true,
+    "orgs": [
+      "National Shipping Company of Saudi"
+    ]
+  },
+  {
+    "id": "u-20261115-light-rare-earth-prices-rebound-intensive-regional",
+    "d": "2026-11-15",
+    "title": "Light rare earth prices rebound, intensive regional supply chain moves [SMM Rare Earth Ex-China Weekly Review]",
+    "body": "Light rare earth prices rebound, intensive regional supply chain moves [SMM Rare Earth Ex-China Weekly Review]",
+    "why": "Shifts in regional sourcing strategies reveal where supply is becoming more volatile.",
+    "sectors": [
+      "regionalsupplychains"
+    ],
+    "type": "News",
+    "companies": [
+      "China"
+    ],
+    "src": {
+      "t": "Shanghai Metals Market",
+      "u": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNVFlISnRkSEJIeGV6R0RKLW9YZUc4bFFFZnZlN0lCTnR6ZDIwX21CWWF6Q1lkOVZRaXBJZER5OVFyV3JkTEhXeEUxbFpDWFJzcC0xRGRad1VIalN0M0lhcVd2TjBJYzN6T3JlMXJGTDJVWTVjNkttSWVZb2dRWGhHdnV4M0gxaXhYcnF3LW1JdkZSY2ZoWkoyQjd2U2NHTl9zbHlCUFJCdEtSdkZhbHpGclpQeHJZZkd1RGJ3V3pxT0twVXhIX0Y5cEk2d2RuYjUtVmg5UkpybGtRMzdYVVNoSmJrTlNnRmNobmIzVjNFM2N2RnhhdU5CdFA5aVFCYWt0VDBGOGVnTnhuRHJCNXIw?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-15T17:32:55.671Z",
+    "auto": true,
+    "orgs": [
+      "China Weekly Review"
+    ]
+  },
+  {
     "id": "u-20261114-migrant-caravan-marches-through-mexico-amid-trump-",
     "d": "2026-11-14",
     "title": "Migrant caravan marches through Mexico amid Trump tariff threat",
@@ -352,6 +467,309 @@
       "q": "news"
     },
     "addedAt": "2026-11-14T16:50:38.272Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261114-mexico-s-week-in-review-trump-renews-tariff-threat",
+    "d": "2026-11-14",
+    "title": "Mexico’s week in review: Trump renews tariff threats as Sheinbaum prepares for China",
+    "body": "Mexico’s week in review: Trump renews tariff threats as Sheinbaum prepares for China",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [
+      "China"
+    ],
+    "src": {
+      "t": "Mexico News Daily",
+      "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV1J4UXBsYzFuZVFzemdSRVlyUzJHYWpOZzNmWEs0YTRta2lHS0RrbHprc3MycGFPWWVFeTZ5VktnWGFsZEI1OFQ4c3RtMkVqQzd6WFRmbUNqQkwxUWFGTEhqTF8wakJLaWN1NFFaVmU2WUNab01VSHlYdEJNQ3NRMzdkclBZc3RFcHpjSXlXXzJERG8?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-15T17:32:55.671Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261114-india-is-getting-a-tariff-advantage-over-its-asian",
+    "d": "2026-11-14",
+    "title": "India Is Getting a Tariff Advantage Over Its Asian Rivals",
+    "body": "India Is Getting a Tariff Advantage Over Its Asian Rivals",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "Yahoo Finance",
+      "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcUItSFFCVGJuNG9LMnRHZGxORTg3VzJ4UjhjNjNncUluajJIVUlJSFVNRHMwcHVVbDE4T2dtdGluQXdfMmNBZC1hNXJzTXhldm9sN0F6eGlxZDRVcU15eldfSFpoSWdlYXIzUUVXTThJVTBvSVdYZ3NEbzdaNzhZRkVNemVvdFpBNkJEQjF4V2Z3MmJHNFZQUjNTeVVDNkJSRUE?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-15T17:32:55.671Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261114-trump-xi-summit-puts-u-s-soybean-exports-and-10-ch",
+    "d": "2026-11-14",
+    "title": "Trump-Xi Summit Puts U.S. Soybean Exports and 10% China Tariff in Focus",
+    "body": "Trump-Xi Summit Puts U.S. Soybean Exports and 10% China Tariff in Focus",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [
+      "China",
+      "Xi Summit"
+    ],
+    "src": {
+      "t": "AgroLatam",
+      "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY1lQMGUtaWN3ckNPVDBNODZUNGlLVkcxQXNxbTczeG5pWnFaelNiM2JIRGFCV1M1MURaZlg3V2cwUWpYTUoxZVNWMWs4TWdGM0h4N2ZtbDZyS3FTMDhxZnJvV1lOTFlQOGozTnRsUXZPZ1Ewd0ctRklMOVYtSkhYTE80N2s3eDdqOFo4?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-15T17:32:55.671Z",
+    "auto": true,
+    "orgs": [
+      "Xi Summit"
+    ]
+  },
+  {
+    "id": "u-20261114-nvidia-scandal-deals-blow-to-trump-s-tariff-strate",
+    "d": "2026-11-14",
+    "title": "Nvidia Scandal Deals Blow to Trump’s Tariff Strategy",
+    "body": "Nvidia Scandal Deals Blow to Trump’s Tariff Strategy",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [
+      "Nvidia"
+    ],
+    "src": {
+      "t": "Newsweek",
+      "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40ZVJiaDRHX1dQZnd1aEkxRTVtNmdiWEw3NEZtMGtXYWE1ZkZ5Q1p6V1pKQW1EWjdvb3hYa1FyeFdsTk1GSXRFZG9keENHeTBtSjF3WTVYMzNHZktWR3RZNlJlaFVVSk52cHJVdEhjRmdFLUhvM3RMb3FGS001NzQ?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-15T17:32:55.671Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261114-i-asked-chatgpt-how-to-tariff-proof-my-holiday-bud",
+    "d": "2026-11-14",
+    "title": "I Asked ChatGPT How To Tariff-Proof My Holiday Budget",
+    "body": "I Asked ChatGPT How To Tariff-Proof My Holiday Budget",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "MoneyLion",
+      "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMWFIenNoa1FXTzhSX2tDTGVmZ0RJdTVNZ18tdUJUNGhiTEFKYWxHWTdKRXladG5rNTZ2RWhMcDJIWDVub1NGMk5YZlBNZHVsenNLWWo5ak5HWFJhLTh5MVMxTmEzcXhZSGt1blVseERta2hlQk9aVEtoLV9VRzlTNk5BY2V6aGdSaFE?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-15T17:32:55.671Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261114-trade-war-in-focus-at-asean-summit-ahead-of-trump-",
+    "d": "2026-11-14",
+    "title": "Trade war in focus at ASEAN summit ahead of Trump arrival",
+    "body": "Trade war in focus at ASEAN summit ahead of Trump arrival",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "France 24",
+      "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTUNFaV9qZmFzRWNVNVlxLXFicWpxOXhGTmVmT3kyZ29Oa2g5NGdZOFN4c2dmWm1rWlAwZmNJdGVub3hRdm8yTGlHb3JqdE5lc19Od0xodlczMjItcU95Y29GVjQ3eGpsczN6dmVGRkxIb1QwLW93elFEb2dRb1lWVXVvQkM3dks4VlJxVms5TjZ3Zlo3cV85WXIxVTJWQUhiRkN3M0xTWVU?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-15T17:32:55.671Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261114-the-166b-tariff-tab-and-who-gets-refunded-after-su",
+    "d": "2026-11-14",
+    "title": "The $166B tariff tab and who gets refunded after Supreme Court decision",
+    "body": "The $166B tariff tab and who gets refunded after Supreme Court decision",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [
+      "Supreme Court"
+    ],
+    "src": {
+      "t": "Global News",
+      "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcDlKRWRXTi14OEVsd2MtN2JLU29vVk5jZlJKeXI3YVFWNTM5dS1mTzh2cHF2MGpDVDVFRlZCQkFaVHR1WFBYOUhjYUlaTmo3b0xhaTM4Z28weEhsb3hQUkcwWW83WjhMMmljazZNVjRZVUdPNGYybU0wRXBrWG96bjBadm9kX0FLUklCb0xsbVM0OUk1V185NEVsdHdpNzBkNTY4NnhFLVNEcHc?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-15T17:32:55.671Z",
+    "auto": true,
+    "orgs": [
+      "Supreme Court"
+    ]
+  },
+  {
+    "id": "u-20261114-china-and-us-discuss-major-tariff-reductions-in-la",
+    "d": "2026-11-14",
+    "title": "China and US discuss major tariff reductions in latest trade talks",
+    "body": "China and US discuss major tariff reductions in latest trade talks",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [
+      "China"
+    ],
+    "src": {
+      "t": "AzerNews",
+      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBtVHlXSGZtOUQ4emg1US1reGtLck43VFM5bDVPem1VYTFCa2RCZzZhS21FeE5Xc0NOUGtBZk52RFp0cjhxMzdBUzhPTXBZU3o5TzJWeQ?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-15T17:32:55.671Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261114-us-promises-india-trade-tariff-edge-over-rivals",
+    "d": "2026-11-14",
+    "title": "US promises India trade tariff edge over rivals",
+    "body": "US promises India trade tariff edge over rivals",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "The New Indian Express",
+      "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeUUzenZVRTVXQ2hEeVg0LTNqRW5qakxrN0NCQmJ3Q0dRY05idmYtNkdFbWNfSzlRZ0hEY2diNG1UZFU5c1d2cEFmQS1XN3lYQTNJYlRRUFhidGlFYTFzSldzaG5rVlA0eTJQZUhwbzhSS3djN2ctamhYNWVid3hDWUlJbG9BZHgteE1wOXZjUDAtektILTg1RkxldFlnZm_SAawBQVVfeXFMTy1LbFh5Y1M4b3FFYnI5OU1zb1N4UHpQUWRQbE9iN1oyS2tGWW1HWEo1MElTOE1Wd1d0cUZPcDl4WTdtRm1vQlRYNE1tRDFqUW9lV3FmcWM1Vmx2bGZZa1hwUFZ5NGpNYnFmR1R3VHc5YW9COXAyR1dUQzNWQWxkaU1RbDhWS3plZEdtQ01vM2tjNlNPNXFSNXhCcm9Pd3Q2LTd4N1F4dFRWUUFXdA?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-15T17:32:55.671Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261114-ftc-urged-to-probe-companies-not-sharing-tariff-re",
+    "d": "2026-11-14",
+    "title": "FTC urged to probe companies not sharing tariff refunds with consumers",
+    "body": "FTC urged to probe companies not sharing tariff refunds with consumers",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [
+      "FTC"
+    ],
+    "src": {
+      "t": "STLtoday.com",
+      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVHJsUWpsT05VVWZ5T21nY25QNk1Ub0tZQVJ1ZTU1czBOMWNaQTZXdzBiZUlmQkVxUmRxVW1TMkp5WVM0cjlyWXVhVndueFZhUnBXWVVWbTU3SDZwaWM5ejdaWU9ndEJCV0ZNcmFUWmVTU3kwY0NuUGpUdUtKbWNINnpaWDBINmRiRGNYVkh5NDNMZzE0a2labXFROWF6ZUVOc0Q0SEw0am9UOEV1UjVMdTRR?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-15T17:32:55.671Z",
+    "auto": true,
+    "orgs": [
+      "FTC"
+    ]
+  },
+  {
+    "id": "u-20261114-yemen-s-houthis-reach-strategic-island-at-mouth-of",
+    "d": "2026-11-14",
+    "title": "Yemen’s Houthis Reach Strategic Island at Mouth of Vital Shipping Lane",
+    "body": "Yemen’s Houthis Reach Strategic Island at Mouth of Vital Shipping Lane",
+    "why": "Sudden rate spikes or port bottlenecks are the earliest warning signs of shelf shortages.",
+    "sectors": [
+      "logisticsfreightrates"
+    ],
+    "type": "Freight Rate Spike",
+    "companies": [],
+    "src": {
+      "t": "EnergyNow.com",
+      "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOV1pOc3VkdDdFZkJLOVlPN005Q1l0YUkwSHlrU1lMTUJEMXdtQllFd2V3V3B1a2I2ZlJER3YtWURkcFFmTDJvZVdDMGRUVG4xc3BBcHlFVmQ1RTV4U2d0SUlrT1R6UEQ3a2hCSk1ubGZ3X0pyeGdVQ1dnajMyS1Q4bnNvQ0tSNUFlUXhxOGo0RjhyVGk3Y21zQzJ4M3g5S1k0NHc?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-15T17:32:55.671Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261114-smic-says-ai-chip-supply-will-stay-tight-through-2",
+    "d": "2026-11-14",
+    "title": "SMIC Says AI Chip Supply Will Stay Tight Through 2027",
+    "body": "SMIC Says AI Chip Supply Will Stay Tight Through 2027",
+    "why": "Regional conflicts and energy shocks directly translate into retail cost increases.",
+    "sectors": [
+      "geopoliticalsupplyrisks"
+    ],
+    "type": "News",
+    "companies": [],
+    "src": {
+      "t": "CASRAI",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1MRUxpUjdnbF95cFY1bTJzVFVZeTVaeldyQVZpUXpaenNCRmswNm90OEtqWTY0aGc3UVU3c204dTNvN292UDVsSHpHbWF1a1k5Rk1rbWVaMkxvcndDV3pHVHk4VHNnX2hyQmRkX3VfSQ?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-15T17:32:55.671Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261114-great-eastern-shipping-company-ltd-is-rated-strong",
+    "d": "2026-11-14",
+    "title": "Great Eastern Shipping Company Ltd is Rated Strong Buy",
+    "body": "Great Eastern Shipping Company Ltd is Rated Strong Buy",
+    "why": "Fleet reductions or route changes indicate long-term supply constraints.",
+    "sectors": [
+      "freightlinesshipping"
+    ],
+    "type": "News",
+    "companies": [
+      "Great Eastern Shipping Company"
+    ],
+    "src": {
+      "t": "MarketsMojo",
+      "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeno0TmRSVzMtYzFydzJDTzlRY1BfSEVsMl9ETS1CZVllcjFCRTB1WDJSakIxTVJaZ0Z3ZVA5NUx1eXY2TXV2MmhWMXhoRElEOFcxWXFha2pkRzRacHNQanNKVU1RbHlQckxGbXVUSV84MTVHcEtXRjlkZUs1UDJfZXplWnZQMU0wTUdBVzRwRzdhS3NrblgtdHNsZmpzQ2hjeDNTNkVDQVdhYWYzbVNlNTFDQmZoMkk?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-15T17:32:55.671Z",
+    "auto": true,
+    "orgs": [
+      "Great Eastern Shipping Company Ltd"
+    ]
+  },
+  {
+    "id": "u-20261114-ukraine-has-potential-to-supply-90-of-materials-ne",
+    "d": "2026-11-14",
+    "title": "Ukraine has potential to supply 90% of materials needed for reconstruction through domestic production",
+    "body": "Ukraine has potential to supply 90% of materials needed for reconstruction through domestic production",
+    "why": "Shifts in regional sourcing strategies reveal where supply is becoming more volatile.",
+    "sectors": [
+      "regionalsupplychains"
+    ],
+    "type": "News",
+    "companies": [],
+    "src": {
+      "t": "Open4business.com.ua.",
+      "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUjlYcGZQWFVDUnFRc09rOHEwQ2dhaXM4dXIxWFVWN0xveTE3ZzhZWUZLUUpCZ2lyUnNEeUhEVUxGT013N3FGX3dNdU1Vc2N1VGlQQmZQNEhUR2c5NF9hVTZlZE9jajdRRnVlVkdzREhFYW5sSnZIdlNaTXBtQTE5WUl2akgybUE1LXFuRFpKZEt3S3VMSmZxVEM4R0pReWxXcHNXOHE2Z3NqTWhwd0o3UDh1eHE0S3Byd0FzWTU3SjVEVDNQaUIwQWpmOUVvRk0?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-15T17:32:55.671Z",
     "auto": true,
     "orgs": []
   },
@@ -1341,6 +1759,50 @@
     "orgs": [
       "Natural Gas"
     ]
+  },
+  {
+    "id": "u-20261113-gov-t-tells-fed-circ-states-can-t-revive-temporary",
+    "d": "2026-11-13",
+    "title": "Gov't Tells Fed. Circ. States Can't Revive Temporary Tariff Suit",
+    "body": "Gov't Tells Fed. Circ. States Can't Revive Temporary Tariff Suit",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [
+      "Fed"
+    ],
+    "src": {
+      "t": "Law360",
+      "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV19Xb1pWVE9oSU1FVGdTZFhnMlROOUN2TGJMMk9VendFVnpablBSbXI4QXZDM3lmN0V4SUVwSE5GcWhfdnQ5WFJPaFdSZkNBdEJKaXg3NVlxbDhhQlIxa1VRT0tCcmNJMGlScGlnYV81eWcxN0RYZTBUQURuYTlIQXdRTDMwRndtS1lBTnlQR1l2bDhVV1lMbDRpaWxheFBUck5mMlY2UGFhWU4wVFgydW9CXzNld3PSAWhBVV95cUxQQm4wLVNmN3ZxdjdlelZLbzBEZTNMeUlpNVZiQUl1X2NCM1lIQnFmaGl5c2gybHNpMlAxYjJKX3IxbWRTQldueGExb3FUSmM2aC1SSmxEMnFjYVdmcUtuUjlBT0Via3ZrTg?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-15T17:32:55.671Z",
+    "auto": true,
+    "orgs": [
+      "Fed"
+    ]
+  },
+  {
+    "id": "u-20261113-india-us-deal-may-be-inked-after-washington-settle",
+    "d": "2026-11-13",
+    "title": "India-US deal may be inked after Washington settles its tariff framework",
+    "body": "India-US deal may be inked after Washington settles its tariff framework",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "Business Standard",
+      "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRHJjY2VxRzVHMmozdjBYSnF2SjQwaGRWU3QzNWotTUlDT1FhS3BRdk81SS1ZbXRwc3gxY2pMR3JKamN4VE1zOWVHSk95Nk0xSXpWUURiQkpQYldyS1dYWTdHbEdBd1lRTkNDTUlLWXBfNjlaVzZ2UW13b091M24wQ1FNMlA2VndPT3B4Yi1lMVgtcG1tdTRYN25id1REeEJGLXNQbm0tcTIyd3ZIUjlOQWtrXzlwSkNjSG5XQmtZUEdneERTUlNtcEh6TEo0T3dKSDBLV0Vn0gHbAUFVX3lxTE55VVVrazZqUEFNX0ZvbWs5Wm1IRnZ4QndNSHVsR1VvaEd1Y3liRXhWNjZrTXNqcEF4YmdPMFMzMXo0VnI3aXZHMUdqSWg4TWJ6TTV6ZU51SEROek5DeVBfN2QxOThzZWpHZlRja0tPSnBENHBEWl83alNxY0VaLU9ZNnpuRTFjRm9hOWExSGR3ZzhNSDNFZjl3NzZWZ2FrNzhOUV9XSTdfcmhvMEljQjhMdzktMENwczF2cUZ3Rk9pSFZNZDdsVENLX3kwaDdRaEtDRmM1WHctYjI4UQ?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-15T17:32:55.671Z",
+    "auto": true,
+    "orgs": []
   },
   {
     "id": "u-20261112-bipartisan-push-possible-to-curb-trump-tariffs",
@@ -2444,6 +2906,94 @@
     "orgs": [
       "AGL Energy"
     ]
+  },
+  {
+    "id": "u-20261112-tata-power-eyes-more-pacts-for-cost-linked-mundra-",
+    "d": "2026-11-12",
+    "title": "Tata Power Eyes More Pacts for Cost-Linked Mundra Tariff",
+    "body": "Tata Power Eyes More Pacts for Cost-Linked Mundra Tariff",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [
+      "Power Eyes"
+    ],
+    "src": {
+      "t": "Bloomberg.com",
+      "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZHg0cllIUVBnX2FEU0Y1M0RqMFl2RXRFZnZVQ0xmcnhTTVRVd3N4TE5CSDEyWDBJbnNtSTZHVjVEcFpsNWJWZlhuWlRtelg3WkhpTUZPeTYzM1VBR3lrQ2NQdDFUbHo3dUJhcERUclhVaUMxMmpUMS0ySW9qYVJ5VC05ZndFV3ZYVUhlci0xQ2pOVUlTUjZJRE84T19aVXpyNkhYMlNtMHR5MjA?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-15T17:32:55.671Z",
+    "auto": true,
+    "orgs": [
+      "Power Eyes"
+    ]
+  },
+  {
+    "id": "u-20261112-despite-trump-administration-s-efforts-to-limit-ta",
+    "d": "2026-11-12",
+    "title": "Despite Trump administration’s efforts to limit tariff refunds, American importers are one step closer to receiving $166 billion in universal rebates",
+    "body": "Despite Trump administration’s efforts to limit tariff refunds, American importers are one step closer to receiving $166 billion in universal rebates",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "Yahoo Finance",
+      "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMFU4aHVGWE00ODNSdDZiTW1UOGM4MXBOWVlOeFpSVEJLamF3akctQUFtbXp6OC1UbGptY09Qc2R1SXJkUU9pZjNxRTdSOXlNOWNBcUZ4aDRpenp4bWxyNVpVclpMSUNsSmM5OFpIV1ZWSUFaaG9ndGE4R0dBZXQzVklQd1U1cHNCSVBKVV9kOWxzSDR6aGhMMC1vTHVfVFNkbUh6QWRGck45ZFk?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-15T17:32:55.671Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261112-mfds-orders-domestic-production-of-3-cancer-and-an",
+    "d": "2026-11-12",
+    "title": "MFDS orders domestic production of 3 cancer and antibiotic drugs, aims to secure supply within the year",
+    "body": "MFDS orders domestic production of 3 cancer and antibiotic drugs, aims to secure supply within the year",
+    "why": "Shifts in regional sourcing strategies reveal where supply is becoming more volatile.",
+    "sectors": [
+      "regionalsupplychains"
+    ],
+    "type": "News",
+    "companies": [
+      "MFDS"
+    ],
+    "src": {
+      "t": "머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZdlhwZDVCZlZ5WDhFeFdfWk9XZDJIU0JtSUVUYTNOOWJZTUljQk5DazhwVWloVmMyd051QzhfVGREbTNBRGswTk14d0lxbkxOdDhnOENLNGJwQUFWNVZhc3lTYlhRV1hQSFMyVFRn?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-15T17:32:55.671Z",
+    "auto": true,
+    "orgs": [
+      "MFDS"
+    ]
+  },
+  {
+    "id": "u-20261112-chung-yong-jin-s-core-retail-strategy-pays-off-as-",
+    "d": "2026-11-12",
+    "title": "Chung Yong-jin's core retail strategy pays off as E-mart posts first 5-trillion-won quarter",
+    "body": "Chung Yong-jin's core retail strategy pays off as E-mart posts first 5-trillion-won quarter",
+    "why": "Understanding retail strategy helps anticipate how supply shocks will be priced to consumers.",
+    "sectors": [
+      "retailstrategypricing"
+    ],
+    "type": "News",
+    "companies": [],
+    "src": {
+      "t": "헤럴드경제",
+      "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE05eTFLWURxdnRvRjVZZm5WYVhRRTlrUWRmOEtlWnZrc1RTaWV5QmNNS2pROG9iN2luVUk5VVFXaE0tZlE5eUtYVU8teHNyTGg4U01JaDlPWQ?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-15T17:32:55.671Z",
+    "auto": true,
+    "orgs": []
   },
   {
     "id": "u-20261111-exclusive-india-holds-pernod-diageo-scotch-shipmen",

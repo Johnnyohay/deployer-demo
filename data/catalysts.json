@@ -691,6 +691,39 @@
     "ref": "u-20261109-china-extends-suspension-of-24-tariff-on-us-import"
   },
   {
+    "id": "c-20261122-first-us-china-trade-council-meeting-with-30-billi",
+    "d": "2026-11-22",
+    "approx": false,
+    "title": "First US-China Trade Council Meeting with $30 Billion Tariff Cut Proposal",
+    "why": "This meeting represents the first formal trade council talks between the US and China, potentially resolving ongoing tariff disputes.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "ref": "u-20261114-us-and-china-open-first-trade-council-talks-with-3"
+  },
+  {
+    "id": "c-20261125-trump-xi-summit-and-potential-tariff-reductions",
+    "d": "2026-11-25",
+    "approx": true,
+    "title": "Trump-Xi Summit and Potential Tariff Reductions",
+    "why": "The upcoming summit between Trump and Xi is expected to focus on major tariff reductions and US soybean exports.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "ref": "u-20261114-trump-xi-summit-puts-u-s-soybean-exports-and-10-ch"
+  },
+  {
+    "id": "c-20261129-asean-leaders-discuss-trade-security-ahead-of-trum",
+    "d": "2026-11-29",
+    "approx": true,
+    "title": "ASEAN Leaders Discuss Trade Security Ahead of Trump Visit",
+    "why": "ASEAN leaders are meeting in Manila to discuss trade security and the energy crisis before Donald Trump visits the region.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "ref": "u-20261115-asean-leaders-discuss-trade-security-and-the-energ"
+  },
+  {
     "id": "c-20261201-hapag-lloyd-raises-far-east-to-europe-freight-rate",
     "d": "2026-12-01",
     "approx": false,

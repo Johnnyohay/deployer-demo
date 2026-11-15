@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-15",
+  "title": "Today in retail, supply chain and geopolitics",
+  "big": "25 new stories since the last brief. The busiest areas: trade policy & tariffs and geopolitical supply risks.",
+  "stories": [
+    {
+      "tag": "Trade Policy & Tariffs",
+      "h": "Can China and the US Settle the Tariff Fight at Their First Trade Council Meeting?",
+      "what": "Can China and the US Settle the Tariff Fight at Their First Trade Council Meeting?",
+      "you": "Early tariff signals indicate which products will face margin compression first.",
+      "ref": "u-20261115-can-china-and-the-us-settle-the-tariff-fight-at-th"
+    },
+    {
+      "tag": "Geopolitical Supply Risks",
+      "h": "Nvidia Partner Megaspeed Breaks Silence on Alice Huang, Launches Probe Into China Chip Supply Links",
+      "what": "Nvidia Partner Megaspeed Breaks Silence on Alice Huang, Launches Probe Into China Chip Supply Links",
+      "you": "Regional conflicts and energy shocks directly translate into retail cost increases.",
+      "ref": "u-20261115-nvidia-partner-megaspeed-breaks-silence-on-alice-h"
+    },
+    {
+      "tag": "Regional Supply Chains",
+      "h": "Light rare earth prices rebound, intensive regional supply chain moves [SMM Rare Earth Ex-China Weekly Review]",
+      "what": "Light rare earth prices rebound, intensive regional supply chain moves [SMM Rare Earth Ex-China Weekly Review]",
+      "you": "Shifts in regional sourcing strategies reveal where supply is becoming more volatile.",
+      "ref": "u-20261115-light-rare-earth-prices-rebound-intensive-regional"
+    },
+    {
+      "tag": "Freight Lines & Shipping",
+      "h": "Great Eastern Shipping Company Ltd is Rated Strong Buy",
+      "what": "Great Eastern Shipping Company Ltd is Rated Strong Buy",
+      "you": "Fleet reductions or route changes indicate long-term supply constraints.",
+      "ref": "u-20261114-great-eastern-shipping-company-ltd-is-rated-strong"
+    },
+    {
+      "tag": "Logistics & Freight Rates",
+      "h": "Yemen’s Houthis Reach Strategic Island at Mouth of Vital Shipping Lane",
+      "what": "Yemen’s Houthis Reach Strategic Island at Mouth of Vital Shipping Lane",
+      "you": "Sudden rate spikes or port bottlenecks are the earliest warning signs of shelf shortages.",
+      "ref": "u-20261114-yemen-s-houthis-reach-strategic-island-at-mouth-of"
+    }
+  ],
+  "watch": {
+    "h": "US-China tariff truce under strain ahead of potential trade war escalation",
+    "why": "Around November 15. Both nations are bracing for a potential trade war as current agreements face pressure"
+  },
+  "idea": {
+    "h": "Monitor the bipartisan push to curb presidential tariff power alongside ongoing US-China liaison on cuts.",
+    "why": "Retailers should prepare contingency plans assuming potential tariff reductions could lower import costs for key categories like electronics and apparel. Congressional bills restricting Trump's tariff authority combined with China-US diplomatic efforts suggest a high probability of trade policy shifts that will directly impact pricing strategies soon."
+  },
+  "auto": true
+}
