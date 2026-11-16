@@ -1,5 +1,488 @@
 [
   {
+    "id": "u-20261116-from-cost-center-to-growth-engine-the-supply-chain",
+    "d": "2026-11-16",
+    "title": "From cost center to growth engine: The supply chain value shift",
+    "body": "The resilience era is over. Learn how leading companies are converting supply chain investments into margin, market share and growth.",
+    "why": "Understanding retail strategy helps anticipate how supply shocks will be priced to consumers.",
+    "sectors": [
+      "retailstrategypricing"
+    ],
+    "type": "News",
+    "companies": [],
+    "src": {
+      "t": "Supply Chain Dive",
+      "u": "https://www.supplychaindive.com/spons/from-cost-center-to-growth-engine-the-supply-chain-value-shift/874220/",
+      "q": "news"
+    },
+    "addedAt": "2026-11-16T20:47:01.823Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261116-business-continuity-starts-before-supply-chain-dis",
+    "d": "2026-11-16",
+    "title": "Business continuity starts before supply chain disruption",
+    "body": "Discover how Crisis24 AiiA helps leaders anticipate supply chain risks and make informed business continuity decisions.",
+    "why": "Sudden rate spikes or port bottlenecks are the earliest warning signs of shelf shortages.",
+    "sectors": [
+      "logisticsfreightrates"
+    ],
+    "type": "Supply Chain Disruption",
+    "companies": [],
+    "src": {
+      "t": "Supply Chain Dive",
+      "u": "https://www.supplychaindive.com/spons/business-continuity-starts-before-supply-chain-disruption/874344/",
+      "q": "news"
+    },
+    "addedAt": "2026-11-16T20:47:01.823Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261116-dillard-s-grabs-some-market-share-again-despite-we",
+    "d": "2026-11-16",
+    "title": "Dillard’s grabs some market share again despite weak sales growth",
+    "body": "In Q3 the department store eked out 1% increases in retail sales and comps compared to last year, but that beat expectations.",
+    "why": "Understanding retail strategy helps anticipate how supply shocks will be priced to consumers.",
+    "sectors": [
+      "retailstrategypricing"
+    ],
+    "type": "News",
+    "companies": [
+      "Dillard"
+    ],
+    "src": {
+      "t": "Retail Dive",
+      "u": "https://www.retaildive.com/news/dillards-grabs-market-share-weak-sales-growth/874735/",
+      "q": "news"
+    },
+    "addedAt": "2026-11-16T20:47:01.823Z",
+    "auto": true,
+    "orgs": [
+      "Dillard"
+    ]
+  },
+  {
+    "id": "u-20261116-the-best-customer-service-in-air-cargo-is-the-call",
+    "d": "2026-11-16",
+    "title": "The Best Customer Service in Air Cargo Is the Call You Never Have to Take",
+    "body": "In air cargo, service problems start hours before anyone picks up a phone. AI is helping carriers spot them early and reach shippers first. The post The Best Customer Service in Air Cargo Is the Call You Never Have to Take appeared first on FreightWaves .",
+    "why": "Sudden rate spikes or port bottlenecks are the earliest warning signs of shelf shortages.",
+    "sectors": [
+      "logisticsfreightrates"
+    ],
+    "type": "News",
+    "companies": [
+      "Air Cargo",
+      "FreightWaves"
+    ],
+    "src": {
+      "t": "FreightWaves",
+      "u": "https://www.freightwaves.com/news/the-best-customer-service-in-air-cargo-is-the-call-you-never-have-to-take",
+      "q": "news"
+    },
+    "addedAt": "2026-11-16T20:47:01.823Z",
+    "auto": true,
+    "orgs": [
+      "Air Cargo",
+      "FreightWaves"
+    ]
+  },
+  {
+    "id": "u-20261116-container-peak-season-easing-port-congestion-ties-",
+    "d": "2026-11-16",
+    "title": "Container peak season easing, port congestion ties up 10% of fleet",
+    "body": "Container peak season easing, port congestion ties up 10% of fleet",
+    "why": "Sudden rate spikes or port bottlenecks are the earliest warning signs of shelf shortages.",
+    "sectors": [
+      "logisticsfreightrates",
+      "portactivityinfrastructu"
+    ],
+    "type": "Port Strike or Congestion",
+    "companies": [],
+    "src": {
+      "t": "Seatrade Maritime News",
+      "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMkhPcGY4S2F6a2tSTDVuRzZCMzZRZ2dxVU9SUEk0aWhOY1pwVk9ZUWlNV2Y4OHU4SnZUU01sQ2tMMHowWHBPaFFjRERPejY0bXU4OEkzZXNXdGV1dlRPNTN3ajh4VnBKZnlHckNYVXhqdE5LdFI3WXZYNkNzeU5jSDZSVUQydXRfVDhSa0FCdk5tc1lldVF3UFdZa1FDVDBMZnA4MWFEd3dvaFRpRWc?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-16T20:47:01.823Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261116-namport-shares-further-clarity-on-allegations-of-w",
+    "d": "2026-11-16",
+    "title": "Namport shares further clarity on allegations of Walvis Bay Port congestion Staff Reporter THE Namibia Ports Authority (Namport) has shed more light on allegations of congestion at the Port of Walvis Bay, explaining that the Walvis Bay Container Terminal is c",
+    "body": "Namport shares further clarity on allegations of Walvis Bay Port congestion Staff Reporter THE Namibia Ports Authority (Namport) has shed more light on allegations of congestion at the Port of Walvis Bay, explaining that the Walvis Bay Container Terminal is c",
+    "why": "Sudden rate spikes or port bottlenecks are the earliest warning signs of shelf shortages.",
+    "sectors": [
+      "logisticsfreightrates",
+      "portactivityinfrastructu"
+    ],
+    "type": "Port Strike or Congestion",
+    "companies": [
+      "Namibia Ports Authority",
+      "Namport"
+    ],
+    "src": {
+      "t": "Instagram",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrR3U1UkVNVGZsTDdMejRaazBCRDk3NXVzR1MxM05yM09reVNYVHNiWnM3SzZjTlN3VkFwQU12UGs1cmlVeEVzbGVucllXdVpmaVE?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-16T20:47:01.823Z",
+    "auto": true,
+    "orgs": [
+      "Namibia Ports Authority",
+      "Namport"
+    ]
+  },
+  {
+    "id": "u-20261116-port-congestion-has-become-a-new-normal-says-msc-c",
+    "d": "2026-11-16",
+    "title": "Port congestion has become a new normal, says MSC chief",
+    "body": "Port congestion has become a new normal, says MSC chief",
+    "why": "Sudden rate spikes or port bottlenecks are the earliest warning signs of shelf shortages.",
+    "sectors": [
+      "logisticsfreightrates",
+      "portactivityinfrastructu"
+    ],
+    "type": "Port Strike or Congestion",
+    "companies": [
+      "MSC"
+    ],
+    "src": {
+      "t": "Shipping Telegraph",
+      "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRU50NWJtVEdTV2EwWjJ5UXZPdDlCY2pUbnNDOGt2Q2F0clhFc0l6SWZBS2NiRWVMbS1veVhoZDB2aFNxVFJzMXduaWJHVEZtZXpzcTAwY1RDbjhqck1NZ293T0ttd1BHajRYX29VV2luV295WWN1YkotSnpQb1ZpWHVCNTFhZWFNSWdhRDRRODZSaFdlSlFSb3R1ZnBUMUJkdnc?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-16T20:47:01.823Z",
+    "auto": true,
+    "orgs": [
+      "MSC"
+    ]
+  },
+  {
+    "id": "u-20261116-wan-hai-bullish-on-2027-volume-growth-of-nearly-20",
+    "d": "2026-11-16",
+    "title": "Wan Hai Bullish on 2027 Volume Growth of Nearly 20%; Hsieh Fu-lung Warns Ship Upsizing May Worsen Port Congestion",
+    "body": "Wan Hai Bullish on 2027 Volume Growth of Nearly 20%; Hsieh Fu-lung Warns Ship Upsizing May Worsen Port Congestion",
+    "why": "Sudden rate spikes or port bottlenecks are the earliest warning signs of shelf shortages.",
+    "sectors": [
+      "logisticsfreightrates",
+      "portactivityinfrastructu"
+    ],
+    "type": "Port Strike or Congestion",
+    "companies": [
+      "Wan",
+      "Bullish"
+    ],
+    "src": {
+      "t": "BigGo Finance",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9MZHJUTnhaY1Y5UmUtMmg1X2ZuemN6ZnpFNHZCeVZkNE5PT1J6cmI5aDVvWkFHN09iaGFpblRfeDdnZXh1RURhQWVPTUM1WnBNR1NkXzNsYTlFZlpmMHpLM0VwUXh3Snh0VkFzTGhDTk4yYTBaMWc?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-16T20:47:01.823Z",
+    "auto": true,
+    "orgs": [
+      "Wan",
+      "Bullish"
+    ]
+  },
+  {
+    "id": "u-20261116-namport-dismisses-port-congestion-claims",
+    "d": "2026-11-16",
+    "title": "Namport dismisses port congestion claims",
+    "body": "Namport dismisses port congestion claims",
+    "why": "Sudden rate spikes or port bottlenecks are the earliest warning signs of shelf shortages.",
+    "sectors": [
+      "logisticsfreightrates",
+      "portactivityinfrastructu"
+    ],
+    "type": "Port Strike or Congestion",
+    "companies": [],
+    "src": {
+      "t": "New Era",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDRk5MVEVqVXJWU1FWTnJYYWlXRExtZHFsdUktZWFESmY3eDc3LU80ZVZfYVVQMlNFT3dNQVZfM0VNQ01xM1dXZmlNMkstUG9NSURqeTdDVENpVVZ5RTN6NVdyVWVsRWEzclI2cm5kM1M?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-16T20:47:01.823Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261116-jensen-huang-s-exit-sends-shockwaves-through-washi",
+    "d": "2026-11-16",
+    "title": "Jensen Huang’s Exit Sends Shockwaves Through Washington, AI Startups and Global Chip Supply",
+    "body": "Jensen Huang’s Exit Sends Shockwaves Through Washington, AI Startups and Global Chip Supply",
+    "why": "Regional conflicts and energy shocks directly translate into retail cost increases.",
+    "sectors": [
+      "geopoliticalsupplyrisks"
+    ],
+    "type": "News",
+    "companies": [
+      "AI Startups",
+      "Global Chip Supply"
+    ],
+    "src": {
+      "t": "AI Insider",
+      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZGd1T0dPSjNrSUNOenkzM3ZMWHlxUEpFSC1LdVMtUmRCMjRpYWI3ZzZ0ZVNPR2c0VDY0aW42QnN3Z0lXS256Q2VibWpfZGRlMVRXRk5YeTJ5Q2YzY25RSTBxbzRXbUhSLXI4WmZ4akhpZ0F0N3dUeUtnamFGSEp1NzJzNzJ4S0NVZDVrMk5URkhzdlJlQ1lZbE9ZTnlkWEhONTFna1hGYkJKYTJ5b1F5NzVYZmdfbV9Wck5xT1BnZ044OXpDalE?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-16T20:47:01.823Z",
+    "auto": true,
+    "orgs": [
+      "AI Startups",
+      "Global Chip Supply"
+    ]
+  },
+  {
+    "id": "u-20261116-ytl-power-shares-recover-3-following-weekly-declin",
+    "d": "2026-11-16",
+    "title": "YTL Power Shares Recover 3% Following Weekly Decline Amid Nvidia Chip Supply Scrutiny",
+    "body": "YTL Power Shares Recover 3% Following Weekly Decline Amid Nvidia Chip Supply Scrutiny",
+    "why": "Regional conflicts and energy shocks directly translate into retail cost increases.",
+    "sectors": [
+      "geopoliticalsupplyrisks"
+    ],
+    "type": "News",
+    "companies": [
+      "Nvidia"
+    ],
+    "src": {
+      "t": "Yahoo Finance",
+      "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNREhJQ1JvcGYzRWU4Szl1ZGU4bFJ0NWtDZURhUHpTZ1F0VlNQOHlqZWZ4VXlDa3JycnpIVUFBSGJSWTJDNjh1aUFqZHgtT3JjZmZpMDM2d3A1ODdDeTZqTERSUmFsSWRPN0JxUy1CdXdYQTJvM0s3NGFNX0Vxdzh5Q3QzU05oN1hGUnRyOFM1Q19WSzI4?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-16T20:47:01.823Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261116-sk-hynix-plans-1-billion-investment-in-south-korea",
+    "d": "2026-11-16",
+    "title": "SK Hynix Plans $1 Billion Investment in South Korean Chip Supply Chain",
+    "body": "SK Hynix Plans $1 Billion Investment in South Korean Chip Supply Chain",
+    "why": "Regional conflicts and energy shocks directly translate into retail cost increases.",
+    "sectors": [
+      "geopoliticalsupplyrisks"
+    ],
+    "type": "News",
+    "companies": [
+      "SK Hynix"
+    ],
+    "src": {
+      "t": "marketscreener.com",
+      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOUdfSUM5dlFWck5MTjE1eEpxblZyODBYNXhvaVU4eWdJdm8tdVhLVElxSS1WR3VwUHcwUjI3TlBXUXhSaERyU2Zxb09jek93X21XUWYzMGlCUGhGX2kxMENfSDVFaDRETzNHenRTU0tXT0s5cGhSZDVkM1kxN1ZRMUIybTRkN19lb1E2clNDUzFhNDZ2Y1duYTFJV2w0NFpFVnlFVXNCZVhLd0wzNm1vbWpXSkZPQklXUXJyM2s2dw?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-16T20:47:01.823Z",
+    "auto": true,
+    "orgs": [
+      "SK Hynix"
+    ]
+  },
+  {
+    "id": "u-20261116-ai-giants-shift-decarbonization-pressure-upstream-",
+    "d": "2026-11-16",
+    "title": "AI giants shift decarbonization pressure upstream, testing Taiwan's chip supply chain",
+    "body": "AI giants shift decarbonization pressure upstream, testing Taiwan's chip supply chain",
+    "why": "Regional conflicts and energy shocks directly translate into retail cost increases.",
+    "sectors": [
+      "geopoliticalsupplyrisks"
+    ],
+    "type": "News",
+    "companies": [],
+    "src": {
+      "t": "digitimes",
+      "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQ0xSLWVwMDZMb1piN1lIUEtTQkZJY3VmcUh6bXJKYjlkQnBNbUFCZ09RNW15THc3Ny01Ynl0M3dBZjRWb2xKZjVfcHVLUVJGWDgxRDFYOTJwZEZDSGdORHhMTHlIeTZkTkJVQzB4YWZ1cTZMa1VJaTNQcU45bmczblgtVmJ5VkZrVXc?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-16T20:47:01.823Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261116-sk-hynix-pledges-1b-to-support-ai-chip-supply-chai",
+    "d": "2026-11-16",
+    "title": "SK hynix pledges $1b to support AI chip supply chain",
+    "body": "SK hynix pledges $1b to support AI chip supply chain",
+    "why": "Regional conflicts and energy shocks directly translate into retail cost increases.",
+    "sectors": [
+      "geopoliticalsupplyrisks"
+    ],
+    "type": "News",
+    "companies": [],
+    "src": {
+      "t": "Tech in Asia",
+      "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ2oxMjFEQ3JfQW5JN1BKN2ZyZE9BQ29kTHEteVFPVlJqcGtjV2tTSnU2eTFOWjRpUGd1TlVFQ3RDUzE0Z0ZVdjBzaGRUem1DNmNveWZnT2pwTVpVYk01QXZMek1MdTFFY3FUVnhjcXcyZjNUazl5eWZTTXhDYlVkeEZCNmwybGM?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-16T20:47:01.823Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261116-us-china-ai-war-india-joins-pax-silica-as-washingt",
+    "d": "2026-11-16",
+    "title": "US-China AI War: India Joins Pax Silica As Washington Moves To Cut China Out Of Chip Supply Chain",
+    "body": "US-China AI War: India Joins Pax Silica As Washington Moves To Cut China Out Of Chip Supply Chain",
+    "why": "Regional conflicts and energy shocks directly translate into retail cost increases.",
+    "sectors": [
+      "geopoliticalsupplyrisks"
+    ],
+    "type": "News",
+    "companies": [
+      "China"
+    ],
+    "src": {
+      "t": "The Times of India",
+      "u": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOOW9xZEozdTNhS28zM3pNQW0zcl9Ea3QtSTV6cXY5YXZzd2hGdGROLVNGZmZUUHktc3JGNXNuTXRvQ0NDekFYbTFFTDRNejMzWHAzQ1hNb2tLZERDWHZJZWY3TzlReVhaTndVOXZtUE5LRXhEdE44Qzk4TDNBS0V6R3J1WlFJbUVyeE1nZHVMZENMSW5Wam1jcldUTXBmMlJFT05iUEhYVU9QQThRU1pCejhGWGtNUEpuYktOWGxrNGtNQVNULVBsNkphRVQ1SUJIOEM3MmlxeUdnRjZkX3ZObDVrT1U4V0dGTmxTSDNGMFhIMFl1S3dBVDYzVXppNHYxN2xicjFMONIBjAJBVV95cUxQcE9pd1N5MzMxM053dVR1WUZJbnc3MVJzQi1xZWs3UDkzazA1N0EwS3UxbUEzWmlUalRQTEp5eFpFUEFiNzdMM0RvUEJ4YlNmRTUzOXdTR3JPQlpIcDQ1bU1QLURQdElBQWdacU1KTXZZVkJlUFA3M2V2UWNYQ2ZtM0I5MmEzQXduYm52NnRKNXhTcEhBanhsR29MU05KdWY5SWV4VUZzcUtNdlMxNHdfNHR5c2I5dHVVZmQ2UmNBT3l3X2hhSXI3Y21hQm0xVHdYWWZFQk9HZUVLaVBmLWdUeFI4OGpNRjFtOWduY2tEdHp5OHZiMVRTNHZoTTBBcVg4ZnY4VEZxSzRDdV8w?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-16T20:47:01.823Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261116-nvidia-ai-chip-supply-chain-under-scrutiny-over-ch",
+    "d": "2026-11-16",
+    "title": "Nvidia AI Chip Supply Chain Under Scrutiny Over Chinese Access Through Southeast Asia",
+    "body": "Nvidia AI Chip Supply Chain Under Scrutiny Over Chinese Access Through Southeast Asia",
+    "why": "Regional conflicts and energy shocks directly translate into retail cost increases.",
+    "sectors": [
+      "geopoliticalsupplyrisks"
+    ],
+    "type": "News",
+    "companies": [
+      "Nvidia"
+    ],
+    "src": {
+      "t": "The 420.in",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NQzl4MDRjaUpSRmhWSDV5czlNZFMtcE1CdlN4cGtEakNuanE4Q2gxa05lbHJOVXVhTEpBUDBSSWZ0ZXYzM2hlRVlPaFpVYjhUN29nQ2s0bWg2eXdPNm9XcDB4dWQxZEFIWkln?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-16T20:47:01.823Z",
+    "auto": true,
+    "orgs": [
+      "Nvidia"
+    ]
+  },
+  {
+    "id": "u-20261116-natural-gas-wti-oil-brent-oil-forecasts-oil-dives-",
+    "d": "2026-11-16",
+    "title": "Natural Gas, WTI Oil, Brent Oil Forecasts – Oil Dives As Supply Exceeds Demand",
+    "body": "Natural Gas, WTI Oil, Brent Oil Forecasts – Oil Dives As Supply Exceeds Demand",
+    "why": "Raw material price jumps are the root cause of retail margin erosion.",
+    "sectors": [
+      "commoditymarkets"
+    ],
+    "type": "Commodity Price Jump",
+    "companies": [
+      "Natural Gas",
+      "WTI Oil",
+      "Brent Oil Forecasts"
+    ],
+    "src": {
+      "t": "FXEmpire",
+      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb2lPdmVJbVd4eU1uRFBtdXA4cjhoeWh6YmZWRDZfUS1uUlc5Vm9sbzVmbEtxQ3FicWFuR21fcllUbGJaM25qWGpLbVZsLVhyeGF0b3N2TW9JMUFCNl90ZXBaU2M3ZGVQZEItWkdPeFRaQ2xhMmJUOHRvakNncWxwZ0JIM1FVU2U4N29kMTE0enI1NG43Q0x3Q3pDaFlqUXVHZkZNVlpkLXhCNDF5RXNsYkhqdEFNUkxGWDYzckwxS1ZsRVE?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-16T20:47:01.823Z",
+    "auto": true,
+    "orgs": [
+      "Natural Gas",
+      "WTI Oil",
+      "Brent Oil Forecasts"
+    ]
+  },
+  {
+    "id": "u-20261116-eu-sanctions-push-deeper-into-shadow-fleet-s-finan",
+    "d": "2026-11-16",
+    "title": "EU sanctions push deeper into shadow fleet’s financial and shipping infrastructure",
+    "body": "EU sanctions push deeper into shadow fleet’s financial and shipping infrastructure",
+    "why": "Port bottlenecks are the physical manifestation of supply chain friction.",
+    "sectors": [
+      "portactivityinfrastructu"
+    ],
+    "type": "News",
+    "companies": [],
+    "src": {
+      "t": "Lloyd's List",
+      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMVdrUEhyNkpNM21mWE1JbUlXNkNIaGt4Y0Jtb1pORlR0Z0dsWldWWi01T2hLRUJFZjd2dE9kSldPNU1nUjZhNXBjMUI1WFMzOFhWVUlMY3Rxd1RTVVBXS0czMUhVVThReS00QnBIcVp5THhOUGt6WDZPdGV6ZWJxRXEzMzRzSjVmQ2JQOEJrZnlNUHpiMWgxRjg3Q1lJY1p5alBKT0IweXY4OVNUUzNUeE1nQk9vaHFVcnVSTEE3RnViNnVfTVE?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-16T20:47:01.823Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261116-great-eastern-shipping-company-puts-nav-reset-at-r",
+    "d": "2026-11-16",
+    "title": "Great Eastern Shipping Company puts NAV reset at Rs 250",
+    "body": "Great Eastern Shipping Company puts NAV reset at Rs 250",
+    "why": "Fleet reductions or route changes indicate long-term supply constraints.",
+    "sectors": [
+      "freightlinesshipping"
+    ],
+    "type": "News",
+    "companies": [
+      "Great Eastern Shipping Company",
+      "NAV"
+    ],
+    "src": {
+      "t": "Multibagg AI",
+      "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUGltMFFZeGNjbXo1YmVmM09ZclV6bVFfZk5YZ3Q1YTlCVWJTN0t6TEdrbFZWS05DQzE1TlRLMmlFZXh6Qk9pNVVZeVFBbnpfb0FMMlMzYnVtR3M3TlVxalNkUHdDNUFBdDVaM3dYcUtweW9sZG1ZZDMyQnk3OGMxQW9IdzVFclpya3licW4xNTh4VlZfZXJzZUNFZ3VhTXpHSjY1dEhfbHhoV21vaEZZcVBuYjlpdw?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-16T20:47:01.823Z",
+    "auto": true,
+    "orgs": [
+      "Great Eastern Shipping Company",
+      "NAV"
+    ]
+  },
+  {
+    "id": "u-20261116-brazil-s-fertilizer-imports-fell-34-while-domestic",
+    "d": "2026-11-16",
+    "title": "Brazil’s fertilizer imports fell 34%, while domestic production dropped 40%",
+    "body": "Brazil’s fertilizer imports fell 34%, while domestic production dropped 40%",
+    "why": "Shifts in regional sourcing strategies reveal where supply is becoming more volatile.",
+    "sectors": [
+      "regionalsupplychains"
+    ],
+    "type": "News",
+    "companies": [],
+    "src": {
+      "t": "UkrAgroConsult",
+      "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT0RFTVhpSVNYZFlQLUFwdjU4T3lTU1dNNXNZZVdrZkZ4Y2JQRWtZVW11eS1WY1YwWFp6TVd3U21IU0lHMS05NTNEVUVnci04ZjlRblRCYV9wV0ZTUkc3WEtncGFEMXp6UjBfSUozODhuMDZfTWd5SGpQNVVka25rOU5pNGJDaTNGRmNaeHozX210eW9JalBIYmhVRGVVcnlYdEd0Nk4wQk9oNzg?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-16T20:47:01.823Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261116-philippines-faces-higher-sugar-import-needs-as-dom",
+    "d": "2026-11-16",
+    "title": "Philippines faces higher sugar import needs as domestic production falls short due to low cane yields",
+    "body": "Philippines faces higher sugar import needs as domestic production falls short due to low cane yields",
+    "why": "Shifts in regional sourcing strategies reveal where supply is becoming more volatile.",
+    "sectors": [
+      "regionalsupplychains"
+    ],
+    "type": "News",
+    "companies": [],
+    "src": {
+      "t": "ChiniMandi",
+      "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdV9Gc0VpVTR0bG1FT3E1R0pxakJ3V3MtT3lMY3lKOHNiVlB4WFhzeHNDVXFnOE9GWVhMSU9HLWN4N2pDLUpVYmZoYWFzdjc4cWl0U182S2pxY3BiLU1lUGcyNzdEQ2MzbXhvenJuT0o0dy1tMUxNcm5xVDV5cDZ3amIyQUtOSkthS0ZveGxPYklNWnNGVXNuUzRsc3JGMlVGQk9XUDRLbjlESUVxTDhLQlVFVHF0Y1dfclJCTi1hbkhxOWJHRjYwQw?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-16T20:47:01.823Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
     "id": "u-20261115-can-china-and-the-us-settle-the-tariff-fight-at-th",
     "d": "2026-11-15",
     "title": "Can China and the US Settle the Tariff Fight at Their First Trade Council Meeting?",
@@ -112,6 +595,148 @@
     "auto": true,
     "orgs": [
       "China Weekly Review"
+    ]
+  },
+  {
+    "id": "u-20261115-opinion-the-success-of-president-trump-s-tariff-po",
+    "d": "2026-11-15",
+    "title": "Opinion | The Success of President Trump’s Tariff Policy",
+    "body": "Opinion | The Success of President Trump’s Tariff Policy",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "WSJ",
+      "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdi15MUprNUVWM1B5T1Z1bEdNcFRrR0RhSmxvZHlfVEdGNXkzb0w4dngtQWh6aWs3eGVwN3JJMVMwanRYNEgzRnNpVGFsUUJNeU5oZzZ0LWkwTTFDV1pKS014OGcwUkdMaGFuak1ocVB0dkxBT0hOQXd6WlJUNURyTXRCVDFZa3l4aEE?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-16T20:47:01.823Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261115-exclusive-geopolitics-a-threat-to-shipping-but-hon",
+    "d": "2026-11-15",
+    "title": "Exclusive | Geopolitics a threat to shipping but Hong Kong can tap China’s potential: experts",
+    "body": "Exclusive | Geopolitics a threat to shipping but Hong Kong can tap China’s potential: experts",
+    "why": "Regional conflicts and energy shocks directly translate into retail cost increases.",
+    "sectors": [
+      "geopoliticalsupplyrisks"
+    ],
+    "type": "News",
+    "companies": [
+      "China"
+    ],
+    "src": {
+      "t": "South China Morning Post",
+      "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdV90cU9xLVRWVjBsTjdxYUdHX1ZSS1lrV0d0M0dKRlV4TkV4OXBwTEVvRlFRRWhlY29YOTBhdDY0cjc3MkhVTG1WaVRIaTJiX3F4Vy1vaE1ZMUpxU3RHb2VKYkYwRUIxcjFWUWJuUDdCU0p3bkRHZS1oQkFvcTZ2cGtKZEh5M2EwNGowWjZwTTlJdGFhNFFDNVdOQmFHaXhpWmxhMXZzUHRrZUFrTDhZWTRNSnIwdE9aVWZUY3FkNF9iLTVNY282eG15cTVQMVdwYXJaNUdxOVZhS3BNVWxV0gHfAUFVX3lxTFB4YzZPLVJyLUlqQlZicTdhRDVaa3ZRak1hVVE1SzBha0hDYm5TY3J0YTN0RjlrNDVTb0VhNFR4SG1hUXdCMUtiZGVXd3ZFYnY4UGdkSjB5NFc1ZUN3eFU0bjRRNHA4X1Y3dEtNLWV4WkdFcE1pVmpyTGhxNGtrelFBZ0xDRVFac0pLemVmRy1Wcnk1Z2JhWFZlelRQVWtuelBuNVdxU1oxVkNFUC1VdUNRZ0Iyai1yRFk4TGtYS3REeXFnRnFRZWdmazdOV1V4TjM5Z25xYmZoQnRFMElGNW8?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-16T20:47:01.823Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261115-geopolitics-canada-trade-minister-maninder-sidhu-s",
+    "d": "2026-11-15",
+    "title": "GEOPOLITICS | Canada Trade Minister Maninder Sidhu Says Country Is Realistic on China Ties",
+    "body": "GEOPOLITICS | Canada Trade Minister Maninder Sidhu Says Country Is Realistic on China Ties",
+    "why": "Regional conflicts and energy shocks directly translate into retail cost increases.",
+    "sectors": [
+      "geopoliticalsupplyrisks"
+    ],
+    "type": "News",
+    "companies": [
+      "China"
+    ],
+    "src": {
+      "t": "TradingView",
+      "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUHp4OFE4dlMxNWlmaDNZaEg5ZE9KZElhWTdhdzF4WWNCTUZrcHhUTGFFdEUwRTN4UjUzamNWRy1SS0RfNVoyT1RCRGIya3RocFJGaXRfTGg5WTJYaXFGTkVXT2VjX0VJSnp6SWQyNGJheF9yVWZaeWd3ZWRKU0txbEpPenVmSldzU0pwRHVRdUdzMDY2NlVmSlE2Y3FhX3BYWFNXUlE0RmxKTmlKeWwxU1N6bUV2YUNVQnh4Wko2dHdHY1lEUFh1SVlDdXRsLXc0Q3h5Ry1wYmNYZjJDNWlGeXU2MW5Tdw?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-16T20:47:01.823Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261115-royal-bodewes-launches-the-saga-vg-vessel-in-the-n",
+    "d": "2026-11-15",
+    "title": "Royal Bodewes launches the Saga VG vessel in the Netherlands for shipping company Meriaura",
+    "body": "Royal Bodewes launches the Saga VG vessel in the Netherlands for shipping company Meriaura",
+    "why": "Fleet reductions or route changes indicate long-term supply constraints.",
+    "sectors": [
+      "freightlinesshipping"
+    ],
+    "type": "News",
+    "companies": [
+      "Royal Bodewes",
+      "Meriaura"
+    ],
+    "src": {
+      "t": "Data Portuaria",
+      "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWVRPeV9ZVDNKSVVFREJNVktTVXA5QnBWMXFpOGdCUy1SejEwQ1NvY3Jham10WUhYQ2dkZjNqQ2F4cEdXSk5IM0U1RTROZnRSZ21nZHFLdkVsaXJJRVMwck9INU5PemY5ZXhKSEZNeXplYXdRY0VheVowcVFvRmlSWmZSX0ZlSEVwT24xT0lFS3Y4QWpmMDV4azVDUTNZV2NJdkZwbXNQZnRuR19rTWM0ZGlUTDJtMHJGbzVFT2w0MUNpbXFuRHQ4UVkwTE5aVjVDeS0w?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-16T20:47:01.823Z",
+    "auto": true,
+    "orgs": [
+      "Royal Bodewes",
+      "Meriaura"
+    ]
+  },
+  {
+    "id": "u-20261115-gujarat-high-court-quashes-gst-department-s-reject",
+    "d": "2026-11-15",
+    "title": "Gujarat High Court Quashes GST Department's Rejection of Ocean Freight IGST Refund Under Section 54",
+    "body": "Gujarat High Court Quashes GST Department's Rejection of Ocean Freight IGST Refund Under Section 54",
+    "why": "Fleet reductions or route changes indicate long-term supply constraints.",
+    "sectors": [
+      "freightlinesshipping"
+    ],
+    "type": "News",
+    "companies": [],
+    "src": {
+      "t": "TaxCorp AI",
+      "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNT3VjZ2NvYnZHTXFTZG5ZMjdzR01ueHFHVmpveVJESUNoYTdrcGkyX2pSYUl2ZzFBOHV3U28zRXNmc2xoYm1xVnBhY2NFbFVaZ1htcC10NVFONjFrY0Q2R0RnWUtwdnhQQUFzSXVxTkxHYmFLaUJjNTgtWFpaSVppV0V5Q1VJOUxmbTg5QWdUZXhHNWlpUHpMVVR1QzdtbU02dVZXMGxtRQ?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-16T20:47:01.823Z",
+    "auto": true,
+    "orgs": [
+      "GST Department"
+    ]
+  },
+  {
+    "id": "u-20261115-gujarat-high-court-directs-refund-of-igst-on-ocean",
+    "d": "2026-11-15",
+    "title": "Gujarat High Court Directs Refund of IGST on Ocean Freight with Interest: Sandesh Ltd. vs Union of India",
+    "body": "Gujarat High Court Directs Refund of IGST on Ocean Freight with Interest: Sandesh Ltd. vs Union of India",
+    "why": "Fleet reductions or route changes indicate long-term supply constraints.",
+    "sectors": [
+      "freightlinesshipping"
+    ],
+    "type": "News",
+    "companies": [
+      "Gujarat High Court",
+      "IGST",
+      "Sandesh Ltd",
+      "Union of India"
+    ],
+    "src": {
+      "t": "TaxCorp AI",
+      "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcGtuRkRNVGZXTGhrbGFtMlZJTTNTQWVna0FaWnpYV2xBbWl2Z2pnSnB2eWhlT2U3azRUTjlEdHgwWDNQb0JValNfTk0ySDFDM2RlR1pkVG0zQllERTNGaFFjOGZ6aXoyckt2cWZyX0dDa0lIVFV3TlFTTThjUlNNekxMSlRKODF0R19XNnQ2UXhzVlBQTHNOak90NFlOVjRtY0l1aw?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-16T20:47:01.823Z",
+    "auto": true,
+    "orgs": [
+      "Gujarat High Court",
+      "IGST",
+      "Sandesh Ltd",
+      "Union of India"
     ]
   },
   {
@@ -1803,6 +2428,100 @@
     "addedAt": "2026-11-15T17:32:55.671Z",
     "auto": true,
     "orgs": []
+  },
+  {
+    "id": "u-20261113-applied-materials-has-a-broad-and-deep-portfolio-t",
+    "d": "2026-11-13",
+    "title": "Applied Materials Has a Broad and Deep Portfolio to Address Chip Supply Constraints",
+    "body": "Applied Materials Has a Broad and Deep Portfolio to Address Chip Supply Constraints",
+    "why": "Regional conflicts and energy shocks directly translate into retail cost increases.",
+    "sectors": [
+      "geopoliticalsupplyrisks"
+    ],
+    "type": "News",
+    "companies": [
+      "Applied Materials"
+    ],
+    "src": {
+      "t": "Morningstar",
+      "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTXNsWWl5OGsyLVN3QmRQc1luZnR2SEdrb2R3Z0dJS1lxaHBTajhkaVFrdXRRQWttUGo1eXFXUVMweUFtVTJmWlNhYmQ5LWZLZ0l2LW04QjRLdWFHcUpIaDZnbXlwSmlEZUVwZTZMZ0p0aks5bDhTYzZxamtTRnRMZzZhdDVWMk1VQk1hVmtwTFdqSkQ2RTQwSk1oX1hPcmpFM29INVNHdmJhRW9URzBKSDZFOFlHX2dYSTJKcTFwME9ZT3BGWno5NTNpSDBCWXlp?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-16T20:47:01.823Z",
+    "auto": true,
+    "orgs": [
+      "Applied Materials"
+    ]
+  },
+  {
+    "id": "u-20261113-video-could-natural-gas-processing-unlock-new-co2-",
+    "d": "2026-11-13",
+    "title": "Video | Could natural gas processing unlock new CO2 supply?",
+    "body": "Video | Could natural gas processing unlock new CO2 supply?",
+    "why": "Raw material price jumps are the root cause of retail margin erosion.",
+    "sectors": [
+      "commoditymarkets"
+    ],
+    "type": "Commodity Price Jump",
+    "companies": [],
+    "src": {
+      "t": "gasworld",
+      "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUlduZWM4YW1uMXc5NC1hR2Q4RHpKeUlFUktlejZqSUQ3MVRCcXVxMVJZY0phR3ByVmFTcWVuZ09uYndXMm91TlNyaFE4NnphYTRMQzRiM09TdWVzN0lMRDJxd0RUQ1hrWkpDYWYzZk15SkpBMDlUdkZSZERMb3B2UjBnYnQ3bTJyU01Xb1FONDBjdm1fZmRCSWJueEVjZmowRlBoNUU3cw?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-16T20:47:01.823Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261113-bangladesh-s-chittagong-port-authority-dp-world-si",
+    "d": "2026-11-13",
+    "title": "Bangladesh’s Chittagong Port Authority, DP World sign 15-year concession for New Mooring Container Terminal",
+    "body": "Bangladesh’s Chittagong Port Authority, DP World sign 15-year concession for New Mooring Container Terminal",
+    "why": "Port bottlenecks are the physical manifestation of supply chain friction.",
+    "sectors": [
+      "portactivityinfrastructu"
+    ],
+    "type": "News",
+    "companies": [
+      "DP World",
+      "Chittagong Port Authority"
+    ],
+    "src": {
+      "t": "وزارة الخارجية الإماراتية",
+      "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUDRqdUlXSDBRSjQ4cHp4SWh2enJZSGVORFlKSEN0MEUtM2tSZjhuXzZJOXJiQUdxVzdUVzk3YTUyLW81VlNDUFdGNENCYm01d1pfQ0tUaE5HNEszT2tGUy00RmJ4eDh0TWd4Z0pGbVdWYi16R0QxVVVFRmVET3pWSkZUTQ?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-16T20:47:01.823Z",
+    "auto": true,
+    "orgs": [
+      "Chittagong Port Authority",
+      "DP World"
+    ]
+  },
+  {
+    "id": "u-20261113-the-great-eastern-shipping-company-stock-price-for",
+    "d": "2026-11-13",
+    "title": "The Great Eastern Shipping Company Stock Price Forecast. Should You Buy GESHIP.NS?",
+    "body": "The Great Eastern Shipping Company Stock Price Forecast. Should You Buy GESHIP.NS?",
+    "why": "Fleet reductions or route changes indicate long-term supply constraints.",
+    "sectors": [
+      "freightlinesshipping"
+    ],
+    "type": "News",
+    "companies": [
+      "Great Eastern Shipping Company"
+    ],
+    "src": {
+      "t": "StockInvest.us",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05Qmo0ZU9pNlJGMnd2aHZBS29iRDRKWElrWWt5aXh4UmxZak5rUGNzTXBKbHFXaVQtTk9aeHJHVG4zTExTLWRVc3pKTzZ1SlU?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-16T20:47:01.823Z",
+    "auto": true,
+    "orgs": [
+      "Great Eastern Shipping Company"
+    ]
   },
   {
     "id": "u-20261112-bipartisan-push-possible-to-curb-trump-tariffs",

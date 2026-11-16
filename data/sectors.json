@@ -10,10 +10,10 @@
   {
     "id": "logisticsfreightrates",
     "heat": 5,
-    "state": "Freight rates have eased slightly but port congestion remains persistent globally, with the Black Sea now designated as the world's deadliest shipping lane due to Houthi drone warfare. US importers face mounting demurrage costs from delays at LA/LB ports, Bombay High Court, and Delhi courts, while Sabah has deployed new parking and storage yards to curb Sepanggar port congestion. Major carriers like Maersk, Hapag-Lloyd, and HMM are reporting earnings surges driven by AI-fueled demand and ongoing Far East congestion.",
+    "state": "Global freight rates have eased slightly while port congestion remains persistent, with 10% of the fleet tied up at major hubs. The Black Sea is now designated as the world's deadliest shipping lane due to Houthi drone warfare reaching a strategic island at its mouth. Major carriers like Maersk, Hapag-Lloyd, and HMM are reporting earnings surges driven by AI-fueled demand and ongoing Far East congestion.",
     "money": "Hapag-Lloyd and HMM are winning with Q3 earnings surges and fivefold profit jumps respectively, leveraging elevated rates caused by cargo surges and AI adoption. Maersk is securing margin growth by citing both AI buildout and port issues as key drivers for its raised 2026 profit outlook.",
     "watch": "Sogese warns that ships returning through the Suez Canal could limit November freight rate increases, while unresolved contract talks at Los Angeles and Long Beach risk triggering renewed strikes. USPS plans a 5.9% shipping price increase in January and an 11% permanent fuel surcharge.",
-    "briefedAt": "2026-11-15T17:39:13.169Z"
+    "briefedAt": "2026-11-16T20:51:17.461Z"
   },
   {
     "id": "retailinventorystockouts",
@@ -26,10 +26,10 @@
   {
     "id": "geopoliticalsupplyrisks",
     "heat": 5,
-    "state": "SMIC confirms AI chip supply remains tight through 2027 with 2026 revenue projected above $12 billion, while TSMC faces scrutiny after flagging three internal cyber incidents despite approving a $500 million stake in Anthropic. Nvidia's leadership is under fire amid spy allegations that are scrutinizing Korean chip supply deals, and Alice Huang-linked firms are reportedly investing in DeepSeek alternatives to bypass Nvidia. Meanwhile, ASEAN leaders are discussing trade security ahead of Donald Trump's visit, and Nordic envoys now view the Philippines as a key player in global chip logistics.",
-    "money": "Nvidia is losing market share to custom ASIC chips as Jensen Huang faces exit rumors, while Broadcom gains traction on Google deal optimism. ASMedia raised prices due to climbing supply costs, and Nexperia and STMicroelectronics warn AI demand is creating bottlenecks in automotive sectors.",
-    "watch": "The outcome of the probe into Megaspeed's China chip supply links involving Alice Huang could further fracture Nvidia's dominance. Geopolitical trade risks from Russia-Africa arms deals and upcoming ASEAN discussions on security may disrupt global logistics and tariff structures.",
-    "briefedAt": "2026-11-15T17:35:31.286Z"
+    "state": "SMIC projects 2026 AI chip revenue above $12 billion with supply tightness continuing through 2027, while Nvidia faces leadership uncertainty amid spy allegations that are scrutinizing Korean chip supply deals. TSMC is under scrutiny after flagging three internal cyber incidents despite approving a $500 million stake in Anthropic, and Alice Huang-linked firms are reportedly investing in DeepSeek alternatives to bypass Nvidia. ASEAN leaders discussed trade security ahead of Donald Trump's visit, with Nordic envoys now viewing the Philippines as a key player in global chip logistics.",
+    "money": "Nvidia is losing market share to custom ASIC chips and facing exit rumors for Jensen Huang, while Broadcom gains traction on Google deal optimism. SK Hynix plans a $1 billion investment in South Korea to support AI chip supply chains, and SMIC sees 2026 revenue exceeding $12 billion despite tight supply.",
+    "watch": "The outcome of the probe into Megaspeed's China chip supply links involving Alice Huang could further fracture Nvidia's dominance. Upcoming ASEAN discussions on security may disrupt global logistics and tariff structures, particularly regarding US-China AI war dynamics where India has joined Pax Silica to cut China out of the supply chain.",
+    "briefedAt": "2026-11-16T20:49:14.314Z"
   },
   {
     "id": "commoditymarkets",
@@ -49,19 +49,19 @@
   },
   {
     "id": "portactivityinfrastructu",
-    "heat": 4,
-    "state": "Port congestion has become a new normal, with the Port of Los Angeles hitting its highest cargo volume in 118 years and strong import volumes causing backups despite avoided strikes. Freight costs remain elevated due to these surges, impacting solar equipment deliveries, while geopolitical claims of attacks on Omani oil infrastructure threaten shipping routes. In response, Sabah has rolled out new parking and storage yards to curb Sepanggar port congestion following a fatal crash.",
-    "money": "Maersk is winning by raising its 2026 profit outlook twice as congestion drives freight rates higher, aided by AI buildouts and strong China service demand. Adani Ports continues capitalizing on global volume surges with a race for an Rs 11,733-crore VOC Port container terminal deal.",
-    "watch": "Monitor the implementation of proposed importer empty container depots and railway-linked storage solutions to see if they can ease congestion before it cascades further. Watch for the impact of ongoing typhoon recovery in Ningbo and record Middle East delays on broader supply chain throughput.",
-    "briefedAt": "2026-11-14T16:54:20.910Z"
+    "heat": 5,
+    "state": "Port congestion has become a new normal, with the Port of Los Angeles hitting its highest cargo volume in 118 years and freight costs remaining elevated despite avoided strikes. While peak season ties up 10% of the fleet, rates have eased slightly but backups persist due to strong import volumes and geopolitical tensions over Omani oil infrastructure. Infrastructure responses include Sabah's new parking yards at Sepanggar and a 15-year deal for Bangladesh's Chittagong New Mooring Terminal.",
+    "money": "MSC is positioning itself as a winner by declaring congestion a permanent state, while Wan Hai remains bullish on nearly 20% volume growth in 2027 despite warnings that ship upscaling could worsen bottlenecks. Adani Ports continues to capitalize on global surges by racing for an Rs 11,733-crore VOC Port container terminal deal.",
+    "watch": "Monitor the implementation of importer empty container depots and railway-linked storage solutions to determine if they can ease congestion before it cascades further. Watch for the impact of ongoing typhoon recovery in Ningbo and record Middle East delays on broader supply chain throughput.",
+    "briefedAt": "2026-11-16T20:53:18.505Z"
   },
   {
     "id": "freightlinesshipping",
-    "heat": 5,
-    "state": "Trans-Pacific ocean freight rates remain elevated despite US midterm political uncertainty, while Great Eastern Shipping reported an 118% rise in Q2 PAT and Cosco profits jumped 81%. Xeneta forecasts a 30% drop in spot rates for 2027 as capacity is expected to flood back, though French shipping companies are imposing additional fees for Black Sea shipments.",
-    "money": "Great Eastern Shipping and Cosco are winning by capitalizing on record Q2/Q3 profits and interim dividends driven by rising trade volumes, while DP World's COO warns that rates will eventually come down after the current rebound.",
+    "heat": 4,
+    "state": "Trans-Pacific ocean freight rates remain elevated despite US midterm political uncertainty, while Great Eastern Shipping reported an 118% rise in Q2 PAT and Cosco profits jumped 81%. Brokers upgraded views on Saudi Arabia's National Shipping Company (TADAWUL:4030), though its earnings appeared weaker than expected. The Gujarat High Court quashed the GST department's rejection of ocean freight IGST refunds, directing a refund with interest for non-litigants like Mohit Minerals.",
+    "money": "Great Eastern Shipping and Cosco are winning by capitalizing on record Q2/Q3 profits and interim dividends driven by rising trade volumes. T3EX Global Holdings saw its Q3 profit surge 270% with EPS up 193.7%, while Maersk faced operational disruption from a $5 million ransomware demand.",
     "watch": "Monitor if the easing of Hormuz impact continues to reduce diversions into late 2026 as port dwell times remain elevated. Watch for confirmation on whether indicative prices for imported bauxite falling will stabilize market trading or trigger a shift to air freight when ocean fails.",
-    "briefedAt": "2026-11-15T17:36:44.530Z"
+    "briefedAt": "2026-11-16T20:55:25.621Z"
   },
   {
     "id": "regionalsupplychains",

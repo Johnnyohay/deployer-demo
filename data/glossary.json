@@ -38,7 +38,8 @@
     "topic": "main",
     "short": "A strategy where goods are ordered and received only as they are needed in the production process to minimize storage costs.",
     "by": "qwen3.5:4b run inside the GitHub job (free)",
-    "at": "2026-11-09"
+    "at": "2026-11-09",
+    "long": "Just-In-Time (JIT) inventory is a strategy where goods are ordered and received only as they are needed in production to minimize storage costs and waste. A concrete example is an automotive manufacturer that receives parts from suppliers at the exact moment they are required on the assembly line, rather than storing them in large warehouses. This matters because while JIT reduces overhead, it creates extreme vulnerability to supply shocks; if a supplier faces a disruption due to weather or logistics issues, production halts immediately with no buffer stock. To gain an advantage, your organization must monitor global freight data and geopolitical stability to anticipate delays before they impact your assembly schedules."
   },
   {
     "term": "Geopolitical Risk",
@@ -46,7 +47,8 @@
     "topic": "main",
     "short": "The potential for political events, such as wars or sanctions, to disrupt international trade routes and increase the cost of imported goods.",
     "by": "qwen3.5:4b run inside the GitHub job (free)",
-    "at": "2026-11-09"
+    "at": "2026-11-09",
+    "long": "Geopolitical risk refers to the potential for political events, such as wars, sanctions, or regime changes, to disrupt international trade routes and increase the cost of imported goods. For instance, a sudden conflict in a key shipping lane can force vessels to detour around dangerous zones, significantly raising fuel costs and delivery times for retailers relying on that route. This matters because competitors may react too slowly to these macro-level shifts, leading to stockouts or inflated prices. By analyzing diplomatic news cycles and trade flow data, you can proactively adjust sourcing strategies and negotiate alternative logistics paths before market volatility affects your bottom line."
   },
   {
     "term": "Tariff Escalation",
@@ -54,7 +56,8 @@
     "topic": "main",
     "short": "A trade policy where the tax rate on a product increases as the product moves further up the value chain in the importing country.",
     "by": "qwen3.5:4b run inside the GitHub job (free)",
-    "at": "2026-11-09"
+    "at": "2026-11-09",
+    "long": "Tariff escalation is a trade policy where the tax rate on a product increases as it moves further up the value chain in the importing country, often discouraging local processing of raw materials. A concrete example involves agricultural imports: a nation might impose low tariffs on crude oil but high tariffs on refined gasoline, effectively taxing the final consumer good more than the raw input. This matters because it signals where profit margins will be squeezed; if your supply chain includes significant manufacturing or refining steps within a high-tariff jurisdiction, your costs could rise unexpectedly as products mature. Understanding this allows you to design supply chains that avoid these value-added stages in taxed regions or restructure production to remain competitive."
   },
   {
     "term": "Port Congestion",
@@ -135,5 +138,71 @@
     "short": "A corporate structure indicating a company is publicly traded, subject to strict regulatory reporting and scrutiny.",
     "by": "qwen3.5:4b run inside the GitHub job (free)",
     "at": "2026-11-09"
+  },
+  {
+    "term": "ASEAN",
+    "aliases": [],
+    "topic": "main",
+    "short": "A regional economic alliance that coordinates trade rules and energy security among ten Southeast Asian nations.",
+    "by": "qwen3.5:4b run inside the GitHub job (free)",
+    "at": "2026-11-16"
+  },
+  {
+    "term": "IGST",
+    "aliases": [],
+    "topic": "main",
+    "short": "A specific Indian tax applied to international goods that determines how much duty is refunded or collected.",
+    "by": "qwen3.5:4b run inside the GitHub job (free)",
+    "at": "2026-11-16"
+  },
+  {
+    "term": "LNG",
+    "aliases": [],
+    "topic": "main",
+    "short": "Natural gas cooled to a liquid state for easier transport, often used as an alternative to oil.",
+    "by": "qwen3.5:4b run inside the GitHub job (free)",
+    "at": "2026-11-16"
+  },
+  {
+    "term": "PH",
+    "aliases": [],
+    "topic": "main",
+    "short": "A Southeast Asian nation frequently cited in trade news regarding tariff disputes and energy needs.",
+    "by": "qwen3.5:4b run inside the GitHub job (free)",
+    "at": "2026-11-16"
+  },
+  {
+    "term": "T3EX",
+    "aliases": [
+      "T3EX Global Holdings"
+    ],
+    "topic": "main",
+    "short": "A shipping company whose stock performance often reflects global container rates and volume growth.",
+    "by": "qwen3.5:4b run inside the GitHub job (free)",
+    "at": "2026-11-16"
+  },
+  {
+    "term": "USPS",
+    "aliases": [],
+    "topic": "main",
+    "short": "The US government's mail delivery service, whose pricing changes directly impact consumer shipping costs.",
+    "by": "qwen3.5:4b run inside the GitHub job (free)",
+    "at": "2026-11-16"
+  },
+  {
+    "term": "BWP",
+    "aliases": [],
+    "topic": "main",
+    "short": "An Australian retail chain known for large-format stores and its strategic expansion plans.",
+    "by": "qwen3.5:4b run inside the GitHub job (free)",
+    "at": "2026-11-16"
+  },
+  {
+    "term": "ASX",
+    "aliases": [],
+    "topic": "main",
+    "short": "The primary financial marketplace in Australia where companies like BWP list their shares for trading.",
+    "by": "qwen3.5:4b run inside the GitHub job (free)",
+    "at": "2026-11-16"
   }
 ]

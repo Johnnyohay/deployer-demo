@@ -57,7 +57,7 @@
     "aliases": [
       "MCS"
     ],
-    "latest": ""
+    "latest": "2026-11-16: Port congestion has become a new normal, says MSC chief"
   },
   {
     "id": "new-york-port-authority",
@@ -230,7 +230,7 @@
     ],
     "about": "Global logistics and port operator involved in strategic partnerships and freight rate discussions.",
     "aliases": [],
-    "latest": "2026-11-09: ‘Ocean freight rates will come down eventually, we have seen this before’: DP World COO",
+    "latest": "2026-11-13: Bangladesh’s Chittagong Port Authority, DP World sign 15-year concession for New Mooring Container Terminal",
     "addedAt": "2026-11-07T16:59:35.572Z"
   },
   {
@@ -244,7 +244,7 @@
     ],
     "about": "Indian shipping firm focusing on gas carriers, with recent dividend declarations and profit jumps.",
     "aliases": [],
-    "latest": "2026-11-14: Great Eastern Shipping Company Ltd is Rated Strong Buy",
+    "latest": "2026-11-16: Great Eastern Shipping Company puts NAV reset at Rs 250",
     "addedAt": "2026-11-07T16:59:35.572Z"
   },
   {
@@ -284,7 +284,7 @@
     "sectors": [],
     "about": "Leading semiconductor manufacturer whose leadership uncertainty and supply chain issues with Korean partners are impacting global chip availability.",
     "aliases": [],
-    "latest": "2026-11-15: Nvidia Partner Megaspeed Breaks Silence on Alice Huang, Launches Probe Into China Chip Supply Links",
+    "latest": "2026-11-16: YTL Power Shares Recover 3% Following Weekly Decline Amid Nvidia Chip Supply Scrutiny",
     "addedAt": "2026-11-12T18:51:59.428Z"
   },
   {
@@ -351,7 +351,7 @@
     ],
     "about": "Extended a 24% US tariff suspension with port fee waivers for two months.",
     "aliases": [],
-    "latest": "2026-11-15: Can China and the US Settle the Tariff Fight at Their First Trade Council Meeting?",
+    "latest": "2026-11-16: US-China AI War: India Joins Pax Silica As Washington Moves To Cut China Out Of Chip Supply Chain",
     "addedAt": "2026-11-14T16:56:29.657Z"
   },
   {
@@ -368,5 +368,44 @@
     "aliases": [],
     "latest": "2026-11-14: Gov't Tells Fed. Circ. States Can't Revive Temporary Tariff Suit",
     "addedAt": "2026-11-15T17:43:04.427Z"
+  },
+  {
+    "id": "natural-gas",
+    "name": "Natural Gas",
+    "kind": "company",
+    "type": "Company",
+    "sectors": [
+      "logisticsfreightrates"
+    ],
+    "about": "Energy commodity experiencing price spikes due to cold weather, LNG export records, and geopolitical supply concerns regarding the Strait of Hormuz.",
+    "aliases": [],
+    "latest": "2026-11-16: Natural Gas, WTI Oil, Brent Oil Forecasts – Oil Dives As Supply Exceeds Demand",
+    "addedAt": "2026-11-16T21:01:20.138Z"
+  },
+  {
+    "id": "news",
+    "name": "News",
+    "kind": "company",
+    "type": "Company",
+    "sectors": [
+      "retailstrategypricing"
+    ],
+    "about": "Generic term for news outlets; excluded as it is not a specific entity like a company, port, or country.",
+    "aliases": [],
+    "latest": "2026-11-13: News | Wholesale prices ease, but tariff-hit building material costs keep climbing",
+    "addedAt": "2026-11-16T21:01:20.138Z"
+  },
+  {
+    "id": "statistics",
+    "name": "Statistics",
+    "kind": "company",
+    "type": "Company",
+    "sectors": [
+      "logisticsfreightrates"
+    ],
+    "about": "Generic term for statistical data providers; excluded as it is not a specific entity relevant to supply chain strategy.",
+    "aliases": [],
+    "latest": "2026-11-13: Heavy Duty Adjustable Wrench Market To 2035: Infrastructure Maintenance and Trade Demand Drive Growth - News and Statistics",
+    "addedAt": "2026-11-16T21:01:20.138Z"
   }
 ]

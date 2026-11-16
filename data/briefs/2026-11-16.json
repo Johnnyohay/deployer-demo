@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-16",
+  "title": "Today in retail, supply chain and geopolitics",
+  "big": "31 new stories since the last brief. The busiest areas: geopolitical supply risks and logistics & freight rates.",
+  "stories": [
+    {
+      "tag": "Logistics & Freight Rates",
+      "h": "Port congestion has become a new normal, says MSC chief",
+      "what": "Port congestion has become a new normal, says MSC chief",
+      "you": "Sudden rate spikes or port bottlenecks are the earliest warning signs of shelf shortages.",
+      "ref": "u-20261116-port-congestion-has-become-a-new-normal-says-msc-c"
+    },
+    {
+      "tag": "Geopolitical Supply Risks",
+      "h": "YTL Power Shares Recover 3% Following Weekly Decline Amid Nvidia Chip Supply Scrutiny",
+      "what": "YTL Power Shares Recover 3% Following Weekly Decline Amid Nvidia Chip Supply Scrutiny",
+      "you": "Regional conflicts and energy shocks directly translate into retail cost increases.",
+      "ref": "u-20261116-ytl-power-shares-recover-3-following-weekly-declin"
+    },
+    {
+      "tag": "Freight Lines & Shipping",
+      "h": "Great Eastern Shipping Company puts NAV reset at Rs 250",
+      "what": "Great Eastern Shipping Company puts NAV reset at Rs 250",
+      "you": "Fleet reductions or route changes indicate long-term supply constraints.",
+      "ref": "u-20261116-great-eastern-shipping-company-puts-nav-reset-at-r"
+    },
+    {
+      "tag": "Trade Policy & Tariffs",
+      "h": "Opinion | The Success of President Trump’s Tariff Policy",
+      "what": "Opinion | The Success of President Trump’s Tariff Policy",
+      "you": "Early tariff signals indicate which products will face margin compression first.",
+      "ref": "u-20261115-opinion-the-success-of-president-trump-s-tariff-po"
+    },
+    {
+      "tag": "Port Activity & Infrastructure",
+      "h": "Bangladesh’s Chittagong Port Authority, DP World sign 15-year concession for New Mooring Container Terminal",
+      "what": "Bangladesh’s Chittagong Port Authority, DP World sign 15-year concession for New Mooring Container Terminal",
+      "you": "Port bottlenecks are the physical manifestation of supply chain friction.",
+      "ref": "u-20261113-bangladesh-s-chittagong-port-authority-dp-world-si"
+    }
+  ],
+  "watch": {
+    "h": "China extends suspension of 24% tariff on US imports for two months",
+    "why": "November 21. The extension delays the imposition of new duties, providing temporary relief to US importers and stabilizing trade flows between the two nations."
+  },
+  "idea": {
+    "h": "Diversify logistics networks to mitigate risks from the Black Sea becoming the world's deadliest shipping lane.",
+    "why": "Secure alternative routes and increase inventory buffers for goods transiting through high-risk zones like the Black Sea and Hormuz. Recent reports of intensified conflict in the Black Sea and Maersk's data breach highlight escalating geopolitical supply chain vulnerabilities that threaten freight reliability."
+  },
+  "auto": true
+}
