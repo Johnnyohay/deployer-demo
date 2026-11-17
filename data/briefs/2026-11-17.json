@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-17",
+  "title": "Today in retail, supply chain and geopolitics",
+  "big": "69 new stories since the last brief. The busiest areas: trade policy & tariffs and geopolitical supply risks.",
+  "stories": [
+    {
+      "tag": "Trade Policy & Tariffs",
+      "h": "Walmart Gets $2.9 Billion in Tariff Refunds, Ford $1.3 Billion, and Apple $2.2 BillIion: The Average Household Paid an Estimated $700 and Got Nothing",
+      "what": "Walmart Gets $2.9 Billion in Tariff Refunds, Ford $1.3 Billion, and Apple $2.2 BillIion: The Average Household Paid an Estimated $700 and Got Nothing",
+      "you": "Early tariff signals indicate which products will face margin compression first.",
+      "ref": "u-20261117-walmart-gets-2-9-billion-in-tariff-refunds-ford-1-"
+    },
+    {
+      "tag": "Commodity Markets",
+      "h": "Natural Gas and Oil Forecast: Supply Story Overtakes Hormuz Risk, Can Brent Hold $89.15?",
+      "what": "Natural Gas and Oil Forecast: Supply Story Overtakes Hormuz Risk, Can Brent Hold $89.15?",
+      "you": "Raw material price jumps are the root cause of retail margin erosion.",
+      "ref": "u-20261117-natural-gas-and-oil-forecast-supply-story-overtake"
+    },
+    {
+      "tag": "Logistics & Freight Rates",
+      "h": "Westports sees port congestion keeping freight rates high",
+      "what": "Westports sees port congestion keeping freight rates high",
+      "you": "Sudden rate spikes or port bottlenecks are the earliest warning signs of shelf shortages.",
+      "ref": "u-20261117-westports-sees-port-congestion-keeping-freight-rat"
+    },
+    {
+      "tag": "Geopolitical Supply Risks",
+      "h": "SK Hynix Plans $1 Billion Investment in South Korean Chip Supply Chain",
+      "what": "SK Hynix Plans $1 Billion Investment in South Korean Chip Supply Chain",
+      "you": "Regional conflicts and energy shocks directly translate into retail cost increases.",
+      "ref": "u-20261117-sk-hynix-plans-1-billion-investment-in-south-korea"
+    },
+    {
+      "tag": "Strategic Partnerships & M&A",
+      "h": "Worldly Agrees to $350 Million Acquisition by UL Solutions to Expand Supply Chain Intelligence",
+      "what": "Worldly Agrees to $350 Million Acquisition by UL Solutions to Expand Supply Chain Intelligence",
+      "you": "Major deals often signal shifts in supply capability or new market access.",
+      "ref": "u-20261117-worldly-agrees-to-350-million-acquisition-by-ul-so"
+    }
+  ],
+  "watch": {
+    "h": "China extends suspension of 24% tariff on US imports for two months",
+    "why": "November 21. The extension delays the imposition of new duties, providing temporary relief to US importers and stabilizing trade flows between the two nations."
+  },
+  "idea": {
+    "h": "Leverage the $166 billion tariff refund opportunity to optimize working capital for import-dependent retailers.",
+    "why": "Analyze which specific import categories will benefit most from the universal refunds and adjust stock levels accordingly. Fortune reports that American importers are one step closer to receiving massive refunds, creating a window to reduce cash flow constraints and potentially lower consumer prices."
+  },
+  "auto": true
+}
