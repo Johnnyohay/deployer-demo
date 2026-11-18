@@ -284,7 +284,7 @@
     "sectors": [],
     "about": "Leading semiconductor manufacturer whose leadership uncertainty and supply chain issues with Korean partners are impacting global chip availability.",
     "aliases": [],
-    "latest": "2026-11-16: YTL Power Shares Recover 3% Following Weekly Decline Amid Nvidia Chip Supply Scrutiny",
+    "latest": "2026-11-18: Nvidia, Geopolitics, Export Controls, and D&O Risk",
     "addedAt": "2026-11-12T18:51:59.428Z"
   },
   {
@@ -338,7 +338,7 @@
     ],
     "about": "Federal Trade Commission investigating corporate practices regarding tariff refunds and mergers.",
     "aliases": [],
-    "latest": "2026-11-14: FTC sues Maine-based veterinary supplies company over acquisition",
+    "latest": "2026-11-18: Nessel joins FTC and states to block veterinary supply industry merger",
     "addedAt": "2026-11-14T16:56:29.657Z"
   },
   {
@@ -351,7 +351,7 @@
     ],
     "about": "Extended a 24% US tariff suspension with port fee waivers for two months.",
     "aliases": [],
-    "latest": "2026-11-17: China and Canada Expand Tariff Relief as Xi Meets Carney",
+    "latest": "2026-11-18: Carney says Trump’s trade war is giving China an edge on EVs",
     "addedAt": "2026-11-14T16:56:29.657Z"
   },
   {
@@ -379,7 +379,7 @@
     ],
     "about": "Energy commodity experiencing price spikes due to cold weather, LNG export records, and geopolitical supply concerns regarding the Strait of Hormuz.",
     "aliases": [],
-    "latest": "2026-11-17: Natural Gas Futures Trade Tepidly as November Demand Loses Luster",
+    "latest": "2026-11-18: U.S. natural gas inventories end injection season above normal levels",
     "addedAt": "2026-11-16T21:01:20.138Z"
   },
   {
@@ -407,5 +407,33 @@
     "aliases": [],
     "latest": "2026-11-13: Heavy Duty Adjustable Wrench Market To 2035: Infrastructure Maintenance and Trade Demand Drive Growth - News and Statistics",
     "addedAt": "2026-11-16T21:01:20.138Z"
+  },
+  {
+    "id": "supreme-court",
+    "name": "Supreme Court",
+    "kind": "company",
+    "type": "Company",
+    "sectors": [
+      "tradepolicytariffs",
+      "logisticsfreightrates"
+    ],
+    "about": "The US Supreme Court recently ruled on importer rights regarding demurrage charges and tariff refunds, impacting customs detention policies and potential financial liabilities for importers.",
+    "aliases": [],
+    "latest": "2026-11-16: Supreme Court Upholds Importer's Right to Release Goods Without Demurrage Charges — Customs Authorities' Detention Found Illegal. The court affirmed that the customs authorities cannot absolve themselves of liability for demurrage charges when their d",
+    "addedAt": "2026-11-18T19:29:38.195Z"
+  },
+  {
+    "id": "tc-energy",
+    "name": "TC Energy",
+    "kind": "company",
+    "type": "Company",
+    "sectors": [
+      "commoditymarkets",
+      "regionalsupplychains"
+    ],
+    "about": "A major Canadian energy company proposing a significant 370-kilometer natural gas pipeline to supply the Alberta oil sands, influencing regional energy logistics and infrastructure plans.",
+    "aliases": [],
+    "latest": "2026-11-18: TC Energy Proposes 370-Kilometer Natural Gas Pipeline to Supply Alberta Oil Sands",
+    "addedAt": "2026-11-18T19:29:38.195Z"
   }
 ]

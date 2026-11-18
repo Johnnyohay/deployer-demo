@@ -713,6 +713,17 @@
     "ref": "u-20261114-trump-xi-summit-puts-u-s-soybean-exports-and-10-ch"
   },
   {
+    "id": "c-20261125-india-us-trade-deal-signing-expected",
+    "d": "2026-11-25",
+    "approx": true,
+    "title": "India-US Trade Deal Signing Expected",
+    "why": "Officials state the agreement is nearly ready but signing may take time due to tariff uncertainty.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "ref": "u-20261118-india-says-us-trade-deal-nearly-ready-signing-may-"
+  },
+  {
     "id": "c-20261129-asean-leaders-discuss-trade-security-ahead-of-trum",
     "d": "2026-11-29",
     "approx": true,
@@ -804,6 +815,17 @@
     "ref": "u-20261108-after-midterm-defeat-democrats-take-aim-at-tariffs"
   },
   {
+    "id": "c-20270531-thailand-us-trade-pact-finalization",
+    "d": "2027-05-31",
+    "approx": true,
+    "title": "Thailand-US Trade Pact Finalization",
+    "why": "Businesses are fretting over a zero tariff claim while the pact is expected to be finalized in two months.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "ref": "u-20261118-thailand-eyes-us-trade-pact-in-two-months-and-forc"
+  },
+  {
     "id": "c-20271231-smic-ai-chip-supply-chain-tightness-persists-throu",
     "d": "2027-12-31",
     "approx": true,
@@ -824,5 +846,16 @@
       "commoditymarkets"
     ],
     "ref": "u-20261113-smic-says-ai-chip-supply-will-stay-tight-through-2"
+  },
+  {
+    "id": "c-20281231-canada-chinese-aluminium-tariff-relief-extension",
+    "d": "2028-12-31",
+    "approx": true,
+    "title": "Canada Chinese Aluminium Tariff Relief Extension",
+    "why": "Canada is extending the relief period for Chinese aluminium imports to 2028 while adding new exemptions.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "ref": "u-20261118-canada-extends-chinese-aluminium-tariff-relief-to-"
   }
 ]

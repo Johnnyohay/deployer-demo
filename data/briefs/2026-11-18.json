@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-18",
+  "title": "Today in retail, supply chain and geopolitics",
+  "big": "78 new stories since the last brief. The busiest areas: trade policy & tariffs and strategic partnerships & m&a.",
+  "stories": [
+    {
+      "tag": "Trade Policy & Tariffs",
+      "h": "Africa's largest economy and Canada turn to China as US pressure tightens, but Beijing pulls Ottawa from Trump's grip with C$400 million in tariff relief",
+      "what": "Africa's largest economy and Canada turn to China as US pressure tightens, but Beijing pulls Ottawa from Trump's grip with C$400 million in tariff relief",
+      "you": "Early tariff signals indicate which products will face margin compression first.",
+      "ref": "u-20261117-africa-s-largest-economy-and-canada-turn-to-china-"
+    },
+    {
+      "tag": "Logistics & Freight Rates",
+      "h": "Richards Bay Port Congestion: Transnet Halts Mine Truck Dispatches For 48 Hours",
+      "what": "Richards Bay Port Congestion: Transnet Halts Mine Truck Dispatches For 48 Hours",
+      "you": "Sudden rate spikes or port bottlenecks are the earliest warning signs of shelf shortages.",
+      "ref": "u-20261118-richards-bay-port-congestion-transnet-halts-mine-t"
+    },
+    {
+      "tag": "Geopolitical Supply Risks",
+      "h": "China's shift away from Nvidia GPUs tests the limits of its AI chip supply chain",
+      "what": "China's shift away from Nvidia GPUs tests the limits of its AI chip supply chain",
+      "you": "Regional conflicts and energy shocks directly translate into retail cost increases.",
+      "ref": "u-20261118-china-s-shift-away-from-nvidia-gpus-tests-the-limi"
+    },
+    {
+      "tag": "Commodity Markets",
+      "h": "U.S. natural gas inventories end injection season above normal levels",
+      "what": "U.S. natural gas inventories end injection season above normal levels",
+      "you": "Raw material price jumps are the root cause of retail margin erosion.",
+      "ref": "u-20261118-u-s-natural-gas-inventories-end-injection-season-a"
+    },
+    {
+      "tag": "Strategic Partnerships & M&A",
+      "h": "Nessel joins FTC and states to block veterinary supply industry merger",
+      "what": "Nessel joins FTC and states to block veterinary supply industry merger",
+      "you": "Major deals often signal shifts in supply capability or new market access.",
+      "ref": "u-20261118-nessel-joins-ftc-and-states-to-block-veterinary-su"
+    }
+  ],
+  "watch": {
+    "h": "China extends suspension of 24% tariff on US imports for two months",
+    "why": "November 21. The extension delays the imposition of new duties, providing temporary relief to US importers and stabilizing trade flows between the two nations."
+  },
+  "idea": {
+    "h": "Geopolitical Supply Risks",
+    "why": "Monitor the link between US midterm election results and potential tariff reversals, specifically targeting sectors like Canadian cabinet makers and craft brewers currently facing doubled duties. Recent reports show Trump's midterm rout has given allies like South Africa hope for a trade reset, suggesting current protectionist policies are fragile and could shift within weeks."
+  },
+  "auto": true
+}
