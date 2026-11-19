@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-19",
+  "title": "Today in retail, supply chain and geopolitics",
+  "big": "59 new stories since the last brief. The busiest areas: trade policy & tariffs and port activity & infrastructure.",
+  "stories": [
+    {
+      "tag": "Trade Policy & Tariffs",
+      "h": "Carney and Xi Jinping expand Canada-China tariff deal to $400M — but canola oil still faces a 100% tariff",
+      "what": "Carney and Xi Jinping expand Canada-China tariff deal to $400M — but canola oil still faces a 100% tariff",
+      "you": "Early tariff signals indicate which products will face margin compression first.",
+      "ref": "u-20261119-carney-and-xi-jinping-expand-canada-china-tariff-d"
+    },
+    {
+      "tag": "Commodity Markets",
+      "h": "Poland company signs deal to supply Ukraine with natural gas from United States",
+      "what": "Poland company signs deal to supply Ukraine with natural gas from United States",
+      "you": "Raw material price jumps are the root cause of retail margin erosion.",
+      "ref": "u-20261119-poland-company-signs-deal-to-supply-ukraine-with-n"
+    },
+    {
+      "tag": "Logistics & Freight Rates",
+      "h": "Asia-Europe pre-Lunar New Year peak hits amid poor reliability, port congestion",
+      "what": "Asia-Europe pre-Lunar New Year peak hits amid poor reliability, port congestion",
+      "you": "Sudden rate spikes or port bottlenecks are the earliest warning signs of shelf shortages.",
+      "ref": "u-20261119-asia-europe-pre-lunar-new-year-peak-hits-amid-poor"
+    },
+    {
+      "tag": "Port Activity & Infrastructure",
+      "h": "Maputo Port Expansion: $200 Mn Container Terminal Investment Strengthens Regional Trade Gateway",
+      "what": "Maputo Port Expansion: $200 Mn Container Terminal Investment Strengthens Regional Trade Gateway",
+      "you": "Port bottlenecks are the physical manifestation of supply chain friction.",
+      "ref": "u-20261119-maputo-port-expansion-200-mn-container-terminal-in"
+    },
+    {
+      "tag": "Geopolitical Supply Risks",
+      "h": "Nvidia maintains product roadmap as AI chip supply chain impact stays limited",
+      "what": "Nvidia maintains product roadmap as AI chip supply chain impact stays limited",
+      "you": "Regional conflicts and energy shocks directly translate into retail cost increases.",
+      "ref": "u-20261119-nvidia-maintains-product-roadmap-as-ai-chip-supply"
+    }
+  ],
+  "watch": {
+    "h": "China extends suspension of 24% tariff on US imports for two months",
+    "why": "November 21. The extension delays the imposition of new duties, providing temporary relief to US importers and stabilizing trade flows between the two nations."
+  },
+  "idea": {
+    "h": "Logistics & Freight Rates",
+    "why": "Prepare contingency plans for a 30% drop in ocean freight rates by late 2027 while simultaneously hedging against immediate port strikes at Los Angeles and Long Beach. Analysts predict capacity flooding will lower costs, but ongoing labor disputes and the AI buildout driving current congestion mean short-term volatility remains high."
+  },
+  "auto": true
+}

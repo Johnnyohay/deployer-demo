@@ -1,5 +1,722 @@
 [
   {
+    "id": "u-20261119-opinion-a-lesson-on-the-economics-of-tariff-levera",
+    "d": "2026-11-19",
+    "title": "Opinion | A Lesson on the Economics of Tariff Leverage",
+    "body": "Opinion | A Lesson on the Economics of Tariff Leverage",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "WSJ",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbjZKdWZOeS1FLURDRk9aVzgxdmx2SDhIM01SZXFTaEl2Z29UZER0RG52YjE1LUdzLXR4QUw3Qm01bGkyRW11T256eFVPTVRobnZzOUt3b1Q0TW9tdDZ6VEFneFlveW1ocGRtQXBsY2VaWWhIOFpVQnlKVkF0V1VXQ0RBOG1pV25s?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261119-we-re-publishing-the-tariff-refunds-the-government",
+    "d": "2026-11-19",
+    "title": "We’re Publishing the Tariff Refunds the Government Has Refused to Disclose",
+    "body": "We’re Publishing the Tariff Refunds the Government Has Refused to Disclose",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "ProPublica",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0Y1k0ak1HSExYRDkyTXhCdTgxTGRJWmplYUpRX0N3MWhvNGdtYTFPMFBTT2kyb3NhQVFjWGZZemJKZnFta2NhRGFSb3BSdXJUOTVBVDlzZktkdExnNnFjdy1PY3JPYlh3ZEFQckcxdmpjdWVyMGc?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261119-the-bill-for-trump-s-trade-war-is-coming-due-at-ho",
+    "d": "2026-11-19",
+    "title": "The bill for Trump’s trade war is coming due—at home and abroad",
+    "body": "The bill for Trump’s trade war is coming due—at home and abroad",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "Fortune",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LVldTODA1VnhXU3N6SlR3SEhVX21UaEd6WDZQLW5zdDdybXJXTThQM04wcElBaXhIUDR5dFpqUkF6MVZLN2VyNFVWV2F3UTJjT3UwZE1yc3ZvZFlQQkxmem5UX2FIR096ZTBOOVVxWVU1QQ?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261119-stocks-of-diageo-other-liquor-makers-fall-in-india",
+    "d": "2026-11-19",
+    "title": "Stocks of Diageo, other liquor makers fall in India on Scotch tariff jolt",
+    "body": "Stocks of Diageo, other liquor makers fall in India on Scotch tariff jolt",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "Reuters",
+      "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaVMyT3o1X1loMDB4WDJaelo2QVI4QlV0TXN2QUhqY0tTVUxka2FxM2dzVXExRnBRSnB2Yk9oTE5IRm5jb0U3bDh5RDF2ZGpZQ00zT3lYSng4VjF0U2tMNDZkY0VkaFJDOHFhTnRLZ1BSWjMwNVBWWnQ3YllZVTBlVFFTdU4xUkptdHFNWlB5TDJrWGJQTE9zRlc3V3VsN0dxZEtNcTR5czgyOVQ3TlloSw?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261119-what-impact-will-the-shenzhen-summit-have-on-the-u",
+    "d": "2026-11-19",
+    "title": "What impact will the Shenzhen summit have on the US-China trade war?",
+    "body": "What impact will the Shenzhen summit have on the US-China trade war?",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [
+      "China"
+    ],
+    "src": {
+      "t": "France 24",
+      "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY2RQbXB0NVZJVHlNTEI5V3JYc1lZeGxhdE1ud2tkbUZ6bG1uQzkwLWFmQTRwaTF3UWJGcHNIZ1EtWUlrLThTa3dFOVUzOVNHZmNlN3RPTUNPWnh4QUw1QVV0T005eW5mV2pZMnVxcjRIeG1oa043Wnd2N0VrNmRtbzJMU0VoUFJsZUNsY1E0TFNwRjdFNmlSTzVLYzBWQXJQTjZn?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261119-target-booked-301-million-from-tariff-refunds-this",
+    "d": "2026-11-19",
+    "title": "Target booked $301 million from tariff refunds this quarter, nearly a fifth of its operating profit",
+    "body": "Target booked $301 million from tariff refunds this quarter, nearly a fifth of its operating profit",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [
+      "Target"
+    ],
+    "src": {
+      "t": "Fortune",
+      "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRG8xRnNVV1JZbXdkdDRMVFJWRkpBd3JUNHMzYVZ3QWJEZVh5OW5oSDljWXRjWWtiTEl5Y0pZdWNXMDF0NmhxRW5tUUVGVzkyN0VRbDl0Tmpxb252Um45OVdLR3RGY0xXTmdicWRaYjlXYWNqVGY3U25tOEcwOERmNkFmNkNTekxPNUVhX0hBWQ?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": [
+      "Target"
+    ]
+  },
+  {
+    "id": "u-20261119-tariff-refunds-worth-millions-are-helping-fund-cor",
+    "d": "2026-11-19",
+    "title": "Tariff refunds worth millions are helping fund corporate bonuses",
+    "body": "Tariff refunds worth millions are helping fund corporate bonuses",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "Scripps News",
+      "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPd2hFem5hQ1ZXSElQV1JvVTVNVjNYNVZiTG05RFRqcnI2akVZVHNuQmo3dGp1cUg2ZWQ0N1hwdHgweVFOSWRxdUd0RG50RHRqRnJWX1FlQld2RnBub3ZIcHcxajJmWG81N2JXY3NKblJpaDlMYWg1VUIzT0hhemVFZ0UwZ0x4WExrbkoxYVo4RElIQjVabTJSUjBMNHNCNndWbENweGkzc0hwdUVYbFE?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261119-thailand-says-us-agrees-to-lower-forced-labor-tari",
+    "d": "2026-11-19",
+    "title": "Thailand Says US Agrees to Lower Forced-Labor Tariff to 10%",
+    "body": "Thailand Says US Agrees to Lower Forced-Labor Tariff to 10%",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "Bloomberg.com",
+      "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcmVPVUhCakRYemk4emRZcFY3VU1iQ3R1YU1XUmdubTNQNmRqallMdlNmTFVvUTAyMXdSc3dKX3JORGk0UjFGX2VxbFFhZWdzT24xNTlBbVFGUGpZMVZKam5LNGlrOGgzQ2J5SU1TRjRxWlRadVlxb0xUeUMwMUxPMTJoaC0xOU9ILVlVSnJVbTd2MEVSZkM4MWtPUC10QlByM0hydzBUOWFtUVhXbUE?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261119-trump-s-tariff-troubles-could-give-carney-edge-on-",
+    "d": "2026-11-19",
+    "title": "Trump’s Tariff Troubles Could Give Carney Edge on India Deal",
+    "body": "Trump’s Tariff Troubles Could Give Carney Edge on India Deal",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "Newsweek",
+      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeHhySTN1bGlfS2N5T1JDeEMzdE5MMS1IY19aODRwandTY2V4U3lnOUZnSXpXVUt2OUg2anBKLXItV3cwa0Z6b2wyZW5uX05UV2ZSamt6aUUtZl9qSnVTeWdQdFQ0Q0NyOGNrd3lSUEtnaUgzcl9kNXg3d2JNUXQ3YXV4cVdYUQ?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261119-morning-business-report-study-suggests-retailers-u",
+    "d": "2026-11-19",
+    "title": "MORNING BUSINESS REPORT: Study suggests retailers use tariff refunds for bonuses",
+    "body": "MORNING BUSINESS REPORT: Study suggests retailers use tariff refunds for bonuses",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "WFSB",
+      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQekEzTGx2ZjNTUmwyM1lMWWxtMGZmT01lamlDb1RXUHNaVmxPb2FNYk91dmJkTHotSkhZSkoxQ29aTnlDRVg1MzhzN1d1LWQyUHNpX2g3NWdWMjk0OTZMd2ozMnNyRWNsN3pZYzNuX20zQmk3WVduNnlVUEk2TkFZWTRYMUExYURBZjlwdVRaREZ0Z1pVd3NRSDgyN3pmS1BBVWNRVk9RYTdnYkJLdlFTZi03eFk?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261119-india-hits-bulk-scotch-imports-with-165-2-duty",
+    "d": "2026-11-19",
+    "title": "India ‘hits bulk Scotch imports with 165.2% duty’",
+    "body": "India ‘hits bulk Scotch imports with 165.2% duty’",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "Just Drinks",
+      "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSVpQV3FLQk01SWlIVlFyU2oxQjZnLU9uVmRGdjRJSG9XNHhXUlBaOTFwSFBfaDNnSklGRDFsaUxPRk05Ml90Z0ZPb2hrU01tVExkVUZhdWpGZzVtbWxCMmhlcG5MamtWc0RDV0ttWnRpbjlnV1FzOFFrQzNVTlRiSjQ2d3V1OHc?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261119-who-gets-a-share-of-apparel-brands-us-tariff-refun",
+    "d": "2026-11-19",
+    "title": "Who gets a share of apparel brands’ US tariff refunds?",
+    "body": "Who gets a share of apparel brands’ US tariff refunds?",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "Ecotextile News",
+      "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaUJPZXJHUkYwOG9WaENGOEZkbnhQY3pnb0V0Q3d0MGc3ZTBHeHJaUVhZLW42c3ZfOWJpMDJOWEI3bnJNbkxMS3h2YmdQOUllVXZiN1BSNHUwU1d6REdiU3U0TzRqSm1ncWNPWDhqZ0NZanJsM245VTQzek53bHpmLWdMMklEMGYtZ2tZMktOSngyYklIa0s5T0U3Z1VuTk1pMDkzZEdwaEtuSDVS?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261119-don-t-let-the-trade-war-scuttle-sensible-drug-refo",
+    "d": "2026-11-19",
+    "title": "Don’t let the trade war scuttle sensible drug reforms",
+    "body": "Don’t let the trade war scuttle sensible drug reforms",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "Yahoo! Finance Canada",
+      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1IaFJSTlMyLVl6eHp4SGtrR25NQi0wQ1E3X1pQMWJnRjY0RlF5dF9PU25KTGM2Q3FrRG5qMkh0dUxqVU55VFZoeWRzdnlFZlJOLXd0RHJLZUE3NUhmaHItOTl0cjJBMVdIR2lDOWJJN2hwZWR0MEQw?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261119-carney-and-xi-jinping-expand-canada-china-tariff-d",
+    "d": "2026-11-19",
+    "title": "Carney and Xi Jinping expand Canada-China tariff deal to $400M — but canola oil still faces a 100% tariff",
+    "body": "Carney and Xi Jinping expand Canada-China tariff deal to $400M — but canola oil still faces a 100% tariff",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [
+      "China",
+      "Carney",
+      "Xi Jinping"
+    ],
+    "src": {
+      "t": "Yahoo! Finance Canada",
+      "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZDg2Yk1XcUJzUGNQTDhkS3dhU054SWVGLXk0OW5XNGFuX1dYSnoxbmM2ejRDcnNScGFXRU82cnViV20xRFNRYlhNRTE3ZlVyT3hKdDBsWGxZal91ci1QdHpSV2JqQ3QxRndXRU53V25iRG9uRmFkNFNGR2pjdWF2cmY1UHowb1k?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": [
+      "Carney",
+      "Xi Jinping"
+    ]
+  },
+  {
+    "id": "u-20261119-india-wins-as-quad-shrugs-off-trump-s-tariff-talk-",
+    "d": "2026-11-19",
+    "title": "India wins as Quad shrugs off Trump’s tariff talk, turns to sea patrols and minerals",
+    "body": "India wins as Quad shrugs off Trump’s tariff talk, turns to sea patrols and minerals",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "Yahoo",
+      "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbGMtbk42QmZ4Q0sxR3U2Qi0xbFo2THNJNk1rbGQxQ1lKY1lhSFd0Z25lQXhvNnl3TWxQOFpTNjBtUVdMWHYxQlctNEhtTmdoMHF6SDBabHJYNXVuMFV5Z3hkWUFUa2dURXJaVWc4THp4OEdqZ1NRRllBN213TmFHTnYyc1czRktvOHZZ?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261119-tariff-refunds-are-about-a-fifth-of-target-s-guida",
+    "d": "2026-11-19",
+    "title": "Tariff Refunds Are About A Fifth Of Target’s Guidance",
+    "body": "Tariff Refunds Are About A Fifth Of Target’s Guidance",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "Trefis",
+      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWXdUWkE4S0NEQTRGMFlVMVQ1aWlXc2RXSkJJZ0VzZFZpeDVpQ0diNUp3SnFxMFc4aHQxVmZVVFRyT3lyc09kLTA1aUpBa3JfdFJwb1RWckZEczNzcjExNEJsc0VtUVdaTGxKWVlEZWcxam16ZDZQR2NKd19ZQ0llZWZ4Vm54SkRPRUFDY3lpWGp0R25WNklXbE1pXzBibVNPcXBaeHFxZm9UV0tyeERTbWVaWQ?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261119-asia-europe-pre-lunar-new-year-peak-hits-amid-poor",
+    "d": "2026-11-19",
+    "title": "Asia-Europe pre-Lunar New Year peak hits amid poor reliability, port congestion",
+    "body": "Asia-Europe pre-Lunar New Year peak hits amid poor reliability, port congestion",
+    "why": "Sudden rate spikes or port bottlenecks are the earliest warning signs of shelf shortages.",
+    "sectors": [
+      "logisticsfreightrates",
+      "portactivityinfrastructu"
+    ],
+    "type": "Port Strike or Congestion",
+    "companies": [],
+    "src": {
+      "t": "Journal of Commerce",
+      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaGl4QkpxcjNPXzFiazBrVFBwTlV0dmRUZ1pBSE1zbzk4czM4b2EwZzYzOFdqVjNieXVfVy0teXRqMzNPOU55bGM4NGxwOVlWSDZQRkhMelR6NC03V0JiR2lFanZFTjhTN0ZKbGIzaDBxLUh3TjAwREw0TzVVM1Zjc0ZORTdOQU4wY3Q0VE9lVFNVSWllQkpLTlBsWTlQbjU0eGlkNVkySHZIb1BUS1VKQUFsT1k?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261119-private-sector-investment-yet-to-ease-durban-port-",
+    "d": "2026-11-19",
+    "title": "Private sector investment yet to ease Durban port congestion",
+    "body": "Private sector investment yet to ease Durban port congestion",
+    "why": "Sudden rate spikes or port bottlenecks are the earliest warning signs of shelf shortages.",
+    "sectors": [
+      "logisticsfreightrates",
+      "portactivityinfrastructu"
+    ],
+    "type": "Port Strike or Congestion",
+    "companies": [],
+    "src": {
+      "t": "Moneyweb",
+      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOHFJYkg1cDR3RF8zWlY4cUtCU2hpVy11TVA4M0stUTdOWXFlcHFQNy16VkFjT0YwajBoRWw2S0NXbzd6VndCOW9fTVdqWWhPOW5HeHNNQ1VjZjFxV1dDQThIRnhYcFByemF4dVZ6S0V5SmpSRDZIb2VUMWs0M25ZMFBxbGktaVA2M2pQbXRlUG9Cb3BYVzU2NTIwZUw5azROR2JrdEtDVjdfcjczcklNTHYtakFHZnRpcHRwdXVZMA?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261119-the-chip-ceiling-ppl-s-data-center-queue-outruns-c",
+    "d": "2026-11-19",
+    "title": "The Chip Ceiling | PPL’s Data Center Queue Outruns Chip Supply",
+    "body": "The Chip Ceiling | PPL’s Data Center Queue Outruns Chip Supply",
+    "why": "Regional conflicts and energy shocks directly translate into retail cost increases.",
+    "sectors": [
+      "geopoliticalsupplyrisks"
+    ],
+    "type": "News",
+    "companies": [
+      "PPL"
+    ],
+    "src": {
+      "t": "Enverus",
+      "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeC1fUFFCN0NzQ0s0THJSRmh5X3VvVkNUVlc3dFAzSF9XdFMyRm1kMV94ZndZV0NocUtQU1R3T0ZDeTBUZ2dJLXdCSUFZQ0RsaWh4QUwtNGFGWDhTVGw1dWZlc1U1eGFhS0RDWHprM1hVOEFyeGthV3pSaDh5YzdsbUJtelgzRWtQLWgydzkyaUJFU2s?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": [
+      "PPL"
+    ]
+  },
+  {
+    "id": "u-20261119-microsoft-msft-secures-new-ai-chip-supply-deal-for",
+    "d": "2026-11-19",
+    "title": "Microsoft (MSFT) Secures New AI Chip Supply Deal For Azure Growth",
+    "body": "Microsoft (MSFT) Secures New AI Chip Supply Deal For Azure Growth",
+    "why": "Regional conflicts and energy shocks directly translate into retail cost increases.",
+    "sectors": [
+      "geopoliticalsupplyrisks"
+    ],
+    "type": "News",
+    "companies": [
+      "Microsoft"
+    ],
+    "src": {
+      "t": "Yahoo Finance",
+      "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVEFlRFNKN2dZVGZyaFZxWktIXzVkWW5XeGlGU1JiRjcyLVp1dVFFUzBJOHBJTW9nOXozb25RZXFWVkQ4LWhoSE9QWEJZcVRVMlhuWXREdFFwOGpTZk5oX256dVk3UG9PdDhsei02cnE5VUgtbllqR3dMRE1UcENBQmdIaHdTQXY0dTRoUmd6NEJzNFhhRS1fV2tn?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": [
+      "Microsoft"
+    ]
+  },
+  {
+    "id": "u-20261119-co-legislators-agree-on-a-targeted-amendment-to-me",
+    "d": "2026-11-19",
+    "title": "Co-legislators agree on a targeted amendment to Methane Regulation to ensure supply security amid energy crisis",
+    "body": "Co-legislators agree on a targeted amendment to Methane Regulation to ensure supply security amid energy crisis",
+    "why": "Regional conflicts and energy shocks directly translate into retail cost increases.",
+    "sectors": [
+      "geopoliticalsupplyrisks"
+    ],
+    "type": "News",
+    "companies": [],
+    "src": {
+      "t": "European Commission",
+      "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTllheWZHenR2R1BOUGYzR3V4RDVDRWloQlM2UXF5N3JxdlBZSmdvTWdnV0Fheldxb2xwUG1sYnVubTJsRVhmWERtVFd5MW9nSkh1UXBhTEtpSlJxTlhNM0FJZGVlR1JlUUtmaDNqd2VpMWRfeWVtM2ktQzExNW9SNmp6bFI3YjdlbTZLVGtDRmN4NGJGeXNjOF9ONi1GM05QQi1yalNxU0RSZzBtV1otbFkta3U2NWRrNUg4VDlxOEtteU94REtfVFRtSlFYMXpEbkw1a2JnWEcySDdRSVNWYg?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261119-nvidia-maintains-product-roadmap-as-ai-chip-supply",
+    "d": "2026-11-19",
+    "title": "Nvidia maintains product roadmap as AI chip supply chain impact stays limited",
+    "body": "Nvidia maintains product roadmap as AI chip supply chain impact stays limited",
+    "why": "Regional conflicts and energy shocks directly translate into retail cost increases.",
+    "sectors": [
+      "geopoliticalsupplyrisks"
+    ],
+    "type": "News",
+    "companies": [
+      "Nvidia"
+    ],
+    "src": {
+      "t": "digitimes",
+      "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTmZuWjk3RktFekZ1UU9yUk54TS1ST1lIRmlncGhNZjFsSWw2TS1JNS1QXzFsY3otc0FDRkQ3WmtnckYyaXZUczNGNEtOZ1IwcVRPZmlRSG96OFkwaE9ZYVA1RUNlZTdpYVhWMGZ4U0EwenZjSnFnUHFuU2ZzUi0wZlFuSXY5aDhMXzAwQmVKYmZVRy1sS2taQ05R?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": [
+      "Nvidia"
+    ]
+  },
+  {
+    "id": "u-20261119-sefe-and-tourmaline-conclude-eight-year-natural-ga",
+    "d": "2026-11-19",
+    "title": "SEFE and Tourmaline conclude eight-year natural gas supply agreement",
+    "body": "SEFE and Tourmaline conclude eight-year natural gas supply agreement",
+    "why": "Raw material price jumps are the root cause of retail margin erosion.",
+    "sectors": [
+      "commoditymarkets"
+    ],
+    "type": "Commodity Price Jump",
+    "companies": [
+      "Natural Gas",
+      "SEFE",
+      "Tourmaline"
+    ],
+    "src": {
+      "t": "LNG Industry",
+      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOURHa1p3N24ybzJZUnl4aUFmcWJEWktYeFFVQWNrR01ET3pmbERuV3h5U1dydWpwRFNRUlJmOWdMUHZYT0RHSlEwQWVpcUZLZ0ZCUWkxeHd3eG1Vb2Y0UmV6alBTU3RNSjFrVldwd3kwS2lzUmFaZERBOTRJaExtLU56MVNMa2pNb1BSNC0tOTZLZXJCd3prUGVaVW9DcGFwZVFoYzlWTEZPODhScURFQ0dabDBJV0Vyc3Z2MU52dnpuQ1U?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": [
+      "SEFE",
+      "Tourmaline"
+    ]
+  },
+  {
+    "id": "u-20261119-poland-company-signs-deal-to-supply-ukraine-with-n",
+    "d": "2026-11-19",
+    "title": "Poland company signs deal to supply Ukraine with natural gas from United States",
+    "body": "Poland company signs deal to supply Ukraine with natural gas from United States",
+    "why": "Raw material price jumps are the root cause of retail margin erosion.",
+    "sectors": [
+      "commoditymarkets"
+    ],
+    "type": "Commodity Price Jump",
+    "companies": [
+      "United States",
+      "Natural Gas"
+    ],
+    "src": {
+      "t": "Baltimore Sun",
+      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTERqLUxhV084WkhJZlVnbGNIamZEZUNMR1RnVlNkTXozZ1FvTVRSUW05YVpLR1dfeGVwTmNFSFNDYzRCY0FWSnh2bmUwb05OdzRlSmZQejlTT284T3dlaVNDME41bE1VX2M1OXRkWmVnakhnTE8teHVSVHVfUm14OFRTc1A0eUJya1ZFcFowOUJRVnNsaHlxSWZDZnViOU9VY2QzYzItVXY2V0E1bzlNbTJyQTMwWTIzZVh2OQ?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261119-wti-wins-again-secures-usagm-acquisition-support-c",
+    "d": "2026-11-19",
+    "title": "WTI wins again, secures USAGM Acquisition Support contract",
+    "body": "WTI wins again, secures USAGM Acquisition Support contract",
+    "why": "Major deals often signal shifts in supply capability or new market access.",
+    "sectors": [
+      "strategicpartnershipsma"
+    ],
+    "type": "Strategic Partnership",
+    "companies": [
+      "WTI",
+      "USAGM",
+      "Support"
+    ],
+    "src": {
+      "t": "OrangeSlices AI",
+      "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMVZicXVxb3pFT3prS0FCaW1IS0ZPZWk5aU16MWNZbmRSRVpOaWRFeG9ydXNOLWZ3dHhtWm5WdFhJbUJsa3NZNEpQQlBhWGFyN0l3RW55R3pCZnFEQlJ3b29Gd0dBZHByTnY2c2J2SDdtNzVmSWtSWEs0Z1BIaTNVaVlxSUE5RFpsOHc?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": [
+      "WTI",
+      "USAGM",
+      "Support"
+    ]
+  },
+  {
+    "id": "u-20261119-radiant-logistics-raises-acquisition-accordion-to-",
+    "d": "2026-11-19",
+    "title": "Radiant Logistics raises acquisition accordion to $100M",
+    "body": "Radiant Logistics raises acquisition accordion to $100M",
+    "why": "Major deals often signal shifts in supply capability or new market access.",
+    "sectors": [
+      "strategicpartnershipsma"
+    ],
+    "type": "Strategic Partnership",
+    "companies": [],
+    "src": {
+      "t": "MarketScale",
+      "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeE16V0pSTnhiUVp3QnBWX0dtNUpwRklWdXlIc1cyNUdnbldfRlBLZlBBaWV6ZEVuRjdKVnlnajFfV2YtY25pMjhjR3JVS29YcW5hclJWdF9TUXV6R2tQbnRGWk13SGI5VWFvbFJfOENYSjJ3WnlLSENfRlBLZG1CVlpFa1JjaFJBb3U1eTZsSFRSS2ZrZUpqcm4ycEVLaXp0bHkxVk9uMlotN3dLX3FWcFNxQXJkRHVDZW5reHdFVGhVUW9uOUxtN0NqR2N0QUxJeG1v?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261119-maputo-port-expansion-200-mn-container-terminal-in",
+    "d": "2026-11-19",
+    "title": "Maputo Port Expansion: $200 Mn Container Terminal Investment Strengthens Regional Trade Gateway",
+    "body": "Maputo Port Expansion: $200 Mn Container Terminal Investment Strengthens Regional Trade Gateway",
+    "why": "Port bottlenecks are the physical manifestation of supply chain friction.",
+    "sectors": [
+      "portactivityinfrastructu",
+      "regionalsupplychains"
+    ],
+    "type": "News",
+    "companies": [],
+    "src": {
+      "t": "Construction Review",
+      "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQklQeEtKcjNaZXNvNzlUaU1yLUl3cTdQU01xbERYN1hfZVE5YmNQb0pkN0NIQXp5dGM5NUl6UEJRcUR0dFBiOWliaE94Wml2bzYwVDU1ckNSRTRHQzdsTVNXZXZlWlhNNjNCNkNJcDdfeHRSWHdwdkwzN1lCdG5HZHlDQzNHVFlmLTBSU0xUY2RIWUZRMi14dzhpUkhzX3NoUXZaTk85WmRHU0tmNHY2d0ExR20zLXJ5T2NWRldIZDFHOS16RXk3WEFEOA?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261119-four-firms-bid-for-six-month-operating-contract-fo",
+    "d": "2026-11-19",
+    "title": "Four firms bid for six-month operating contract for Chittagong Container Terminal",
+    "body": "Four firms bid for six-month operating contract for Chittagong Container Terminal",
+    "why": "Port bottlenecks are the physical manifestation of supply chain friction.",
+    "sectors": [
+      "portactivityinfrastructu"
+    ],
+    "type": "News",
+    "companies": [],
+    "src": {
+      "t": "The Daily Star",
+      "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQazZiVXJGUVVwN2ZFNUl5VVpoalE4UXZXSU1Kc1pmR0J0cnRxM0dyRlZtd3ItTTRNT295VzJDYTFtVUl4UmZ5aWtna1JhOG5tMDVHVGxuY0VJVl9raGdwVHdqbkMzd3lIZFZsTzdCbmdBaGlTY08zanFaVGF1cEVGQ21pbTRLcTJBeTZIREduVWNWbm1VcF9tenpVaUFHWUxWUWk0a1NTUzJTbmpySFdZRnJQX0xxZzdGU0hoaS1TY01zNU9tVWF2ZXRVREY?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261119-medicine-shortages-deepen-due-to-durban-port-backl",
+    "d": "2026-11-19",
+    "title": "Medicine shortages deepen due to Durban port backlog",
+    "body": "Medicine shortages deepen due to Durban port backlog",
+    "why": "Seeing inventory drain before competitors reveals where the market is overheating.",
+    "sectors": [
+      "retailinventorystockouts"
+    ],
+    "type": "News",
+    "companies": [],
+    "src": {
+      "t": "The Witness | Your compass in the community",
+      "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUFJjekViVlhXMFBIcXdzQV9aODl1aG5IZk5DY2RYNlNiMk0teG4zdjVydXNYNE9tS1k2aW9sOVJIMDc1QmJvLUxTbjh1cVhtTXZsMVBiaDB0dTR5YUwtNUhTVUlaVHhJOUY1U3FxYnRKQWVOdEtyV2U2MDhwMmhaRHhUdzZoZGc0TDIyTGJPMTNDTDkxblE?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261119-the-great-eastern-shipping-company-creditaccess-gr",
+    "d": "2026-11-19",
+    "title": "The Great Eastern Shipping Company - CreditAccess Grameen among 7 stocks closing below VWAP",
+    "body": "The Great Eastern Shipping Company - CreditAccess Grameen among 7 stocks closing below VWAP",
+    "why": "Fleet reductions or route changes indicate long-term supply constraints.",
+    "sectors": [
+      "freightlinesshipping"
+    ],
+    "type": "News",
+    "companies": [
+      "Great Eastern Shipping Company",
+      "CreditAccess Grameen"
+    ],
+    "src": {
+      "t": "The Economic Times",
+      "u": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPXzBDaWZMNm9ISU9ZOG03UHlUdzFwN1RLTmNUNHk0U2VZZ1ZYRm01RENPc3UtMTkxenZCNm5YcmFHT3dwanF2ekVlLTN2MGJaaVV5Z3NLTDIwRTZUWGZPRkJRSDUyUWIwMTVQY19zOHZrLU1OZW1TYU5oT3dMX2NGQnZEbEQteG9ST1loYW42WkZSZEw1aHVuT3plMUZURERNa0k0d1BQQVNjc0M2dlpVQUZjY3A2WGVrUWZCa01mbi1RT1FrdzYyVzhxWHVFNzFCRTdIcHZ5akRhWXNINU8tdGs2OGhjOVhiUHpDTUp0X1dGWnc?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": [
+      "Great Eastern Shipping Company",
+      "CreditAccess Grameen"
+    ]
+  },
+  {
+    "id": "u-20261119-zimbabwe-tweaks-lithium-export-tax-rule-mandates-l",
+    "d": "2026-11-19",
+    "title": "Zimbabwe tweaks lithium export tax rule, mandates local sourcing by miners",
+    "body": "Zimbabwe tweaks lithium export tax rule, mandates local sourcing by miners",
+    "why": "Shifts in regional sourcing strategies reveal where supply is becoming more volatile.",
+    "sectors": [
+      "regionalsupplychains"
+    ],
+    "type": "News",
+    "companies": [],
+    "src": {
+      "t": "Reuters",
+      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTDNLZGZneFhVS1RrUTRtYTh0dUxZQWF5ZnNUWlZIQjVnNXEyM0FJWDNvbndxcEl0RDhHQzc4c0JRM3ZYeW12NmFmT0ZIR1BRUDNnYk1vVXZid0tISG9vNEl3YnRnVGZCWi00a0FETHlzdnVWNkRyTHg0eFVBU0Q2Wl9tcUc1REs0NEhPXzJkOVJRWGR2enM1RGRJc0hDNXRCYU9FRXEyY1Vyc0REVEo4dENFX2VMbW5jeWw4TGVMYw?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261119-lowe-s-q3-earnings-even-tariff-refunds-couldn-t-pr",
+    "d": "2026-11-19",
+    "title": "Lowe's Q3 Earnings: Even Tariff Refunds Couldn't Prevent Margin Compression (NYSE:LOW)",
+    "body": "Lowe's Q3 Earnings: Even Tariff Refunds Couldn't Prevent Margin Compression (NYSE:LOW)",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs",
+      "retailstrategypricing"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [
+      "Lowe"
+    ],
+    "src": {
+      "t": "Seeking Alpha",
+      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN29ZSnFBSzJQdlJwcG9kVEYzTEh5ZVVydTY0cnVGbUdWalFFZUJKakZiekpTMktJZWg0OTBfWFotMHU3dXlIcmlBaF93YzI3dUNvdjRENzBleEpnLXNFc3VmQXV2aGU4TGtoekx6dkYxRzdjbkV1Q29YRExmcHd5TGhNWFNlVUc1c01LTTQ2aWlDX3VfVUlVZTZqazREZVlDc1QtazBuTTBkeVlQWWtOOE1PYw?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": [
+      "Lowe"
+    ]
+  },
+  {
+    "id": "u-20261119-dollarama-stock-outlook-pricing-power-retail-margi",
+    "d": "2026-11-19",
+    "title": "Dollarama Stock Outlook: Pricing Power, Retail Margins and Long-Term Growth Opportunities",
+    "body": "Dollarama Stock Outlook: Pricing Power, Retail Margins and Long-Term Growth Opportunities",
+    "why": "Understanding retail strategy helps anticipate how supply shocks will be priced to consumers.",
+    "sectors": [
+      "retailstrategypricing"
+    ],
+    "type": "News",
+    "companies": [],
+    "src": {
+      "t": "kalkine.ca",
+      "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSFpZa3FWWWM3bkEzM2pMNXFWejdqSmkxZkl5NDNRUmQyR1JMZ0hKVm05ekoxVFFSbm4waFBhSmpRMkxlZmNQWV9EUXQ0UjNJeHI3RHBlS093bmVia21RdUpzTGp1NFhfZUJaRW9DUjNfMlp6VGdJZ1BtUmxrbnZXLUxoTi14TFR5bndCVnRYLUhzUHNUWHRqdFJySGROYWtfSFpEVWRTX2hHdGVfcmVkYXhtbkhjT3NHX3c?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
     "id": "u-20261118-exclusive-india-to-charge-bulk-scotch-imports-162-",
     "d": "2026-11-18",
     "title": "EXCLUSIVE: India to charge bulk Scotch imports 162.5% duty and tax amid UK pact standoff",
@@ -1428,6 +2145,565 @@
     "addedAt": "2026-11-18T19:14:25.804Z",
     "auto": true,
     "orgs": []
+  },
+  {
+    "id": "u-20261118-la-long-beach-port-strike-risk-grows-as-employers-",
+    "d": "2026-11-18",
+    "title": "LA-Long Beach port strike risk grows as employers say ILWU talks stalled",
+    "body": "A contract dispute between employers and an ILWU local could disrupt cargo movement at the busiest U.S. container port. The post LA-Long Beach port strike risk grows as employers say ILWU talks stalled appeared first on FreightWaves .",
+    "why": "Sudden rate spikes or port bottlenecks are the earliest warning signs of shelf shortages.",
+    "sectors": [
+      "logisticsfreightrates"
+    ],
+    "type": "Port Strike or Congestion",
+    "companies": [
+      "ILWU"
+    ],
+    "src": {
+      "t": "FreightWaves",
+      "u": "https://www.freightwaves.com/news/la-long-beach-port-strike-risk-grows-as-employers-say-ilwu-talks-stalled",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": [
+      "ILWU"
+    ]
+  },
+  {
+    "id": "u-20261118-thailand-to-seek-us-tariff-cut-after-reaching-key-",
+    "d": "2026-11-18",
+    "title": "Thailand to seek US tariff cut after reaching key terms of trade deal, minister says",
+    "body": "Thailand to seek US tariff cut after reaching key terms of trade deal, minister says",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "Reuters",
+      "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQmJGQjFQOHViUFB3Y3FpbDVVNzNISFBpcnB4ZlBIb1l1ajNadl9XbFJzNzhibHBZZFhCS1dOTEo2QkZ1TnRHUXYtM0UzMmVhT1VjSHFVTktWdjV2YXRSQ1c0dE10YkVOSU5iTWdoNmt4b09HYkN5WkFsSk9RSVJBbF92c3RRelF5YU80UFIteDZjNzB1ak40NlFWc1hCbVZPZ3lSazNzc05WTlN1Tjd4b1dRRXg5OGNPT1pKX1dLLUdITGpNOUdHWlZqNnc?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261118-harmonized-tariff-schedule",
+    "d": "2026-11-18",
+    "title": "Harmonized Tariff Schedule",
+    "body": "Harmonized Tariff Schedule",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "United States International Trade Commission (.gov)",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhb29kZXllV3ZSNEp2b24xam0tVEpwT0RqQWRJcmsyNkFxd3pZLVRUY2tOclZuelRzZWotal9BdkJJb25ZVzg3NFBkLWhpZGt4MHY0eEV1SmVKS28?oc=5",
+      "q": "primary"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261118-export-control-forum-2026",
+    "d": "2026-11-18",
+    "title": "Export Control Forum 2026",
+    "body": "Export Control Forum 2026",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "News",
+    "companies": [
+      "Control"
+    ],
+    "src": {
+      "t": "policy.trade.ec.europa.eu",
+      "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTTlWUEpIdVZvQjc3M1EwWm9RcDhFc0Fwa2t6V1RqdG1FUGRPZ01DVVVrWXd0dHBxdkpQbm15ODhIX29DTV9rQTZVMzZXNmZHTk4tVGVyZUpMU18yWU1QS1ZRVE1jclRIcEpNUmNNODJqczVrWnZFWXJZOUZLZ1BZeE14Q3lRbDA?oc=5",
+      "q": "primary"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": [
+      "Control"
+    ]
+  },
+  {
+    "id": "u-20261118-tariff-repeal-options-would-have-very-different-pr",
+    "d": "2026-11-18",
+    "title": "Tariff Repeal Options Would Have Very Different Price Effects",
+    "body": "Tariff Repeal Options Would Have Very Different Price Effects",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "Tax Policy Center",
+      "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPODl2TjJzNVZqTkpCWVl5ZkV5VTlJTXVoTlhPRzR0SlVUZzZaTmxKeHZiNHJNNmQ4Z0hueGFzT0w2M3ZoaWowYkZkQnkzSGJKNGRKZmhpUzZWelZFTXpNeEhGOWt0WmZZdkw3MnlBNGNUZkx0Um51clBuZEU0a3dHdFNuQU1lNVBTaEpWM1NqRi10SzRyb0RnT09pLUU?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261118-iowa-soybean-farmers-hope-trump-xi-meeting-ends-re",
+    "d": "2026-11-18",
+    "title": "Iowa soybean farmers hope Trump-Xi meeting ends remaining China tariff",
+    "body": "Iowa soybean farmers hope Trump-Xi meeting ends remaining China tariff",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [
+      "China"
+    ],
+    "src": {
+      "t": "KTIV",
+      "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRlE0UHRPZm9XRXpUUmN5Z1JfNFpZU29wZU5NLWZxaV9yTW5ZM2R3eFV6QkFFbFpOYUFSb21tZ1AyX3VNZzVqR0Etc2dlaWNOa2F0VUxQcmhSMWcxTS0wb2tteXRJNzJMbHg1RHowemJJUUVOMWNvcm5nZUl2NjhWcVVaU281QjA5eEU2R2RfZGhXRHBSRVhCNExiWHZwbkN3bU1kYmtR0gG6AUFVX3lxTE5NZGVTLXBtcGE1TkoxMEVoM003Q0c1Z3hpRnZVeG5Vb1B1WWQ3bjVSajkzR0dqU3lISFRNR1lnWHJjVnRFS2pnRExObHdZWWt0YnY5YkJzVGUzNE45M0t3QzlUMUs5Z0ZfQkFDcTIzb3BDSEtPWGtKOHlnbU9QVVJIMExPdEhFS0swTVRTNk80WnpfMkVjSFJHZjY4NXdkaC0wT0k5OW5OVXB4dnFYNmFxdGNMV2xBMUJzQQ?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261118-tariff-increases-other-measures-still-in-play-for-",
+    "d": "2026-11-18",
+    "title": "Tariff Increases, Other Measures Still in Play for Lamb Imports",
+    "body": "Tariff Increases, Other Measures Still in Play for Lamb Imports",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "Sandler, Travis & Rosenberg, P.A.",
+      "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSUpXV2xxSWhnUlRIUUVZZl9BTy0tMVg0YkROS1o4VTYtc3IwMUVsRmh5QmRjYXJzc2ROdDdma0xWbXNYVElIbUM4SUxwR3JmM1FoMXJkcE5IeGVsMkJiNDBfTVNwWi1oY0xaLWFEaWVQOE56SjFILWRudmZvM3VYTXMtWVJTZE1aTTdKYnQwOW00S2p1aVNiV3hEVDRGeHAwekhGS2s2R3FaeXBZY1FPTjdvTDBubDJYNV9ESUR1Uk8tTzhiU0hjMTJ4QXlxLXM?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261118-tjx-spends-167m-in-tariff-refunds-on-executive-and",
+    "d": "2026-11-18",
+    "title": "TJX spends $167M in tariff refunds on executive and employee bonuses",
+    "body": "TJX spends $167M in tariff refunds on executive and employee bonuses",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [
+      "TJX"
+    ],
+    "src": {
+      "t": "NBC Boston",
+      "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONjMtOGhKY0w5TktUWXJUY2xMOE5mTHFJbG1CUXFfTjFCbExLVFVsU1hfM0g5bjI1Sk9RVlRRZFpScC1waEJFMUJhNFAydHdUTDIxQmM0TE1LS2RTTVBNTnFGMnpJWUk2bkxsQjU3SnhQRmZKS0xrZ004aEtrRW5BaWp5N3BBMDR4S2luNVFpdWhQTWxPdWJVR2FIVGp5VUE4a0lEZFZzY9IBrwFBVV95cUxPSW51cUl5STRobllYMWR4YXlHTmpfOE44Vjc1dlFjZmpmMXJXQVd6SkhNNWNVeW9nVGlLTkZqQ1VmaDhVR3JGMXBSTXFGTllRaVYydi14NXRiN2VCYVdmNmhsb0xsaUFlVnZqWTUtUE9yN1hBMnV3T2c5MUtyQ0dFMWQ2Nmp3Si12eVZPbmhKMkVXek5XSjBDZVdwM1lRQTFqUWJmbTZXSUV2TGdmN2Rz?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": [
+      "TJX"
+    ]
+  },
+  {
+    "id": "u-20261118-china-and-europe-are-entering-a-permanent-mid-leve",
+    "d": "2026-11-18",
+    "title": "China and Europe are entering a permanent mid-level trade war",
+    "body": "China and Europe are entering a permanent mid-level trade war",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [
+      "China"
+    ],
+    "src": {
+      "t": "The Economist",
+      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb1RBb0cyTk9yY2pLdUx1c21ZWmhFSWNocWs1MFZHaklVNEdhdXYzVkJLRGJmSl90ZHBHZ3FiMjQ4WFlEY2tGTUpxN2NERTBZbHRVNDB3d1RnZ0hXNFVSeW1qTnFVU0hoTzA2amVocVkxQ2d2ZmlnN3hpOS1PbzBoeWItRG16YS1LZVN6VDl5Tkh1QTNzdjBDQlB5SmJNRjNZUFBVT2FSenFjTTJ6Z2hDMmJnNzM?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261118-with-tariff-refunds-lowe-s-wants-to-strengthen-val",
+    "d": "2026-11-18",
+    "title": "With tariff refunds, Lowe’s wants to strengthen value proposition, CX",
+    "body": "With tariff refunds, Lowe’s wants to strengthen value proposition, CX",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [
+      "Lowe’s"
+    ],
+    "src": {
+      "t": "CX Dive",
+      "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVFAzUjVQd0I3d0ktbU1oSmdLVGdRTjJPVnFYY2E5R01RaWVzOVdDZ0FWaENGMjdTYXNZLTB4djFtZGRCdEdMTFZDMXpiT2lXRThhVDg4VkpVNmFfTE4wTEZuT3BBWndmYlBnNGUyeTZNS3JTMHNtWGdxQmF3V1ZUMkl2U3gxSnZ1Tm5lcWtvR2prSWs3akpNRTJHbnpiMUc4TzdSR0pTYw?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": [
+      "Lowe’s"
+    ]
+  },
+  {
+    "id": "u-20261118-welcome-to-the-anti-tariff-club-democrats-now-trul",
+    "d": "2026-11-18",
+    "title": "Welcome to the Anti-Tariff Club, Democrats—Now Truly Be Anti-Tariff",
+    "body": "Welcome to the Anti-Tariff Club, Democrats—Now Truly Be Anti-Tariff",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [
+      "Club"
+    ],
+    "src": {
+      "t": "Cato Institute",
+      "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNmhja2s1VktlWGZkYUR4ZGJKTWhhb1pwd3V4ekdPMUdac1NaMVFDRVFFeFNYaFZPTEFYb3ZWSGtxc3VEWmh6Ty1QUkdmY04yUzA5VWtjZHFDcVNWc1A1ZTBaQTJKRS1WTlBaNUVsSnUxS1dBYldVVmlES0ZYc3l5Q1RPZlo3WjE0cExuQzZzOA?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": [
+      "Club"
+    ]
+  },
+  {
+    "id": "u-20261118-lowe-s-received-another-250m-in-trump-tariff-refun",
+    "d": "2026-11-18",
+    "title": "Lowe’s received another $250M in Trump tariff refunds. How customers will benefit",
+    "body": "Lowe’s received another $250M in Trump tariff refunds. How customers will benefit",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [
+      "Lowe’s"
+    ],
+    "src": {
+      "t": "Charlotte Observer",
+      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BdjF4dXlTTEVZZWtBT0NJeXgtNGNkV3BCdmFtM2dSV2dtZGtXUk1QNTlVT2hoa3d3QVdrbWVjNnNTVTFYeVdpazhBdVg4OGNEdmkxUXRQSUVGOVpyUE9WQ3dOSWkyR09wZ1ZkYS1GdXhPdjl6SDlYVtIBeEFVX3lxTE9odDBwM2taOThGV0JmRG1TVEFxMkRld3ZlQVBUeU9vLURvRmYxbUt0bGdvUk1CVHd6QTd1ZWptREtUMHFxT2Y5UXE5OE5DYVh5NVJnbVJURWVBTm0tbUkzeWo4SkN5MkJVeGhTRTM1eE5JdThIb3hCdQ?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": [
+      "Lowe’s"
+    ]
+  },
+  {
+    "id": "u-20261118-washington-federal-court-compels-tariff-refund-cla",
+    "d": "2026-11-18",
+    "title": "Washington federal court compels tariff-refund class action to individual arbitration based on Xbox warranty agreement",
+    "body": "Washington federal court compels tariff-refund class action to individual arbitration based on Xbox warranty agreement",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "JD Supra",
+      "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVFdza3FEa0hBSEdQTTRsSlBBVEhmTlBmTC1XeElRZGdXdHl1VXFCcWNnaVRMQWd5dzViRHIwYjRDNXVwTDZubWRXaDQ2bC1LdGUyMUc0U1g1T3dKaHZaQUxjY3F3OXN0SWwzcXJ1NzNnaUF4MXNxUnNWVTN6X1VwWXVyUVo2XzBEN1E?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261118-9-major-companies-are-turning-tariff-refunds-into-",
+    "d": "2026-11-18",
+    "title": "9 Major Companies Are Turning Tariff Refunds Into Bonuses. One Retailer Chose Customers Instead",
+    "body": "9 Major Companies Are Turning Tariff Refunds Into Bonuses. One Retailer Chose Customers Instead",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "Inc.com",
+      "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOM3lJUk4teEw0c0VPQ0lyNHVDVWQyTFJmSjhjeHYzY3JxeVhsMnl5NTBWOS1TRWd0OGY5NEoyc255Nkw4R0NLaTRwc3NJcXhPdXluSVFEQmtPYUN2Si1GZTdnSTBiVDd3WklkZnZXOWFoSEo3NTN2Y3dlSHVFRklXVFZUZUMxQVQ1RlJJTnlfZko4Y1pxVkdMV002cEFaYWYwTkZaWnlSb2NZdXBYUkRvT2NHVVpDTjZOOTlfWlJDYWZNYzBWeWNxMnhRM2hoQQ?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261118-tjx-gives-bonuses-from-tariff-refunds-reiterates-s",
+    "d": "2026-11-18",
+    "title": "TJX gives bonuses from tariff refunds, reiterates store expansion plan",
+    "body": "TJX gives bonuses from tariff refunds, reiterates store expansion plan",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [
+      "TJX"
+    ],
+    "src": {
+      "t": "The Business Journals",
+      "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcEZXWEkwQ0ZYM0MtUFc1UWEzT2FydFZBc3NDRi0zWHVuVndEaTZCVkdSSHY4NHdiLVpweDlmV0hSaDlvYUt5UkJjVlAwOC1EanZobTZ5eDVkWEFTYkoxLXJSMnVNLXdLbU1mek16WjVYeXNTTVBwTko3d0tXODRZYnJKOFlxMzZrWjMtZTJvakJodWJWZGpENmhxNA?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": [
+      "TJX"
+    ]
+  },
+  {
+    "id": "u-20261118-canada-extends-us-tariff-relief-by-one-year-to-jun",
+    "d": "2026-11-18",
+    "title": "Canada extends US tariff relief by one year to June 2028 but ends exemptions for certain aluminum products",
+    "body": "Canada extends US tariff relief by one year to June 2028 but ends exemptions for certain aluminum products",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "AL Circle",
+      "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQN2k1bUIxeEpTTGhDcUtVeG5NQkVOcUJWNmZwRV9lOGNNdWZqTldiYUJsbjJWQ3Q5c3dQamlXNld6akZmUDFGSXlfbDBySy1NdUZnam9DZmN0V2FHQm1WcnBSRk5HVWZ3V3FNWXp5TmFrWnpTZ0QwbFBlOWtBaURJZ3NGMGFSX0VvMUZZejNYRHRwT1ZuNjVFdVBFZDBlYTItQjdFYW42LXdGcV8xWWFKdEdvT2FYcWF4SG9XNHV3aWdkVXlkLUR4VmlXbHlHVEg0OVBXM1RXRzdOS0k?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261118-canada-and-china-expand-tariff-relief-on-pork-seaf",
+    "d": "2026-11-18",
+    "title": "Canada and China expand tariff relief on pork, seafood and metals amid US trade tensions",
+    "body": "Canada and China expand tariff relief on pork, seafood and metals amid US trade tensions",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [
+      "China"
+    ],
+    "src": {
+      "t": "Yahoo Finance Australia",
+      "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQU0VmS1hUUzJ2UFN2X1dhVm5pZUs2MWxJNmNDWHMwbkNTZFBvZUU0MFZFSkNaNW9OUXBCaHdQelUwOEpXN0tRb213Rlk3U1E3TnNZWGh1Z0g1TGV3cU81Tjl3ekUxWkoyc3JhVl9NNkh3RUR3QzJYOXpTTmdtR1Z5TGpjd292NkwtMlE?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261118-investigation-some-tariff-refunds-fund-corporate-b",
+    "d": "2026-11-18",
+    "title": "Investigation: Some tariff refunds fund corporate bonuses",
+    "body": "Investigation: Some tariff refunds fund corporate bonuses",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "KXAN Austin",
+      "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcHNsQmh3TjAtM2JxcnNsRTdOYUtXcEFBZHpLRWpRZ200Mml6VkUzdElYbU5FMmNWRlhrX1FfcWlXLVQydDdDTV8waHNYcmNsY1VXR1lHNFpMVDRfM0xoUHhuS3dnLVQtdElTODZ6OVJkZndobzBPMXB4UWgtN1NOVXFEeGFpenJ1cWdXQ09YR1Z5ZnVWc0NRag?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261118-five-below-says-shoppers-not-entitled-to-tariff-re",
+    "d": "2026-11-18",
+    "title": "Five Below Says Shoppers Not Entitled To Tariff Refunds",
+    "body": "Five Below Says Shoppers Not Entitled To Tariff Refunds",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "Law360",
+      "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR3YzcnhFMG1yQ09GN0tBMU8wUWZtU2NfTFdFSjN5QzBRUGc1R2MyeEVqU015dF9yZWVJQkFzSlo1NU9zT29NdEJTaXY3cmZYLXBfR0hCeDVJM2dyTHdEMTI2MkJKcTFZYzlCUUFrZXpCZ0EwRlZlS0NXY0pScnVTck52OFhFb3ZvQlppb1ctMWRhbjFUdW9NUmY4RjEyRnpUY0dIclhzY0VsMEF4c2fSAWhBVV95cUxOOUlUb0ZyaEZVa0lsTVBHM1NYZ1RhRmNWOWU0eU12SVJqUFlGY1B2SmRZd1ZxMUpIaTMtRlRNNktnV1Vfb204c1dMWGZuZVFyejJxVWNSblFGaGR2UmVQTEh6VHMtSE1NZg?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261118-tariff-refunds-flatter-tjx-s-quarter-while-adjuste",
+    "d": "2026-11-18",
+    "title": "Tariff refunds flatter TJX's quarter while adjusted pretax margin slips 0.2 points",
+    "body": "Tariff refunds flatter TJX's quarter while adjusted pretax margin slips 0.2 points",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [
+      "TJX"
+    ],
+    "src": {
+      "t": "Quantisnow",
+      "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT2VFbFRUZ1ZORC1IQjhXZ1pMa3FmbFpZaVZkZjVqMTJpZ0J4QkFyNWg4cWNJQUowdG9WRENUU0lNTlBadzRUc3BqZ2dELUJYVTBNczBva2VCVW1MaTlJU3pRdDdiTUlhbEFobjhuRm9HazFYRmh3YTk1WE52UERhM0RNZFY2ei1GOE0tTTNXeC1IbzhhU2k1dE95M29rOHB3?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": [
+      "TJX"
+    ]
+  },
+  {
+    "id": "u-20261118-target-lifts-sales-outlook-to-6-as-tariff-refunds-",
+    "d": "2026-11-18",
+    "title": "Target lifts sales outlook to 6% as tariff refunds add 50 cents to third-quarter EPS",
+    "body": "Target lifts sales outlook to 6% as tariff refunds add 50 cents to third-quarter EPS",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [
+      "Target"
+    ],
+    "src": {
+      "t": "Quantisnow",
+      "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSGpka0RzRWM2QWs4Z044QzFwM1BZNnFYeHZlZ1djY180bWMzSUFMbXpWUlpPdWRPbDNQR21pTlo3dU9OamJ6VnFTZjRzQ3VrUjRSdk5vcGtPb3NMcTA1MkppTzltNkt0LVY3T3d5ZDRpdTA1aDJ1R1dZQWY3WXFhVVg2ZTY2TU04ZUZuWXZsQTkxeFFlMkhvQkhIYk1RUGlrQXBwcjdNMWhBMVN3WjhxUmVEdkpYSWc?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": [
+      "Target"
+    ]
+  },
+  {
+    "id": "u-20261118-us-tariff-claim-stings-government",
+    "d": "2026-11-18",
+    "title": "US tariff claim stings government",
+    "body": "US tariff claim stings government",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "Bangkok Post",
+      "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORGlBSWNsNlZ5VXNYN1lTaWVUNDc3TVNjeUNpRU45V0RLMTY4UU1OYm1TYy1SUHVYWTNacmV3SHZrMTFqbEo2YlN2TkRtSHBqTW9OUEpfMWJnMkZDNlRyTnVRSDhEX29ZN3pxc1V0ZzZ6cGZvWEZnZTFJUGtnR2p6MDI5LXpZLUU?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261118-backcountry-adds-50-retail-stores-in-christy-sport",
+    "d": "2026-11-18",
+    "title": "Backcountry Adds 50+ Retail Stores in Christy Sports Acquisition",
+    "body": "Backcountry Adds 50+ Retail Stores in Christy Sports Acquisition",
+    "why": "Major deals often signal shifts in supply capability or new market access.",
+    "sectors": [
+      "strategicpartnershipsma"
+    ],
+    "type": "Strategic Partnership",
+    "companies": [
+      "Christy Sports"
+    ],
+    "src": {
+      "t": "GearJunkie",
+      "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTkZVRDdBM2V6S2ZYVEcwSlJ0MkllejI5a3Z6UHNhSHhKdENXdDdkelc3VW1ORXNzRjdGZ3RRN191SktTQlV5Z21HTGNONW0xTTVDNVNQUXhnZktEMTVId2hFNk5aWWo3NjFOcEZLWTZMdF9xMXZQbWpoZ1VUUU1rag?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": [
+      "Christy Sports"
+    ]
+  },
+  {
+    "id": "u-20261118-frs-enters-the-rhine-river-transport-business-with",
+    "d": "2026-11-18",
+    "title": "FRS Enters the Rhine River Transport Business with Acquisition of German Shipping Company Bingen-Rüdesheimer",
+    "body": "FRS Enters the Rhine River Transport Business with Acquisition of German Shipping Company Bingen-Rüdesheimer",
+    "why": "Major deals often signal shifts in supply capability or new market access.",
+    "sectors": [
+      "strategicpartnershipsma",
+      "freightlinesshipping"
+    ],
+    "type": "Strategic Partnership",
+    "companies": [
+      "Rhine River Transport Business",
+      "German Shipping Company",
+      "Bingen"
+    ],
+    "src": {
+      "t": "Puente de Mando",
+      "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsaWFBcWxnSXFaVXRCTHcySFNRdUVrd1RCYzJfRUJ3Q2dER1NpS0lGVmhCRWhqeDA5RllBU0dPTmIydk1zMTY2dDlmbC1Udkp3T3RDWFlMUmdoeV9tWTVPd21QTFBJaF9xOHpydVNRR1dwb1J1cnVIM2UxQQ?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": [
+      "Rhine River Transport Business",
+      "German Shipping Company",
+      "Bingen"
+    ]
+  },
+  {
+    "id": "u-20261118-morning-prices-lemons-in-high-demand-for-export-da",
+    "d": "2026-11-18",
+    "title": "Morning prices: Lemons in high demand for export, Da Lat tomatoes see price increase again.",
+    "body": "Morning prices: Lemons in high demand for export, Da Lat tomatoes see price increase again.",
+    "why": "Understanding retail strategy helps anticipate how supply shocks will be priced to consumers.",
+    "sectors": [
+      "retailstrategypricing"
+    ],
+    "type": "News",
+    "companies": [
+      "Da Lat"
+    ],
+    "src": {
+      "t": "Vietnam.vn",
+      "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOFJReV9YaTZhWmExcnhyVUw4UXl1cEwyV3ZRUXZVdWYzWlEwR1QweWxQRnFaR2tFZGZrcGZwNGptZmpnaUdnYmZSSlZMZnR4enRwWHdkSUNGQVZqUmdySjN4N3p0VXVSQ2VIWHVUNzlxS3JnLU1nU0xzR1BVTWxtbW1rX3R3VVd3UU44Q2xPemplTDFqMGljNmc5d3BWQUU?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": [
+      "Da Lat"
+    ]
   },
   {
     "id": "u-20261117-red-sea-overcapacity-looms-as-ocean-container-spot",
@@ -2933,6 +4209,26 @@
     "orgs": [
       "International Container Terminal Services"
     ]
+  },
+  {
+    "id": "u-20261117-ocean-freight-market-archives",
+    "d": "2026-11-17",
+    "title": "ocean freight market Archives",
+    "body": "ocean freight market Archives",
+    "why": "Fleet reductions or route changes indicate long-term supply constraints.",
+    "sectors": [
+      "freightlinesshipping"
+    ],
+    "type": "News",
+    "companies": [],
+    "src": {
+      "t": "Global Trade Magazine",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KQU5lV20yMWFrN2tPR0pabURLc1VzeVc1VkFRTjhSSl91MmJNTnZqNG1COFhaV0swelMyalVlZ1RTZF9PT0xuX2RvWmFKZDJRYXZSQ1lhOWdwUFFHTThpWDloOERpU2M?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-19T19:18:35.828Z",
+    "auto": true,
+    "orgs": []
   },
   {
     "id": "u-20261116-from-cost-center-to-growth-engine-the-supply-chain",

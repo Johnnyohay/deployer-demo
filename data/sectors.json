@@ -2,10 +2,10 @@
   {
     "id": "tradepolicytariffs",
     "heat": 5,
-    "state": "A trade truce is forming between the US and India, with a deal nearly ready to sign despite a 162.5% duty threat on Scotch imports; simultaneously, Trump finalized a major deal with the Philippines while Canada extends Chinese aluminium and pork relief through 2028. Meanwhile, corporate executives are pocketing billions in tariff refunds as bonuses—Target received $301 million and Walmart previously took $2.9 billion—while average households face an estimated $700 cost increase without compensation.",
-    "money": "The US is winning the immediate trade relief game by securing a near-final deal with India and wrapping up a major agreement with the Philippines, while Canada solidifies its alliance with China through extended tariff exemptions until 2028. However, US retailers like Target and Lowe's are seeing profits artificially boosted by these refunds rather than passed to consumers, creating a trust deficit as companies spend windfalls on executive bonuses instead of reimbursing shoppers.",
+    "state": "The US is nearing a final trade agreement with India to resolve the 162.5% duty threat on Scotch imports, while simultaneously wrapping up a major deal with the Philippines; Canada has extended its Chinese aluminium and pork relief through 2028 despite canola oil facing a 100% tariff. Retailers Target booked $301 million in refunds this quarter, representing nearly a fifth of its operating profit, while Lowe's saw margin compression even with these windfalls. Corporate executives are receiving billions in tariff refunds as bonuses, including $2.9 billion previously taken by Walmart, creating a trust deficit among consumers who face estimated $700 cost increases without compensation.",
+    "money": "The US is winning the immediate trade relief game by securing near-final agreements with India and the Philippines, while Canada solidifies its alliance with China through extended tariff exemptions until 2028. However, US retailers like Target and Lowe's are seeing profits artificially boosted by these refunds rather than passed to consumers, creating a trust deficit as companies spend windfalls on executive bonuses instead of reimbursing shoppers.",
     "watch": "Monitor the outcome of the India-US trade deal signing next week, which could alter regional tariff landscapes if it resolves the Scotch import standoff or triggers further retaliation from China on AI GPU rentals. Additionally, watch for congressional investigations into how companies are using refunds for employee bonuses, as senators have already demanded inquiries that could force a shift in refund distribution policies.",
-    "briefedAt": "2026-11-18T19:16:35.953Z"
+    "briefedAt": "2026-11-19T19:20:56.747Z"
   },
   {
     "id": "logisticsfreightrates",
@@ -26,10 +26,10 @@
   {
     "id": "geopoliticalsupplyrisks",
     "heat": 5,
-    "state": "ASML stocks fell 2.72% due to new US export rules, while SMIC projects $12+ billion in 2026 AI revenue despite supply tightness persisting through 2027. Jensen Huang's exit amid spy allegations has triggered a probe into Megaspeed's China chip supply links involving Alice Huang, with ASEAN leaders discussing trade security in Manila ahead of Donald Trump's visit. Meanwhile, Italy's energy crisis halted widespread steel wire rod production, and India joined Pax Silica to cut China out of the AI chip supply chain.",
-    "money": "SK Hynix gains traction by pledging $1 billion in South Korea to support AI supply, while Samsung and Apple finalize a long-term DRAM deal. Broadcom benefits from Google deal optimism, contrasting with Nvidia facing market share loss to custom ASIC chips and YTL Power shares recovering 3% following weekly decline amid scrutiny.",
-    "watch": "The outcome of the probe into Megaspeed's China supply links will determine if Nvidia's dominance fractures or consolidates, while ASEAN trade security discussions could disrupt global logistics structures. US-China AI war dynamics may shift further as India cuts China out and Nordic envoys view the Philippines as a key logistics player.",
-    "briefedAt": "2026-11-18T19:22:15.542Z"
+    "state": "ASML stocks fell 2.72% following new US export rule tightening, while India joined Pax Silica to cut China out of the AI chip supply chain; meanwhile, Italy's energy crisis halted widespread steel wire rod production and co-legislators agreed on a methane regulation amendment for supply security.",
+    "money": "Microsoft secured a new AI chip supply deal for Azure growth, SK Hynix pledged $1 billion in South Korea to support AI supply, and Samsung finalized a long-term DRAM deal with Apple; these moves contrast with Nvidia facing market share loss to custom ASIC chips despite maintaining its product roadmap.",
+    "watch": "The outcome of the probe into Megaspeed's China supply links involving Alice Huang will determine if Nvidia's dominance fractures, while ASEAN trade security discussions in Manila ahead of Donald Trump's visit could disrupt global logistics structures.",
+    "briefedAt": "2026-11-19T19:28:58.209Z"
   },
   {
     "id": "commoditymarkets",
@@ -42,10 +42,10 @@
   {
     "id": "strategicpartnershipsma",
     "heat": 5,
-    "state": "The FTC has challenged a $3.5B veterinary supply merger, prompting North Carolina and California to join 12 other states in seeking to block the deal over rising pet care costs; simultaneously, Union Pacific is moving forward with a merger that would make shipping cheaper while facing opposition from farmers, labor unions, and dockworkers who fear price suppression.",
-    "money": "UPS is winning by securing a $350 million acquisition of Smartways Logistics to expand Asia Pacific healthcare operations, while TJS Group secured a Marine Corps contract; however, Union Pacific's proposed merger faces significant skepticism regarding cost benefits despite its goal to lower shipping rates for farmers and shippers.",
+    "state": "The FTC challenges a $3.5B veterinary supply merger, prompting North Carolina and California to join 12 other states in blocking the deal over rising pet care costs; Union Pacific faces opposition from farmers, labor unions, and dockworkers despite claiming its merger would lower shipping rates; UPS expands Asia Pacific healthcare via a $350M Smartways Logistics acquisition while TJS Group wins a Marine Corps contract.",
+    "money": "UPS is winning by securing the $350M Smartways deal and expanding operations, whereas Union Pacific faces skepticism regarding cost benefits and potential regulatory expansion if price suppression risks are confirmed; WTI secures USAGM Acquisition Support, and Worldly Agrees to a $350 Million acquisition by UL Solutions.",
     "watch": "The outcome of the UP-NS merger will determine if rail meat exports proceed without union or dockworker opposition, and regulators may expand their challenge to other large-scale mergers in logistics and veterinary sectors if they deem price suppression a risk.",
-    "briefedAt": "2026-11-18T19:20:18.446Z"
+    "briefedAt": "2026-11-19T19:30:53.476Z"
   },
   {
     "id": "portactivityinfrastructu",
@@ -58,25 +58,25 @@
   {
     "id": "freightlinesshipping",
     "heat": 3,
-    "state": "Trans-Pacific ocean freight rates remain elevated despite US midterm political uncertainty, while Great Eastern Shipping reported an 118% rise in Q2 PAT and Cosco profits jumped 81%. Brokers upgraded views on Saudi Arabia's National Shipping Company (TADAWUL:4030), though its earnings appeared weaker than expected. The Gujarat High Court quashed the GST department's rejection of ocean freight IGST refunds, directing a refund with interest for non-litigants like Mohit Minerals.",
-    "money": "Great Eastern Shipping and Cosco are winning by capitalizing on record Q2/Q3 profits and interim dividends driven by rising trade volumes. T3EX Global Holdings saw its Q3 profit surge 270% with EPS up 193.7%, while Maersk faced operational disruption from a $5 million ransomware demand.",
-    "watch": "Monitor if the easing of Hormuz impact continues to reduce diversions into late 2026 as port dwell times remain elevated. Watch for confirmation on whether indicative prices for imported bauxite falling will stabilize market trading or trigger a shift to air freight when ocean fails.",
-    "briefedAt": "2026-11-16T20:55:25.621Z"
+    "state": "Trans-Pacific rates remain elevated despite US midterm political shifts, with spot rates 50% above year-ago levels driven by congestion and fuel costs. Great Eastern Shipping faces NAV resets and trading below VWAP while T3EX Global Holdings posted a 270% profit surge due to volume growth. Brokers upgraded Saudi Arabia's National Shipping Company despite weaker-than-expected earnings, and the Gujarat High Court ordered IGST refunds for ocean freight non-litigants.",
+    "money": "T3EX Global Holdings is winning with Q3 profits up 270% and EPS up 193.7%, while Great Eastern Shipping trades below VWAP despite a 'Strong Buy' rating. Royal Bodewes expanded capacity by launching the Saga VG vessel for Meriaura, but Maersk faces operational disruption from a $5 million ransomware demand.",
+    "watch": "Monitor if Red Sea overcapacity eases as return services expand and whether ocean freight failures trigger a shift to air freight for bauxite imports. Confirm if Drewry Benchmarking Club data integration into Cargoo platforms reveals early signals on port dwell time reductions.",
+    "briefedAt": "2026-11-19T19:25:07.141Z"
   },
   {
     "id": "regionalsupplychains",
-    "heat": 5,
-    "state": "Regional food insecurity is deepening as Serbia, Bosnia and Herzegovina, the Philippines, and Brazil all face declining domestic output leading to higher import needs, while Venezuela reduced food imports by 38.8% due to expanded local production. In parallel, light rare earth prices are rebounding alongside intensified reshoring efforts, with Ukraine positioned to supply 90% of reconstruction materials domestically.",
-    "money": "Who's winning: NEPES secured a presidential citation for strengthening semiconductor supply chains through reshored materials, and Mobilicom is expanding domestic cybersecure datalink production using US-based contract manufacturers. Conversely, American Kraft Heinz is backing Egypt's tomato supply chain to boost local sourcing, demonstrating capital flowing toward nearshoring partners.",
-    "watch": "The outcome of upcoming US elections regarding strategic tariffs could directly impact nearshoring factory growth and Thai energy producers' ability to secure lower tariffs for data center expansion. Additionally, Brazil's fertilizer imports fell 34% while domestic production dropped 40%, signaling a potential supply shock in critical agricultural inputs.",
-    "briefedAt": "2026-11-17T19:41:40.020Z"
+    "heat": 4,
+    "state": "Regional food insecurity is deepening as Serbia, the Philippines, and Brazil face declining domestic output leading to higher import needs, while Zimbabwe mandates local sourcing for lithium miners and the EU may increase sugar imports by 48% due to production gaps. In parallel, light rare earth prices are rebounding alongside intensified reshoring efforts, with Ukraine positioned to supply 90% of reconstruction materials domestically, though power transformer sourcing is globalizing amid regional constraints.",
+    "money": "NEPES secured a presidential citation for strengthening semiconductor supply chains through reshored materials, while Mobilicom expands domestic cybersecure datalink production using US-based contract manufacturers. American Kraft Heinz backs Egypt as a regional export hub targeting 100% local sourcing for tomatoes and other goods, demonstrating capital flowing toward nearshoring partners.",
+    "watch": "The outcome of upcoming US elections regarding strategic tariffs could directly impact nearshoring factory growth and Thai energy producers' ability to secure lower tariffs for data center expansion. Brazil's fertilizer imports fell 34% while domestic production dropped 40%, signaling a potential supply shock in critical agricultural inputs that may ripple through regional food security.",
+    "briefedAt": "2026-11-19T19:27:04.964Z"
   },
   {
     "id": "retailstrategypricing",
     "heat": 5,
-    "state": "Truckload demand has weakened, dropping to the 13th percentile with intermodal rates at the 65th percentile, while USPS seeks a 5.9% price hike and an 11% permanent fuel surcharge following a $6.5 billion loss. Dillard's achieved 1% sales growth in Q3 despite weak comps, whereas CLMT faces margin compression and supply constraints. In Asia, E-mart posted its first 5-trillion-won quarter under Chung Yong-jin's strategy, while David Jones entered voluntary administration in Australia.",
-    "money": "Shipping stocks with pricing power are outperforming as energy trade routes shift, contrasting with retailers like Dillard's managing thin margins and CLMT facing supply squeezes. Amazon continues to gain e-commerce market share by diversifying its logistics network away from UPS.",
-    "watch": "The outcome of Brazil's proposed tariffs regarding China versus India market share, and whether plug-in solar adoption will challenge AGL Energy's retail strategy.",
-    "briefedAt": "2026-11-17T19:40:25.477Z"
+    "state": "Truckload demand has weakened to the 13th percentile while intermodal rates sit at the 65th percentile, and USPS seeks a 5.9% price hike plus an 11% permanent fuel surcharge after a $6.5 billion loss. Retailers are diverging: Lowe's targets market share with digital gains despite tariff refund struggles, Dillard's achieved 1% sales growth on weak comps, CLMT faces margin compression and supply constraints, and E-mart posted its first 5-trillion-won quarter under Chung Yong-jin.",
+    "money": "Lowe's is currently winning by leveraging Pro-Gro digital gains to capture market share despite tariff refund headwinds, whereas CLMT struggles with margin compression and Dillard's relies on thin growth.",
+    "watch": "Monitor the outcome of Brazil's proposed tariffs regarding China versus India market share and whether plug-in solar adoption challenges AGL Energy's retail strategy.",
+    "briefedAt": "2026-11-19T19:22:57.988Z"
   }
 ]

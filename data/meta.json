@@ -1,44 +1,45 @@
 {
   "createdAt": "2026-11-05T16:17:16.035Z",
   "request": "### What do you want to follow?\n\nTrends in retail, supply chain and geopolitics\n\n### Who is it for, and what do you want from it?\n\nI work in retail strategy and want to see supply shocks and tariff changes coming before competitors do.\n\n### A name for your site (optional)\n\nShelf Signal\n\n### Sources you already read or trust (optional)\n\nSupply Chain Dive, Retail Dive, FreightWaves\n\n### YouTube channels you like on this (optional)\n\n_No response_",
-  "collectedAt": "2026-11-18T19:14:25.804Z",
-  "headline": "Bipartisan legislative shifts and geopolitical flashpoints are creating a volatile trade environment where tariff relief is imminent but regional supply risks remain acute.",
+  "collectedAt": "2026-11-19T19:18:35.828Z",
+  "headline": "Tariff refunds are driving corporate strategy and margin protection, while geopolitical tensions in trade deals and port congestion threaten regional supply reliability.",
   "forces": [
     {
       "t": "tradepolicytariffs",
-      "b": "A bipartisan push to restrict presidential tariff power has gained traction with three bills in Congress, while importers anticipate receiving $166 billion in universal refunds. Simultaneously, the EU and UK are delaying a 10% tariff on electric cars following industry pushback, and China-US liaison continues on reciprocal cuts.",
+      "b": "Target booked $301 million in tariff refunds this quarter, nearly a fifth of its operating profit, which also boosted earnings despite margin compression elsewhere. Companies risk consumer trust by using these windfalls for employee bonuses rather than inventory investment.",
       "s": [
         "tradepolicytariffs",
-        "strategicpartnershipsma"
+        "retailstrategypricing"
       ]
     },
     {
       "t": "logisticsfreightrates",
-      "b": "Ocean freight rates remain elevated despite easing from near-record peaks, with port congestion now described as a 'new normal' in the US. The Black Sea has emerged as the world's deadliest shipping lane due to the Ukraine war, complicating global logistics.",
+      "b": "Port congestion in Asia-Europe and Durban is driving medicine shortages, while private sector investment has yet to ease bottlenecks at Durban. A $200 million Maputo port expansion aims to strengthen regional trade gateways amid this infrastructure strain.",
       "s": [
         "logisticsfreightrates",
-        "geopoliticalsupplyrisks"
-      ]
-    },
-    {
-      "t": "retailinventorystockouts",
-      "b": "While $166 billion in tariff refunds are expected to benefit US retail importers stocks, India has detained 85 containers of Scotch whisky and continues to hold Pernod Diageo shipments due to disputes. These friction points threaten specific regional inventory flows despite broader refund hopes.",
-      "s": [
-        "retailinventorystockouts",
+        "portactivityinfrastructu",
         "regionalsupplychains"
       ]
     },
     {
       "t": "geopoliticalsupplyrisks",
-      "b": "The Ukraine war has turned the Black Sea into a high-risk zone, while Iran claims attacks on Omani islands aim to disrupt oil infrastructure. Additionally, Russia's African arms trade involving gold and guns adds another layer of geopolitical complexity.",
+      "b": "India is imposing a 165.2% duty on bulk Scotch imports, while the Quad shrugs off Trump's tariff talk in favor of mineral and sea patrol focus. Carney notes that US trade friction is giving China an edge on EVs, complicating global market access.",
       "s": [
         "geopoliticalsupplyrisks",
+        "strategicpartnershipsma"
+      ]
+    },
+    {
+      "t": "retailinventorystockouts",
+      "b": "Medicine shortages are deepening due to Durban port backlogs, and retailers face stock-out risks during the pre-Lunar New Year peak amid poor reliability. Lowe's earnings show that even tariff refunds could not prevent margin compression.",
+      "s": [
+        "retailinventorystockouts",
         "commoditymarkets"
       ]
     }
   ],
-  "pictureAt": "2026-11-12T18:48:47.106Z",
-  "ideasAt": "2026-11-12T18:53:01.466Z",
-  "curatedAt": "2026-11-18T19:29:38.198Z",
+  "pictureAt": "2026-11-19T19:34:04.796Z",
+  "ideasAt": "2026-11-19T19:41:36.450Z",
+  "curatedAt": "2026-11-19T19:41:36.455Z",
   "glossaryAt": "2026-11-16T21:04:45.427Z"
 }

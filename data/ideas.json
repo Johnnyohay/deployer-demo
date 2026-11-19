@@ -1,5 +1,38 @@
 [
   {
+    "id": "i-20261119-tradepolicytariffs",
+    "t": "tradepolicytariffs",
+    "what": "Monitor the specific tariff exemptions and refund claims filed by major retailers like Target to identify which supply chains are currently protected from new levies.",
+    "why": "Target recently booked $301 million in refunds, proving that immediate financial relief is available for compliant suppliers, whereas competitors facing unannounced tariffs will see margin compression similar to Lowe's.",
+    "sectors": [
+      "tradepolicytariffs",
+      "retailstrategypricing"
+    ],
+    "at": "2026-11-19"
+  },
+  {
+    "id": "i-20261119-logisticsfreightrates",
+    "t": "logisticsfreightrates",
+    "what": "Analyze the surge in freight rates and port congestion reports for Asia-Europe routes to anticipate delays before they impact inventory levels.",
+    "why": "The pre-Lunar New Year peak is hitting amid poor reliability, and Durban port backlog is already causing medicine shortages, indicating systemic friction that will ripple into retail stockouts.",
+    "sectors": [
+      "logisticsfreightrates",
+      "retailinventorystockouts"
+    ],
+    "at": "2026-11-19"
+  },
+  {
+    "id": "i-20261119-geopoliticalsupplyrisks",
+    "t": "geopoliticalsupplyrisks",
+    "what": "Track the shifting trade agreements between India, China, and Canada to predict which commodity imports (like canola oil or lithium) will face sudden duty increases.",
+    "why": "While new deals like the $400M Canada-China pact are expanding, specific items still face massive tariffs (e.g., 165% on Scotch), creating unpredictable supply shocks for retailers dependent on these regions.",
+    "sectors": [
+      "geopoliticalsupplyrisks",
+      "commoditymarkets"
+    ],
+    "at": "2026-11-19"
+  },
+  {
     "id": "i-20261112-monitor-the-bipartisan-push-to-curb-presidential-t",
     "t": "Monitor the bipartisan push to curb presidential tariff power alongside ongoing US-China liaison on cuts.",
     "what": "Retailers should prepare contingency plans assuming potential tariff reductions could lower import costs for key categories like electronics and apparel.",

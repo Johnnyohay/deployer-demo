@@ -724,6 +724,17 @@
     "ref": "u-20261118-india-says-us-trade-deal-nearly-ready-signing-may-"
   },
   {
+    "id": "c-20261125-india-us-trade-deal-signing",
+    "d": "2026-11-25",
+    "approx": true,
+    "title": "India-US Trade Deal Signing",
+    "why": "Significant delays in finalizing the trade agreement with India could impact market stability and supply chain reliability.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "ref": "u-20261118-india-says-us-trade-deal-nearly-ready-signing-may-"
+  },
+  {
     "id": "c-20261129-asean-leaders-discuss-trade-security-ahead-of-trum",
     "d": "2026-11-29",
     "approx": true,
@@ -756,6 +767,17 @@
       "tradepolicytariffs"
     ],
     "ref": "u-20261109-china-extends-suspension-of-24-tariff-on-us-import"
+  },
+  {
+    "id": "c-20261231-completion-of-usagm-acquisition-support-contract-b",
+    "d": "2026-12-31",
+    "approx": true,
+    "title": "Completion of USAGM Acquisition Support Contract by WTI",
+    "why": "The contract's end date marks a critical transition point for energy supply security and market dynamics.",
+    "sectors": [
+      "commoditymarkets"
+    ],
+    "ref": "u-20261119-wti-wins-again-secures-usagm-acquisition-support-c"
   },
   {
     "id": "c-20270101-end-of-duty-free-access-for-african-car-producers",
@@ -815,6 +837,40 @@
     "ref": "u-20261108-after-midterm-defeat-democrats-take-aim-at-tariffs"
   },
   {
+    "id": "c-20270131-six-month-operating-contract-for-chittagong-contai",
+    "d": "2027-01-31",
+    "approx": true,
+    "title": "Six-Month Operating Contract for Chittagong Container Terminal",
+    "why": "The expiration of this contract will influence regional port activity and logistics efficiency in South Asia.",
+    "sectors": [
+      "portactivityinfrastructu",
+      "logisticsfreightrates"
+    ],
+    "ref": "u-20261119-four-firms-bid-for-six-month-operating-contract-fo"
+  },
+  {
+    "id": "c-20270430-end-of-eight-year-natural-gas-supply-agreement-bet",
+    "d": "2027-04-30",
+    "approx": true,
+    "title": "End of Eight-Year Natural Gas Supply Agreement between SEFE and Tourmaline",
+    "why": "This deadline is crucial for ensuring continued energy supply stability in the region.",
+    "sectors": [
+      "commoditymarkets"
+    ],
+    "ref": "u-20261119-sefe-and-tourmaline-conclude-eight-year-natural-ga"
+  },
+  {
+    "id": "c-20270515-maputo-port-expansion-investment-completion",
+    "d": "2027-05-15",
+    "approx": true,
+    "title": "Maputo Port Expansion Investment Completion",
+    "why": "The $200 million container terminal investment aims to strengthen regional trade gateways and reduce congestion.",
+    "sectors": [
+      "portactivityinfrastructu"
+    ],
+    "ref": "u-20261119-maputo-port-expansion-200-mn-container-terminal-in"
+  },
+  {
     "id": "c-20270531-thailand-us-trade-pact-finalization",
     "d": "2027-05-31",
     "approx": true,
@@ -824,6 +880,17 @@
       "tradepolicytariffs"
     ],
     "ref": "u-20261118-thailand-eyes-us-trade-pact-in-two-months-and-forc"
+  },
+  {
+    "id": "c-20270630-end-of-six-month-operating-contract-for-chittagong",
+    "d": "2027-06-30",
+    "approx": true,
+    "title": "End of Six-Month Operating Contract for Chittagong Container Terminal (Extension Deadline)",
+    "why": "If not renewed before this date, the contract may lapse, affecting port operations and regional logistics.",
+    "sectors": [
+      "portactivityinfrastructu"
+    ],
+    "ref": "u-20261119-four-firms-bid-for-six-month-operating-contract-fo"
   },
   {
     "id": "c-20271231-smic-ai-chip-supply-chain-tightness-persists-throu",

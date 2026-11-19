@@ -117,7 +117,7 @@
     "aliases": [
       "USA"
     ],
-    "latest": "2026-11-11: Harmonized Tariff Schedule of the United States Revision 22 (2026)"
+    "latest": "2026-11-19: Poland company signs deal to supply Ukraine with natural gas from United States"
   },
   {
     "id": "world-trade-organization",
@@ -244,7 +244,7 @@
     ],
     "about": "Indian shipping firm focusing on gas carriers, with recent dividend declarations and profit jumps.",
     "aliases": [],
-    "latest": "2026-11-16: Great Eastern Shipping Company puts NAV reset at Rs 250",
+    "latest": "2026-11-19: The Great Eastern Shipping Company - CreditAccess Grameen among 7 stocks closing below VWAP",
     "addedAt": "2026-11-07T16:59:35.572Z"
   },
   {
@@ -284,7 +284,7 @@
     "sectors": [],
     "about": "Leading semiconductor manufacturer whose leadership uncertainty and supply chain issues with Korean partners are impacting global chip availability.",
     "aliases": [],
-    "latest": "2026-11-18: Nvidia, Geopolitics, Export Controls, and D&O Risk",
+    "latest": "2026-11-19: Nvidia maintains product roadmap as AI chip supply chain impact stays limited",
     "addedAt": "2026-11-12T18:51:59.428Z"
   },
   {
@@ -351,7 +351,7 @@
     ],
     "about": "Extended a 24% US tariff suspension with port fee waivers for two months.",
     "aliases": [],
-    "latest": "2026-11-18: Carney says Trump’s trade war is giving China an edge on EVs",
+    "latest": "2026-11-19: What impact will the Shenzhen summit have on the US-China trade war?",
     "addedAt": "2026-11-14T16:56:29.657Z"
   },
   {
@@ -379,7 +379,7 @@
     ],
     "about": "Energy commodity experiencing price spikes due to cold weather, LNG export records, and geopolitical supply concerns regarding the Strait of Hormuz.",
     "aliases": [],
-    "latest": "2026-11-18: U.S. natural gas inventories end injection season above normal levels",
+    "latest": "2026-11-19: SEFE and Tourmaline conclude eight-year natural gas supply agreement",
     "addedAt": "2026-11-16T21:01:20.138Z"
   },
   {
@@ -435,5 +435,33 @@
     "aliases": [],
     "latest": "2026-11-18: TC Energy Proposes 370-Kilometer Natural Gas Pipeline to Supply Alberta Oil Sands",
     "addedAt": "2026-11-18T19:29:38.195Z"
+  },
+  {
+    "id": "target",
+    "name": "Target",
+    "kind": "company",
+    "type": "Company",
+    "sectors": [
+      "retailstrategypricing",
+      "tradepolicytariffs"
+    ],
+    "about": "Major US retailer receiving significant tariff refunds that boosted quarterly profits and sales outlook.",
+    "aliases": [],
+    "latest": "2026-11-19: Target booked $301 million from tariff refunds this quarter, nearly a fifth of its operating profit",
+    "addedAt": "2026-11-19T19:38:50.924Z"
+  },
+  {
+    "id": "tjx",
+    "name": "TJX",
+    "kind": "company",
+    "type": "Company",
+    "sectors": [
+      "retailstrategypricing",
+      "tradepolicytariffs"
+    ],
+    "about": "US retail company allocating substantial tariff refund funds to executive bonuses while maintaining store expansion plans.",
+    "aliases": [],
+    "latest": "2026-11-18: TJX spends $167M in tariff refunds on executive and employee bonuses",
+    "addedAt": "2026-11-19T19:38:50.924Z"
   }
 ]
