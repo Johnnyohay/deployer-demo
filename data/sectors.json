@@ -2,22 +2,22 @@
   {
     "id": "tradepolicytariffs",
     "heat": 5,
-    "state": "The US is nearing a final trade agreement with India to resolve the 162.5% duty threat on Scotch imports, while simultaneously wrapping up a major deal with the Philippines; Canada has extended its Chinese aluminium and pork relief through 2028 despite canola oil facing a 100% tariff. Retailers Target booked $301 million in refunds this quarter, representing nearly a fifth of its operating profit, while Lowe's saw margin compression even with these windfalls. Corporate executives are receiving billions in tariff refunds as bonuses, including $2.9 billion previously taken by Walmart, creating a trust deficit among consumers who face estimated $700 cost increases without compensation.",
+    "state": "The US is nearing a final trade agreement with India to resolve the 165.2% duty threat on Scotch imports, while simultaneously wrapping up a major deal with the Philippines; Canada has extended its Chinese aluminium and pork relief through 2028 despite canola oil facing a 100% tariff. Retailers Target booked $301 million in refunds this quarter, representing nearly a fifth of its operating profit, while Lowe's saw margin compression even with these windfalls. Corporate executives are receiving billions in tariff refunds as bonuses, including $2.9 billion previously taken by Walmart, creating a trust deficit among consumers who face estimated $700 cost increases without compensation.",
     "money": "The US is winning the immediate trade relief game by securing near-final agreements with India and the Philippines, while Canada solidifies its alliance with China through extended tariff exemptions until 2028. However, US retailers like Target and Lowe's are seeing profits artificially boosted by these refunds rather than passed to consumers, creating a trust deficit as companies spend windfalls on executive bonuses instead of reimbursing shoppers.",
     "watch": "Monitor the outcome of the India-US trade deal signing next week, which could alter regional tariff landscapes if it resolves the Scotch import standoff or triggers further retaliation from China on AI GPU rentals. Additionally, watch for congressional investigations into how companies are using refunds for employee bonuses, as senators have already demanded inquiries that could force a shift in refund distribution policies.",
-    "briefedAt": "2026-11-19T19:20:56.747Z"
+    "briefedAt": "2026-11-20T18:59:39.849Z"
   },
   {
     "id": "logisticsfreightrates",
     "heat": 5,
-    "state": "Global freight rates have eased slightly while port congestion persists, tying up 10% of the fleet at major hubs. The Black Sea is now designated as the world's deadliest shipping lane due to Houthi drone warfare reaching a strategic island at its mouth and Ukraine attacks on key infrastructure. Major carriers like Maersk, Hapag-Lloyd, and HMM are reporting earnings surges driven by AI-fueled demand and ongoing Far East congestion.",
-    "money": "Hapag-Lloyd and HMM are winning with Q3 earnings surges and fivefold profit jumps respectively, leveraging elevated rates caused by cargo surges and AI adoption. Maersk is securing margin growth by citing both AI buildout and port issues as key drivers for its raised 2026 profit outlook.",
-    "watch": "Unresolved contract talks at Los Angeles and Long Beach risk triggering renewed strikes, while ships returning through the Suez Canal could limit November freight rate increases. The Supreme Court upheld an importer's right to release goods without demurrage charges, but new congestion allegations at Walvis Bay and Transnet halts in South Africa suggest regional bottlenecks remain active.",
-    "briefedAt": "2026-11-18T19:18:32.569Z"
+    "state": "Port congestion remains a structural issue, tying up approximately 10% of the global fleet at major hubs and persisting despite easing peak season pressures. Regional bottlenecks are acute in South Africa, where Durban port congestion has worsened medicine shortages and Transnet halted mine truck dispatches for 48 hours due to delays. Meanwhile, the Black Sea shipping lane is blocked by Ukraine attacks on key infrastructure, and an Arctic route has been identified as a potential substitute.",
+    "money": "Major carriers like ZIM are facing earnings tests driven by freight rate rallies that fuel revenue rebounds, while MSC notes congestion has become a new normal affecting operations. Private sector investments remain insufficient to resolve Durban's crisis, yet technology start-ups are raising capital to tackle the 'hidden tariff' of port delays.",
+    "watch": "The Supreme Court ruling on demurrage charges in Mumbai and the government's move to decouple shipping line releases from customs clearance may alter cost structures for importers. Upcoming contract disputes at Los Angeles and Long Beach pose a risk of renewed strikes that could disrupt cargo movement at the busiest U.S. container port.",
+    "briefedAt": "2026-11-20T19:04:00.266Z"
   },
   {
     "id": "retailinventorystockouts",
-    "heat": 4,
+    "heat": 3,
     "state": "Global energy crises are deepening as efforts to plug supply gaps fail, specifically affecting Mexico's natural gas reserves and U.S. wine exports which plunged 78%. In travel retail, SKU growth continues to outpace available shelf space, while Ciena faces a supply test where backlog meets pricing power constraints.",
     "money": "WELCORP is winning with record H1 EBITDA driven by strong backlog orders that are currently tempering regional supply-chain risks.",
     "watch": "Industry leaders will monitor how the deepening energy crisis impacts future resolution of global supply gaps and if shelf space constraints force further SKU reductions in travel retail.",
@@ -37,23 +37,23 @@
     "state": "U.S. natural gas inventories remain above normal levels after ending injection season, contradicting previous cold-driven price spikes and UBS's cut to 2027 price forecasts. Copper prices have cratered amid unwinding AI tariff trades and recessionary demand signals, while Australian miners extend losses on commodity weakness. Extreme weather continues to pose growing risks to global oil and gas shipping, with European natural gas rising due to Mideast tensions despite a cold outlook.",
     "money": "Blackstone is winning the infrastructure play by acquiring the Portland pipeline to address New England supply crunches, while TC Energy advances its 370-kilometer pipeline proposal to link Alberta's oil sands. TotalEnergies maintains dominance in long-term LNG supply via its five-year deal with UAE's ADNOC, and Iran executes strategic imports of 110 bcm annually through a new Russian pipeline.",
     "watch": "The execution of the TC Energy pipeline and Blackstone's Portland acquisition will determine if global trade flows shift away from current bottlenecks. Traders must watch whether extreme weather disruptions to shipping can override supply stories that currently keep Brent oil near $89.15.",
-    "briefedAt": "2026-11-18T19:24:09.355Z"
+    "briefedAt": "2026-11-20T19:06:02.239Z"
   },
   {
     "id": "strategicpartnershipsma",
     "heat": 5,
-    "state": "The FTC challenges a $3.5B veterinary supply merger, prompting North Carolina and California to join 12 other states in blocking the deal over rising pet care costs; Union Pacific faces opposition from farmers, labor unions, and dockworkers despite claiming its merger would lower shipping rates; UPS expands Asia Pacific healthcare via a $350M Smartways Logistics acquisition while TJS Group wins a Marine Corps contract.",
+    "state": "The FTC challenges a $3.5B veterinary supply merger, prompting North Carolina, California, and Oregon to join 12 other states in blocking the deal over rising pet care costs; Union Pacific faces opposition from farmers, labor unions, dockworkers, and Maryland's Port of New Orleans regarding its UP-NS merger despite claiming it will lower shipping rates; Worldly Agrees to a $350 Million acquisition by UL Solutions while UPS expands Asia Pacific healthcare via a planned Smartways Logistics deal.",
     "money": "UPS is winning by securing the $350M Smartways deal and expanding operations, whereas Union Pacific faces skepticism regarding cost benefits and potential regulatory expansion if price suppression risks are confirmed; WTI secures USAGM Acquisition Support, and Worldly Agrees to a $350 Million acquisition by UL Solutions.",
-    "watch": "The outcome of the UP-NS merger will determine if rail meat exports proceed without union or dockworker opposition, and regulators may expand their challenge to other large-scale mergers in logistics and veterinary sectors if they deem price suppression a risk.",
-    "briefedAt": "2026-11-19T19:30:53.476Z"
+    "watch": "Regulators may expand their challenge to other large-scale mergers in logistics and veterinary sectors if they deem price suppression a risk, and the outcome of the UP-NS merger will determine if rail meat exports proceed without union or dockworker opposition.",
+    "briefedAt": "2026-11-20T19:10:03.580Z"
   },
   {
     "id": "portactivityinfrastructu",
     "heat": 4,
-    "state": "Port congestion remains a structural reality with the Port of Los Angeles at its highest volume in 118 years and Westports reporting that congestion continues to keep freight rates elevated despite easing peak-season pressures. While MSC declares this state permanent, regional hubs are responding with hard infrastructure; Sabah deployed new parking yards at Sepanggar following a fatal crash, Bangladesh signed a 15-year deal for Chittagong's New Mooring Terminal, and Kandla Port hit 130.03 MMT cargo volume representing a 35.72% year-over-year increase. Simultaneously, geopolitical friction is disrupting throughput as Iran claims an attack on Omani oil shipping infrastructure and Transnet halted mine truck dispatches for 48 hours at Richards Bay Port.",
-    "money": "MSC is positioning itself as the primary beneficiary by framing congestion as a permanent market condition, while Wan Hai remains bullish on nearly 20% volume growth in 2027 despite warnings that ship upscaling could exacerbate bottlenecks. Regional players like Adani Ports are capitalizing on global surges by racing to secure deals such as an Rs 11,733-crore VOC Port container terminal agreement, whereas companies like International Container Terminal Services face potential stock discounts relative to cash flow.",
-    "watch": "Monitor the implementation of importer empty container depots and railway-linked storage solutions to determine if they can alleviate congestion before it cascades further into solar equipment deliveries. Watch for the impact of ongoing typhoon recovery in Ningbo and record Middle East delays on broader supply chain throughput, particularly regarding the alleged attack on Omani oil infrastructure.",
-    "briefedAt": "2026-11-18T19:26:22.906Z"
+    "state": "Port congestion remains structural, with the Port of Los Angeles at its highest volume in 118 years and Westports reporting that congestion keeps freight rates elevated. In South Africa, Transnet halted mine truck dispatches for 48 hours at Richards Bay Port due to congestion, while ICTSI put Durban on notice over a worsening crisis that is also causing medicine shortages. Globally, Kandla hit 130.03 MMT cargo volume (a 35.72% year-over-year increase) and the Asia-Europe pre-Lunar New Year peak hit amid poor reliability.",
+    "money": "MSC frames congestion as a permanent new normal to position itself as the primary beneficiary, while Wan Hai remains bullish on nearly 20% volume growth in 2027 despite warnings that ship upscaling could worsen bottlenecks. Regional players like Adani Ports are capitalizing on surges with deals such as an Rs 11,733-crore VOC Port container terminal agreement, whereas International Container Terminal Services faces potential stock discounts relative to cash flow.",
+    "watch": "Monitor the implementation of importer empty container depots and railway-linked storage solutions to determine if they can alleviate congestion before it cascades into solar equipment delays. Watch for the impact of ongoing typhoon recovery in Ningbo and record Middle East delays on broader supply chain throughput, particularly regarding alleged attacks on Omani oil infrastructure.",
+    "briefedAt": "2026-11-20T19:01:56.198Z"
   },
   {
     "id": "freightlinesshipping",
@@ -65,11 +65,11 @@
   },
   {
     "id": "regionalsupplychains",
-    "heat": 4,
-    "state": "Regional food insecurity is deepening as Serbia, the Philippines, and Brazil face declining domestic output leading to higher import needs, while Zimbabwe mandates local sourcing for lithium miners and the EU may increase sugar imports by 48% due to production gaps. In parallel, light rare earth prices are rebounding alongside intensified reshoring efforts, with Ukraine positioned to supply 90% of reconstruction materials domestically, though power transformer sourcing is globalizing amid regional constraints.",
-    "money": "NEPES secured a presidential citation for strengthening semiconductor supply chains through reshored materials, while Mobilicom expands domestic cybersecure datalink production using US-based contract manufacturers. American Kraft Heinz backs Egypt as a regional export hub targeting 100% local sourcing for tomatoes and other goods, demonstrating capital flowing toward nearshoring partners.",
-    "watch": "The outcome of upcoming US elections regarding strategic tariffs could directly impact nearshoring factory growth and Thai energy producers' ability to secure lower tariffs for data center expansion. Brazil's fertilizer imports fell 34% while domestic production dropped 40%, signaling a potential supply shock in critical agricultural inputs that may ripple through regional food security.",
-    "briefedAt": "2026-11-19T19:27:04.964Z"
+    "heat": 5,
+    "state": "Zimbabwe now mandates local sourcing for lithium miners and imposes a 10% sulphate-based export tax, risking a 2027 ban that could leave 1.4 million tonnes of stockpiled material unused. Meanwhile, Brazil's fertilizer domestic production dropped 40% while imports fell 34%, and the Philippines faces higher sugar import needs due to low cane yields, whereas the EU may increase sugar imports by 48%. In parallel, Ukraine can supply 90% of reconstruction materials domestically, but power transformer sourcing is globalizing amid regional constraints.",
+    "money": "American Kraft Heinz is winning by backing Egypt as a regional export hub targeting 100% local sourcing for tomatoes, while Mobilicom expands domestic cybersecure datalink production using US-based contract manufacturers. MFDS in South Korea orders domestic production of three cancer and antibiotic drugs to secure supply within the year.",
+    "watch": "The outcome of upcoming US elections regarding strategic tariffs could directly impact nearshoring factory growth and Thai energy producers' ability to secure lower tariffs for data center expansion. Zimbabwe's potential 2027 export ban on lithium requires monitoring to see if the 1.4 million tonnes of stockpiled material can be utilized domestically.",
+    "briefedAt": "2026-11-20T19:08:06.191Z"
   },
   {
     "id": "retailstrategypricing",

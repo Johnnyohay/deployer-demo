@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-20",
+  "title": "Today in retail, supply chain and geopolitics",
+  "big": "44 new stories since the last brief. The busiest areas: trade policy & tariffs and logistics & freight rates.",
+  "stories": [
+    {
+      "tag": "Trade Policy & Tariffs",
+      "h": "Technology start-up raises $11.3m in mission to tackle ‘hidden tariff’ of port congestion",
+      "what": "Technology start-up raises $11.3m in mission to tackle ‘hidden tariff’ of port congestion",
+      "you": "Early tariff signals indicate which products will face margin compression first.",
+      "ref": "u-20261119-technology-start-up-raises-11-3m-in-mission-to-tac"
+    },
+    {
+      "tag": "Commodity Markets",
+      "h": "United States Seen as ‘Single Largest Source of Natural Gas Supply Growth’ to 2035",
+      "what": "United States Seen as ‘Single Largest Source of Natural Gas Supply Growth’ to 2035",
+      "you": "Raw material price jumps are the root cause of retail margin erosion.",
+      "ref": "u-20261120-united-states-seen-as-single-largest-source-of-nat"
+    },
+    {
+      "tag": "Logistics & Freight Rates",
+      "h": "ICTSI put on notice over Durban port congestion crisis",
+      "what": "ICTSI put on notice over Durban port congestion crisis",
+      "you": "Sudden rate spikes or port bottlenecks are the earliest warning signs of shelf shortages.",
+      "ref": "u-20261120-ictsi-put-on-notice-over-durban-port-congestion-cr"
+    },
+    {
+      "tag": "Freight Lines & Shipping",
+      "h": "Top 10 China FBA Ocean Freight Forwarders: A 2026 Ranked Comparison",
+      "what": "Top 10 China FBA Ocean Freight Forwarders: A 2026 Ranked Comparison",
+      "you": "Fleet reductions or route changes indicate long-term supply constraints.",
+      "ref": "u-20261120-top-10-china-fba-ocean-freight-forwarders-a-2026-r"
+    },
+    {
+      "tag": "Geopolitical Supply Risks",
+      "h": "Chip supply chain warns of broader disruption from new US export controls",
+      "what": "Chip supply chain warns of broader disruption from new US export controls",
+      "you": "Regional conflicts and energy shocks directly translate into retail cost increases.",
+      "ref": "u-20261120-chip-supply-chain-warns-of-broader-disruption-from"
+    }
+  ],
+  "watch": {
+    "h": "China extends suspension of 24% tariff on US imports for two months",
+    "why": "November 21. The extension delays the imposition of new duties, providing temporary relief to US importers and stabilizing trade flows between the two nations."
+  },
+  "idea": {
+    "h": "Leverage the $166 billion tariff refund opportunity to optimize working capital for import-dependent retailers.",
+    "why": "Analyze which specific import categories will benefit most from the universal refunds and adjust stock levels accordingly. Fortune reports that American importers are one step closer to receiving massive refunds, creating a window to reduce cash flow constraints and potentially lower consumer prices."
+  },
+  "auto": true
+}

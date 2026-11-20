@@ -1,12 +1,82 @@
 [
  {
+  "id": "aVuOJ05eTYk",
+  "title": "FreightWaves Today | November 20",
+  "channel": "FreightWaves",
+  "topic": "tradepolicytariffs",
+  "d": "2026-11-20T16:59:43+00:00",
+  "short": false,
+  "views": 32,
+  "desc": "Craig and Julie talk to Julia Fuchs from BMW Manufacturing about their new high voltage battery facility that just opened up in South Carolina. Julie has a SONAR market update looking at tender rejections volume, and rail as we head into the holiday season."
+ },
+ {
+  "id": "3uZRn8zrHZ0",
+  "title": "Power Is Now the #1 Factor in Warehouse Leasing",
+  "channel": "FreightWaves",
+  "topic": "tradepolicytariffs",
+  "d": "2026-11-20T14:41:53+00:00",
+  "short": false,
+  "views": 51,
+  "desc": "Power is now the first question tenants ask, before location or square footage. FreightWaves Enterprise Trucking Analyst Thomas Wasson sits down with Brandon Page, Executive Vice President, Head of Leasing & Customer Solutions at Link Logistics, for a market update on industrial…"
+ },
+ {
+  "id": "Ga6y6I6c_mE",
+  "title": "Einride Books $167M Revenue, NYC Delivery Bill Battle, & PACCAR Radar Recall | The Morning Minute",
+  "channel": "FreightWaves",
+  "topic": "tradepolicytariffs",
+  "d": "2026-11-20T14:30:29+00:00",
+  "short": false,
+  "views": 68,
+  "desc": "In this episode, we kick things off by examining how a Swedish autonomous freight startup is making a strategic bet on borrowed intelligence rather than building its own AI from scratch."
+ },
+ {
+  "id": "vRS9I4txZ5Y",
+  "title": "FreightWaves Today | November 19",
+  "channel": "FreightWaves",
+  "topic": "tradepolicytariffs",
+  "d": "2026-11-20T06:23:46+00:00",
+  "short": false,
+  "views": 178,
+  "desc": "Zach and Malcolm talk with Eric Lemus, Vice President of Strategy and Data Analytics for a peak season update. The Zach has a SONAR market update. We then transition to Freightonomics, where Zach will bring on DJ Donahue to talk retail ahead of the holiday season."
+ },
+ {
+  "id": "KOUwnWNJ6ec",
+  "title": "Beyond the Gold Rush: Protecting the AI Supply Chain",
+  "channel": "FreightWaves",
+  "topic": "tradepolicytariffs",
+  "d": "2026-11-19T20:56:16+00:00",
+  "short": false,
+  "views": 73,
+  "desc": "FreightWaves’ Thomas Wasson talks with David Warrick, EVP of Enterprise at Overhaul, about the growing wave of cargo theft targeting AI infrastructure."
+ },
+ {
+  "id": "GArNL3RsvTg",
+  "title": "Will Retail Keep Achieving? | Freightonomics",
+  "channel": "FreightWaves",
+  "topic": "tradepolicytariffs",
+  "d": "2026-11-19T20:15:12+00:00",
+  "short": false,
+  "views": 232,
+  "desc": "Zach and DJ take a deeper dive into why the American consumer remains so resilient despite the inflationary headwinds."
+ },
+ {
+  "id": "Kt-lvxzMEQE",
+  "title": "FreightWaves Today | November 19",
+  "channel": "FreightWaves",
+  "topic": "tradepolicytariffs",
+  "d": "2026-11-19T20:00:20+00:00",
+  "short": false,
+  "views": 156,
+  "desc": "A contract dispute involving about 250 port watchmen could shut down major cargo operations at Los Angeles and Long Beach as soon as this Saturday. FreightWaves Today for November 19, 2026 covers the strike threat, peak season, and the freight market."
+ },
+ {
   "id": "o-YoHQFisrE",
   "title": "Trucking Rejection Rates: Why Holiday Shipping Gets SPICY",
   "channel": "FreightWaves",
   "topic": "tradepolicytariffs",
   "d": "2026-11-19T18:47:43+00:00",
   "short": false,
-  "views": 8,
+  "views": 407,
   "desc": "SONAR data reveals early signals of a tightening market ahead of Thanksgiving. Historically, this period sees a slight increase in tender rejection rates."
  },
  {
@@ -16,7 +86,7 @@
   "topic": "tradepolicytariffs",
   "d": "2026-11-19T18:39:45+00:00",
   "short": false,
-  "views": 1,
+  "views": 88,
   "desc": "Carrier rates fell last quarter, but operators barely felt the savings. Eric Lemus from Deposco breaks down the unexpected disconnect in Q3 shipping costs."
  },
  {
@@ -26,18 +96,8 @@
   "topic": "tradepolicytariffs",
   "d": "2026-11-19T18:06:44+00:00",
   "short": false,
-  "views": 31,
+  "views": 526,
   "desc": "What if the biggest threat to American trucking isn’t Washington, Wall Street, or autonomous trucks... but an industry that’s been convinced to fight ITSELF?! Driver retention is struggling. Recruiting never stops. Lease-purchase programs promise ownership."
- },
- {
-  "id": "vRS9I4txZ5Y",
-  "title": "FreightWaves Today | November 19",
-  "channel": "FreightWaves",
-  "topic": "tradepolicytariffs",
-  "d": "2026-11-19T17:09:34+00:00",
-  "short": false,
-  "views": 45,
-  "desc": "Zach and Malcolm talk with Eric Lemus, Vice President of Strategy and Data Analytics for a peak season update. The Zach has a SONAR market update. We then transition to Freightonomics, where Zach will bring on DJ Donahue to talk retail ahead of the holiday season."
  },
  {
   "id": "1-QAhHdZeSY",
@@ -46,7 +106,7 @@
   "topic": "tradepolicytariffs",
   "d": "2026-11-19T16:36:22+00:00",
   "short": false,
-  "views": 8,
+  "views": 30,
   "desc": "The team looks at the past, present and future of a retail model that has long been a fixture of the season."
  },
  {
@@ -56,7 +116,7 @@
   "topic": "tradepolicytariffs",
   "d": "2026-11-19T16:15:07+00:00",
   "short": false,
-  "views": 19,
+  "views": 179,
   "desc": "The number of tractors running in fleets of one to six trucks has dropped by roughly 45,000 from its mid-2023 peak. The easy story is that owner-operators are quitting. The data says something more complicated, and more useful."
  },
  {
@@ -66,7 +126,7 @@
   "topic": "tradepolicytariffs",
   "d": "2026-11-19T14:30:11+00:00",
   "short": false,
-  "views": 122,
+  "views": 201,
   "desc": "In this episode, we kick things off at the nation's busiest port complex, where a narrow contract dispute involving just 250 union watchmen threatens to cascade into a full-scale shutdown of major cargo operations as soon as this Saturday."
  },
  {
@@ -76,7 +136,7 @@
   "topic": "tradepolicytariffs",
   "d": "2026-11-19T06:31:25+00:00",
   "short": false,
-  "views": 273,
+  "views": 311,
   "desc": "Craig and Malcolm talk to Jack Freker, the CEO of Lean Solutions, about automation. After that conversation, we talk to Gene Seroka from the Port of Los Angeles about the historic October the port just had and they're holiday out. Lastly, we wrap things up with a SONAR update."
  },
  {
@@ -86,7 +146,7 @@
   "topic": "tradepolicytariffs",
   "d": "2026-11-18T21:59:06+00:00",
   "short": false,
-  "views": 110,
+  "views": 132,
   "desc": "Will AI replace trucking jobs, or make the people in them better at their work? On WHAT THE TRUCK?!? for November 18, 2026, four guests dig into AI in dispatch, fleet maintenance, diesel costs, and technology ROI."
  },
  {
@@ -96,7 +156,7 @@
   "topic": "tradepolicytariffs",
   "d": "2026-11-18T21:33:30+00:00",
   "short": false,
-  "views": 121,
+  "views": 145,
   "desc": "90% of transportation and logistics executives report that their AI and technology investments have met or exceeded expectations. But are they asking the right questions about quantifiable business outcomes?"
  },
  {
@@ -1496,7 +1556,7 @@
   "topic": "tradepolicytariffs",
   "d": "2026-10-29T20:19:01+00:00",
   "short": false,
-  "views": 119,
+  "views": 120,
   "desc": "Consumers are zeroed in on price heading into the holiday season now more than ever, and Walmart is taking the heat."
  }
 ]

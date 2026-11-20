@@ -117,7 +117,7 @@
     "aliases": [
       "USA"
     ],
-    "latest": "2026-11-19: Poland company signs deal to supply Ukraine with natural gas from United States"
+    "latest": "2026-11-20: United States Seen as ‘Single Largest Source of Natural Gas Supply Growth’ to 2035"
   },
   {
     "id": "world-trade-organization",
@@ -351,7 +351,7 @@
     ],
     "about": "Extended a 24% US tariff suspension with port fee waivers for two months.",
     "aliases": [],
-    "latest": "2026-11-19: What impact will the Shenzhen summit have on the US-China trade war?",
+    "latest": "2026-11-20: China Solar Cell Exports Rise for Second Month on Tariff Rush",
     "addedAt": "2026-11-14T16:56:29.657Z"
   },
   {
@@ -379,7 +379,7 @@
     ],
     "about": "Energy commodity experiencing price spikes due to cold weather, LNG export records, and geopolitical supply concerns regarding the Strait of Hormuz.",
     "aliases": [],
-    "latest": "2026-11-19: SEFE and Tourmaline conclude eight-year natural gas supply agreement",
+    "latest": "2026-11-20: How the Bipartisan Permitting Bill Could Drive Up Natural Gas Exports",
     "addedAt": "2026-11-16T21:01:20.138Z"
   },
   {
@@ -463,5 +463,19 @@
     "aliases": [],
     "latest": "2026-11-18: TJX spends $167M in tariff refunds on executive and employee bonuses",
     "addedAt": "2026-11-19T19:38:50.924Z"
+  },
+  {
+    "id": "natural-gas-futures",
+    "name": "Natural Gas Futures",
+    "kind": "company",
+    "type": "Company",
+    "sectors": [
+      "logisticsfreightrates",
+      "retailstrategypricing"
+    ],
+    "about": "A financial instrument tracking the price of natural gas, reflecting supply-demand dynamics and influencing energy-related retail costs and logistics pricing.",
+    "aliases": [],
+    "latest": "",
+    "addedAt": "2026-11-20T19:15:36.933Z"
   }
 ]
