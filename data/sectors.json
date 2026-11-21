@@ -2,18 +2,18 @@
   {
     "id": "tradepolicytariffs",
     "heat": 5,
-    "state": "The US is nearing a final trade agreement with India to resolve the 165.2% duty threat on Scotch imports, while simultaneously wrapping up a major deal with the Philippines; Canada has extended its Chinese aluminium and pork relief through 2028 despite canola oil facing a 100% tariff. Retailers Target booked $301 million in refunds this quarter, representing nearly a fifth of its operating profit, while Lowe's saw margin compression even with these windfalls. Corporate executives are receiving billions in tariff refunds as bonuses, including $2.9 billion previously taken by Walmart, creating a trust deficit among consumers who face estimated $700 cost increases without compensation.",
-    "money": "The US is winning the immediate trade relief game by securing near-final agreements with India and the Philippines, while Canada solidifies its alliance with China through extended tariff exemptions until 2028. However, US retailers like Target and Lowe's are seeing profits artificially boosted by these refunds rather than passed to consumers, creating a trust deficit as companies spend windfalls on executive bonuses instead of reimbursing shoppers.",
-    "watch": "Monitor the outcome of the India-US trade deal signing next week, which could alter regional tariff landscapes if it resolves the Scotch import standoff or triggers further retaliation from China on AI GPU rentals. Additionally, watch for congressional investigations into how companies are using refunds for employee bonuses, as senators have already demanded inquiries that could force a shift in refund distribution policies.",
-    "briefedAt": "2026-11-20T18:59:39.849Z"
+    "state": "Over $100 billion in tariff refunds have flowed to public companies, with TJMaxx spending one-third of its $463 million refund on bonuses while senators demand inquiries into consumer shortchanges. Meanwhile, traders are moving US copper to China as Trump's tariff fears ease, and the VIX hit its highest level since 2025 tariff turmoil. Canada is seeking a U.S. tariff deal before January auto duties double, though Ford has launched Super Dutys at Oakville to aid tariff-hit consumers.",
+    "money": "Companies are winning by pocketing over $100 billion in refunds and using them for executive bonuses rather than passing savings to shoppers, whereas consumers face estimated cost increases without compensation.",
+    "watch": "Senate investigations into refund distribution policies could force a shift in how companies use windfalls, and the outcome of the Canada-U.S. tariff deal will determine if auto and steel duties remain stable through January.",
+    "briefedAt": "2026-11-21T17:54:20.852Z"
   },
   {
     "id": "logisticsfreightrates",
     "heat": 5,
-    "state": "Port congestion remains a structural issue, tying up approximately 10% of the global fleet at major hubs and persisting despite easing peak season pressures. Regional bottlenecks are acute in South Africa, where Durban port congestion has worsened medicine shortages and Transnet halted mine truck dispatches for 48 hours due to delays. Meanwhile, the Black Sea shipping lane is blocked by Ukraine attacks on key infrastructure, and an Arctic route has been identified as a potential substitute.",
-    "money": "Major carriers like ZIM are facing earnings tests driven by freight rate rallies that fuel revenue rebounds, while MSC notes congestion has become a new normal affecting operations. Private sector investments remain insufficient to resolve Durban's crisis, yet technology start-ups are raising capital to tackle the 'hidden tariff' of port delays.",
-    "watch": "The Supreme Court ruling on demurrage charges in Mumbai and the government's move to decouple shipping line releases from customs clearance may alter cost structures for importers. Upcoming contract disputes at Los Angeles and Long Beach pose a risk of renewed strikes that could disrupt cargo movement at the busiest U.S. container port.",
-    "briefedAt": "2026-11-20T19:04:00.266Z"
+    "state": "Port congestion remains structural, tying up roughly 10% of the global fleet despite easing peak pressures. Government actions in Ghana and South Africa have decoupled shipping line releases from customs clearance to mitigate delays, yet Durban port issues persist with Transnet halting mine dispatches for 48 hours and medicine shortages worsening. Simultaneously, the Black Sea lane is blocked by Ukraine attacks on infrastructure, while an Arctic route has been explicitly identified as a substitute rather than a potential option. In Asia, Cochin Port strikes are forcing traders to explore alternatives, and freight rates remain high due to congestion at Westports.",
+    "money": "ZIM faces an earnings test driven by a freight rate rally that is fueling revenue rebounds, whereas MSC reports congestion has become a new normal affecting operations. A technology start-up recently raised $11.3 million specifically to tackle the 'hidden tariff' of port delays, highlighting capital inflow into this sector. Meanwhile, truckers in Brazil are transporting ethanol over 1,000 km at R$480 per cubic meter, with mills having paid R$2.8 billion in freight costs during 2025.",
+    "watch": "Upcoming contract disputes between employers and the ILWU local at Los Angeles and Long Beach pose a risk of renewed strikes that could disrupt cargo movement at the busiest U.S. container port. The Supreme Court's dismissal of a plea regarding demurrage charges in Mumbai suggests cost structures for importers may remain volatile without further regulatory clarity.",
+    "briefedAt": "2026-11-21T17:56:32.755Z"
   },
   {
     "id": "retailinventorystockouts",
@@ -26,10 +26,10 @@
   {
     "id": "geopoliticalsupplyrisks",
     "heat": 5,
-    "state": "ASML stocks fell 2.72% following new US export rule tightening, while India joined Pax Silica to cut China out of the AI chip supply chain; meanwhile, Italy's energy crisis halted widespread steel wire rod production and co-legislators agreed on a methane regulation amendment for supply security.",
+    "state": "US export rule tightening caused ASML stocks to fall 2.72%, while Canada seeks to strengthen its chip supply chain and co-legislators agreed on a methane regulation amendment for European energy security; meanwhile, China-Linked hackers are actively targeting Japan and Taiwan's chip supply chains, and PPL's data center queue is outrunning available chip supply despite Nvidia maintaining its product roadmap.",
     "money": "Microsoft secured a new AI chip supply deal for Azure growth, SK Hynix pledged $1 billion in South Korea to support AI supply, and Samsung finalized a long-term DRAM deal with Apple; these moves contrast with Nvidia facing market share loss to custom ASIC chips despite maintaining its product roadmap.",
     "watch": "The outcome of the probe into Megaspeed's China supply links involving Alice Huang will determine if Nvidia's dominance fractures, while ASEAN trade security discussions in Manila ahead of Donald Trump's visit could disrupt global logistics structures.",
-    "briefedAt": "2026-11-19T19:28:58.209Z"
+    "briefedAt": "2026-11-21T18:00:29.516Z"
   },
   {
     "id": "commoditymarkets",
@@ -50,26 +50,26 @@
   {
     "id": "portactivityinfrastructu",
     "heat": 4,
-    "state": "Port congestion remains structural, with the Port of Los Angeles at its highest volume in 118 years and Westports reporting that congestion keeps freight rates elevated. In South Africa, Transnet halted mine truck dispatches for 48 hours at Richards Bay Port due to congestion, while ICTSI put Durban on notice over a worsening crisis that is also causing medicine shortages. Globally, Kandla hit 130.03 MMT cargo volume (a 35.72% year-over-year increase) and the Asia-Europe pre-Lunar New Year peak hit amid poor reliability.",
-    "money": "MSC frames congestion as a permanent new normal to position itself as the primary beneficiary, while Wan Hai remains bullish on nearly 20% volume growth in 2027 despite warnings that ship upscaling could worsen bottlenecks. Regional players like Adani Ports are capitalizing on surges with deals such as an Rs 11,733-crore VOC Port container terminal agreement, whereas International Container Terminal Services faces potential stock discounts relative to cash flow.",
-    "watch": "Monitor the implementation of importer empty container depots and railway-linked storage solutions to determine if they can alleviate congestion before it cascades into solar equipment delays. Watch for the impact of ongoing typhoon recovery in Ningbo and record Middle East delays on broader supply chain throughput, particularly regarding alleged attacks on Omani oil infrastructure.",
-    "briefedAt": "2026-11-20T19:01:56.198Z"
+    "state": "Governments in Ghana and globally are decoupling shipping line releases from customs clearance to alleviate port congestion, while Transnet halts mine truck dispatches at Richards Bay due to ongoing bottlenecks that also cause medicine shortages. Kandla recorded 130.03 MMT cargo volume (a 35.72% year-over-year increase), and MSC describes congestion as a permanent new normal despite peak season ties-up affecting 10% of the fleet.",
+    "money": "MSC is positioning itself as the primary beneficiary of persistent congestion, while ICTSI faces potential stock discounts relative to its cash flow amid operational strain. Conversely, Euroterminal expanded with a €20 million contract and Kandla's Deendayal Port Authority saw after-tax profits rise 35.4% year-on-year.",
+    "watch": "Monitor the implementation of importer empty container depots and railway-linked storage solutions to determine if they can alleviate congestion before cascading into solar equipment delays. Watch for the impact of ongoing typhoon recovery in Ningbo and alleged attacks on Omani oil infrastructure on broader supply chain throughput.",
+    "briefedAt": "2026-11-21T18:02:33.383Z"
   },
   {
     "id": "freightlinesshipping",
     "heat": 3,
-    "state": "Trans-Pacific rates remain elevated despite US midterm political shifts, with spot rates 50% above year-ago levels driven by congestion and fuel costs. Great Eastern Shipping faces NAV resets and trading below VWAP while T3EX Global Holdings posted a 270% profit surge due to volume growth. Brokers upgraded Saudi Arabia's National Shipping Company despite weaker-than-expected earnings, and the Gujarat High Court ordered IGST refunds for ocean freight non-litigants.",
-    "money": "T3EX Global Holdings is winning with Q3 profits up 270% and EPS up 193.7%, while Great Eastern Shipping trades below VWAP despite a 'Strong Buy' rating. Royal Bodewes expanded capacity by launching the Saga VG vessel for Meriaura, but Maersk faces operational disruption from a $5 million ransomware demand.",
-    "watch": "Monitor if Red Sea overcapacity eases as return services expand and whether ocean freight failures trigger a shift to air freight for bauxite imports. Confirm if Drewry Benchmarking Club data integration into Cargoo platforms reveals early signals on port dwell time reductions.",
-    "briefedAt": "2026-11-19T19:25:07.141Z"
+    "state": "Trans-Pacific rates remain 50% above year-ago levels driven by congestion and fuel costs despite US midterm political shifts adding trade uncertainty. Red Sea overcapacity is looming as return services expand, though spot prices stay elevated. Great Eastern Shipping faces a NAV reset to Rs 250 and trades below VWAP, while Saudi Arabia's National Shipping Company received broker upgrades despite weaker earnings.",
+    "money": "T3EX Global Holdings is winning with Q3 profits surging 270% and EPS up 193.7%, fueled by doubled ocean freight rates and volume growth. Great Eastern Shipping trades below VWAP despite a 'Strong Buy' rating, while Maersk faces operational disruption from a $5 million ransomware demand.",
+    "watch": "Monitor if Drewry Benchmarking Club data integration into Cargoo platforms reveals early signals on port dwell time reductions and whether Red Sea overcapacity eases as return services expand. Confirm if the Gujarat High Court's IGST refund rulings with interest create cost-saving precedents for ocean freight non-litigants.",
+    "briefedAt": "2026-11-21T17:58:38.036Z"
   },
   {
     "id": "regionalsupplychains",
     "heat": 5,
-    "state": "Zimbabwe now mandates local sourcing for lithium miners and imposes a 10% sulphate-based export tax, risking a 2027 ban that could leave 1.4 million tonnes of stockpiled material unused. Meanwhile, Brazil's fertilizer domestic production dropped 40% while imports fell 34%, and the Philippines faces higher sugar import needs due to low cane yields, whereas the EU may increase sugar imports by 48%. In parallel, Ukraine can supply 90% of reconstruction materials domestically, but power transformer sourcing is globalizing amid regional constraints.",
-    "money": "American Kraft Heinz is winning by backing Egypt as a regional export hub targeting 100% local sourcing for tomatoes, while Mobilicom expands domestic cybersecure datalink production using US-based contract manufacturers. MFDS in South Korea orders domestic production of three cancer and antibiotic drugs to secure supply within the year.",
-    "watch": "The outcome of upcoming US elections regarding strategic tariffs could directly impact nearshoring factory growth and Thai energy producers' ability to secure lower tariffs for data center expansion. Zimbabwe's potential 2027 export ban on lithium requires monitoring to see if the 1.4 million tonnes of stockpiled material can be utilized domestically.",
-    "briefedAt": "2026-11-20T19:08:06.191Z"
+    "state": "Zimbabwe has tightened its lithium policy by mandating local miner sourcing and adding a 15% tax component, while simultaneously imposing a 10% sulphate-based export tax that threatens a 2027 ban on 1.4 million tonnes of stockpiled material. Regional trade infrastructure is evolving with a $200 million Maputo Port expansion strengthening the gateway, yet power transformer sourcing remains globalized despite Ukraine's capacity to supply 90% of reconstruction materials domestically.",
+    "money": "Kraft Heinz is winning by securing Egypt as a regional export hub targeting 100% local tomato sourcing, while Mobilicom and South Korea's MFDS are capitalizing on domestic production mandates for cybersecure datalinks and essential medicines respectively.",
+    "watch": "The outcome of upcoming US elections regarding strategic tariffs will determine nearshoring factory growth and Thai energy producers' ability to secure lower rates for data center expansion, alongside the resolution of Zimbabwe's potential 2027 lithium export ban.",
+    "briefedAt": "2026-11-21T18:04:31.785Z"
   },
   {
     "id": "retailstrategypricing",

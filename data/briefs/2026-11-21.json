@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-21",
+  "title": "Today in retail, supply chain and geopolitics",
+  "big": "33 new stories since the last brief. The busiest areas: trade policy & tariffs and logistics & freight rates.",
+  "stories": [
+    {
+      "tag": "Trade Policy & Tariffs",
+      "h": "Govt separates shipping line releases from customs clearance to ease port congestion",
+      "what": "Govt separates shipping line releases from customs clearance to ease port congestion",
+      "you": "Early tariff signals indicate which products will face margin compression first.",
+      "ref": "u-20261121-govt-separates-shipping-line-releases-from-customs"
+    },
+    {
+      "tag": "Logistics & Freight Rates",
+      "h": "Business groups hail swift action on port congestion",
+      "what": "Business groups hail swift action on port congestion",
+      "you": "Sudden rate spikes or port bottlenecks are the earliest warning signs of shelf shortages.",
+      "ref": "u-20261121-business-groups-hail-swift-action-on-port-congesti"
+    },
+    {
+      "tag": "Geopolitical Supply Risks",
+      "h": "China-Linked Hackers Target Japan, Taiwan Chip Supply Chains",
+      "what": "China-Linked Hackers Target Japan, Taiwan Chip Supply Chains",
+      "you": "Regional conflicts and energy shocks directly translate into retail cost increases.",
+      "ref": "u-20261121-china-linked-hackers-target-japan-taiwan-chip-supp"
+    },
+    {
+      "tag": "Port Activity & Infrastructure",
+      "h": "[China Container Terminal FY2026 Q3 Earnings Call] First-Half EPS of NT$1.14 Matches Full-Year 2025 Level; After-Tax Profit Up 35.4% Year-on-Year, but Taiwan Shipping Rates May Fall 30% in 2027",
+      "what": "[China Container Terminal FY2026 Q3 Earnings Call] First-Half EPS of NT$1.14 Matches Full-Year 2025 Level; After-Tax Profit Up 35.4% Year-on-Year, but Taiwan Shipping Rates May Fall 30% in 2027",
+      "you": "Port bottlenecks are the physical manifestation of supply chain friction.",
+      "ref": "u-20261120-china-container-terminal-fy2026-q3-earnings-call-f"
+    },
+    {
+      "tag": "Regional Supply Chains",
+      "h": "Zimbabwe Changes Lithium Export Tax Basis, Adds 15% Local Sourcing Rule - News and Statistics",
+      "what": "Zimbabwe Changes Lithium Export Tax Basis, Adds 15% Local Sourcing Rule - News and Statistics",
+      "you": "Shifts in regional sourcing strategies reveal where supply is becoming more volatile.",
+      "ref": "u-20261120-zimbabwe-changes-lithium-export-tax-basis-adds-15-"
+    }
+  ],
+  "watch": {
+    "h": "China extends suspension of 24% tariff on US imports for two months",
+    "why": "November 21. The extension delays the imposition of new duties, providing temporary relief to US importers and stabilizing trade flows between the two nations."
+  },
+  "idea": {
+    "h": "Geopolitical Supply Risks",
+    "why": "Monitor the link between US midterm election results and potential tariff reversals, specifically targeting sectors like Canadian cabinet makers and craft brewers currently facing doubled duties. Recent reports show Trump's midterm rout has given allies like South Africa hope for a trade reset, suggesting current protectionist policies are fragile and could shift within weeks."
+  },
+  "auto": true
+}

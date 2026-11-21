@@ -735,6 +735,17 @@
     "ref": "u-20261118-india-says-us-trade-deal-nearly-ready-signing-may-"
   },
   {
+    "id": "c-20261125-eu-indonesia-trade-deal-approval-phase-in-begins",
+    "d": "2026-11-25",
+    "approx": false,
+    "title": "EU–Indonesia trade deal approval phase-in begins",
+    "why": "The signed agreement enters its implementation stage with tariff reductions scheduled to roll out over the coming months.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "ref": "u-20261121-eu-indonesia-trade-deal-signed-as-approval-and-tar"
+  },
+  {
     "id": "c-20261129-asean-leaders-discuss-trade-security-ahead-of-trum",
     "d": "2026-11-29",
     "approx": true,
@@ -913,6 +924,17 @@
       "commoditymarkets"
     ],
     "ref": "u-20261113-smic-says-ai-chip-supply-will-stay-tight-through-2"
+  },
+  {
+    "id": "c-20271231-zimbabwe-lithium-export-ban-enforcement-deadline",
+    "d": "2027-12-31",
+    "approx": true,
+    "title": "Zimbabwe lithium export ban enforcement deadline",
+    "why": "Failure to comply with new local sourcing mandates and tax rules will result in a total ban on lithium exports.",
+    "sectors": [
+      "commoditymarkets"
+    ],
+    "ref": "u-20261120-zimbabwe-mandates-local-sourcing-and-a-sulphate-ba"
   },
   {
     "id": "c-20281231-canada-chinese-aluminium-tariff-relief-extension",
