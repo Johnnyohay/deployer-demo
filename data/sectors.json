@@ -2,10 +2,10 @@
   {
     "id": "tradepolicytariffs",
     "heat": 5,
-    "state": "Over $100 billion in tariff refunds have flowed to public companies, with TJMaxx spending one-third of its $463 million refund on bonuses while senators demand inquiries into consumer shortchanges. Meanwhile, traders are moving US copper to China as Trump's tariff fears ease, and the VIX hit its highest level since 2025 tariff turmoil. Canada is seeking a U.S. tariff deal before January auto duties double, though Ford has launched Super Dutys at Oakville to aid tariff-hit consumers.",
-    "money": "Companies are winning by pocketing over $100 billion in refunds and using them for executive bonuses rather than passing savings to shoppers, whereas consumers face estimated cost increases without compensation.",
-    "watch": "Senate investigations into refund distribution policies could force a shift in how companies use windfalls, and the outcome of the Canada-U.S. tariff deal will determine if auto and steel duties remain stable through January.",
-    "briefedAt": "2026-11-21T17:54:20.852Z"
+    "state": "Over $100 billion in tariff refunds have flowed to public companies, with TJMaxx spending one-third of its $463 million refund on bonuses while senators demand inquiries into consumer shortchanges. Democrats plan to unwind Trump's tax and tariff policies, yet traders are moving US copper to China as tariff fears ease. Meanwhile, the EU-Indonesia trade deal is signed, but approval and tariff phase-ins remain ahead.",
+    "money": "Companies are winning by pocketing over $100 billion in refunds and using them for executive bonuses rather than passing savings to shoppers. Conversely, consumers face estimated cost increases without compensation, while a Bitcoin miner paid an $11.9 million tariff bill four years after delivery.",
+    "watch": "Democrats will seek to overturn Trump's tax and tariff policies, which could force a shift in how companies use windfalls. The outcome of the Canada-U.S. interim tariff deal will determine if auto and steel duties remain stable through January.",
+    "briefedAt": "2026-11-22T18:13:24.848Z"
   },
   {
     "id": "logisticsfreightrates",
@@ -18,18 +18,18 @@
   {
     "id": "retailinventorystockouts",
     "heat": 3,
-    "state": "Global energy crises are deepening as efforts to plug supply gaps fail, specifically affecting Mexico's natural gas reserves and U.S. wine exports which plunged 78%. In travel retail, SKU growth continues to outpace available shelf space, while Ciena faces a supply test where backlog meets pricing power constraints.",
+    "state": "Global energy crises are deepening as efforts to plug supply gaps fail, specifically affecting Mexico's natural gas reserves. Medicine shortages are worsening due to Durban port backlogs, while dairy suppliers adopt touchless retail tech for merchandising support. In travel retail, SKU growth continues to outpace available shelf space.",
     "money": "WELCORP is winning with record H1 EBITDA driven by strong backlog orders that are currently tempering regional supply-chain risks.",
     "watch": "Industry leaders will monitor how the deepening energy crisis impacts future resolution of global supply gaps and if shelf space constraints force further SKU reductions in travel retail.",
-    "briefedAt": "2026-11-13T18:29:54.593Z"
+    "briefedAt": "2026-11-22T18:16:24.573Z"
   },
   {
     "id": "geopoliticalsupplyrisks",
-    "heat": 5,
-    "state": "US export rule tightening caused ASML stocks to fall 2.72%, while Canada seeks to strengthen its chip supply chain and co-legislators agreed on a methane regulation amendment for European energy security; meanwhile, China-Linked hackers are actively targeting Japan and Taiwan's chip supply chains, and PPL's data center queue is outrunning available chip supply despite Nvidia maintaining its product roadmap.",
-    "money": "Microsoft secured a new AI chip supply deal for Azure growth, SK Hynix pledged $1 billion in South Korea to support AI supply, and Samsung finalized a long-term DRAM deal with Apple; these moves contrast with Nvidia facing market share loss to custom ASIC chips despite maintaining its product roadmap.",
+    "heat": 4,
+    "state": "US export rule tightening caused ASML stocks to fall 2.72%, while China-linked hackers are actively targeting Japan and Taiwan's chip supply chains. Canada is strengthening its domestic computer chip supply chain, and co-legislators agreed on a methane regulation amendment for European energy security. Meanwhile, PPL's data center queue is outrunning available chip supply despite Nvidia maintaining its product roadmap.",
+    "money": "Microsoft secured a new AI chip supply deal for Azure growth, SK Hynix pledged $1 billion in South Korea to support AI supply, and Samsung finalized a long-term DRAM deal with Apple. These investments contrast with Nvidia facing market share loss to custom ASIC chips despite maintaining its product roadmap.",
     "watch": "The outcome of the probe into Megaspeed's China supply links involving Alice Huang will determine if Nvidia's dominance fractures, while ASEAN trade security discussions in Manila ahead of Donald Trump's visit could disrupt global logistics structures.",
-    "briefedAt": "2026-11-21T18:00:29.516Z"
+    "briefedAt": "2026-11-22T18:14:33.200Z"
   },
   {
     "id": "commoditymarkets",
@@ -74,9 +74,9 @@
   {
     "id": "retailstrategypricing",
     "heat": 5,
-    "state": "Truckload demand has weakened to the 13th percentile while intermodal rates sit at the 65th percentile, and USPS seeks a 5.9% price hike plus an 11% permanent fuel surcharge after a $6.5 billion loss. Retailers are diverging: Lowe's targets market share with digital gains despite tariff refund struggles, Dillard's achieved 1% sales growth on weak comps, CLMT faces margin compression and supply constraints, and E-mart posted its first 5-trillion-won quarter under Chung Yong-jin.",
+    "state": "Truckload demand has retreated to the 13th percentile while intermodal rates remain elevated at the 65th percentile, creating a split-cost environment. USPS is seeking approval for a 5.9% price hike and an 11% permanent fuel surcharge following a $6.5 billion loss. In retail performance, Lowe's continues to pursue market share via digital growth despite tariff refund headwinds, Dillard's recorded only 1% sales growth on weak comps, CLMT faces margin compression and supply constraints, and E-mart achieved its first 5-trillion-won quarter under Chung Yong-jin.",
     "money": "Lowe's is currently winning by leveraging Pro-Gro digital gains to capture market share despite tariff refund headwinds, whereas CLMT struggles with margin compression and Dillard's relies on thin growth.",
     "watch": "Monitor the outcome of Brazil's proposed tariffs regarding China versus India market share and whether plug-in solar adoption challenges AGL Energy's retail strategy.",
-    "briefedAt": "2026-11-19T19:22:57.988Z"
+    "briefedAt": "2026-11-22T18:15:49.060Z"
   }
 ]

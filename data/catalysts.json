@@ -837,6 +837,17 @@
     "ref": "u-20261113-usps-seeks-5-9-shipping-price-increase-after-6-5-b"
   },
   {
+    "id": "c-20270101-january-auto-duties-double-in-canada-us-trade-tens",
+    "d": "2027-01-01",
+    "approx": true,
+    "title": "January Auto Duties Double in Canada-US Trade Tensions",
+    "why": "Canada is seeking a tariff deal before January to avoid doubled auto duties, indicating a critical deadline for trade negotiations.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "ref": "u-20261120-canada-seeks-u-s-tariff-deal-before-january-auto-d"
+  },
+  {
     "id": "c-20270103-potential-us-tariff-escalation-targeting-canada",
     "d": "2027-01-03",
     "approx": true,
@@ -871,6 +882,17 @@
     "ref": "u-20261119-sefe-and-tourmaline-conclude-eight-year-natural-ga"
   },
   {
+    "id": "c-20270501-ai-chip-supply-unlock-releases-at-least-147-12-mil",
+    "d": "2027-05-01",
+    "approx": true,
+    "title": "AI Chip Supply Unlock Releases at Least 147.12 Million Tokens",
+    "why": "A significant release of AI chip tokens is expected in May, impacting supply chain dynamics for tool makers and Disco stock.",
+    "sectors": [
+      "commoditymarkets"
+    ],
+    "ref": "u-20261121-usd-ai-chip-supply-unlock-releases-at-least-147-12"
+  },
+  {
     "id": "c-20270515-maputo-port-expansion-investment-completion",
     "d": "2027-05-15",
     "approx": true,
@@ -902,6 +924,17 @@
       "portactivityinfrastructu"
     ],
     "ref": "u-20261119-four-firms-bid-for-six-month-operating-contract-fo"
+  },
+  {
+    "id": "c-20270801-usd-ai-chip-supply-unlock-releases-at-least-147-12",
+    "d": "2027-08-01",
+    "approx": true,
+    "title": "USD.AI Chip Supply Unlock Releases at Least 147.12 Million Tokens",
+    "why": "Another anticipated release of AI chip tokens in August continues to highlight supply chain shifts and market focus.",
+    "sectors": [
+      "commoditymarkets"
+    ],
+    "ref": "u-20261121-usd-ai-chip-supply-unlock-releases-at-least-147-12"
   },
   {
     "id": "c-20271231-smic-ai-chip-supply-chain-tightness-persists-throu",

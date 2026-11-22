@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-22",
+  "title": "Today in retail, supply chain and geopolitics",
+  "big": "19 new stories since the last brief. The busiest areas: trade policy & tariffs and geopolitical supply risks.",
+  "stories": [
+    {
+      "tag": "Trade Policy & Tariffs",
+      "h": "Is TJX using tariff refunds for employee bonuses? Yes, $167 million of $463 million so far",
+      "what": "Is TJX using tariff refunds for employee bonuses? Yes, $167 million of $463 million so far",
+      "you": "Early tariff signals indicate which products will face margin compression first.",
+      "ref": "u-20261121-is-tjx-using-tariff-refunds-for-employee-bonuses-y"
+    },
+    {
+      "tag": "Logistics & Freight Rates",
+      "h": "Asikuma Inland Port to ease Tema Port congestion and create jobs in Asuogyaman - Mahama",
+      "what": "Asikuma Inland Port to ease Tema Port congestion and create jobs in Asuogyaman - Mahama",
+      "you": "Sudden rate spikes or port bottlenecks are the earliest warning signs of shelf shortages.",
+      "ref": "u-20261122-asikuma-inland-port-to-ease-tema-port-congestion-a"
+    },
+    {
+      "tag": "Geopolitical Supply Risks",
+      "h": "AI Chip Supply Chain Shifts Put Disco Stock And Asian Tool Makers In Focus",
+      "what": "AI Chip Supply Chain Shifts Put Disco Stock And Asian Tool Makers In Focus",
+      "you": "Regional conflicts and energy shocks directly translate into retail cost increases.",
+      "ref": "u-20261122-ai-chip-supply-chain-shifts-put-disco-stock-and-as"
+    },
+    {
+      "tag": "Freight Lines & Shipping",
+      "h": "Le Goûter Launches as America’s First Online-Only French Butter Shipping Company",
+      "what": "Le Goûter Launches as America’s First Online-Only French Butter Shipping Company",
+      "you": "Fleet reductions or route changes indicate long-term supply constraints.",
+      "ref": "u-20261121-le-go-ter-launches-as-america-s-first-online-only-"
+    },
+    {
+      "tag": "Regional Supply Chains",
+      "h": "Kosovo net electricity imports reach 976 GWh in nine months as domestic production grows more slowly than demand",
+      "what": "Kosovo net electricity imports reach 976 GWh in nine months as domestic production grows more slowly than demand",
+      "you": "Shifts in regional sourcing strategies reveal where supply is becoming more volatile.",
+      "ref": "u-20261121-kosovo-net-electricity-imports-reach-976-gwh-in-ni"
+    }
+  ],
+  "watch": {
+    "h": "First US-China Trade Council Meeting with $30 Billion Tariff Cut Proposal",
+    "why": "November 22. This meeting represents the first formal trade council talks between the US and China, potentially resolving ongoing tariff disputes."
+  },
+  "idea": {
+    "h": "Logistics & Freight Rates",
+    "why": "Prepare contingency plans for a 30% drop in ocean freight rates by late 2027 while simultaneously hedging against immediate port strikes at Los Angeles and Long Beach. Analysts predict capacity flooding will lower costs, but ongoing labor disputes and the AI buildout driving current congestion mean short-term volatility remains high."
+  },
+  "auto": true
+}
