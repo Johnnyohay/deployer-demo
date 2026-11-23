@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-23",
+  "title": "Today in retail, supply chain and geopolitics",
+  "big": "46 new stories since the last brief. The busiest areas: trade policy & tariffs and commodity markets.",
+  "stories": [
+    {
+      "tag": "Trade Policy & Tariffs",
+      "h": "North Country farmers getting $2.17M in tariff relief",
+      "what": "North Country farmers getting $2.17M in tariff relief",
+      "you": "Early tariff signals indicate which products will face margin compression first.",
+      "ref": "u-20261123-north-country-farmers-getting-2-17m-in-tariff-reli"
+    },
+    {
+      "tag": "Geopolitical Supply Risks",
+      "h": "US spy chief confirms probe into Nvidia-linked chip supply network involving Alice Huang, China",
+      "what": "US spy chief confirms probe into Nvidia-linked chip supply network involving Alice Huang, China",
+      "you": "Regional conflicts and energy shocks directly translate into retail cost increases.",
+      "ref": "u-20261123-us-spy-chief-confirms-probe-into-nvidia-linked-chi"
+    },
+    {
+      "tag": "Logistics & Freight Rates",
+      "h": "Durban Port Congestion Becomes Headache for the Auto Industry",
+      "what": "Durban Port Congestion Becomes Headache for the Auto Industry",
+      "you": "Sudden rate spikes or port bottlenecks are the earliest warning signs of shelf shortages.",
+      "ref": "u-20261122-durban-port-congestion-becomes-headache-for-the-au"
+    },
+    {
+      "tag": "Commodity Markets",
+      "h": "Watch Europe's Cold Snap Threatens Natural Gas Inventories",
+      "what": "Watch Europe's Cold Snap Threatens Natural Gas Inventories",
+      "you": "Raw material price jumps are the root cause of retail margin erosion.",
+      "ref": "u-20261123-watch-europe-s-cold-snap-threatens-natural-gas-inv"
+    },
+    {
+      "tag": "Freight Lines & Shipping",
+      "h": "Asia–US East Coast ocean freight rates top $10,000, up 300% from a year ago",
+      "what": "Trans-Pacific container rates fell in the week to November 19, but remained sharply above year-earlier levels, according to Xeneta. The post Asia–US East Coast ocean freight rates top $10,000, up 300% from a year ago appeared first on FreightWaves .",
+      "you": "Fleet reductions or route changes indicate long-term supply constraints.",
+      "ref": "u-20261123-asia-us-east-coast-ocean-freight-rates-top-10-000-"
+    }
+  ],
+  "watch": {
+    "h": "Trump-Xi Summit and Potential Tariff Reductions",
+    "why": "Around November 25. The upcoming summit between Trump and Xi is expected to focus on major tariff reductions and US soybean exports."
+  },
+  "idea": {
+    "h": "Strategic Partnerships & M&A",
+    "why": "Evaluate supply chain software vendors that are acquiring AI capabilities, such as OpenAI's recent moves, to future-proof inventory management against tariff-induced disruptions. The convergence of geopolitical instability and digital transformation means companies with integrated AI-driven logistics tools will be better positioned to navigate complex trade routes."
+  },
+  "auto": true
+}

@@ -2,18 +2,18 @@
   {
     "id": "tradepolicytariffs",
     "heat": 5,
-    "state": "Over $100 billion in tariff refunds have flowed to public companies, with TJMaxx spending one-third of its $463 million refund on bonuses while senators demand inquiries into consumer shortchanges. Democrats plan to unwind Trump's tax and tariff policies, yet traders are moving US copper to China as tariff fears ease. Meanwhile, the EU-Indonesia trade deal is signed, but approval and tariff phase-ins remain ahead.",
-    "money": "Companies are winning by pocketing over $100 billion in refunds and using them for executive bonuses rather than passing savings to shoppers. Conversely, consumers face estimated cost increases without compensation, while a Bitcoin miner paid an $11.9 million tariff bill four years after delivery.",
-    "watch": "Democrats will seek to overturn Trump's tax and tariff policies, which could force a shift in how companies use windfalls. The outcome of the Canada-U.S. interim tariff deal will determine if auto and steel duties remain stable through January.",
-    "briefedAt": "2026-11-22T18:13:24.848Z"
+    "state": "Over $100 billion in tariff refunds have flowed to public companies, with TJMaxx spending one-third of its $463 million refund on executive bonuses while senators demand inquiries into consumer shortchanges. Democrats plan to unwind Trump's tax and tariff policies, including Medicaid changes, yet traders are moving US copper to China as tariff fears ease. The EU-Indonesia trade deal is signed, but approval and tariff phase-ins remain ahead, while a Canada-U.S. interim tariff deal outcome will determine if auto and steel duties stay stable through January.",
+    "money": "Companies are winning by pocketing over $100 billion in refunds and using them for executive bonuses rather than passing savings to shoppers. Conversely, consumers face estimated cost increases without compensation, while specific entities like a Bitcoin miner paid an $11.9 million tariff bill four years after delivery.",
+    "watch": "The outcome of the Canada-U.S. interim tariff deal will determine if auto and steel duties remain stable through January. Democrats' plan to overturn Trump's tax and tariff policies could force a shift in how companies utilize windfalls.",
+    "briefedAt": "2026-11-23T22:23:47.292Z"
   },
   {
     "id": "logisticsfreightrates",
-    "heat": 5,
-    "state": "Port congestion remains structural, tying up roughly 10% of the global fleet despite easing peak pressures. Government actions in Ghana and South Africa have decoupled shipping line releases from customs clearance to mitigate delays, yet Durban port issues persist with Transnet halting mine dispatches for 48 hours and medicine shortages worsening. Simultaneously, the Black Sea lane is blocked by Ukraine attacks on infrastructure, while an Arctic route has been explicitly identified as a substitute rather than a potential option. In Asia, Cochin Port strikes are forcing traders to explore alternatives, and freight rates remain high due to congestion at Westports.",
-    "money": "ZIM faces an earnings test driven by a freight rate rally that is fueling revenue rebounds, whereas MSC reports congestion has become a new normal affecting operations. A technology start-up recently raised $11.3 million specifically to tackle the 'hidden tariff' of port delays, highlighting capital inflow into this sector. Meanwhile, truckers in Brazil are transporting ethanol over 1,000 km at R$480 per cubic meter, with mills having paid R$2.8 billion in freight costs during 2025.",
+    "heat": 4,
+    "state": "Port congestion remains structural, with the government in Ghana decoupling shipping line releases from customs clearance to mitigate delays while Durban port issues persist, including Transnet halting mine dispatches for 48 hours and worsening medicine shortages. In Asia, Cochin Port strikes force traders to seek alternatives alongside high rates at Westports, and the Black Sea lane is blocked by Ukraine attacks on infrastructure with no Arctic substitute identified. Meanwhile, a conveyor belt breakdown at PIBT disrupted coal imports, raising millions in demurrage costs, while truckers in Brazil continue transporting ethanol over 1,000 km at R$480 per cubic meter after mills paid R$2.8 billion in freight costs during 2025.",
+    "money": "ZIM is benefiting from a freight rate rally that is fueling revenue rebounds, whereas MSC reports congestion has become a new normal affecting operations. A technology start-up recently raised $11.3 million specifically to tackle the 'hidden tariff' of port delays, highlighting capital inflow into this sector.",
     "watch": "Upcoming contract disputes between employers and the ILWU local at Los Angeles and Long Beach pose a risk of renewed strikes that could disrupt cargo movement at the busiest U.S. container port. The Supreme Court's dismissal of a plea regarding demurrage charges in Mumbai suggests cost structures for importers may remain volatile without further regulatory clarity.",
-    "briefedAt": "2026-11-21T17:56:32.755Z"
+    "briefedAt": "2026-11-23T22:24:42.661Z"
   },
   {
     "id": "retailinventorystockouts",
@@ -26,18 +26,18 @@
   {
     "id": "geopoliticalsupplyrisks",
     "heat": 4,
-    "state": "US export rule tightening caused ASML stocks to fall 2.72%, while China-linked hackers are actively targeting Japan and Taiwan's chip supply chains. Canada is strengthening its domestic computer chip supply chain, and co-legislators agreed on a methane regulation amendment for European energy security. Meanwhile, PPL's data center queue is outrunning available chip supply despite Nvidia maintaining its product roadmap.",
-    "money": "Microsoft secured a new AI chip supply deal for Azure growth, SK Hynix pledged $1 billion in South Korea to support AI supply, and Samsung finalized a long-term DRAM deal with Apple. These investments contrast with Nvidia facing market share loss to custom ASIC chips despite maintaining its product roadmap.",
-    "watch": "The outcome of the probe into Megaspeed's China supply links involving Alice Huang will determine if Nvidia's dominance fractures, while ASEAN trade security discussions in Manila ahead of Donald Trump's visit could disrupt global logistics structures.",
-    "briefedAt": "2026-11-22T18:14:33.200Z"
+    "state": "US export rule tightening caused ASML stocks to fall 2.72%, while China-linked hackers are actively targeting Japan and Taiwan's chip supply chains. The South Korean government summoned Nvidia, AMD, and Intel to review AI chip supply chains due to HBM and substrate shortages affecting small fabless firms. Meanwhile, co-legislators agreed on a methane regulation amendment for European energy security, contrasting with Italy's energy crisis triggering widespread steel wire rod production halts.",
+    "money": "Nvidia maintains its product roadmap despite facing market share loss to custom ASIC chips and US spy chief confirmation of a probe into its China-linked supply network involving Alice Huang. SK Hynix pledged $1 billion in South Korea to support AI supply, while Samsung finalized a long-term DRAM deal with Apple to secure capacity.",
+    "watch": "The outcome of the probe into Megaspeed's China supply links will determine if Nvidia's dominance fractures, and ASEAN trade security discussions ahead of Donald Trump's visit could disrupt global logistics structures.",
+    "briefedAt": "2026-11-23T22:28:03.623Z"
   },
   {
     "id": "commoditymarkets",
     "heat": 5,
-    "state": "U.S. natural gas inventories remain above normal levels after ending injection season, contradicting previous cold-driven price spikes and UBS's cut to 2027 price forecasts. Copper prices have cratered amid unwinding AI tariff trades and recessionary demand signals, while Australian miners extend losses on commodity weakness. Extreme weather continues to pose growing risks to global oil and gas shipping, with European natural gas rising due to Mideast tensions despite a cold outlook.",
-    "money": "Blackstone is winning the infrastructure play by acquiring the Portland pipeline to address New England supply crunches, while TC Energy advances its 370-kilometer pipeline proposal to link Alberta's oil sands. TotalEnergies maintains dominance in long-term LNG supply via its five-year deal with UAE's ADNOC, and Iran executes strategic imports of 110 bcm annually through a new Russian pipeline.",
-    "watch": "The execution of the TC Energy pipeline and Blackstone's Portland acquisition will determine if global trade flows shift away from current bottlenecks. Traders must watch whether extreme weather disruptions to shipping can override supply stories that currently keep Brent oil near $89.15.",
-    "briefedAt": "2026-11-20T19:06:02.239Z"
+    "state": "U.S. natural gas inventories remain above normal levels after ending injection season, contradicting UBS's cut to 2027 price forecasts and previous cold-driven spikes. Copper prices have rebounded from a bear market following Nvidia's reversal on AI tariff trades, while extreme weather continues to threaten global oil and gas shipping routes.",
+    "money": "TotalEnergies leads in long-term LNG supply via its five-year deal with UAE's ADNOC, while Blackstone secures the Portland pipeline to address New England supply crunches. TC Energy advances its 370-kilometer pipeline proposal to link Alberta's oil sands, and PAE/CSN secure a new agreement to supply Rio de Janeiro from Vaca Muerta.",
+    "watch": "Traders must monitor whether extreme weather disruptions to shipping can override current supply stories that keep Brent oil near $89.15. The execution of the TC Energy pipeline and Blackstone's Portland acquisition will determine if global trade flows shift away from existing bottlenecks.",
+    "briefedAt": "2026-11-23T22:25:30.670Z"
   },
   {
     "id": "strategicpartnershipsma",
@@ -50,18 +50,18 @@
   {
     "id": "portactivityinfrastructu",
     "heat": 4,
-    "state": "Governments in Ghana and globally are decoupling shipping line releases from customs clearance to alleviate port congestion, while Transnet halts mine truck dispatches at Richards Bay due to ongoing bottlenecks that also cause medicine shortages. Kandla recorded 130.03 MMT cargo volume (a 35.72% year-over-year increase), and MSC describes congestion as a permanent new normal despite peak season ties-up affecting 10% of the fleet.",
+    "state": "Governments in Ghana and globally are decoupling shipping line releases from customs clearance to alleviate congestion, while Transnet halts mine truck dispatches at Richards Bay due to bottlenecks causing medicine shortages. Kandla recorded 130.03 MMT cargo volume (a 35.72% year-over-year increase), and MSC describes congestion as a permanent new normal despite peak season ties-up affecting 10% of the fleet.",
     "money": "MSC is positioning itself as the primary beneficiary of persistent congestion, while ICTSI faces potential stock discounts relative to its cash flow amid operational strain. Conversely, Euroterminal expanded with a €20 million contract and Kandla's Deendayal Port Authority saw after-tax profits rise 35.4% year-on-year.",
     "watch": "Monitor the implementation of importer empty container depots and railway-linked storage solutions to determine if they can alleviate congestion before cascading into solar equipment delays. Watch for the impact of ongoing typhoon recovery in Ningbo and alleged attacks on Omani oil infrastructure on broader supply chain throughput.",
-    "briefedAt": "2026-11-21T18:02:33.383Z"
+    "briefedAt": "2026-11-23T22:27:16.506Z"
   },
   {
     "id": "freightlinesshipping",
     "heat": 3,
-    "state": "Trans-Pacific rates remain 50% above year-ago levels driven by congestion and fuel costs despite US midterm political shifts adding trade uncertainty. Red Sea overcapacity is looming as return services expand, though spot prices stay elevated. Great Eastern Shipping faces a NAV reset to Rs 250 and trades below VWAP, while Saudi Arabia's National Shipping Company received broker upgrades despite weaker earnings.",
-    "money": "T3EX Global Holdings is winning with Q3 profits surging 270% and EPS up 193.7%, fueled by doubled ocean freight rates and volume growth. Great Eastern Shipping trades below VWAP despite a 'Strong Buy' rating, while Maersk faces operational disruption from a $5 million ransomware demand.",
-    "watch": "Monitor if Drewry Benchmarking Club data integration into Cargoo platforms reveals early signals on port dwell time reductions and whether Red Sea overcapacity eases as return services expand. Confirm if the Gujarat High Court's IGST refund rulings with interest create cost-saving precedents for ocean freight non-litigants.",
-    "briefedAt": "2026-11-21T17:58:38.036Z"
+    "state": "Trans-Pacific and Asia-US East Coast rates remain 50-300% above year-earlier levels driven by congestion and fuel costs, while Red Sea overcapacity looms despite expanding return services. Great Eastern Shipping trades below VWAP with a NAV reset to Rs 250 but holds a 'Strong Buy' rating, whereas Saudi Arabia's National Shipping Company received broker upgrades on weaker earnings. The Gujarat High Court has quashed GST rejections and ordered IGST refunds with interest for ocean freight non-litigants, and Drewry Benchmarking Club data is now integrated into Cargoo platforms.",
+    "money": "T3EX Global Holdings dominates the sector with Q3 profits surging 270% and EPS up 193.7%, fueled by doubled rates and volume growth. Maersk faces operational disruption from a $5 million ransomware demand, while Great Eastern Shipping trades below VWAP despite analyst upgrades.",
+    "watch": "Monitor if Red Sea overcapacity eases as return services expand and whether the Gujarat High Court's IGST refund rulings create cost-saving precedents for ocean freight non-litigants. Confirm if Drewry Benchmarking Club data integration into Cargoo platforms reveals early signals on port dwell time reductions.",
+    "briefedAt": "2026-11-23T22:26:25.699Z"
   },
   {
     "id": "regionalsupplychains",
@@ -73,7 +73,7 @@
   },
   {
     "id": "retailstrategypricing",
-    "heat": 5,
+    "heat": 4,
     "state": "Truckload demand has retreated to the 13th percentile while intermodal rates remain elevated at the 65th percentile, creating a split-cost environment. USPS is seeking approval for a 5.9% price hike and an 11% permanent fuel surcharge following a $6.5 billion loss. In retail performance, Lowe's continues to pursue market share via digital growth despite tariff refund headwinds, Dillard's recorded only 1% sales growth on weak comps, CLMT faces margin compression and supply constraints, and E-mart achieved its first 5-trillion-won quarter under Chung Yong-jin.",
     "money": "Lowe's is currently winning by leveraging Pro-Gro digital gains to capture market share despite tariff refund headwinds, whereas CLMT struggles with margin compression and Dillard's relies on thin growth.",
     "watch": "Monitor the outcome of Brazil's proposed tariffs regarding China versus India market share and whether plug-in solar adoption challenges AGL Energy's retail strategy.",

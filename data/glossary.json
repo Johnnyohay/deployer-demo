@@ -65,7 +65,8 @@
     "topic": "main",
     "short": "A situation where shipping ports are unable to process incoming vessels quickly enough, causing delays and increased demurrage fees for shippers.",
     "by": "qwen3.5:4b run inside the GitHub job (free)",
-    "at": "2026-11-09"
+    "at": "2026-11-09",
+    "long": "Port congestion occurs when shipping infrastructure cannot handle the volume of incoming vessels, leading to delays and rising demurrage fees for shippers. For example, during the 2021 global supply crisis, major hubs like Los Angeles faced weeks-long waits, forcing retailers to pay thousands in storage fees per container. This matters because early detection allows your team to reroute shipments or negotiate buffer stock with suppliers before costs spiral, protecting margins and maintaining service levels."
   },
   {
     "term": "Commodity Hedging",
@@ -73,7 +74,8 @@
     "topic": "main",
     "short": "The use of financial instruments to offset potential losses in the price of raw materials like oil, wheat, or copper.",
     "by": "qwen3.5:4b run inside the GitHub job (free)",
-    "at": "2026-11-09"
+    "at": "2026-11-09",
+    "long": "Commodity hedging involves using financial instruments to offset potential losses in raw material prices like oil, wheat, or copper. For instance, a retailer might buy futures contracts to lock in the price of copper needed for electronics manufacturing before market volatility spikes. This matters because it transforms unpredictable cost fluctuations into predictable expenses, enabling more accurate budgeting and preventing sudden margin erosion when global commodity markets shift unexpectedly."
   },
   {
     "term": "COO",
@@ -81,7 +83,8 @@
     "topic": "main",
     "short": "The COO runs daily business operations, translating strategy into execution and spotting inefficiencies before they become crises.",
     "by": "qwen3.5:4b run inside the GitHub job (free)",
-    "at": "2026-11-09"
+    "at": "2026-11-09",
+    "long": "The Chief Operating Officer (COO) translates high-level strategy into daily execution while spotting inefficiencies before they become crises. For example, a COO might notice that a specific warehouse's picking process is 15% slower than average and reassign resources to fix it proactively. This matters because the COO acts as your internal early warning system; by focusing on operational reality rather than just financial targets, you can identify supply chain bottlenecks and strategic misalignments before they impact customer experience or profitability."
   },
   {
     "term": "CSSC",
@@ -204,5 +207,71 @@
     "short": "The primary financial marketplace in Australia where companies like BWP list their shares for trading.",
     "by": "qwen3.5:4b run inside the GitHub job (free)",
     "at": "2026-11-16"
+  },
+  {
+    "term": "EPS",
+    "aliases": [],
+    "topic": "main",
+    "short": "Earnings Per Share measures the profit allocated to each share, indicating a company's financial health and ability to pay dividends.",
+    "by": "qwen3.5:4b run inside the GitHub job (free)",
+    "at": "2026-11-23"
+  },
+  {
+    "term": "FY2026",
+    "aliases": [],
+    "topic": "main",
+    "short": "Fiscal Year 2026 represents the specific twelve-month period used by companies to report their financial performance and plan future strategies.",
+    "by": "qwen3.5:4b run inside the GitHub job (free)",
+    "at": "2026-11-23"
+  },
+  {
+    "term": "IEA",
+    "aliases": [],
+    "topic": "main",
+    "short": "The International Energy Agency is a specialized UN body that tracks global energy markets, providing critical data on oil, gas, and renewable trends.",
+    "by": "qwen3.5:4b run inside the GitHub job (free)",
+    "at": "2026-11-23"
+  },
+  {
+    "term": "MGT",
+    "aliases": [],
+    "topic": "main",
+    "short": "Management Guidance is a forward-looking statement where company leaders predict future earnings or operational results based on current plans and market assumptions.",
+    "by": "qwen3.5:4b run inside the GitHub job (free)",
+    "at": "2026-11-23"
+  },
+  {
+    "term": "NT$",
+    "aliases": [
+      "TWD"
+    ],
+    "topic": "main",
+    "short": "The New Taiwan Dollar is the official currency of Taiwan, used to value assets, earnings, and shipping costs for companies operating in that region.",
+    "by": "qwen3.5:4b run inside the GitHub job (free)",
+    "at": "2026-11-23"
+  },
+  {
+    "term": "TSX",
+    "aliases": [],
+    "topic": "main",
+    "short": "The Toronto Stock Exchange is a major financial market where Canadian retail and industrial companies list their shares for public trading and valuation.",
+    "by": "qwen3.5:4b run inside the GitHub job (free)",
+    "at": "2026-11-23"
+  },
+  {
+    "term": "UPS",
+    "aliases": [],
+    "topic": "main",
+    "short": "UPS is a global logistics leader that manages supply chains, acquisitions, and transportation networks affecting retail inventory distribution worldwide.",
+    "by": "qwen3.5:4b run inside the GitHub job (free)",
+    "at": "2026-11-23"
+  },
+  {
+    "term": "ILWU",
+    "aliases": [],
+    "topic": "main",
+    "short": "The International Longshoremen's Association is a powerful labor union representing port workers, whose strikes can halt cargo movement and disrupt global trade.",
+    "by": "qwen3.5:4b run inside the GitHub job (free)",
+    "at": "2026-11-23"
   }
 ]

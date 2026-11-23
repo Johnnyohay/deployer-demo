@@ -1,12 +1,72 @@
 [
  {
+  "id": "6i0sC2hU1YE",
+  "title": "FreightWaves Today | November 23",
+  "channel": "FreightWaves",
+  "topic": "tradepolicytariffs",
+  "d": "2026-11-23T20:00:24+00:00",
+  "short": false,
+  "views": 23,
+  "desc": "Truckload tender rejections jumped nearly a full point ahead of Thanksgiving, and reefer rejections hit about 23%. FreightWaves Today for November 23, 2026 covers the holiday-week freight market, the Union Pacific–Norfolk Southern merger debate, and the economy."
+ },
+ {
+  "id": "xvxdRmOhA9s",
+  "title": "Rail Merger Risks Soaring Costs for Small Shippers",
+  "channel": "FreightWaves",
+  "topic": "tradepolicytariffs",
+  "d": "2026-11-23T19:08:11+00:00",
+  "short": false,
+  "views": 44,
+  "desc": "The proposed rail merger between Union Pacific and Norfolk Southern is sparking major concerns for chemical distributors."
+ },
+ {
+  "id": "g2MUuh5_m7M",
+  "title": "Reefer Rejections DOUBLE YoY: Holiday Capacity Crisis Looms",
+  "channel": "FreightWaves",
+  "topic": "tradepolicytariffs",
+  "d": "2026-11-23T18:21:07+00:00",
+  "short": false,
+  "views": 158,
+  "desc": "Thanksgiving week is here, and the freight market is seeing significant volatility. Truckload tender rejections have jumped, with refrigerated freight leading the charge at an unprecedented 23% — nearly double last year's figures."
+ },
+ {
+  "id": "LQmXeVmT1VI",
+  "title": "Consumer Spending: Why Key Sectors Are Down 10%",
+  "channel": "FreightWaves",
+  "topic": "tradepolicytariffs",
+  "d": "2026-11-23T18:21:04+00:00",
+  "short": false,
+  "views": 27,
+  "desc": "Is the US economy truly strong, or is the AI boom masking deeper weaknesses in critical sectors? Dr. Jason Miller from Michigan State University breaks down the complex economic landscape for supply chain professionals."
+ },
+ {
+  "id": "AL1vJxEDpeA",
+  "title": "FreightWaves Today | November 23",
+  "channel": "FreightWaves",
+  "topic": "tradepolicytariffs",
+  "d": "2026-11-23T16:59:48+00:00",
+  "short": false,
+  "views": 177,
+  "desc": "Craig and Julie talk to Dr. Jason Miller from Michigan State University joins the show for his monthly economic update to break down the latest signals in the freight market and the broader U.S. economy."
+ },
+ {
+  "id": "n26poNsdBWA",
+  "title": "FedEx Stakes $9.2B in InPost, Zim Profit Surges 55%, & LA-Long Beach Strike Averted",
+  "channel": "FreightWaves",
+  "topic": "tradepolicytariffs",
+  "d": "2026-11-23T14:00:22+00:00",
+  "short": false,
+  "views": 84,
+  "desc": "In this episode, we kick things off by examining a massive strategic move reshaping the European parcel landscape. FedEx Corp."
+ },
+ {
   "id": "aVuOJ05eTYk",
   "title": "FreightWaves Today | November 20",
   "channel": "FreightWaves",
   "topic": "tradepolicytariffs",
   "d": "2026-11-21T07:40:19+00:00",
   "short": false,
-  "views": 335,
+  "views": 377,
   "desc": "Craig and Julie talk to Julia Fuchs from BMW Manufacturing about their new high voltage battery facility that just opened up in South Carolina. Julie has a SONAR market update looking at tender rejections volume, and rail as we head into the holiday season."
  },
  {
@@ -16,7 +76,7 @@
   "topic": "tradepolicytariffs",
   "d": "2026-11-20T21:30:25+00:00",
   "short": false,
-  "views": 108,
+  "views": 136,
   "desc": "FreightWaves’ Thomas Wasson talks with David Warwick, EVP of Enterprise at Overhaul, about the growing wave of cargo theft targeting AI infrastructure."
  },
  {
@@ -26,7 +86,7 @@
   "topic": "tradepolicytariffs",
   "d": "2026-11-20T20:30:38+00:00",
   "short": false,
-  "views": 149,
+  "views": 243,
   "desc": "The Supreme Court sent a Walmart-related trucking case back to California, and shippers are asking whether they’re next."
  },
  {
@@ -36,7 +96,7 @@
   "topic": "tradepolicytariffs",
   "d": "2026-11-20T20:30:31+00:00",
   "short": false,
-  "views": 368,
+  "views": 469,
   "desc": "Craig and Matt explain the California case the Supreme Court sent back after its Montgomery ruling, why plaintiffs’ lawyers are looking beyond brokers to shippers and receivers, and how legal defense costs can pressure smaller companies."
  },
  {
@@ -46,7 +106,7 @@
   "topic": "tradepolicytariffs",
   "d": "2026-11-20T19:28:14+00:00",
   "short": false,
-  "views": 225,
+  "views": 255,
   "desc": "The Q3 2026 Freight Earnings Blue Book reveals a market driven by supply, not demand. Tender rejections nearly tripled, and spot rates surged by 50% year-over-year."
  },
  {
@@ -56,7 +116,7 @@
   "topic": "tradepolicytariffs",
   "d": "2026-11-20T19:28:10+00:00",
   "short": false,
-  "views": 141,
+  "views": 170,
   "desc": "BMW is making a massive $1.7 billion investment in its US operations, with a brand-new high-voltage battery assembly plant now open in Woodruff, South Carolina."
  },
  {
@@ -66,7 +126,7 @@
   "topic": "tradepolicytariffs",
   "d": "2026-11-20T14:41:53+00:00",
   "short": false,
-  "views": 107,
+  "views": 120,
   "desc": "Power is now the first question tenants ask, before location or square footage. FreightWaves Enterprise Trucking Analyst Thomas Wasson sits down with Brandon Page, Executive Vice President, Head of Leasing & Customer Solutions at Link Logistics, for a market update on industrial…"
  },
  {
@@ -76,7 +136,7 @@
   "topic": "tradepolicytariffs",
   "d": "2026-11-20T14:30:29+00:00",
   "short": false,
-  "views": 127,
+  "views": 141,
   "desc": "In this episode, we kick things off by examining how a Swedish autonomous freight startup is making a strategic bet on borrowed intelligence rather than building its own AI from scratch."
  },
  {
@@ -86,7 +146,7 @@
   "topic": "tradepolicytariffs",
   "d": "2026-11-20T06:23:46+00:00",
   "short": false,
-  "views": 200,
+  "views": 207,
   "desc": "Zach and Malcolm talk with Eric Lemus, Vice President of Strategy and Data Analytics for a peak season update. The Zach has a SONAR market update. We then transition to Freightonomics, where Zach will bring on DJ Donahue to talk retail ahead of the holiday season."
  },
  {
@@ -156,7 +216,7 @@
   "topic": "tradepolicytariffs",
   "d": "2026-11-19T16:36:22+00:00",
   "short": false,
-  "views": 49,
+  "views": 54,
   "desc": "The team looks at the past, present and future of a retail model that has long been a fixture of the season."
  },
  {
