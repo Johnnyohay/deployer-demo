@@ -1,5 +1,1033 @@
 [
   {
+    "id": "u-20261124-fedex-ups-upcoming-rate-hikes-what-shippers-should",
+    "d": "2026-11-24",
+    "title": "FedEx, UPS’ upcoming rate hikes: What shippers should know",
+    "body": "The carriers are deploying another 5.9% average price increase, but changes under the surface could squeeze customers budgets further, experts said.",
+    "why": "Understanding retail strategy helps anticipate how supply shocks will be priced to consumers.",
+    "sectors": [
+      "retailstrategypricing"
+    ],
+    "type": "News",
+    "companies": [
+      "FedEx",
+      "UPS"
+    ],
+    "src": {
+      "t": "Supply Chain Dive",
+      "u": "https://www.supplychaindive.com/news/fedex-ups-upcoming-rate-hikes-what-shippers-should-know/875495/",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": [
+      "FedEx",
+      "UPS"
+    ]
+  },
+  {
+    "id": "u-20261124-rail-merger-risks-soaring-costs-for-small-shippers",
+    "d": "2026-11-24",
+    "title": "Rail Merger Risks Soaring Costs for Small Shippers",
+    "body": "The proposed rail merger between Union Pacific and Norfolk Southern is sparking major concerns for chemical distributors.",
+    "why": "Major deals often signal shifts in supply capability or new market access.",
+    "sectors": [
+      "strategicpartnershipsma"
+    ],
+    "type": "Strategic Partnership",
+    "companies": [
+      "Shippers",
+      "Union Pacific",
+      "Norfolk Southern"
+    ],
+    "src": {
+      "t": "FreightWaves",
+      "u": "https://www.freightwaves.com/news/rail-merger-risks-soaring-costs-for-small-shippers",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": [
+      "Shippers",
+      "Union Pacific",
+      "Norfolk Southern"
+    ]
+  },
+  {
+    "id": "u-20261124-air-cargo-s-squeeze-makes-the-case-for-ai-driven-c",
+    "d": "2026-11-24",
+    "title": "Air cargo’s squeeze makes the case for AI-driven cargo technology",
+    "body": "Air cargo demand is surging, but capacity, pricing, compliance and fuel costs are squeezing carriers. See how AI-driven cargo technology helps. The post Air cargo’s squeeze makes the case for AI-driven cargo technology appeared first on FreightWaves .",
+    "why": "Sudden rate spikes or port bottlenecks are the earliest warning signs of shelf shortages.",
+    "sectors": [
+      "logisticsfreightrates"
+    ],
+    "type": "News",
+    "companies": [
+      "Air"
+    ],
+    "src": {
+      "t": "FreightWaves",
+      "u": "https://www.freightwaves.com/news/air-cargos-squeeze-makes-the-case-for-ai-driven-cargo-technology",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": [
+      "Air"
+    ]
+  },
+  {
+    "id": "u-20261124-why-air-cargo-rates-rose-in-2026-and-what-comes-ne",
+    "d": "2026-11-24",
+    "title": "Why Air Cargo Rates Rose in 2026 and What Comes Next",
+    "body": "Rates, capacity, earnings and the supply chain risks shaping air cargo into 2027 A review of 2026 air cargo demand, rates and capacity, carrier and forwarder earnings, and how much slack the system has left, using SONAR data.",
+    "why": "Sudden rate spikes or port bottlenecks are the earliest warning signs of shelf shortages.",
+    "sectors": [
+      "logisticsfreightrates"
+    ],
+    "type": "News",
+    "companies": [
+      "Cargo"
+    ],
+    "src": {
+      "t": "FreightWaves",
+      "u": "https://www.freightwaves.com/news/why-air-cargo-rates-rose-in-2026-and-what-comes-next",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": [
+      "Cargo"
+    ]
+  },
+  {
+    "id": "u-20261124-us-readies-tariff-hike-on-china-eu-goods-as-soon-a",
+    "d": "2026-11-24",
+    "title": "US Readies Tariff Hike on China, EU Goods as Soon as Tuesday",
+    "body": "US Readies Tariff Hike on China, EU Goods as Soon as Tuesday",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [
+      "China"
+    ],
+    "src": {
+      "t": "Bloomberg.com",
+      "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb3RsSGwydkRvZkItUUlRQUxrS1RfZ3dJNV85NnJIYl9yclIxQXdxMElGNmQwVW56TENkU3duY3lnaXAyV0Q0elhEZXdVQlJsZTg0czUyM0Q3RHJUbjdyUjhBcmNyRW1La1RPVU1PemkzNFh0X1FrTC05M1RPRk1lWm9ja3ZiaUFQVUV5MmwzOHRGenNDNjdHUmtiMFlfNUZIOEM0OE05V0V4aDRKZGdZ?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261124-new-trump-tariffs-won-t-top-trade-deal-levels-will",
+    "d": "2026-11-24",
+    "title": "New Trump Tariffs Won’t Top Trade Deal Levels, Will Be Targeted",
+    "body": "New Trump Tariffs Won’t Top Trade Deal Levels, Will Be Targeted",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "News",
+    "companies": [],
+    "src": {
+      "t": "Bloomberg.com",
+      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRk9ydWRwa1d2aXFHT0FvQW16SWMyemgzS1VCc1g3MVRlb2hhM21HTl9RdWMzTUVQcnNJbVpRMzFQellZZVBCbG44RXhpekczWkg0TnRwaVJVT3didFhjc2oySHpxUFFheC05NVB4a0Y1dnVXM2tmSjE0YVhwYjNHVnI4WmhTS2dna2dmeDA1ZVRwV0oyS1pmZG9BeXI0SEVIMjh5QVE0YkRRTW1xR2R5Z3ZfRQ?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261124-trump-administration-tees-up-tariff-hikes-on-eu-ch",
+    "d": "2026-11-24",
+    "title": "Trump administration tees up tariff hikes on EU, China, others",
+    "body": "Trump administration tees up tariff hikes on EU, China, others",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [
+      "China"
+    ],
+    "src": {
+      "t": "Politico",
+      "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNHdmanQya1ZpbmtJaGc1SHh1NFItcHdxWXlLX2VGZG9NLUlDeV9RYWRVek5GWVlxdXpfNFRmRmlLMnpBZl9fWDVmTkx4ZFd0TnlGanhsbFA1XzJ3SjM3di1wMFl0MzREQ1RYWGJ5SDAtbmVYNm01YllCS29qN0ZfenB2N05OVXoxNVJFX1oxRkV1TFIwZ2U1RA?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261124-u-s-readies-tariff-hike-on-china-eu-goods",
+    "d": "2026-11-24",
+    "title": "U.S. readies tariff hike on China, EU goods",
+    "body": "U.S. readies tariff hike on China, EU goods",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [
+      "China"
+    ],
+    "src": {
+      "t": "Transport Topics",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pejlGYVhNemFHSVFoVGpYRFJXRmozUjd0eU1YcmhhQUROOWY2VzNoZkg0SW45cGNXTGtLSlVwNlJtTVhOQV9oYjRYOWpqd1N4SUlBR1BucmhIbVJhb0JVLWdMd1dJRUg4QV83ZWVR?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261124-tva-touts-1-7b-data-center-deal-under-new-large-lo",
+    "d": "2026-11-24",
+    "title": "TVA touts $1.7B data center deal under new large-load tariff",
+    "body": "TVA touts $1.7B data center deal under new large-load tariff",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [
+      "TVA"
+    ],
+    "src": {
+      "t": "Utility Dive",
+      "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTUM3RDE4UEV5YXFERTZrXzBTX2x3Nkx5SDB4Z3pOalVNem00d0U1RzhlallxVFN5bG9odUo3S2ZqSnZvbnBvQmdLX1JhX3Q1LXUtZkVsUjJXYW81VGR3THZjZHhmYUQ4VUNhN2VhbmhJTkt4SEZIYlgzcEV0Vm56SkdXS25GWll6aUFiWHlFQ05JR2dQMzJmaGxDNHhWNmJQ?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": [
+      "TVA"
+    ]
+  },
+  {
+    "id": "u-20261124-north-carolina-utility-regulators-punt-on-clean-tr",
+    "d": "2026-11-24",
+    "title": "North Carolina utility regulators punt on clean transition tariff — again",
+    "body": "North Carolina utility regulators punt on clean transition tariff — again",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "Canary Media",
+      "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMEcwVEhqRjB6LVRFakhrQ0pOZkt5LUZPX2p1OG1odnptaHJtNjBtc2NETFNoM2J5enFKb0htWEZkLW9DMWNkU19PWlZwZ0hOVXgyS2ZOdGxIQ3k3YmpFcUMtQ2VUSm5LbFJKNHhXNWlTQWZiV0hCc0RqczFYRHVGcm1QNk5aX0ZnUjllWVBKNGRsN0N6eUR2UA?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261124-what-s-known-and-unknown-about-potential-tariff-re",
+    "d": "2026-11-24",
+    "title": "What’s known, and unknown, about potential tariff relief for automakers investing in U.S.",
+    "body": "What’s known, and unknown, about potential tariff relief for automakers investing in U.S.",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "Automotive News",
+      "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQT096MEdMNEVuT0RlTW1vb2lkQmJZZkk2SFkxcWlTTmRMelRUb25HWUR2WkgxYlF0NzRCVnFHVy1sSmhlV0VvMXItWUNrS0JTdzNUalA2QTd3OEhkTGNIaDd5WGI4QUthZFlOZW45UnQyWWxOc213dzl6MEhqcDBIVU5R?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261124-first-shift-ocean-rates-tariff-risk-and-automation",
+    "d": "2026-11-24",
+    "title": "First Shift: Ocean rates, tariff risk and automation reshape planning",
+    "body": "First Shift: Ocean rates, tariff risk and automation reshape planning",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "Supply Chain Management Review",
+      "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLWFROGp0YjZ6cEdmQVR0Sm42UWdlMGxtNHJzNndIQ1U2R3hZQWpyY2h2UmNTeFZ3d1QtUDJEeFV4bkdzOHQ4YXNsSHAtUWJlWEdjUkZuODJrZlgzSWJRMHhxOEswNndhUHVWeGtJZGpETlBGWjRwMGxNNEM4eTZfb3Nqemk2SmRBZkNpMjNYRURYUzU2YXFpd1RKZi0?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261124-u-s-trade-chief-says-canada-tariff-deal-is-close-f",
+    "d": "2026-11-24",
+    "title": "U.S. trade chief says Canada tariff deal is close, flags concern over China pact",
+    "body": "U.S. trade chief says Canada tariff deal is close, flags concern over China pact",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [
+      "China"
+    ],
+    "src": {
+      "t": "The Hub | More Signal. Less Noise.",
+      "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVlRKUTNWUE1YVy1abTZQbS1kQ053cVV4b2lzWWlocjRYbUs5NHp3TUZma0NmQXZTdnIyRFc2Qkh2a0tWWFZkRzBuVkVCSlRJQWRJQ0ZZbUN2M0xwbndzX2RIS2FlX2JVWGNzdlFhSUZZV0dVbHF4dWtKVURwZHZ6ZDVWcWpvNVc2LXpieFY4bEk3UTdMUVdqaS1wd0JROUZNZm9pbzJLTGc5cDlh?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261124-port-of-oakland-opens-first-heavy-duty-electric-tr",
+    "d": "2026-11-24",
+    "title": "Port of Oakland Opens First Heavy-Duty Electric Truck Charging Depot",
+    "body": "Port of Oakland Opens First Heavy-Duty Electric Truck Charging Depot",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [
+      "Port",
+      "Oakland",
+      "Heavy",
+      "Duty Electric Truck"
+    ],
+    "src": {
+      "t": "Port of Oakland",
+      "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTE92a2lYd1VJZFRDdUpDdjA1LVZnM2tQYzRFUnNuMUlqUFZrQ2xNbmdnNEdob2lxUTg1NDRlUVcwWWdnbkNBMnM2X3I2NmJ6cUhJVVhZTW1ULUswakczWHZ4YzlFdkRFZExhRVdfTmhxYUJjSVJ0b0NXN1A4Z0JDS0picWU1aHd6VzZvdUp0UEVrRVh1Zzc0aUoxaE1fR2s?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": [
+      "Port",
+      "Oakland",
+      "Heavy",
+      "Duty Electric Truck"
+    ]
+  },
+  {
+    "id": "u-20261124-north-american-mushroom-tariff-showdown-enters-fin",
+    "d": "2026-11-24",
+    "title": "North American Mushroom Tariff Showdown Enters Final Phase",
+    "body": "North American Mushroom Tariff Showdown Enters Final Phase",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "The Packer",
+      "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObTY4SFlqS0JYSzY1ZzJFcDV3YnhfSXhIaFZwNGR3SlFnX3JIUGl2c1RwSjhGTW1yeHNjUjl0MWFOdkQwU2xkSXVhLWNVdmltQ0ROcXUtVU5NY0pIYm1wdVczaWZmVHJCS1FQaFk3bnpPU0RjSjJBenBFNU5aSVRmS3NSTTVfTTA2b21SdVFwa0RBZkE?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261124-the-next-tariff-fight-is-taking-shape-what-it-mean",
+    "d": "2026-11-24",
+    "title": "The Next Tariff Fight Is Taking Shape. What It Means for the U.S.-China Truce.",
+    "body": "The Next Tariff Fight Is Taking Shape. What It Means for the U.S.-China Truce.",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [
+      "China"
+    ],
+    "src": {
+      "t": "Barron's",
+      "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTnlURUVGYlVHRTBQYmgtZWRwNFR4UzYzRVFSYkpkc3dPeTI2RVgtd1dNMkhwbWxyMGRYMFJtV0hneS1SMS1IZms4S0dXSW45MzFRVTkxRl91VjY5LUV0SElNMGFsaDNiSmd4RXZYWElwUWpmN1Qza0RaTjVIY3hRc0ZsRUpTOEp1MTNidU9aVQ?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261124-167-wny-farmers-receiving-nearly-2-2-million-in-ta",
+    "d": "2026-11-24",
+    "title": "167 WNY Farmers Receiving Nearly $2.2 Million In Tariff Relief Payments",
+    "body": "167 WNY Farmers Receiving Nearly $2.2 Million In Tariff Relief Payments",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "WRFA-LP 107.9 FM",
+      "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYnZtdzY5TFBldVQ0MHlOUE1BR3NTMXNfOFQ3b0ZUYTRoQ2s2WDhEeEFiUkhGRkRTd0JMMDZFbFZ1dG0xNmpBZkY0UkRjVk1UT1kwWW15aUhFclp3TkFlR1U3eVlkUWRWNUpPU1VzaGRTVnNIOENScmNvZVZrbHlnZVE5R1c0dHg0SnNWR1VLUXdSb1FMMnU1d2RR?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261124-nasdaq-rips-another-trade-war-comeback",
+    "d": "2026-11-24",
+    "title": "Nasdaq Rips: Another Trade War Comeback?",
+    "body": "Nasdaq Rips: Another Trade War Comeback?",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "TradeStation",
+      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9aMzhKaGpIRDBQd1E2aUFOdFFlTl9ieC12Wm9WbkxkRkpnbjdZaS1mSlE3UlVWb2dZN2tfTU1wYk9YMlpOTWtTb3Ixd2FfZHBRR19nLUpFZGYtS0d1ZmR3a1JYOEEzQ1NzTU4zZHJyU3lFTmRTbFNJ?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261124-us-prepares-broad-tariff-hikes-on-16-economies-inc",
+    "d": "2026-11-24",
+    "title": "US Prepares Broad Tariff Hikes on 16 Economies Including China and EU",
+    "body": "US Prepares Broad Tariff Hikes on 16 Economies Including China and EU",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [
+      "China"
+    ],
+    "src": {
+      "t": "bloomingbit",
+      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82V1RIVTJob3JFaThUNk00NjVsWHM3UHVjLXNqczE2cDhqZExzSU00UzlYc0VWTlZTZVR3SkI0LW9UUmF2Z0JvdUE1ZFVxaVBNb09DWQ?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261124-trade-war-over-green-tech-has-no-winners",
+    "d": "2026-11-24",
+    "title": "Trade war over green tech has no winners",
+    "body": "Trade war over green tech has no winners",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "Tech Xplore",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TV3pGT2c4ajJPQ1hnUG9FZ1hqMUw4N2RralBRZnRUTGstTnNGVVpuU3FMNU40dFFPRW1ORnZRbVFGLXE1WTc3Y21qYU16anlGekp6T1NybW5XaUVKOWVQT05pTmg3ZjNPd3paaWdiRzQ?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261124-new-york-begins-distributing-us-23-million-in-farm",
+    "d": "2026-11-24",
+    "title": "New York begins distributing US$23 million in farm tariff relief",
+    "body": "New York begins distributing US$23 million in farm tariff relief",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "FreshPlaza",
+      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPR2Y0dmowb1h1cFVpb0hQZzBGbklrZmxiUmk5aE12X3ZLZ01SMVBvYWdYRzFjM2dqcE5oZmFhb1IxNkRmR09USDFlbFN6amJUYjBLQkUtS2Qtd1ZnQWRfUE5DX2luaDJmcXE5OWFqUlRDVXllb2NncXFmVG9oS2tOYzNERzM0SjFMY0NwUjNCUFhwS294ZmZfUXc2dGg3TVFOck5BMG9mMXRjVXlnejRaV3p0ZFJmdjM1WDZNUklBaw?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261124-wall-street-trades-mixed-as-markets-assess-new-tar",
+    "d": "2026-11-24",
+    "title": "Wall Street trades mixed as markets assess new tariff concerns",
+    "body": "Wall Street trades mixed as markets assess new tariff concerns",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "Seeking Alpha",
+      "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZHJGTFNDT0RkRklVOU9tcU1KOFhTU0FqeURTRi1TRlp5eDdndzdaVC1XUWFad1kyd1Z0WlVGWTRxVjJfM3R4R25QbWdqNWMyakR3LUd1NjZCSUNHSTJ4alRRUU1YVXpveUxPb2RoOGYwaG1ESFVjb1FELVpjVGpsUmFwWDhES2FfMEdxOHJNOHFqNEp3WkYtM2txcDllTDZuZVE?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261124-bw-lpg-q3-2026-slides-record-profit-driven-by-frei",
+    "d": "2026-11-24",
+    "title": "BW LPG Q3 2026 slides: record profit driven by freight rate surge",
+    "body": "BW LPG Q3 2026 slides: record profit driven by freight rate surge",
+    "why": "Sudden rate spikes or port bottlenecks are the earliest warning signs of shelf shortages.",
+    "sectors": [
+      "logisticsfreightrates"
+    ],
+    "type": "Freight Rate Spike",
+    "companies": [
+      "LPG"
+    ],
+    "src": {
+      "t": "Investing.com",
+      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNHFBcmZSempWSmZxclZNeWZMenJ5X0IySkxPM2VPc29jbkNIMTY5QzJLQlhteElHRW05T1Ftd2c4TUw3ck5kWDhMZEJXeUZsZXBHakdQUEdaMDVzTVNWTmF1VGwwbHVlallGamRJU2FsYjRkMk5CMXYycEVXcDJhNnVoQjlHOW15Vk50RC1MVVYyTWhIbElabk50M0c3aURyN0RhRkx6cGI0S2FTN3VxTmxveVJxUElWY2JveUFB?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": [
+      "LPG"
+    ]
+  },
+  {
+    "id": "u-20261124-government-separates-shipping-line-release-from-cu",
+    "d": "2026-11-24",
+    "title": "Government Separates Shipping Line Release From Customs Clearance to Ease Port Congestion",
+    "body": "Government Separates Shipping Line Release From Customs Clearance to Ease Port Congestion",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs",
+      "logisticsfreightrates",
+      "portactivityinfrastructu"
+    ],
+    "type": "Port Strike or Congestion",
+    "companies": [],
+    "src": {
+      "t": "Modern Ghana",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1YSDdiS0hMR2V1V3dfbDE5SVZsLV9IRUhtRzY4czQzTFVkRGhCXzBvakpKek41M2phb1VvbGwtWU1yZ2JkU2ZsMmZYVFNHSUhfblg0YlBJNEtNUklp0gFcQVVfeXFMTVhIN2JLSExHZXVXd19sMTlJVmwtX0hFSG1HNjhzNDNMVWREaEJfMG9qSkp6TjUzamFvVW9sbC1ZTXJnYmRTZmwyZlhUU0dJSF9uWDRiUEk0S01SSWk?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261124-da-calls-on-edtea-to-engage-transnet-over-durban-p",
+    "d": "2026-11-24",
+    "title": "DA calls on EDTEA to engage Transnet over Durban Port congestion",
+    "body": "DA calls on EDTEA to engage Transnet over Durban Port congestion",
+    "why": "Sudden rate spikes or port bottlenecks are the earliest warning signs of shelf shortages.",
+    "sectors": [
+      "logisticsfreightrates",
+      "portactivityinfrastructu"
+    ],
+    "type": "Port Strike or Congestion",
+    "companies": [
+      "EDTEA",
+      "Transnet"
+    ],
+    "src": {
+      "t": "Democratic Alliance",
+      "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdkJ2TlR4U3J2VnlMX2pabjdRbURLMExrbklPWVZyYzhnVUVQOFQ4a3VnMTNpS3hPRDZJX24zQWVVT3lTNXBKdGpPdlFoQjVtZHJNaDF0SzdkN2VUdkU1dlc3eHhRc204Unk0NXdROVNtMTVtOFBKekU4R1l2QjQ0MGdhZGxfakJRQ3pzM0t5cVhrdkFsVmFrNE1B?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": [
+      "EDTEA",
+      "Transnet"
+    ]
+  },
+  {
+    "id": "u-20261124-durban-port-congestion-threatens-western-cape-frui",
+    "d": "2026-11-24",
+    "title": "Durban port congestion threatens Western Cape fruit exports, with R20,000 extra cost per container",
+    "body": "Durban port congestion threatens Western Cape fruit exports, with R20,000 extra cost per container",
+    "why": "Sudden rate spikes or port bottlenecks are the earliest warning signs of shelf shortages.",
+    "sectors": [
+      "logisticsfreightrates",
+      "portactivityinfrastructu"
+    ],
+    "type": "Port Strike or Congestion",
+    "companies": [],
+    "src": {
+      "t": "Cape Times",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11ZW5aVkx2VzJGUzZHaVdoNklwWlRhUFBMQW5PMGxoMnl6U3o3cHJXUzlVbzBTSGh0N0xoVW9xclkwbDNqNk12SW8wWE0zRnpTaUVZMFJjVE42R1JFQ3BYUA?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261124-natural-gas-markets-tighten-amid-gulf-supply-disru",
+    "d": "2026-11-24",
+    "title": "Natural gas markets tighten amid Gulf supply disruptions",
+    "body": "Natural gas markets tighten amid Gulf supply disruptions",
+    "why": "Raw material price jumps are the root cause of retail margin erosion.",
+    "sectors": [
+      "commoditymarkets"
+    ],
+    "type": "Commodity Price Jump",
+    "companies": [
+      "Natural Gas"
+    ],
+    "src": {
+      "t": "World Bank Blogs",
+      "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdy1semt6WE51dGFpejcwZEVCdFBta3lLRGpxLXdXTDQ3VUZPT3h5RmMxX21iTG9XNzNmMnZEMU00THFEbDBscUliZGZQd2JlWVp6OXFMM0g5Z2diUVpGZ2FFN2tnTEx6bjV2dngxemlYcng2UkFfZXYwWjN0NU9jd0EwVUZBallnR3F5MEpCelk3WFlUUHRMYkxoS3c?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261124-commodity-price-watch-november-2026",
+    "d": "2026-11-24",
+    "title": "Commodity Price Watch: November 2026",
+    "body": "Commodity Price Watch: November 2026",
+    "why": "Raw material price jumps are the root cause of retail margin erosion.",
+    "sectors": [
+      "commoditymarkets"
+    ],
+    "type": "Commodity Price Jump",
+    "companies": [],
+    "src": {
+      "t": "S&P Global",
+      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQanUwX2pZRFliUmpGU3R1SXFWeHhpbWhBUXRkbGFMRG85LXQ3dGtYajBpNFpKczV1UlA2YmpGeDhmR1A1UHJVQkpPOFhwSEtaaGpjRVZacFZnMXNUcjMxOVBndkNZZWZ2eUp0ZEhXelJIWXZsVl9aVjZsMllsc0tpVHEtUHlRX3lEQ0daMnVjNi1icldVRmpYQWtYWFdhM0NwSkxoRTZwMkdaclZla3lqMm9DRWE?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261124-equinor-signs-18-year-natural-gas-supply-contract-",
+    "d": "2026-11-24",
+    "title": "Equinor signs 18-year natural gas supply contract with German VNG",
+    "body": "Equinor signs 18-year natural gas supply contract with German VNG",
+    "why": "Raw material price jumps are the root cause of retail margin erosion.",
+    "sectors": [
+      "commoditymarkets"
+    ],
+    "type": "Commodity Price Jump",
+    "companies": [
+      "Natural Gas",
+      "Equinor"
+    ],
+    "src": {
+      "t": "Oil & Gas Journal",
+      "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaFk5RWgxYVhNYXhOWEtlNVFxSzVUelFJU20tMXNNVmdGTU93bTJ3X2EweHBkRmJTMnVHVnFHX3E5TDdGMzFCcF9pZEhoZ19LUDZ3YUxwZ0ZoVU00b3JDUGJXbjh3YWdIQzJvS25rSTF3bFdpM2Q5U2dwQTZMXzlCY2Nvb3FBZ3pPNk9IaE5XQ3FiTzFsVTB3QlluaklGdTJlZXc3ZjNrcGtDM0lkaTBYMUowa0lLdDg?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": [
+      "Equinor"
+    ]
+  },
+  {
+    "id": "u-20261124-wheat-commentary-wheat-futures-rise-on-black-sea-t",
+    "d": "2026-11-24",
+    "title": "Wheat commentary: wheat futures rise on Black Sea tensions, stronger export demand",
+    "body": "Wheat commentary: wheat futures rise on Black Sea tensions, stronger export demand",
+    "why": "Raw material price jumps are the root cause of retail margin erosion.",
+    "sectors": [
+      "commoditymarkets"
+    ],
+    "type": "News",
+    "companies": [],
+    "src": {
+      "t": "Fastmarkets",
+      "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaXR3eGxTWDZaMXp0dFd5VkVtZlYxbWFPQi1NNW91MlBVeE9FYW12RWNJVjh2Vm4zUzhEcGZvVF84X0R5WU5FazNjYUVQeVFkcnhLYk9FYVlEdFJfbTU3b1NWMTk0bEJVWUczUmYzUGJBZ3RKWmVraVF0bzZZajNEbkpjbEZMcnI0NTBOVUZBUG05NDJfd1ZOOVhHSnZMTkVtbU11NDc4Mi13SU9ZMUdIZzN4dGRoMlB3QVE?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261124-eu-rules-out-return-to-russian-natural-gas-as-lng-",
+    "d": "2026-11-24",
+    "title": "EU Rules Out Return to Russian Natural Gas as LNG Import Ban Nears",
+    "body": "EU Rules Out Return to Russian Natural Gas as LNG Import Ban Nears",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs",
+      "commoditymarkets"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [
+      "Natural Gas"
+    ],
+    "src": {
+      "t": "Natural Gas Intelligence",
+      "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT2xVS0ZtUUVDUElmeXhQLWlLNWJ4X0ZZVm5ZbzNINjB3VE45azM2RHNyOHFFZnllR2pHV1dNQ2pQNjhaejZBWC1pU1MwMGNxTGNxWld6TTN6LTZUbGI0SkFFSlZNMFdTZndrNnBCRko0MTlrNV8yanBBTC0xZV92dHI3U3phRXFQeWtQQ2ZRRXdaY2NsbkMyMjgxangyM1RXclE?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261124-wheat-futures-trade-mixed-while-corn-and-soybeans-",
+    "d": "2026-11-24",
+    "title": "Wheat futures trade mixed, while corn and soybeans rise in Chicago on Monday",
+    "body": "Wheat futures trade mixed, while corn and soybeans rise in Chicago on Monday",
+    "why": "Raw material price jumps are the root cause of retail margin erosion.",
+    "sectors": [
+      "commoditymarkets"
+    ],
+    "type": "News",
+    "companies": [],
+    "src": {
+      "t": "УкрАгроКонсалт",
+      "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONVJBdFg5enUwdW1MaU5nODVBM0w3eXk2MTdiQW54anJrSGlrVmF2UVVMQmhxWHZGQ2VIOVhJU011cWJNZEFrdXBpQWJzZU9iV2o1N3lBdWl0cndBd2VRcnJwRDdBMDZPenhSbWZ3ZUlqbHdVWnpRSUpUeXozNVpVUnpSMUhBRG41SFFNNGszM0FsdXQydTVMME40VWRXcGpUSUZuZjhEZk1lU0pxRE1qMw?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261124-port-of-gothenburg-invests-in-electrification-infr",
+    "d": "2026-11-24",
+    "title": "Port of Gothenburg Invests in Electrification Infrastructure for Container Terminal",
+    "body": "Port of Gothenburg Invests in Electrification Infrastructure for Container Terminal",
+    "why": "Port bottlenecks are the physical manifestation of supply chain friction.",
+    "sectors": [
+      "portactivityinfrastructu"
+    ],
+    "type": "News",
+    "companies": [
+      "Port of Gothenburg Invests"
+    ],
+    "src": {
+      "t": "Maritime Logistics News",
+      "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLW9WblJIZzh0YlN0dzI5ZzJacU0xLS00TWVzaTV0eVYwTGNJZ0EwdUQwLTduWWNPOG4tYzU0RnU2Z2NQNFQtY245ejRvQUZKcFNqVzE3X0t0a2RMQS10dmt6aFNFNjRQU3dRWmd4Z3JhUWFjczdOTnZGR3VIVktNZmUyQ0o4LXB5RTdmVFcyUzNlbnJxUVpJWFUwYVY1MzB2cnpWUW5n?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": [
+      "Port of Gothenburg Invests"
+    ]
+  },
+  {
+    "id": "u-20261124-port-of-gothenburg-invests-in-electrified-rail-acc",
+    "d": "2026-11-24",
+    "title": "Port of Gothenburg invests in electrified rail access to the container terminal",
+    "body": "Port of Gothenburg invests in electrified rail access to the container terminal",
+    "why": "Port bottlenecks are the physical manifestation of supply chain friction.",
+    "sectors": [
+      "portactivityinfrastructu"
+    ],
+    "type": "News",
+    "companies": [
+      "Port"
+    ],
+    "src": {
+      "t": "American Journal of Transportation",
+      "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRVhfQ1lGVWN1MUFsdGx1eDcyU1ExbkNwMGQ2RE5pbUxrNlF6d2VGMmxFR3p0Mno2bWg4T1U0X09paktSaUgxOS04Z3NMNWtmdUVjQjhSRnJrdzNjVUthUVlYYVBfQmkzQ3ZVTWVUakRKZzFDTWtuX081aTMxZS1aR1FSR2NYWXpHSkVpMXU3TF9xY0JOaTNiRzVpalFLajI4V0lCYmR2RDE?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": [
+      "Port"
+    ]
+  },
+  {
+    "id": "u-20261124-helsingborg-opens-consultation-on-a-future-contain",
+    "d": "2026-11-24",
+    "title": "Helsingborg opens consultation on a future container terminal and southern port shift",
+    "body": "Helsingborg opens consultation on a future container terminal and southern port shift",
+    "why": "Port bottlenecks are the physical manifestation of supply chain friction.",
+    "sectors": [
+      "portactivityinfrastructu"
+    ],
+    "type": "News",
+    "companies": [
+      "Helsingborg"
+    ],
+    "src": {
+      "t": "The Baltic Review",
+      "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMnUyQzdDNl94MU5aX1pJUE9FeU1zR04yekRyVjBKN25HeFljT0JTUm1aeEp4MkxtemZTTUhCU1BPY2dyU2Vqc29JajJlS1l2MzE2UUtLNTJMQUhCbnlNdFBDT2pIdHM4VDMzYm85UE5WcENUYzFoSjVqcnoxV3puV08xYw?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": [
+      "Helsingborg"
+    ]
+  },
+  {
+    "id": "u-20261124-port-of-gothenburg-to-electrify-rail-tracks-into-a",
+    "d": "2026-11-24",
+    "title": "Port of Gothenburg to electrify rail tracks into APM Terminals container terminal",
+    "body": "Port of Gothenburg to electrify rail tracks into APM Terminals container terminal",
+    "why": "Port bottlenecks are the physical manifestation of supply chain friction.",
+    "sectors": [
+      "portactivityinfrastructu"
+    ],
+    "type": "News",
+    "companies": [],
+    "src": {
+      "t": "Container Management",
+      "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMUFLREowTDl2MUxOX2g2LXdGeFNOMGZyV0tNM01UczlfazFpY19SQndzRjhuWmhwRWR5em82YnBGU1I2VkVCbnZQbmVlQUJSd1lFdGVjdmtlMDUtQ3JfRHBscEFGcWtGeWw3Y2FvaU9JeG1yWkV1NFNJY1Q2OEZRVU14UjZpTjVZRXF3SEF1a3AzZlE3UWF5b2hkT2FJaUZwSTBESQ?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261124-gothenburg-port-moves-to-electrify-container-termi",
+    "d": "2026-11-24",
+    "title": "Gothenburg port moves to electrify container terminal rail operations",
+    "body": "Gothenburg port moves to electrify container terminal rail operations",
+    "why": "Port bottlenecks are the physical manifestation of supply chain friction.",
+    "sectors": [
+      "portactivityinfrastructu"
+    ],
+    "type": "News",
+    "companies": [],
+    "src": {
+      "t": "Splash247",
+      "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdTVWV29BNjVfdzc3emlkdk9zTGZsdzlFb0wtc1R5enowT0tFb0NfUWVMaWo5ckdobHpoS3U0UWUxdXFIUnhTMW9nREUtWENaR2w1cTBGN1ZqRThJWlFqYUtzUDc0OFJjM1lXbnh3RDVIMmhITjZiNnlqMGdyOHJ6cmdOQlNxZldhYmFzNEtlUE9wVjFVaWg4?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261124-gothenburg-port-to-electrify-container-terminal-ra",
+    "d": "2026-11-24",
+    "title": "Gothenburg Port to Electrify Container Terminal Rail Tracks - News and Statistics",
+    "body": "Gothenburg Port to Electrify Container Terminal Rail Tracks - News and Statistics",
+    "why": "Port bottlenecks are the physical manifestation of supply chain friction.",
+    "sectors": [
+      "portactivityinfrastructu"
+    ],
+    "type": "News",
+    "companies": [
+      "News",
+      "Statistics"
+    ],
+    "src": {
+      "t": "IndexBox",
+      "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQczdmdmgxdzh5QlQya1p1bXNJMUt4bnNFcU10dFo5eWxaaVhaLTdZbXNlNkx2aUlpc1VjTTlwOXRVaDZwTk95eGtUd2ZvT1hib3VXN1ZxU2NuUzc4Q1lES0w1TGJjUlJLZmdoOGtabG5qM1oxY1VvVENoZjhFb1RyMEU4eF9Cc1NGZTVpOUZma1JCMklrVmdv?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": [
+      "News",
+      "Statistics"
+    ]
+  },
+  {
+    "id": "u-20261124-everest-port-services-to-operate-ctg-container-ter",
+    "d": "2026-11-24",
+    "title": "Everest Port Services to operate Ctg container terminal",
+    "body": "Everest Port Services to operate Ctg container terminal",
+    "why": "Port bottlenecks are the physical manifestation of supply chain friction.",
+    "sectors": [
+      "portactivityinfrastructu"
+    ],
+    "type": "News",
+    "companies": [
+      "Everest Port Services"
+    ],
+    "src": {
+      "t": "dailyasianage.com",
+      "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbnN0TGFEZEJLRzNDQUJ2X3RSdXZDUkdMN1pHN096VkhzUHJQQnRWQWtrNVhCRE1HRkZqU0NkRzVjWGhWUHhLalJyWFhzVUFtN3FHdl9PSzF6SGlCZVgzS1VseDFEMkdSLVFkc0tGWUgwck54bzFiT2RHMWd4SlJmWlBldjhVWW5PeWx1U2h1cVQ1UUlRbWVuTENR?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": [
+      "Everest Port Services"
+    ]
+  },
+  {
+    "id": "u-20261124-adani-kattupalli-container-terminal-successfully-b",
+    "d": "2026-11-24",
+    "title": "Adani Kattupalli Container Terminal successfully berths MV Cornelia Maersk, demonstrating advanced vessel-handling capabilities",
+    "body": "Adani Kattupalli Container Terminal successfully berths MV Cornelia Maersk, demonstrating advanced vessel-handling capabilities",
+    "why": "Port bottlenecks are the physical manifestation of supply chain friction.",
+    "sectors": [
+      "portactivityinfrastructu"
+    ],
+    "type": "News",
+    "companies": [
+      "Maersk"
+    ],
+    "src": {
+      "t": "India Shipping News",
+      "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQTEtrZVBRTjRHY1E5TDV6SjlLdmVVT2Nvek01cjd6YzFaNGtVNVUxUVFZRGpZQUFMYU5scjlVa1ZZUl9vSmNFNXFVSFNTUzA5QVdhd3ZwTk0tbWVxT3FhZGVJVmlOZlV6OUkyTDNCNk9SMEhUeDBmOF9HM0pQbUtaZkx4YlhzSUlaYTJWTmZDSXdHZk9uRnhaMTNidG9VVXA4cmVWc1BEa1hJSW5jSG5yQWRvZHhlV0dXaHhLVFFscVFiMklOR3dCSU92c0ZKMnRwdGdFT3Z2RklOU2duMy1MbXU4MFJtaGFYbDBWNHl3aEZhN2h6bmc?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261124-firm-champions-industrial-competitiveness-local-so",
+    "d": "2026-11-24",
+    "title": "Firm Champions Industrial Competitiveness, Local Sourcing, Regional Trade",
+    "body": "Firm Champions Industrial Competitiveness, Local Sourcing, Regional Trade",
+    "why": "Shifts in regional sourcing strategies reveal where supply is becoming more volatile.",
+    "sectors": [
+      "regionalsupplychains"
+    ],
+    "type": "News",
+    "companies": [],
+    "src": {
+      "t": "LEADERSHIP Newspapers",
+      "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaElFcmtNaDJzOHNXakJRSVRqRkZqRTVDOWV6OUNuLWlITVNzZ2RfcWRHRi1HV0VjbGlWY1lQLUUwOHByOTY0d1A1TEFFTEtEZFhqLUFla3M2bnJEMEVWQVcwUHVRTzE1NWNZNHlldUFzWkp6NzVBa1U0dFgtNEtHd0JkWUZIRmU0bnRicThscFo5X0dkOTd2akRB?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261124-guinness-nigeria-champions-industrial-competitiven",
+    "d": "2026-11-24",
+    "title": "Guinness Nigeria champions industrial competitiveness, local sourcing and regional trade",
+    "body": "Guinness Nigeria champions industrial competitiveness, local sourcing and regional trade",
+    "why": "Shifts in regional sourcing strategies reveal where supply is becoming more volatile.",
+    "sectors": [
+      "regionalsupplychains"
+    ],
+    "type": "News",
+    "companies": [
+      "Guinness Nigeria"
+    ],
+    "src": {
+      "t": "ConsumerConnect",
+      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Ta0UzaDc3UDZDR2lRYTJFMFNaS0toUGZrR2gyN3FEWnMyTDc2RVpQX1JJWVZseFBzMDZ2Z01mQ0FtS1dtVzNKX1Z2SWZkdw?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": [
+      "Guinness Nigeria"
+    ]
+  },
+  {
+    "id": "u-20261124-guinness-nigeria-champions-competitiveness-pushes-",
+    "d": "2026-11-24",
+    "title": "Guinness Nigeria Champions Competitiveness, Pushes Local Sourcing, Industrial Growth, Regional Trade",
+    "body": "Guinness Nigeria Champions Competitiveness, Pushes Local Sourcing, Industrial Growth, Regional Trade",
+    "why": "Shifts in regional sourcing strategies reveal where supply is becoming more volatile.",
+    "sectors": [
+      "regionalsupplychains"
+    ],
+    "type": "News",
+    "companies": [
+      "Guinness Nigeria"
+    ],
+    "src": {
+      "t": "Independent Newspaper Nigeria",
+      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVXBwbl9YNl96WGRmeFlDdl81TlJKUUp5N3EwektFdkMwZDNCVVlta3dHdFpXeGtXMVpuNmxCbXpaZEc3VkF6M3dEMHQ5ZkNRMmRfZVB4aWFBd0JpN3FDTVd4bTZsd1FyYzVZbjI1ckRIQ2xqZjJJRDdNSThEMHFmaTlib19kV2txbnFRTXVhQUd3NzRVRE10RTlPV00wdDgxcEhXSjBka2FPVXFmQXJrUDZPa0U5T1NUbFVWSGJ3?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": [
+      "Guinness Nigeria"
+    ]
+  },
+  {
+    "id": "u-20261124-drc-cobalt-export-ban-hands-pricing-power-to-alter",
+    "d": "2026-11-24",
+    "title": "DRC Cobalt Export Ban Hands Pricing Power to Alternative Suppliers",
+    "body": "DRC Cobalt Export Ban Hands Pricing Power to Alternative Suppliers",
+    "why": "Understanding retail strategy helps anticipate how supply shocks will be priced to consumers.",
+    "sectors": [
+      "retailstrategypricing"
+    ],
+    "type": "News",
+    "companies": [
+      "DRC Cobalt"
+    ],
+    "src": {
+      "t": "Crux Investor",
+      "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVUEyVjREblJYak5OVG53UktJZTltV0pIRzI4Z2J3eE1oeXJ2T21LNFZHbm1hSjZkOHJUQ2RfZVBmRjRlcVdqcFhIcl9jb3VuNkJCQUtYOUlxa0d2SGg1U1JpeWgzcHIzOEllUW5aTW1zeHF6bzFxWUhOM0pjTTJoSjlXZl9rZHd0TjE3WG1qTkJzY2lLcUFrTHgtVktVTUJUTWdv?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": [
+      "DRC Cobalt"
+    ]
+  },
+  {
+    "id": "u-20261124-high-premiums-hinder-cost-pass-through-copper-wire",
+    "d": "2026-11-24",
+    "title": "High Premiums Hinder Cost Pass-Through, Copper Wire Rod Exports Under Pressure and Pulling Back [SMM Analysis]",
+    "body": "High Premiums Hinder Cost Pass-Through, Copper Wire Rod Exports Under Pressure and Pulling Back [SMM Analysis]",
+    "why": "Understanding retail strategy helps anticipate how supply shocks will be priced to consumers.",
+    "sectors": [
+      "retailstrategypricing"
+    ],
+    "type": "News",
+    "companies": [],
+    "src": {
+      "t": "Shanghai Metals Market",
+      "u": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPY3lzdzZ3S3ZTcV95TE4tMWpoOXNsLW9XMFVPQ2psWTI0MlRaUnllYVBuaV9Rc0pITXR1QlVXQXlGYUFKVDUxYnY0TzFoYkF2bER4N2ptNnUyWTk0T3JuLWZieWhWQjZWVl81Y09POHA4RHFocUcxU0djbEFZUkFXSjFOZUJVbjF6Ym9aZlNKcnhlMEtiQmNRZFdCVzRTcUhBOHhuYnNhb1FtTTZxRFFsZ29rdVV6a2NoTmx3VXJxbWpXMmliRDVFem1wLTZWNmhwMWJrTV9qdl9lRmp2dkVVSHhYV0IxOFR1Y1hhcWl0aEdDX3JIT3lMYUVFbThSazZiWmhidkt5ZGlXSkZFcmo4?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261124-miniso-group-nyse-mnso-is-its-retail-strategy-at-a",
+    "d": "2026-11-24",
+    "title": "MINISO Group (NYSE:MNSO): Is Its Retail Strategy At A Turning Point?",
+    "body": "MINISO Group (NYSE:MNSO): Is Its Retail Strategy At A Turning Point?",
+    "why": "Understanding retail strategy helps anticipate how supply shocks will be priced to consumers.",
+    "sectors": [
+      "retailstrategypricing"
+    ],
+    "type": "News",
+    "companies": [],
+    "src": {
+      "t": "Kalkine Media",
+      "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRDlnaGtSZ0YyOHM4bXRORWNSRXlEQXdKbnVyREFpUWprNGctZUlQNUFIM3lvZl90N3hiMmZqX205M192bE9talpmYWFVV0dEaTVNYzYzLXlNOWxHeFJoelhodFRGSjNkeUJwOHFQMEpkeDM3ejZZLTlRY2YwZjZvQ0pRWFVPTEtXT3hIa241NGRFWDlpZUptYXNKbFVTSVBTYWlUSmlDdzVfdms?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
     "id": "u-20261123-asia-us-east-coast-ocean-freight-rates-top-10-000-",
     "d": "2026-11-23",
     "title": "Asia–US East Coast ocean freight rates top $10,000, up 300% from a year ago",
@@ -722,6 +1750,231 @@
     "orgs": []
   },
   {
+    "id": "u-20261123-what-to-expect-in-u-s-tariff-policy-following-the-",
+    "d": "2026-11-23",
+    "title": "What to Expect in U.S. Tariff Policy Following the 2026 Midterm Elections",
+    "body": "What to Expect in U.S. Tariff Policy Following the 2026 Midterm Elections",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "Davis Wright Tremaine",
+      "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYjYtY3NjVzFfTmFKMUNJTUVtQXQ0d1F5RmF4TE12N1lKZFBYTUdBM0ZLY05oWEwxeUJEUlpOR2NrczZRbElTeFdqa3BrTjhsM29wbVRiMkxNM21IMjVTN1JzcmdxTm5pUGU1SmNMQmxaRk11V1FUSnBqYkE3ZUNjdTRjWW1uZG1fNEE?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261123-florida-linked-companies-report-more-than-135-mill",
+    "d": "2026-11-23",
+    "title": "Florida-linked companies report more than $135 million in tariff refunds",
+    "body": "Florida-linked companies report more than $135 million in tariff refunds",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "Yahoo Finance",
+      "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcGJraFE4M2ZfdF83Z1ZicUd4aUgxT0hDNElmbGJDUEdfYzI5dlc4VVFnMG1wU2dRVFZSQXR4NVJnU1lyczg5Q2ZWc01FRDZNWW41TkZ5NW0zVzlVa3gtU2hQcENJa3MyTjJyTURjeS00MVRUdGJnc2tnSXVwNTRYQkhZZkVFYkJEZlpuQXgwclhSVjR4NnF5MVM5clJCbU1Ba0xJ?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261123-r-calf-usa-seeks-four-year-tariff-on-imported-lamb",
+    "d": "2026-11-23",
+    "title": "R-CALF USA Seeks Four-Year Tariff on Imported Lamb to Help Rebuild U.S. Flocks",
+    "body": "R-CALF USA Seeks Four-Year Tariff on Imported Lamb to Help Rebuild U.S. Flocks",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [
+      "United States",
+      "USA"
+    ],
+    "src": {
+      "t": "Oklahoma Farm Report",
+      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16QVBueElVVjNPTExxbUdSTUJRUkU4blo0NkNPcnE5OFo2M3dYbU9nRzBPeXZORlFhSDZkT2RuWFdFMkdtSXZ4Y21FeW94Q3dJZUNKSUZPOUgxOExDUEtB?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": [
+      "USA"
+    ]
+  },
+  {
+    "id": "u-20261123-tariff-ied-temporary-importation-under-bond-what-i",
+    "d": "2026-11-23",
+    "title": "Tariff-ied! – Temporary Importation Under Bond: What Importers Need to Know",
+    "body": "Tariff-ied! – Temporary Importation Under Bond: What Importers Need to Know",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "The National Law Review",
+      "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcFBOMWxTaURmQWVsZ213WnA4d0RJSHZianJ3TTg1cVRYU1RvcGM1clpwcFU0eC1hWTRsV2EwMEVSRFE2cjdxSWl3WENuYWd2SnRVU0F0MWZDM3BLYkJZb0FYQzFlWFFnYmFiTWlkc3E1YW9FcTluYk5uNzRiTFdNU0h2ampMTVdHcW9saFh6cHBBQXdkazFqMG1nUTVZUVBqSmJR0gGoAUFVX3lxTE5jRFdESlU0bjg5amtGUEZhcEVKbjlkWnJZSkRJUG9BdWNCTmxjVjBGZk5pWGFlSlRKLWhZbUYtY0dsdncybjI4Zno1Yk5IMURmWFBrdjlId2VFNHpmeGVtM0dGRU1TdkZ4TVlJTG51cEZzOXllb0NDcU53Rzd0WElJQnR2NXlMUF9ucVRYNEF4cGFyTFg3UzY5MUZrUVFHM3hTTVdpOEs4OQ?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261123-ensi-satellite-progress-sharpens-the-case-for-recu",
+    "d": "2026-11-23",
+    "title": "ENSI: Satellite Progress Sharpens The Case For Recurring Chip Supply Growth",
+    "body": "ENSI: Satellite Progress Sharpens The Case For Recurring Chip Supply Growth",
+    "why": "Regional conflicts and energy shocks directly translate into retail cost increases.",
+    "sectors": [
+      "geopoliticalsupplyrisks"
+    ],
+    "type": "News",
+    "companies": [],
+    "src": {
+      "t": "Simply Wall St",
+      "u": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxORTZIRnZONW5SV3VxLVVrdi1nS1JXYWlpNnM2QVZYNjVaRVJ2LUVmX3RwNWk5UXN2WE43Q08zMFdhTGdSTnh3Q1BVRVB4WDRHcGJkRkFMLWZyTXVsaVY0U0xOdVJpX29QeUtNajFXc3l4c01pVF91RkUybWdiV01NUHZMOUtzci13VmN4Y0EtLTFUN2RsQ1d5bXJ2b1RxYmRxcTBmRjJ0TG50VTZNMVhDcDZjbTNNZGhxSVFqRG5wYUNZOHZ6OEU2eDlFMlhwRTNaWEJqaEZBcHJ0dVk3WkRNZFJJZEtyR2JmM21YbU1OR3VCa3lMaGU0QWp2VGlwV0tHeGhiNnZES29IU1FCU2VENXBjX2NEdk4xS1ptaGM0Z2VzazZBcDRMSHZWRzFrYWJjdElJTk1RbFdFOWE0OXdpS2VsV0pRd3E0Zjl6dmNoNDltYUdnX2M5MGtkazNLaTNtZ290V2ZWWjk?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261123-geopolitics-weather-to-shape-agri-commodity-market",
+    "d": "2026-11-23",
+    "title": "Geopolitics, weather to shape agri commodity markets in 2027: Rabobank",
+    "body": "Geopolitics, weather to shape agri commodity markets in 2027: Rabobank",
+    "why": "Regional conflicts and energy shocks directly translate into retail cost increases.",
+    "sectors": [
+      "geopoliticalsupplyrisks"
+    ],
+    "type": "News",
+    "companies": [
+      "Rabobank"
+    ],
+    "src": {
+      "t": "BusinessLine",
+      "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPX1FjR1hFTlZCSkY0d0RrYVVvcXZib0J5bDc4eUVoUGlMMGR4VExoQTkwZ2xJLURZS0JWcUwwY3NyUXJTaktXaGtoUlBHb0NBRDN4aTdoUnRURHBsQlJ1V0tiNFVPQk9KNVdpcUNiUVNkaWpFZGdxRUJLUWtnVUh2Ynh3NjROS0d3WDN4WG5jZGZOZVVsV2tOQUtBeVlzYlJ0SmNucmNPUTdfaXFiVGFxSmxDNlJ0b2FDLXRnZUVWVDFRNjNBLVhRbkQ1eXFNUVJJV2g4RUFhSlFaTGlfcXdHdNIB5wFBVV95cUxPbVhuNU9SNHIxTy1zaEh1d3NOZnNzVnpyQkxWM0J3ekl3MGhrYm9FVjdMRGsyRFdnZ3dvUHlGVGl0c0ktbGlxUm1ySTdhZmhMMHpIUzZRbENCdWltQUZJZGVjb0pHUEFWZTVreW5DR3J4RVFEcWlMTHhhbjZtYi1ITC1SUkFxbTA2M0gzbWZ2UHNqS0NtVUFHWHFiSGl4TzlDN1Q2WFM0ZzBmS1JxUExBU3lVajZLREpvTDZfMlRINUowRm5rbS1ZelJURjNmcGNBT21CSVJsWXlNUVA1QzR3Z1VuVVdScEU?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": [
+      "Rabobank"
+    ]
+  },
+  {
+    "id": "u-20261123-unwinding-of-ai-trade-easing-geopolitics-favourabl",
+    "d": "2026-11-23",
+    "title": "Unwinding of AI trade, easing geopolitics favourably impact FPI flows",
+    "body": "Unwinding of AI trade, easing geopolitics favourably impact FPI flows",
+    "why": "Regional conflicts and energy shocks directly translate into retail cost increases.",
+    "sectors": [
+      "geopoliticalsupplyrisks"
+    ],
+    "type": "News",
+    "companies": [],
+    "src": {
+      "t": "BusinessLine",
+      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaVFSbkNMcXdnX05lMWpFa0xabFhHeDYweE5FZ3V5Wk50a29ZdmxVS1dUeG1sZ1JtVURYZDZ3UjRXZE9IN29DYWI2YlRobG9rTmZPZV84aGFzek10U1JyX19YNDcwajdVM2FyWW8xQ3o4VVB4NGpYYWc4ZTNZc2FVY09UWndlTkRjTUJhRE9ncVo2Q0tIQ2x6X2Nvckd6QdIBpAFBVV95cUxNYTRoVHMxYm40a2d1ZmpIV3BZekRYYnJDN3EwNjNxU0QzdlU1cGc2V2FLNXgtMWdjQ3h0anBxaDNiLVdRVl8yV3o4VWRtaFE2cVRZeWNXMTZ0OFAtN2N4cGV1RHhUemh4TnpzR1NCZTJpVTRKQ3dfdkRaRkhjR3JndENBcmdIQ3Vrc1NtMExjUXBkVEZqM3hWRnV3cTJmRE14SVR6Yg?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261123-chip-supply-network-linked-to-jensen-huang-s-affai",
+    "d": "2026-11-23",
+    "title": "Chip supply network linked to Jensen Huang's affair partner Huang Le implicates Prince Group",
+    "body": "Chip supply network linked to Jensen Huang's affair partner Huang Le implicates Prince Group",
+    "why": "Regional conflicts and energy shocks directly translate into retail cost increases.",
+    "sectors": [
+      "geopoliticalsupplyrisks"
+    ],
+    "type": "News",
+    "companies": [
+      "Prince Group"
+    ],
+    "src": {
+      "t": "联合早报",
+      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMUMwa3N0SVg5ZzgzdlVfTzBNbGFrUkEyV2ZicUYtQmtfR2VWazNsblFCeHRXNkh1bFFzenJmMUZoQ0hIUWlOdzFsS0FjWVk4Z1ZRN1FJclRRNTVRRWstZVhlZ1NFTFBrWFM1MzV6c1NZQzl6Z3B6TG84cm5TMm5VcFpCM1p4eFViNjRsNC1OLXIzaGwwOTdXN3pMTUpNM2N6WXhfc1dWXy1qMEJFb2RLbUhSMUZzcEZjb2drR3hYTGgxMUE4N3RN?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": [
+      "Prince Group"
+    ]
+  },
+  {
+    "id": "u-20261123-jensen-huang-returns-as-nvidia-ceo-what-does-it-me",
+    "d": "2026-11-23",
+    "title": "Jensen Huang Returns as Nvidia CEO: What Does It Mean for AI Chip Supply Chain and Rubin Profit Outlook?",
+    "body": "Jensen Huang Returns as Nvidia CEO: What Does It Mean for AI Chip Supply Chain and Rubin Profit Outlook?",
+    "why": "Regional conflicts and energy shocks directly translate into retail cost increases.",
+    "sectors": [
+      "geopoliticalsupplyrisks"
+    ],
+    "type": "News",
+    "companies": [
+      "Nvidia",
+      "AI Chip Supply Chain",
+      "Rubin"
+    ],
+    "src": {
+      "t": "TradingKey",
+      "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeWd1LVlaMzE4UUVZUGE0U3JQWEQyVllwSDFuUnpjbnJGNjk5OWhIOHFiSDhTWG44SC04ZU1KUVN5SXViSFFrQnZoVm0wVU9LTkRGaGktTmRYcDNhWFJqRUhHeGd2bzdkQTZjSWpHWW44OERuT3pJTU0zRGhQOVFxay1tRDc2bWhBQ3ZnQ3hFMlVqbnVrdFFLNW01bWVTS3JPZWk3SEU4X3JZNndJOHdQOG5ISXZFM2VoY3NoTU9ZSUtTcS1yMmloa2tEX0ZmZmh3RG9FVEFn?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": [
+      "Nvidia",
+      "AI Chip Supply Chain",
+      "Rubin"
+    ]
+  },
+  {
+    "id": "u-20261123-guinness-nigeria-calls-for-stronger-manufacturing-",
+    "d": "2026-11-23",
+    "title": "Guinness Nigeria Calls for Stronger Manufacturing, Local Sourcing and Regional Trade",
+    "body": "Guinness Nigeria Calls for Stronger Manufacturing, Local Sourcing and Regional Trade",
+    "why": "Shifts in regional sourcing strategies reveal where supply is becoming more volatile.",
+    "sectors": [
+      "regionalsupplychains"
+    ],
+    "type": "News",
+    "companies": [
+      "Guinness Nigeria"
+    ],
+    "src": {
+      "t": "BrandTimes",
+      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYjUxMEJQVDhHd2JwZlpSYS1VN190NWZMd052bVJTNElpN2VuaXAwM0pxWDZHRWp6UFcxZjlRVlc1cnFGQXBHaWdIakV1QjNKUkZIM2V0dS1aREJjOTc4dGNLV1FPQS1xb09fNHZJbDZGczhiZTllWlFXd0pLZEgzQ1k2N2hOUW5qdnBmWXQwSkpiSGZxblZrXzhLVVpMSi1UY0NJd21leWhrRENjcUIwMW5VcnE?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": [
+      "Guinness Nigeria"
+    ]
+  },
+  {
     "id": "u-20261122-democrats-will-seek-to-unwind-trump-s-tax-and-tari",
     "d": "2026-11-22",
     "title": "Democrats will seek to unwind Trump’s tax and tariff policies",
@@ -1041,6 +2294,31 @@
     "auto": true,
     "orgs": [
       "Everest Port Services"
+    ]
+  },
+  {
+    "id": "u-20261122-msc-surpasses-1-000-toft-port-congestion-is-the-ne",
+    "d": "2026-11-22",
+    "title": "MSC surpasses 1,000. Toft: “Port congestion is the new normal”",
+    "body": "MSC surpasses 1,000. Toft: “Port congestion is the new normal”",
+    "why": "Sudden rate spikes or port bottlenecks are the earliest warning signs of shelf shortages.",
+    "sectors": [
+      "logisticsfreightrates",
+      "portactivityinfrastructu"
+    ],
+    "type": "Port Strike or Congestion",
+    "companies": [
+      "MSC"
+    ],
+    "src": {
+      "t": "AdriaPorts",
+      "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ25sbEVZM0V1bWsyU00wbWE5eUpXSWhaa1c0UzBEUDFUM2U4cVhqcWl4VzBaYlFscTJqbVNQeVNsSW1PalB6N3MzbV92bDRVbENTaTRtVWh1TkZOTGtQQ1g4bUFSbVNiWkc2TlV4Y2xfQXQ1bVJVUWl6cHJ5clJtVXFMaFdOdktHNlpvUXo5ckxTMklmZ0FEbGpncHU?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-24T20:59:21.658Z",
+    "auto": true,
+    "orgs": [
+      "MSC"
     ]
   },
   {

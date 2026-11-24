@@ -1,23 +1,23 @@
 [
   {
     "id": "tradepolicytariffs",
-    "heat": 5,
-    "state": "Over $100 billion in tariff refunds have flowed to public companies, with TJMaxx spending one-third of its $463 million refund on executive bonuses while senators demand inquiries into consumer shortchanges. Democrats plan to unwind Trump's tax and tariff policies, including Medicaid changes, yet traders are moving US copper to China as tariff fears ease. The EU-Indonesia trade deal is signed, but approval and tariff phase-ins remain ahead, while a Canada-U.S. interim tariff deal outcome will determine if auto and steel duties stay stable through January.",
-    "money": "Companies are winning by pocketing over $100 billion in refunds and using them for executive bonuses rather than passing savings to shoppers. Conversely, consumers face estimated cost increases without compensation, while specific entities like a Bitcoin miner paid an $11.9 million tariff bill four years after delivery.",
-    "watch": "The outcome of the Canada-U.S. interim tariff deal will determine if auto and steel duties remain stable through January. Democrats' plan to overturn Trump's tax and tariff policies could force a shift in how companies utilize windfalls.",
-    "briefedAt": "2026-11-23T22:23:47.292Z"
+    "heat": 4,
+    "state": "The US is preparing broad tariff hikes targeting 16 economies, including China and the EU, though these new rates are expected to remain below existing trade deal levels. While a Canada-U.S. interim tariff deal is close to finalizing to stabilize auto and steel duties through January, the EU-Indonesia agreement faces pending approval and phase-in hurdles. Domestic relief payments totaling over $25 million have already been distributed to farmers in New York and North Country.",
+    "money": "Companies are winning by leveraging tariff refunds for executive bonuses rather than passing savings to consumers, with investigations finding firms like TJMaxx diverting significant refund portions to leadership. Conversely, specific entities such as WNY farmers received nearly $2.2 million in relief payments, while a Bitcoin miner faced an $11.9 million bill four years after delivery.",
+    "watch": "The finalization of the Canada-U.S. interim deal will determine if auto and steel duties remain stable through January, while markets are currently assessing how broad tariff hikes on China and the EU might reshape global supply chains. The outcome of the EU-Indonesia trade deal approval and phase-in schedule remains a critical variable for investment flows.",
+    "briefedAt": "2026-11-24T21:01:26.829Z"
   },
   {
     "id": "logisticsfreightrates",
     "heat": 4,
-    "state": "Port congestion remains structural, with the government in Ghana decoupling shipping line releases from customs clearance to mitigate delays while Durban port issues persist, including Transnet halting mine dispatches for 48 hours and worsening medicine shortages. In Asia, Cochin Port strikes force traders to seek alternatives alongside high rates at Westports, and the Black Sea lane is blocked by Ukraine attacks on infrastructure with no Arctic substitute identified. Meanwhile, a conveyor belt breakdown at PIBT disrupted coal imports, raising millions in demurrage costs, while truckers in Brazil continue transporting ethanol over 1,000 km at R$480 per cubic meter after mills paid R$2.8 billion in freight costs during 2025.",
-    "money": "ZIM is benefiting from a freight rate rally that is fueling revenue rebounds, whereas MSC reports congestion has become a new normal affecting operations. A technology start-up recently raised $11.3 million specifically to tackle the 'hidden tariff' of port delays, highlighting capital inflow into this sector.",
-    "watch": "Upcoming contract disputes between employers and the ILWU local at Los Angeles and Long Beach pose a risk of renewed strikes that could disrupt cargo movement at the busiest U.S. container port. The Supreme Court's dismissal of a plea regarding demurrage charges in Mumbai suggests cost structures for importers may remain volatile without further regulatory clarity.",
-    "briefedAt": "2026-11-23T22:24:42.661Z"
+    "state": "Port congestion remains structural with Ghana decoupling shipping releases from customs clearance to mitigate delays while Durban port issues persist, including Transnet halting mine dispatches and worsening medicine shortages alongside R20,000 extra costs per container for Western Cape fruit. In Asia, Cochin Port strikes force traders to seek alternatives, Westports rates remain high, the Black Sea lane is blocked by Ukraine attacks with no Arctic substitute identified, and a conveyor belt breakdown at PIBT raised millions in demurrage costs. Meanwhile, Brazilian iron ore freight rates to China increased 17% in November, MSC reports congestion is now a new normal affecting operations, and Lufthansa Cargo plans an acquisition of Fiege Air Cargo Logistics.",
+    "money": "Who's winning: ZIM benefits from a freight rate rally fueling revenue rebounds while BW LPG records Q3 profits driven by a surge in freight rates; however, carriers face severe squeezing from surging demand, pricing, compliance, and fuel costs.",
+    "watch": "What to watch next: Upcoming contract disputes between employers and the ILWU local at Los Angeles and Long Beach pose a risk of renewed strikes disrupting cargo at the busiest U.S. container port, while Lufthansa's acquisition of Fiege Air Cargo Logistics signals consolidation in air freight capacity.",
+    "briefedAt": "2026-11-24T21:07:21.791Z"
   },
   {
     "id": "retailinventorystockouts",
-    "heat": 3,
+    "heat": 2,
     "state": "Global energy crises are deepening as efforts to plug supply gaps fail, specifically affecting Mexico's natural gas reserves. Medicine shortages are worsening due to Durban port backlogs, while dairy suppliers adopt touchless retail tech for merchandising support. In travel retail, SKU growth continues to outpace available shelf space.",
     "money": "WELCORP is winning with record H1 EBITDA driven by strong backlog orders that are currently tempering regional supply-chain risks.",
     "watch": "Industry leaders will monitor how the deepening energy crisis impacts future resolution of global supply gaps and if shelf space constraints force further SKU reductions in travel retail.",
@@ -34,26 +34,26 @@
   {
     "id": "commoditymarkets",
     "heat": 5,
-    "state": "U.S. natural gas inventories remain above normal levels after ending injection season, contradicting UBS's cut to 2027 price forecasts and previous cold-driven spikes. Copper prices have rebounded from a bear market following Nvidia's reversal on AI tariff trades, while extreme weather continues to threaten global oil and gas shipping routes.",
-    "money": "TotalEnergies leads in long-term LNG supply via its five-year deal with UAE's ADNOC, while Blackstone secures the Portland pipeline to address New England supply crunches. TC Energy advances its 370-kilometer pipeline proposal to link Alberta's oil sands, and PAE/CSN secure a new agreement to supply Rio de Janeiro from Vaca Muerta.",
-    "watch": "Traders must monitor whether extreme weather disruptions to shipping can override current supply stories that keep Brent oil near $89.15. The execution of the TC Energy pipeline and Blackstone's Portland acquisition will determine if global trade flows shift away from existing bottlenecks.",
-    "briefedAt": "2026-11-23T22:25:30.670Z"
+    "state": "U.S. natural gas inventories remain above normal levels after ending injection season, yet Gulf supply disruptions are tightening markets while a European cold snap threatens further inventory drawdowns. Global wheat futures rose due to Black Sea tensions despite mixed trading in corn and soybeans, and the EU has ruled out returning to Russian natural gas as an LNG import ban approaches.",
+    "money": "Equinor leads long-term supply security with an 18-year contract for German VNG, while TotalEnergies expands U.S. production and TAQA Arabia secures operations in Tanzania; however, copper prices have cratered following the unwind of AI tariff trades.",
+    "watch": "Monitor whether extreme weather disruptions to international shipping override current supply fundamentals that keep Brent oil near $89.15, and track the impact of the bipartisan permitting bill on natural gas export capacity.",
+    "briefedAt": "2026-11-24T21:09:11.696Z"
   },
   {
     "id": "strategicpartnershipsma",
     "heat": 5,
-    "state": "The FTC challenges a $3.5B veterinary supply merger, prompting North Carolina, California, and Oregon to join 12 other states in blocking the deal over rising pet care costs; Union Pacific faces opposition from farmers, labor unions, dockworkers, and Maryland's Port of New Orleans regarding its UP-NS merger despite claiming it will lower shipping rates; Worldly Agrees to a $350 Million acquisition by UL Solutions while UPS expands Asia Pacific healthcare via a planned Smartways Logistics deal.",
-    "money": "UPS is winning by securing the $350M Smartways deal and expanding operations, whereas Union Pacific faces skepticism regarding cost benefits and potential regulatory expansion if price suppression risks are confirmed; WTI secures USAGM Acquisition Support, and Worldly Agrees to a $350 Million acquisition by UL Solutions.",
-    "watch": "Regulators may expand their challenge to other large-scale mergers in logistics and veterinary sectors if they deem price suppression a risk, and the outcome of the UP-NS merger will determine if rail meat exports proceed without union or dockworker opposition.",
-    "briefedAt": "2026-11-20T19:10:03.580Z"
+    "state": "The UP-Norfolk Southern rail merger faces active opposition from farmers, labor unions, dockworkers at the Port of New Orleans, and state attorneys general including those in North Carolina, California, Oregon, and Arkansas. Meanwhile, UPS is closing its $350 million acquisition of Smartways Logistics to expand Asia Pacific healthcare operations, while Worldly Agrees to a similar $350 million deal with UL Solutions. In the veterinary sector, the FTC-led lawsuit to block the Covetrus-MWI merger has grown to include 13 states and is specifically targeting rising pet care costs.",
+    "money": "UPS is winning by finalizing its $350M Smartways acquisition and expanding regional healthcare logistics capabilities, whereas Union Pacific remains under pressure from multiple stakeholders skeptical of its cost-saving claims. WTI secured continued USAGM contract support, while Radiant Logistics raised its acquisition accordion to $100M; conversely, the UP-Norfolk Southern merger risks soaring costs for small shippers if regulators intervene.",
+    "watch": "Regulators may expand their challenge from veterinary and rail sectors to other large-scale mergers if they confirm price suppression risks, with the outcome of the UP-NS merger determining whether rail meat exports proceed without opposition. The next critical movement will be whether state attorneys general successfully block further consolidation in logistics or supply chains.",
+    "briefedAt": "2026-11-24T21:11:17.545Z"
   },
   {
     "id": "portactivityinfrastructu",
-    "heat": 4,
-    "state": "Governments in Ghana and globally are decoupling shipping line releases from customs clearance to alleviate congestion, while Transnet halts mine truck dispatches at Richards Bay due to bottlenecks causing medicine shortages. Kandla recorded 130.03 MMT cargo volume (a 35.72% year-over-year increase), and MSC describes congestion as a permanent new normal despite peak season ties-up affecting 10% of the fleet.",
-    "money": "MSC is positioning itself as the primary beneficiary of persistent congestion, while ICTSI faces potential stock discounts relative to its cash flow amid operational strain. Conversely, Euroterminal expanded with a €20 million contract and Kandla's Deendayal Port Authority saw after-tax profits rise 35.4% year-on-year.",
+    "heat": 5,
+    "state": "Governments in Ghana and globally are decoupling shipping line releases from customs clearance to alleviate congestion, while Transnet halts mine truck dispatches at Richards Bay due to bottlenecks causing medicine shortages. Durban port congestion has escalated to threaten Western Cape fruit exports with an R20,000 extra cost per container and worsened medicine shortages, prompting calls for increased rail investment. In contrast, the Port of Gothenburg is investing in electrification infrastructure for its container terminal and rail access, while Singapore's Tuas Port Phase 2 begins construction as the world's largest fully automated terminal.",
+    "money": "MSC surpasses 1,000 TEU throughput and positions itself as the primary beneficiary of persistent congestion, whereas ICTSI faces potential stock discounts relative to its cash flow amid operational strain. Asikuma Inland Port is being developed in Ghana to ease Tema Port congestion and create jobs, while Everest Port Services secured a six-month container terminal contract.",
     "watch": "Monitor the implementation of importer empty container depots and railway-linked storage solutions to determine if they can alleviate congestion before cascading into solar equipment delays. Watch for the impact of ongoing typhoon recovery in Ningbo and alleged attacks on Omani oil infrastructure on broader supply chain throughput.",
-    "briefedAt": "2026-11-23T22:27:16.506Z"
+    "briefedAt": "2026-11-24T21:03:23.534Z"
   },
   {
     "id": "freightlinesshipping",
@@ -66,10 +66,10 @@
   {
     "id": "regionalsupplychains",
     "heat": 5,
-    "state": "Zimbabwe has tightened its lithium policy by mandating local miner sourcing and adding a 15% tax component, while simultaneously imposing a 10% sulphate-based export tax that threatens a 2027 ban on 1.4 million tonnes of stockpiled material. Regional trade infrastructure is evolving with a $200 million Maputo Port expansion strengthening the gateway, yet power transformer sourcing remains globalized despite Ukraine's capacity to supply 90% of reconstruction materials domestically.",
-    "money": "Kraft Heinz is winning by securing Egypt as a regional export hub targeting 100% local tomato sourcing, while Mobilicom and South Korea's MFDS are capitalizing on domestic production mandates for cybersecure datalinks and essential medicines respectively.",
+    "state": "Zimbabwe has mandated local miner sourcing and added a 15% tax component, threatening a 2027 ban on 1.4 million tonnes of stockpiled material via a new sulphate-based export tax; Maputo Port is expanding with a $200 million container terminal to strengthen regional trade, though power transformer sourcing remains globalized despite Ukraine's capacity to supply 90% of reconstruction materials domestically.",
+    "money": "Kraft Heinz is winning by securing Egypt as a regional export hub targeting 100% local tomato sourcing, while Guinness Nigeria and South Korea's MFDS are capitalizing on domestic production mandates for industrial competitiveness and essential medicines respectively.",
     "watch": "The outcome of upcoming US elections regarding strategic tariffs will determine nearshoring factory growth and Thai energy producers' ability to secure lower rates for data center expansion, alongside the resolution of Zimbabwe's potential 2027 lithium export ban.",
-    "briefedAt": "2026-11-21T18:04:31.785Z"
+    "briefedAt": "2026-11-24T21:05:14.422Z"
   },
   {
     "id": "retailstrategypricing",

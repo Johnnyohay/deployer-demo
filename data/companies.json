@@ -42,7 +42,7 @@
     "aliases": [
       "MAERSK"
     ],
-    "latest": "2026-11-23: June 27, 2017. The computer screens of global shipping company Maersk's headquarters and offices in"
+    "latest": "2026-11-24: Adani Kattupalli Container Terminal successfully berths MV Cornelia Maersk, demonstrating advanced vessel-handling capabilities"
   },
   {
     "id": "msc",
@@ -57,7 +57,7 @@
     "aliases": [
       "MCS"
     ],
-    "latest": "2026-11-16: Port congestion has become a new normal, says MSC chief"
+    "latest": "2026-11-22: MSC surpasses 1,000. Toft: “Port congestion is the new normal”"
   },
   {
     "id": "new-york-port-authority",
@@ -117,7 +117,7 @@
     "aliases": [
       "USA"
     ],
-    "latest": "2026-11-20: United States Seen as ‘Single Largest Source of Natural Gas Supply Growth’ to 2035"
+    "latest": "2026-11-23: R-CALF USA Seeks Four-Year Tariff on Imported Lamb to Help Rebuild U.S. Flocks"
   },
   {
     "id": "world-trade-organization",
@@ -351,7 +351,7 @@
     ],
     "about": "Extended a 24% US tariff suspension with port fee waivers for two months.",
     "aliases": [],
-    "latest": "2026-11-23: US spy chief confirms probe into Nvidia-linked chip supply network involving Alice Huang, China",
+    "latest": "2026-11-24: US Readies Tariff Hike on China, EU Goods as Soon as Tuesday",
     "addedAt": "2026-11-14T16:56:29.657Z"
   },
   {
@@ -379,7 +379,7 @@
     ],
     "about": "Energy commodity experiencing price spikes due to cold weather, LNG export records, and geopolitical supply concerns regarding the Strait of Hormuz.",
     "aliases": [],
-    "latest": "2026-11-23: Watch Europe's Cold Snap Threatens Natural Gas Inventories",
+    "latest": "2026-11-24: Natural gas markets tighten amid Gulf supply disruptions",
     "addedAt": "2026-11-16T21:01:20.138Z"
   },
   {
@@ -392,7 +392,7 @@
     ],
     "about": "Generic term for news outlets; excluded as it is not a specific entity like a company, port, or country.",
     "aliases": [],
-    "latest": "2026-11-20: Zimbabwe Changes Lithium Export Tax Basis, Adds 15% Local Sourcing Rule - News and Statistics",
+    "latest": "2026-11-24: Gothenburg Port to Electrify Container Terminal Rail Tracks - News and Statistics",
     "addedAt": "2026-11-16T21:01:20.138Z"
   },
   {
@@ -405,7 +405,7 @@
     ],
     "about": "Generic term for statistical data providers; excluded as it is not a specific entity relevant to supply chain strategy.",
     "aliases": [],
-    "latest": "2026-11-20: Zimbabwe Changes Lithium Export Tax Basis, Adds 15% Local Sourcing Rule - News and Statistics",
+    "latest": "2026-11-24: Gothenburg Port to Electrify Container Terminal Rail Tracks - News and Statistics",
     "addedAt": "2026-11-16T21:01:20.138Z"
   },
   {
@@ -477,5 +477,61 @@
     "aliases": [],
     "latest": "",
     "addedAt": "2026-11-20T19:15:36.933Z"
+  },
+  {
+    "id": "everest-port-services",
+    "name": "Everest Port Services",
+    "kind": "company",
+    "type": "Company",
+    "sectors": [
+      "logisticsfreightrates",
+      "portactivityinfrastructu"
+    ],
+    "about": "A logistics firm operating container terminals, recently awarded a 6-month contract and expanding into the CTG terminal.",
+    "aliases": [],
+    "latest": "2026-11-24: Everest Port Services to operate Ctg container terminal",
+    "addedAt": "2026-11-24T21:17:18.478Z"
+  },
+  {
+    "id": "guinness-nigeria",
+    "name": "Guinness Nigeria",
+    "kind": "company",
+    "type": "Company",
+    "sectors": [
+      "strategicpartnershipsma",
+      "regionalsupplychains"
+    ],
+    "about": "A regional trade entity championing local sourcing, industrial competitiveness, and manufacturing growth in Nigeria.",
+    "aliases": [],
+    "latest": "2026-11-24: Guinness Nigeria champions industrial competitiveness, local sourcing and regional trade",
+    "addedAt": "2026-11-24T21:17:18.478Z"
+  },
+  {
+    "id": "port-of-oakland",
+    "name": "Port of Oakland",
+    "kind": "port",
+    "type": "Port",
+    "sectors": [
+      "logisticsfreightrates",
+      "portactivityinfrastructu"
+    ],
+    "about": "A major US port recently opening the first heavy-duty electric truck charging depot to support green logistics.",
+    "aliases": [],
+    "latest": "",
+    "addedAt": "2026-11-24T21:17:18.478Z"
+  },
+  {
+    "id": "port-of-gothenburg",
+    "name": "Port of Gothenburg",
+    "kind": "port",
+    "type": "Port",
+    "sectors": [
+      "logisticsfreightrates",
+      "portactivityinfrastructu"
+    ],
+    "about": "A European port investing in electrified rail access to its container terminal for improved freight efficiency.",
+    "aliases": [],
+    "latest": "",
+    "addedAt": "2026-11-24T21:17:18.478Z"
   }
 ]
