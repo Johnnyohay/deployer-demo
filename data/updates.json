@@ -1,5 +1,1684 @@
 [
   {
+    "id": "u-20261125-us-readies-tariffs-over-manufacturing-capacity-pro",
+    "d": "2026-11-25",
+    "title": "US readies tariffs over manufacturing capacity, production concerns",
+    "body": "The proposed levies, ranging from 15% to 35%, target goods from China, the European Union and 12 other partners following a Section 301 probe earlier this year.",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "News",
+    "companies": [
+      "European Union",
+      "China",
+      "Target"
+    ],
+    "src": {
+      "t": "Supply Chain Dive",
+      "u": "https://www.supplychaindive.com/news/us-readies-tariffs-over-manufacturing-capacity-production-concerns/875639/",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": [
+      "European Union"
+    ]
+  },
+  {
+    "id": "u-20261125-asia-us-west-coast-container-spot-rates-fall-below",
+    "d": "2026-11-25",
+    "title": "Asia-US West Coast container spot rates fall below $8,000 as US avoids LA-Long Beach port strike",
+    "body": "Trans-Pacific spot rates are slipping from peak-season highs after a tentative LA-Long Beach port labor deal. Trade-policy uncertainty and carrier capacity cuts could still keep prices elevated.",
+    "why": "Sudden rate spikes or port bottlenecks are the earliest warning signs of shelf shortages.",
+    "sectors": [
+      "logisticsfreightrates"
+    ],
+    "type": "Port Strike or Congestion",
+    "companies": [],
+    "src": {
+      "t": "FreightWaves",
+      "u": "https://www.freightwaves.com/news/asia-us-west-coast-container-spot-rates-fall-below-8000-as-us-avoids-la-long-beach-port-strike",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-asian-stocks-lower-on-ai-doubts-tariff-jitters",
+    "d": "2026-11-25",
+    "title": "Asian Stocks Lower on AI Doubts, Tariff Jitters",
+    "body": "Asian Stocks Lower on AI Doubts, Tariff Jitters",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "WSJ",
+      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcDJ1MnFNV1NLNlMxbENCQUxMcTYxQm5OWEZ4WHlSWDJIaU12aTdYZGh4VmRPX1pWV096MFA5WU5zT2FQTTlKRXlvV2lrNmY5Ul85Z1ZRaVFrZDVRRW9DQ1BzU0M2cVRQRWxFbE4yaDFTS0hBRUVjZnVUZGQ4Z25XZWNLajFCY0xubkVNQlJLcmJpZE9vMGg3M3hNR1Z5Zw?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-us-to-cap-india-tariff-at-17-if-trade-deal-is-reac",
+    "d": "2026-11-25",
+    "title": "US to cap India tariff at 17% if trade deal is reached, USTR says",
+    "body": "US to cap India tariff at 17% if trade deal is reached, USTR says",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [
+      "USTR"
+    ],
+    "src": {
+      "t": "Reuters",
+      "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRmdGMDdiZVhMaEZiM2hLVlNhdXQzZkM1b2F5NXFYaWZzbC1mX25kLU56ZThrNjFmZ2JVMW9fbjJhbUMwMXdzN3JLYXAyNE02a0FqclFyblhxZmxfbWRLVlQ5OFdoQkdmNEF1ZTlZUzRVVkkxQm14eDY0R1ZtUXJpRWhaNDE5c1hOM3pUYUhiRmJ1NnlTaGVrQk9uNGwwU2w5UmliTkRpZGQ?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": [
+      "USTR"
+    ]
+  },
+  {
+    "id": "u-20261125-volatility-weary-investors-hammered-as-tariff-mayh",
+    "d": "2026-11-25",
+    "title": "Volatility-weary investors hammered as tariff mayhem adds to tech pain",
+    "body": "Volatility-weary investors hammered as tariff mayhem adds to tech pain",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "Reuters",
+      "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZGd2TDZySmQ2VXE4QUhfUG1OOGU3S3l4eWVDMGFKLWNVRlp1dE1zYnNmOUNYTGpQeGZtS3RrWC11R0x0aEo2YnBsU2Y1NTEwT2V2eF9fQmhfLXc1ekFmajRGUWg0NVZheFBtUy15RWd6NkpsZzFSZTY1M1FIYjI5b2htVWVYemdvRDQyTUFQbw?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-commentary-morning-bid-tariff-fear-compounds-ai-re",
+    "d": "2026-11-25",
+    "title": "COMMENTARY: Morning Bid: Tariff fear compounds AI recoil",
+    "body": "COMMENTARY: Morning Bid: Tariff fear compounds AI recoil",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "Reuters",
+      "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTzdrbThVSVJPbGJhMzJuU1EzY194YTh4WmZScXNHZTVqcUt6QlBua2k2VTRmN3RmRTFSc3ctVGo4MkhoTjZ0QTB1cWpCa2xad0hzNjgyMV9NTzR0QW01T0hGYzhaV3dIME5fN0FGWUVoUnJhLVFTdkl0R09fc2RTOHF1R2t4Y3pFeG9pZHhwLTB0T0lscmVR?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-us-proposes-surprise-new-tariffs-on-brazil-imports",
+    "d": "2026-11-25",
+    "title": "US proposes surprise new tariffs on Brazil imports, including 10% duty on aircraft",
+    "body": "US proposes surprise new tariffs on Brazil imports, including 10% duty on aircraft",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "Reuters",
+      "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTGZ4TFg5REgyY0VnandHQjZIMFN1cnNBOEJVQTBDaU1IWDFLVUxmdHFTXzRLVnVKc3pHd3lTYk9lRHZBOWV1Skd5V0VzVU05ZDRjZXdZekl5cWFneWI2b3ptS09taEhjNzZIcGhuWVdydDk5cnpkcElkMUdTZkJjTjROT09sOG5adVUxNVpNeGp5UmxaaHl2bzh6TklXMlp2eVQyVW9idi1QV25LcnpIeFBjMEF4RzNNbkNIU3JOUlN6WWVqSjRtTlFZMA?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-china-dismisses-us-tariff-prospect-as-political-ma",
+    "d": "2026-11-25",
+    "title": "China Dismisses US Tariff Prospect as ‘Political Maneuvering’",
+    "body": "China Dismisses US Tariff Prospect as ‘Political Maneuvering’",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [
+      "China"
+    ],
+    "src": {
+      "t": "Bloomberg",
+      "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV21zVHR2VllFczhLbnJxVzl5UnczbEZJSGRDM0xlY1BqUnpXcXNQSnplVU9LOVk4Y25uY3JiaVd3ZUlHdEw5eXlLUzZQak9iQ0hJRUE5SVhUT1hqQUVMc2FRTWY1LVlkRjIyU0drU09Ya25WenhjcGFrRWJ1enNobkwzUFBBbkZTMmFDdmVtTmxHV3BjdUY4VGNzVFRaYTBjQl95MGdDYUtWU1hfQXh3?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-here-are-the-economies-hit-by-targeted-us-tariff-d",
+    "d": "2026-11-25",
+    "title": "Here Are the Economies Hit by Targeted US Tariff Deal Rates",
+    "body": "Here Are the Economies Hit by Targeted US Tariff Deal Rates",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "Bloomberg",
+      "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQWJ5MTRJUXpubWNVWkdIR2hpcnV1bUpjLUxIYmNSemdRT29ibEw5V0w0X2VXd2R4SHpfZUw0cEk0eUdFRkpmZ2k5ZS15X1J5OFNJNWpfNVFsMFVPZTNUallxWUFIWUQxSFRWVkI0NDNTRmdSd1pGLXdrTzU5UTkwZkFfaUpDempEUlFFVEw3QUNQNTZaM21pQk5UTk4?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-gold-holds-decline-as-us-tariff-plans-reinforce-ra",
+    "d": "2026-11-25",
+    "title": "Gold Holds Decline as US Tariff Plans Reinforce Rate-Hike Bets",
+    "body": "Gold Holds Decline as US Tariff Plans Reinforce Rate-Hike Bets",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "Bloomberg",
+      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORkQxbTNiWEs3QmZBV1ZoVV9Nb1kyM1dUSmRYT2RWYkQ0eTV6cktjakV3OXRjalVYSkJ2Q2FBdFhUbHl6V3VBTHFzbGJFU1RacTRrUGxFWHU2Y0R3OXZKXzlaQUVPc3Z3TjJ1MkRnVGNwMlpHYzhwbVkwRTFLbVc0ZTkxa3ExQU1iYTcxU3Q4czZTVVhDRE9iYTFCak1aZ3BnQ1ZGbldMSGdaQ2szYXNQX1FJTQ?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-how-companies-are-using-tariff-refunds",
+    "d": "2026-11-25",
+    "title": "How companies are using tariff refunds",
+    "body": "How companies are using tariff refunds",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "Marketplace.org",
+      "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNN0c5ZFBVVWlVNGh6a2JKbEdHMTlBTFc3aXJtZXhJUjhlZkVFUlZaZjFpQjFhbm9MdzZ2NzdYQlVXTnYzNWtHN3NVaVN3R0ZkcGx0RmNHRTc4NmQwOGh4UDR4eThjOGNyaElfTzJHOHY1UWZnd0VtZ2pCVWR3cFRJYjZYZkN3SmU1Y1FN?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-trump-plans-a-20-tariff-on-chinese-goods-and-new-i",
+    "d": "2026-11-25",
+    "title": "Trump plans a 20% tariff on Chinese goods and new import taxes for the EU and a dozen other major trading partners",
+    "body": "Trump plans a 20% tariff on Chinese goods and new import taxes for the EU and a dozen other major trading partners",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "Yahoo! Finance Canada",
+      "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOVZ6QXRXaUUxOG9YRXVWOG1nOThUaWJ5SXFZOUZwc0FPWTRSMkFqUWVxaXhLdjNqUWFTSnFhb1E0WWE1eE1wZkNqanJfbDNMM0o2cTZLaHdmY3psVzNocUEzVGpuZWg5U0h2UVh1ZVY1MkJaMldDa1p1RVRNWTdtUXdmclM?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-u-s-trade-rep-greer-on-new-tariff-proposals-target",
+    "d": "2026-11-25",
+    "title": "U.S. Trade Rep. Greer on new tariff proposals: Targeted tariffs in response to excess capacity",
+    "body": "U.S. Trade Rep. Greer on new tariff proposals: Targeted tariffs in response to excess capacity",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "CNBC",
+      "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdS1lQ2xvYVBRRXJlTkozM0pudEVXb0xNT3EyNHk2RUlXNzNCV0FkWnNmMzBsVVozWDI3bGpuYnQ0Z1FCTHZxbmNVUFpueWNXVU9MbEQ5ZjNkUnBnS2tCUVJFYnA2emNiMWhmVEtMWkY5bWRCd2xWWHBkNWRfYUFrWnNDdjVXMzN6WGdxQzdmTE5jdGFQb1BrSW5pN3otczZ1akRHLUhrOHEyeG5fRUEzV3h0VjBfUHJDMzE4aFVqQkREamd5cmtBTkw4eWRYRVU?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-trump-slaps-additional-50-tariff-on-certain-canadi",
+    "d": "2026-11-25",
+    "title": "Trump slaps additional 50% tariff on certain Canadian goods",
+    "body": "Trump slaps additional 50% tariff on certain Canadian goods",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "ABC News - Breaking News, Latest News and Videos",
+      "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdDZTVjFHZXBWcUoteUpOakQ0T016RDVlQWxGR19KYnhEeEdfQzV3UmVLNkdEbWVCckxFbHZsNjhpcW9HQktmWGd5RmtobE1fWTJ4TnpqQlRZZDJRTUs2QzU4eW9zNl9ZeEpfRFk0OVRRTzRBVUJYS1F0dTFWRlNqNUFNV0taQU81MnBWbHd1MG5rendjb1g1X290RdIBoAFBVV95cUxPX09ka2RKeVgzdHdOWERZWHFGNWhmeWk0bHE5b0V3T3B0X19JQzZfcVQ0SHFkNXRBLWp3Sk1QMWduVU5sdy1DektIa19VeWtwTGNuNy1lbnU0OW0wazRjN1ZQdWJZdlp1N2kwSjc3RVhBaG40eFZTN0xTbE5xTHMyenZZazdlOXdqSHhrbkZrcTlzOGZiX3BnTy1tSThqTm1G?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-here-are-the-proposed-u-s-tariff-rates-by-economy",
+    "d": "2026-11-25",
+    "title": "Here are the proposed U.S. tariff rates by economy",
+    "body": "Here are the proposed U.S. tariff rates by economy",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "Transport Topics",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DSkRBT2laZy1IUzNXdFRMQUdKcWRDUzZNWkZUemxyaTdjNW9XM3dRMV80WUh1VDh4eVduaDNHMndqYlNhcGZxR2FIczFJeHlPLUVJQ1c5NzdBSjlWdjhaejJ2Zk55d04wanUxN19HTjVEdw?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-new-tariff-proposals-would-target-major-us-agricul",
+    "d": "2026-11-25",
+    "title": "New Tariff Proposals Would Target Major US Agricultural Export Markets",
+    "body": "New Tariff Proposals Would Target Major US Agricultural Export Markets",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [
+      "Target"
+    ],
+    "src": {
+      "t": "DTN Progressive Farmer",
+      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObDRIZG9mQVQ0a0VVMnZMQ1AwcFFqQnhLaC1jb3F2QVFtcEs0cFk5UDl6WEExWUZmRUtOeTVFQkswT0JHNENUcks4ZFBhUHN3TlZjdVZKTUNoZ05LeE1NRGcxZWl2Q0ZZcndqTE5jNDM5OHFmWnFhcnF6MVQyZVM2Y0J1dkNPUmpyVUtpWmQ5ZFNQVWgyOXhrVkZtR0hnYy1Ob2lxZWVJMTI0aXdpakVRdDAxTWxyUGph?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-section-301-tariffs-of-15-to-40-percent-proposed-o",
+    "d": "2026-11-25",
+    "title": "Section 301 Tariffs of 15 to 40 Percent Proposed on 14 Trading Partners",
+    "body": "Section 301 Tariffs of 15 to 40 Percent Proposed on 14 Trading Partners",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "News",
+    "companies": [
+      "Trading Partners"
+    ],
+    "src": {
+      "t": "Sandler, Travis & Rosenberg, P.A.",
+      "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOakdGSXJJZVdmUFBmbUZmWjI0VmtlQjhGMTlpY1d3eDhwZkdaV0dzdUdOQ3BJRWp4VEIyWG1PdHl2TTNhTDg5UkhJNW41Z3NzWkdYMWpVdkk2cmVFU1F6c3lvSFU4NnFwck1IX3Zmdkw5c0paUEkzelNXSGxaeWtsejhERjYwNlEybEZqVE4zQW1GNXVfOWRYWC1laC14eU1HRFBSUEtSYnI3bF95Y1JIYTdsWXRTcll0RXZ0MmljUjBwUXNJUzk5bUlkbEVvcW43eDJERzNrbVU2Q2c?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": [
+      "Trading Partners"
+    ]
+  },
+  {
+    "id": "u-20261125-swiss-government-expects-15-tariff-deal-to-be-resp",
+    "d": "2026-11-25",
+    "title": "Swiss government expects 15% tariff deal to be respected by US",
+    "body": "Swiss government expects 15% tariff deal to be respected by US",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "Reuters",
+      "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMUNPTTZacUx3SU9CVFByak5hcXZnNlpBa1FSQ0lkRFRlMUFSM042LXpmc3l3YTJHbnpObzdfWmhSTjVsNXJQcXNXYngwZmlQZXoxSE5XUTBCNHV1TVpFTF91SkoxS1pvamMzVk1pMTA1VDBCejFPLXVBZjVZZ3VvejBITTdUOEpfbkVCVm4xb01Zdlo1WDZSa1pfQUg3WTk3QUE?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-asian-stocks-tank-as-us-tariff-reports-spook-inves",
+    "d": "2026-11-25",
+    "title": "Asian stocks tank as US tariff reports spook investors",
+    "body": "Asian stocks tank as US tariff reports spook investors",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "Semafor",
+      "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSmFYcHlFLXFaMzRDamJUbWw3LU0tYU5aRHVXWllHVFpzY2cxb2EybFNEbFdCZmY3eEgtSXV6X3ZMNWlBdFMzNmdlSXJ1ZDU1VmVvc2MtYkJUMGlVYTZHb3paZnRXa0ZzdzBTMWZ0ZUp4cHBZb1BpNzNTRGwwVHFsbHBQUV9PdUZ2UU5ETFVxM1ZNZktCeTJhYnZERS1jcWVwc1RHSGlWRHk?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-norway-welcomes-us-tariff-decision-says-work-with-",
+    "d": "2026-11-25",
+    "title": "Norway welcomes US tariff decision, says work with Washington to continue",
+    "body": "Norway welcomes US tariff decision, says work with Washington to continue",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "Reuters",
+      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTlZ2dnRhOUZHWVVqODNxWWtvUktVam1MWmwtZ3I1R2tuTjlHQmd0QkpRYTRnUEpJOVk4TGdBR2JVQzlpMUFBLU5EUFl0bXdhWmxLN182SENtd3FwY3RYZVZVRDNjemhpM2tZTnBHRURlZVVxay1JVVBhNGhtcDNRRFdBdTJCRG45OVRzRzFOZTAxOUVUcnR2cS1fZW5FUjJ3bjJFWFhHOXhxeWhHVjB1TUFQYmE?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-first-shift-tariff-escalation-and-cobalt-controls",
+    "d": "2026-11-25",
+    "title": "First Shift: Tariff escalation and cobalt controls",
+    "body": "First Shift: Tariff escalation and cobalt controls",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "Supply Chain Management Review",
+      "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOR0N3TmJsbDBHRTJzM2FKVjN4eEwyRXMxSjFaMWpFMXBUQUJZc2NWUV9ieWxJbmRRRFk4SXdSUEMzaTRoVnlsaU5HcnFaYkZWYUZTVU8xbHF1bDRUU2hLdnNPRjhJVE1VbzVvYktiX3RXRXVDTTRqT0h6ZEdZZWp5ZXJmRF8?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-india-says-it-doesn-t-have-structural-excess-capac",
+    "d": "2026-11-25",
+    "title": "India says it doesn't have structural excess capacity in any sector after US tariff determination",
+    "body": "India says it doesn't have structural excess capacity in any sector after US tariff determination",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "Reuters",
+      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUGx1cVBWMUZCcGQ5T1hqZDZqcmZmZlZhbm93VFRlc0JiMVhxNDBCNFVObHVrU0Vlems5ZmtyTmdTMzVrWVhzdXBMLXlaUTc4OFJIT1YyY1ZJSzgtU1J0a1BsYUFQQ2JYeGlIUEliWVBCM0tUR3F4UVRjTWRtb05HVlZST20tcHhGbU9hdHdPckN0Zno1alpfLUh4QjlmeDFsZ0FHd0dseFNmT2h0UGZQRUVfWlIzdFVwNWFZbmlqZ1dtTXdaanc?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-pork-producers-warn-against-misuse-of-retaliatory-",
+    "d": "2026-11-25",
+    "title": "Pork producers warn against misuse of retaliatory tariff law",
+    "body": "Pork producers warn against misuse of retaliatory tariff law",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "National Hog Farmer",
+      "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNkp6QlBiYV9Zb3p6VjhZVW5uamoyWElsaWl2OW5Gb0QwY05sMGRiZkJHTEFDTHlMdVJGUUI5NkNxMFpuX0VydjB5THQtQ2kxTEJpUHZqTDJZcW9Vd3lRblBTY3FjQ3JWR3RmUkFMMjVhSmF3Nzc0ZlowUEpKOWVKTGFsQ01wd1RaSXVrWnkyc1gzWWFfVnlxc3FkOTRPeEZKbE1zMlZTNnhRYnYybEZ4ag?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-us-proposes-new-15-tariff-on-imports-from-the-eu",
+    "d": "2026-11-25",
+    "title": "US proposes new 15% tariff on imports from the EU",
+    "body": "US proposes new 15% tariff on imports from the EU",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "FashionNetwork France",
+      "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTlhBUmZnTGFFNU5sUmo3Ml9MemNZbmdxSVdISjBOQlVST3Q1ajE2bER4dVBmbnN5cEZzanlxN0RZWVBtMEV4M0ozXzY4ODRvREhHelotbHVjb1BrOFlGb0N5YVN0Y0NVTXBHZXFaeGlBcHdLdm4xejJQaFozNldzMWFiMENPd3hrZENyQlk3ZEk2Y3lUaFdBM0lkZXk?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-morning-bid-tariff-fear-compounds-ai-recoil",
+    "d": "2026-11-25",
+    "title": "Morning Bid: Tariff fear compounds AI recoil",
+    "body": "Morning Bid: Tariff fear compounds AI recoil",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "Yahoo Finance",
+      "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcHlSOXBTMlVhaGNFWEM0TjdyRDAtWjdPZEdRODJTSlY4UFlBUkxneTVpNEpRUnpvajVjYndTMnB5Y2dLR050U21fTjRvYjNiem9jckR2WkFnd1ZNNlpJaWpNZy1saHhOOFpDNW9NdC1lck1OTXhlOUNaakJycjRUOUNIX3BRMkJQSDJIeG0zOGp2OG90WHFzUUZUQlVyekU?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-trump-administration-proposes-20-tariff-on-chinese",
+    "d": "2026-11-25",
+    "title": "Trump administration proposes 20% tariff on Chinese goods, new levies on 13 partners",
+    "body": "Trump administration proposes 20% tariff on Chinese goods, new levies on 13 partners",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "KFOX",
+      "u": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPSGZkODRYd0QwTmJhM3dHdl9EUk5jcHgtQXp3VmpyTWZRWTNTeV9acjZzaG1CVG5PMjl5WEk3aXp4MDJNRDIydXU3dlBhU3Q0cENuTV84cWN6N2ktdF9pS2M3eTREZ3RGTTZPaG1aZXMxaUJoODM0MTF6OTZXS1FIUUFnTldTWlc0dGpmaUQ3b2NmVmRaY2ZqbVA0amQ3NlJHeFBVSWNVdmo5ZWhCaEYzRjYyZzNPOUNscFBLMDdUc2d3MDZmaGVSajN1WW4tdWV5TS1NaFAwTWJ3aVlKbEhnZ01lbkRINHBmb2Q1UDIzZjQ3R0lWMHZMWmxuZTNkeG5JVFlUMXNYUV9hMExTZDZlWU5faEhQLW5YZWh2ZERnZ2JzLUJ5VWZPZVRMd1lrYjhoSk82TnJyTE5XbHE3bHhWb2NpdTdlNDFwX3RfMnZLTHhFTTFUSGVnRkluam5meVFxZlFhdkVQWWs?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-hoeven-says-new-tariff-on-sugar-will-create-fair-p",
+    "d": "2026-11-25",
+    "title": "Hoeven says new tariff on sugar will create fair playing field for local producers",
+    "body": "Hoeven says new tariff on sugar will create fair playing field for local producers",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "KFGO",
+      "u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1SOXU1RVlMNmNrYWpCOE9qeDl0WW9UYWM5d2YzRXJtMDVRQTk5WnVFaG1oeUFjT3p6TDd1YWdkN0dyUkJTc09IZnlzZG8?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-watch-tech-selloff-pesists-ahead-of-pce-us-prepare",
+    "d": "2026-11-25",
+    "title": "Watch Tech Selloff Pesists Ahead of PCE; US Prepares Tariff Hikes",
+    "body": "Watch Tech Selloff Pesists Ahead of PCE; US Prepares Tariff Hikes",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "Bloomberg.com",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVXBEaktTLWN6NG05Wm9veG8tSGNhanV2cEpleDJMRjM2TDdlZVJOZkVEd0NTZ3lMR2JDM3A0c05md2xud3ZLX21FdXd1dDBxSFlRZy05Qmt2clBWYUlaRi1UaHdkYk1icmpDVEkyNnVtQmZUMUswblViRjJxLWxQYUR6anYtS1dJ?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-small-businesses-are-not-thankful-for-trump-s-than",
+    "d": "2026-11-25",
+    "title": "Small Businesses Are Not Thankful for Trump’s Thanksgiving Tariff Surprise",
+    "body": "Small Businesses Are Not Thankful for Trump’s Thanksgiving Tariff Surprise",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "Inc.com",
+      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb3Rvdmp2LVdQU2IxOG5xYXVvcnpqYWJ5X25IZ2hJZmdhdnhBVk9rMW1CZHhtaklhNXZhSWR3dXVOdURzeHJlLVUtQUpfN1ZwdmhhUzRmaVRBbjlBTksydzZpN2QwLWtUUEZMWHZtNUdLd0hQUzlTOTdSNk0yU3dTT2JkZFJHeDc3V1hiWGlKNUJZdkp5RU1BY2dvcTk1aWtFWGhueTY3c3p5QTZGMWtZclNtMnY4eFJB?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-watch-china-hits-back-at-new-trump-tariff-prospect",
+    "d": "2026-11-25",
+    "title": "Watch China Hits Back at New Trump Tariff Prospects",
+    "body": "Watch China Hits Back at New Trump Tariff Prospects",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [
+      "China"
+    ],
+    "src": {
+      "t": "Bloomberg.com",
+      "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcmp3X01fSlJxLS0yN05mTDlzanRKLXVWNkRWYjdZSnBsYzRFQjZYVFZINy1qeFRuN1VVcE1ncDVUazJ4eEtfZ2VSdHlGOHhYNWJwM185Y0FIQi15ekVvNmlBUHpCYXVzYWt2cXRxalhoVHR0RVE4QjEwV242UWhMRQ?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-embraer-shares-sink-as-us-threatens-brazil-aircraf",
+    "d": "2026-11-25",
+    "title": "Embraer Shares Sink as US Threatens Brazil Aircraft Tariff",
+    "body": "Embraer Shares Sink as US Threatens Brazil Aircraft Tariff",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [
+      "US Threatens Brazil"
+    ],
+    "src": {
+      "t": "Bloomberg",
+      "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeEZzYkZpVXF1YTFHUnItNWExMjFVdVMxVV9NVHpDMHFUQkktZ2lJVGlmajczTC1WMlE0MExGbFJMZmlkalZkOFBkaGFpS2NvS0VRUzctWmFKSVdOcmRoZjNzU1NHUV82ODVkX1FseTh6UFp6OU96MmIwbnU4VXZtMkxtUUpuMHlHUWR6Y1dhZE1xTXJJQlo3MlJlQ2RUd0xOOW1fVnNSR3VHcTltVS1OSTJlOXNYUQ?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": [
+      "US Threatens Brazil"
+    ]
+  },
+  {
+    "id": "u-20261125-soybeans-rallying-despite-tariff-news",
+    "d": "2026-11-25",
+    "title": "Soybeans Rallying Despite Tariff News",
+    "body": "Soybeans Rallying Despite Tariff News",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [
+      "News"
+    ],
+    "src": {
+      "t": "Barchart.com",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTnlrczZ3TUMxamFxS3MyZEtET0ZRMjJ3a3BNZkVBZHJKV2FhV2hZX21GRnlzU3M4NENiUDlrRThPOFFrSk5BMnNqa0ZxbEROWUdwaExQeFkzZXFNSmtENUREY1Z6MlhDYkdzc2VmNTQ3MDZPeURBc2lub2xuZU4tS205SFdNSUpN?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-us-proposes-higher-tariffs-on-brazil-imports-inclu",
+    "d": "2026-11-25",
+    "title": "US proposes higher tariffs on Brazil imports, including 10% duty on aircraft",
+    "body": "US proposes higher tariffs on Brazil imports, including 10% duty on aircraft",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "Sun Herald",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90X1lWZktuUTI0SEduYkhOYXNzZVRkLU9FZEJvZy1KQmlFdVU5QUtOWHQxanplRUxXblI3M0locGZFN1ZtZXNOOEl5NWdiajJpSWpCWUFsWVFHajdXQVo4TS1wcS15RHptSFBUNGZR?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-r-calf-usa-seeks-four-year-tariff-on-imported-lamb",
+    "d": "2026-11-25",
+    "title": "R-CALF USA seeks four-year tariff on imported lamb to help rebuild U.S. flocks",
+    "body": "R-CALF USA seeks four-year tariff on imported lamb to help rebuild U.S. flocks",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [
+      "United States"
+    ],
+    "src": {
+      "t": "Tri-State Livestock News",
+      "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxON0dnR0JpbU5qTnBsZVQyOVU2YWNva1Fta1hqd193NE9vLWtxbEd5R2pXRmZ0SkQ3SDlVbTBHb2tVcGpOdmdvSWlvcUxjSzRXMXR0ZTEySnhaNDlUWjQ1akpneld0RmlWVG5EOE8tR2pwMEc4cUE5a3MwME4tRGo2QjFPXzlvRGUwbkJQbGU2R3ZWNng5SUdlQXRUdVdIaFNUVXVqSTJ0MA?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-us-tariff-details-are-better-than-the-worst-case-s",
+    "d": "2026-11-25",
+    "title": "US tariff details are better than the worst-case scenario implied yesterday",
+    "body": "US tariff details are better than the worst-case scenario implied yesterday",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "investingLive",
+      "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYlJfZlZ5aDRLc0pXMHpDeEZMSjdRU1NteHRPZWJkVk5GZExZNDBnbkN1ZW1PRTJqQ00yVlV3VkRJS29oWVdfNWg4VGFPcFRCSmVaVWRSelUtOEx0REFwTjlzUUJtd0ZablR4T0VEOGtSbzZEUzRjOTM5c09BWDJXQnlhU3NRd0FBVU93ME11SmpQek9QQmtvdTA3c0ZLSVZIRmNMTXctQ0txVTA?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-the-cost-of-tariffs-goes-beyond-the-tariff-itself",
+    "d": "2026-11-25",
+    "title": "The cost of tariffs goes beyond the tariff itself",
+    "body": "The cost of tariffs goes beyond the tariff itself",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "Supply Chain Management Review",
+      "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPd2FSXzN5S0V5VUtCeHJvYXNRVllaWHdVUUtoYnhSbWFBSEdxZ21tbWQ4azMwTXQ4X1hBeVFhNXZFWjZaeDBESTJpUmtOOU00a3VFcm8yMW5NdWFlVVEta1FjRDJrbXI0dks2ZzBYVFJqaTBBV2Nlcy1PcGpqSjNPTk5B?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-trump-administration-proposes-reinstating-10-tarif",
+    "d": "2026-11-25",
+    "title": "Trump administration proposes reinstating 10% tariff on Embraer aircraft",
+    "body": "Trump administration proposes reinstating 10% tariff on Embraer aircraft",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "Air Data News",
+      "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTHdSZEhLWXBaMmlSTlJPUVR1S1ZLaDRZNkdHai1JLUMybDlnMVN1VWpyMFZBb3ZCNW51Y1FId2xWVWlTdFZ0LUV4NkFKZERraDV3UU10MlBVS3VyU053cGEtTTBfeHA1elJwMnFnWng2dHhOT2ZYdW9MbEFjNE8xSnJNNklMRHJvWDFhNUtJaVJoX0JuWTFURUJfakVzcjRLNWc?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-us-proposes-new-tariffs-on-india-13-other-trade-pa",
+    "d": "2026-11-25",
+    "title": "US proposes new tariffs on India, 13 other trade partners; China faces additional 20% duty",
+    "body": "US proposes new tariffs on India, 13 other trade partners; China faces additional 20% duty",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [
+      "China"
+    ],
+    "src": {
+      "t": "The Times of India",
+      "u": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNUU82UnY4a1pkT2p4eVNNSXAwYUptU0QyXzI3cmN6XzdpelBBRkFWLWJhMVJnZHc5UGlFVi1oQkE5WkhRWXQxNkFxLVRQZEp0TC0ySnU0VERpektfMXdFOFJSSDVRa3B2eEpaeHB4Wl9hbjhqbFNkT1IxZjgwbTRPN1JIc1cyQzczWXlmR0t4dHpxamhYRHZJUUNvS0lLakc4b3RXQnNqNXJMZ2ZtMWJNZExKU2ViNGRrM1FvSzJ3ZXR1WnBubV9MVXJQNUxXTzVvcmxwSGQ2N0NqSHBnZE9LcEFtRENjcmFQSjY3ZVlMdER2R2duWmpSYkhKOHY4OVpXS3Z6Y0xuNEhfMDJjQlHSAZMCQVVfeXFMTkVLQkR2QjhoeEs0aG81OGthZ2ttdUxIZWhtZnVocExWNktRYkg1RlZSWWR3X2pTTkhVSXZxNTBwbmpIVXNGVGJUbWJsU2Q2bDE0aUJyNlJ6UWc3WDdSODJ5RG9xMjlZQWJ2MlVpOVpUdWZUYlU4aXBYWlFUZ2Y0YjRpRkRQT0JsXzV5dlBZNm9xZEVsWnR6dXdVeWpEanlWenpBYUN0al9uZjdaNDFXcDBvTEJlY212QkxUV0ZMVXRWeXdWT2g2Um5vOFktajFzVDliN2h4Y0xwcHQ3dEJFcnFmbU16T2p5Skl0dzlFR0JURDY5N3VhMVhxWHRuckJjcWZYOVhQRnBhY2NOckdHUUZyVFk?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-korea-to-retain-15-tariff-cap-under-new-us-tariff-",
+    "d": "2026-11-25",
+    "title": "Korea to retain 15% tariff cap under new US tariff proposal",
+    "body": "Korea to retain 15% tariff cap under new US tariff proposal",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "The Korea Herald",
+      "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5veUYybjlVaFZIZXY2LVVDT2pabm93eGxQbTY1Ry1Cb0ZCaFZ6c1B3MVk2VmpEbHhQTzUwTzIxY1RaWWVVeWY3a0h1ZTR2S25ENWNOREhUbw?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-return-of-container-shipping-to-suez-canal-is-caus",
+    "d": "2026-11-25",
+    "title": "Return of container shipping to Suez Canal is causing European port congestion and impacting Asia-UK shipments, says Davies Turner",
+    "body": "Return of container shipping to Suez Canal is causing European port congestion and impacting Asia-UK shipments, says Davies Turner",
+    "why": "Sudden rate spikes or port bottlenecks are the earliest warning signs of shelf shortages.",
+    "sectors": [
+      "logisticsfreightrates",
+      "portactivityinfrastructu"
+    ],
+    "type": "Port Strike or Congestion",
+    "companies": [],
+    "src": {
+      "t": "American Journal of Transportation",
+      "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbHhKcEsyRGZEeEVCTFg3eTRudjZzVjRGa3hrWkQ2UE5ZR093NTF3aHNLYzc5V3hxZzl3RHJVRlJFU1VYbURkRVRvZFJWdVljaE1yd1BLQjFvcGpXS1dKa0pxc1YzQ3kyQXNXN3FEd1FPVjJPRGNuNldGNGNLN0JwVktxaUQwQTNjb1hyZHh4V0NRMXJpZTlfaXRiczc2UVl3MlQtUGIzZkx4b1BheDBYdDlKRWpXZlBDbkJ0Wl9iUWl5OWNJRG9telZ6SkZqdUpyRm51R2t3ODJCSWdpdHRDUVE2RGQ2XzF3Y213?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-news-maersk-warns-of-uk-logistics-bottlenecks-as-p",
+    "d": "2026-11-25",
+    "title": "News Maersk warns of UK logistics bottlenecks as port congestion persists globally",
+    "body": "News Maersk warns of UK logistics bottlenecks as port congestion persists globally",
+    "why": "Sudden rate spikes or port bottlenecks are the earliest warning signs of shelf shortages.",
+    "sectors": [
+      "logisticsfreightrates",
+      "portactivityinfrastructu"
+    ],
+    "type": "Port Strike or Congestion",
+    "companies": [
+      "Maersk",
+      "News"
+    ],
+    "src": {
+      "t": "The Loadstar",
+      "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeXJKMDlsbUtwVFpHNUtpS0ZSVEY1Y3JCRmZZWjIzMkJVb3VELWJ0dUNLQlI3V0tGenF0QmtZUU5yX2ZGWjNrbFJzb0ZtQnhPLTVPUjhJT255cGNlemFBS2F4S1p0cWwtSktIWlVlMEFsRGJ2Y3IxdnVjOVNiY2lzQ2lNX3dZeFdmVHFkY21zM1RNUHZkRkFiTXdoQVpaeEpWZ1cyUA?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": [
+      "News Maersk"
+    ]
+  },
+  {
+    "id": "u-20261125-yemen-s-houthis-reach-strategic-island-at-mouth-of",
+    "d": "2026-11-25",
+    "title": "Yemen’s Houthis reach strategic island at mouth of vital shipping lane",
+    "body": "Yemen’s Houthis reach strategic island at mouth of vital shipping lane",
+    "why": "Sudden rate spikes or port bottlenecks are the earliest warning signs of shelf shortages.",
+    "sectors": [
+      "logisticsfreightrates"
+    ],
+    "type": "Freight Rate Spike",
+    "companies": [],
+    "src": {
+      "t": "DD News",
+      "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbHhJcFVaSTdEVW93ZGp0eFh4MXVpemlYWURoNVJsZFV6bmY3WmlmUHJBMjhMWElWWV9DNHJOWDJ4OUxXR1U1T1BvajJOU1NnNmtHVHhXS1Vma2s5ckJKeThjQlpqczVNVGVxVnpJSE1BSDNreTF0ZV9DSjlpdUhFUXp0Ni1JMzhvN0FOdFBFZHhKZ0NwSlNzLUp5NA?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-port-congestion-shifts-cost-of-institutional-ineff",
+    "d": "2026-11-25",
+    "title": "Port congestion shifts cost of institutional inefficiencies onto importers – GSA",
+    "body": "Port congestion shifts cost of institutional inefficiencies onto importers – GSA",
+    "why": "Sudden rate spikes or port bottlenecks are the earliest warning signs of shelf shortages.",
+    "sectors": [
+      "logisticsfreightrates",
+      "portactivityinfrastructu"
+    ],
+    "type": "Port Strike or Congestion",
+    "companies": [
+      "GSA"
+    ],
+    "src": {
+      "t": "Business & Financial Times",
+      "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTGVodnJjYXRQX3Z6dEtKdEp2MXRuWF9YdXE3bENtYWZ0QTZiRmkxaEpOc2x3SVlDenZkZlhaVkU0dHR1ZXNGLXJpN01mUmtuZE5XQ0t2WjdmdGdxZmpvNGh6YW42REdIYXV5LUFKMFFERmh4aE1ra3RRb2pjU0hVTmJ1QVNtaDU0TlRGd3RXWldVMERLVWpuSEJHRFNOWE9rRzRmelNlcVJ4V2R3SVhRYQ?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": [
+      "GSA"
+    ]
+  },
+  {
+    "id": "u-20261125-durban-port-congestion-delays-pharmaceutical-cargo",
+    "d": "2026-11-25",
+    "title": "Durban port congestion delays pharmaceutical cargo | Cape Times - newspaper",
+    "body": "Durban port congestion delays pharmaceutical cargo | Cape Times - newspaper",
+    "why": "Sudden rate spikes or port bottlenecks are the earliest warning signs of shelf shortages.",
+    "sectors": [
+      "logisticsfreightrates",
+      "portactivityinfrastructu"
+    ],
+    "type": "Port Strike or Congestion",
+    "companies": [],
+    "src": {
+      "t": "Magzter",
+      "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcENBVmdnNUIta2NDUm5uWTJ6bDhjWG5QMEZfOFFBRjJRMEZXcWlSVWZvSUNhbUVjMXJqVXFaZ2dESlB0UkVUbEE3UG56bV8tSWhWVVotN3JEbG5mRnJMQmcxOW0wNktVRTNLRzU5ZExYWlNxaU02UkZnbUxJV0NnX3o0VkJzV2RFWWRIUzIxZVFEQV94OGlyWGdITVVIcW80YnNIZXJR?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-transnet-prioritises-medicine-shipments-as-durban-",
+    "d": "2026-11-25",
+    "title": "Transnet prioritises medicine shipments as Durban port congestion deepens",
+    "body": "Transnet prioritises medicine shipments as Durban port congestion deepens",
+    "why": "Sudden rate spikes or port bottlenecks are the earliest warning signs of shelf shortages.",
+    "sectors": [
+      "logisticsfreightrates",
+      "portactivityinfrastructu"
+    ],
+    "type": "Port Strike or Congestion",
+    "companies": [
+      "Transnet"
+    ],
+    "src": {
+      "t": "IOL",
+      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWUZ0c2NGbDlrWVBqUXlvY2tLaElvX1V2Y0g2LUMzSUplU3dFVjZUYm9JRHlhUllxNGZhVldVckFldXVySFNKNjkwTkVUd2UzbGtuYzA0alM1T1FocXBvZFlHc0Z1TzZnRUxzMGhsQkxoc3JlN1plVlpybEROMTZNcXBIS05mR2pzMU5IVjlwV3ZYNERFQXdvaEk4Rnd5c3VVc3JFRnYweUlYbUhLTmFjOUp6WUdhaXZ4MVVxYg?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": [
+      "Transnet"
+    ]
+  },
+  {
+    "id": "u-20261125-chattogram-port-congestion-raises-demurrage-price-",
+    "d": "2026-11-25",
+    "title": "Chattogram Port congestion raises demurrage, price fears",
+    "body": "Chattogram Port congestion raises demurrage, price fears",
+    "why": "Sudden rate spikes or port bottlenecks are the earliest warning signs of shelf shortages.",
+    "sectors": [
+      "logisticsfreightrates",
+      "portactivityinfrastructu"
+    ],
+    "type": "Port Strike or Congestion",
+    "companies": [],
+    "src": {
+      "t": "Daily Times Of Bangladesh",
+      "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9kQ0pHaTN4NTBtdVh0eXd2aFdHeDJFSk1LWHhvN2Z3YkJoWDMzRlhPQ2ZMU3RMYTR2Ql9YaXEyQmt3aDg1NEVINTlJRkdNNHZOZW1sY01aclhPSkV3VDNNNjMxSVI1Y0pYNXhWNFduYTRtWjlnQzFvVVVPY0tjQQ?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-want-more-shelf-space-meet-the-distributors-and-re",
+    "d": "2026-11-25",
+    "title": "Want More Shelf Space? Meet the Distributors and Retailers Coming to Brewbound Live Dec. 9 + 10",
+    "body": "Want More Shelf Space? Meet the Distributors and Retailers Coming to Brewbound Live Dec. 9 + 10",
+    "why": "Seeing inventory drain before competitors reveals where the market is overheating.",
+    "sectors": [
+      "retailinventorystockouts"
+    ],
+    "type": "Inventory Alert",
+    "companies": [],
+    "src": {
+      "t": "Brewbound",
+      "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOT3Y3VndWREVSYkdBbFVmRXR5LVhpVHV2OUxvNi1GRmdOT0JnZ0VQMlF4UVVfUGtGTHVuakxmTU16RWRkWXotcWFSX1FLYWxxVlNRS3Zxa3Z3OHNadlhHaENnN203Q1hUYm9qeGFLRjhUNXp0VU9RdDdzSWNON3NYdnhpNmxQa3AwcDJUU0ZxUzFKYVhzTmhPS0FKZVZNeVVrVHpxMnpvRXdnMlVnREdxdWh5cjkwWkpMWG1EUFA3dGdONWQ2VEJtS0l1TElFeFlyQnp0NjRjZTZHU1d3VDJYaDVxNDRaQQ?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-us-moves-to-cut-off-advanced-chip-supply-to-seven-",
+    "d": "2026-11-25",
+    "title": "US moves to cut off advanced chip supply to seven Southeast Asian firms",
+    "body": "US moves to cut off advanced chip supply to seven Southeast Asian firms",
+    "why": "Regional conflicts and energy shocks directly translate into retail cost increases.",
+    "sectors": [
+      "geopoliticalsupplyrisks"
+    ],
+    "type": "News",
+    "companies": [],
+    "src": {
+      "t": "W.Media",
+      "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbHZiTEExa1BVLTBjajFXOE9jcFBLcDJ5UEQtM2cyTDlpWUlEYnpOcVB6eXNkS01NRlpxZnVLV0ZzYmtxVXlMNHRqdGFKajJTT3FJWWJiUUV3Vzkyb3VRMjJkMi1saWpMWVNvQzktSmMyOUc1eWQ5ZV9kTEtDZEVsc05JZEpjSG9Yb1VQajFXMWhXUQ?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-stout-supply-weak-weather-soften-natural-gas-futur",
+    "d": "2026-11-25",
+    "title": "Stout Supply, Weak Weather Soften Natural Gas Futures Ahead of Storage Print",
+    "body": "Stout Supply, Weak Weather Soften Natural Gas Futures Ahead of Storage Print",
+    "why": "Raw material price jumps are the root cause of retail margin erosion.",
+    "sectors": [
+      "commoditymarkets"
+    ],
+    "type": "Commodity Price Jump",
+    "companies": [
+      "Natural Gas",
+      "Natural Gas Futures",
+      "Stout Supply"
+    ],
+    "src": {
+      "t": "Natural Gas Intelligence",
+      "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZlNIZndwaFZZTlh2M2FkbW4tSHVKU2xBMDhxQXFuTzhnc0p3LTRHNE1Xdmc3SXRfMW5IVlZJOEQyajExUmQyV0k5Q19ZQVE4Zl9zWl9LTnNWc0ZjMDMzTkNSSV9iZHlxeUx3ZWVqaTRZNEt0ZDBJYVlySHM4U0k3SXJrSGk0M05XNDUtY1RHc3JGcTlNLWZxY3JsT2hadml2VDgzQ09NVTdvU19ISVE?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": [
+      "Stout Supply"
+    ]
+  },
+  {
+    "id": "u-20261125-port-of-gothenburg-electrifies-rail-link-to-contai",
+    "d": "2026-11-25",
+    "title": "Port of Gothenburg electrifies rail link to container terminal",
+    "body": "Port of Gothenburg electrifies rail link to container terminal",
+    "why": "Port bottlenecks are the physical manifestation of supply chain friction.",
+    "sectors": [
+      "portactivityinfrastructu"
+    ],
+    "type": "News",
+    "companies": [
+      "Port of Gothenburg"
+    ],
+    "src": {
+      "t": "Port Technology",
+      "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS3BfWHNhTHk1WEJ3MVVJS1ZLOFVVUkFKcXlNSnpud2FKdm9ta3B6b1h4UG5xc3NoRnQ5Y2xOVjdBM25Nem0ySFNyNUxKOFhuR1pwU1pncy0xOEVWSjVnYkREZnpJVXAzWmI3dUZQXzU3LVR3WXlUZHZjbGhGVUZvQ08tQTJPSTFtakE2bW4zQ212ZUVNUUZKb1lSSQ?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-port-of-cadiz-connects-two-sections-of-new-contain",
+    "d": "2026-11-25",
+    "title": "Port of Cadiz Connects Two Sections of New Container Terminal Tunnel",
+    "body": "Port of Cadiz Connects Two Sections of New Container Terminal Tunnel",
+    "why": "Port bottlenecks are the physical manifestation of supply chain friction.",
+    "sectors": [
+      "portactivityinfrastructu"
+    ],
+    "type": "News",
+    "companies": [],
+    "src": {
+      "t": "Data Portuaria",
+      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeG4xSTl3Z3NKeHJDcVJucnVSaHE2a3dYSXlYc2hUd1ZsNTRWWVRuYm9PaXd1R3dEdUtHbDdpUmRBdUR0QUFzYy1pWmQzYTJ6SEpESm9KdHh1TXl4b19FVUZaNkhCNlE1eDJsZVZ3LWVRZUNTVDgxS2VoamZjaVpRd1N6VmZiQVhIMFdvNGM1TFF3azA1aFdTLWJMNktSTnA1SjNSRTNHRnhpVm15dTA1Y0RBd2dSdlpsOVpFOU9EVQ?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-ccea-approves-4-288-crore-second-container-termina",
+    "d": "2026-11-25",
+    "title": "CCEA approves ₹4,288-crore second container terminal at Kamarajar Port",
+    "body": "CCEA approves ₹4,288-crore second container terminal at Kamarajar Port",
+    "why": "Port bottlenecks are the physical manifestation of supply chain friction.",
+    "sectors": [
+      "portactivityinfrastructu"
+    ],
+    "type": "News",
+    "companies": [
+      "CCEA"
+    ],
+    "src": {
+      "t": "BusinessLine",
+      "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxON0xKMjNZMVR1cl80ekdxenFMbVNQcjdjMmIwVHNmeHBRdkJsMld0ckpaUHlLUVlrOVdUM0oxbVRIUXVmNzh3cS1nbGhERFdaRksxY1NsZ0dWZi1JLWFNVV9BRnVIWWlDcG92NGFWVFZRNUFqRHJKRFN0MkZQTHJ2b1pqajE3cEt4RTgxSEl2RUpnTTBZYm1pWlJSeWJNeWlWYnFhT2FCTWRpX21CUTU3NmFRazF1c1ZVSWVNTzNqaTZXS1ZKbTBlWlJna9IB0gFBVV95cUxQcEZlcGliS2Z1SU91Rm8xQWt6djZYelZpOFhMN1lmeGRjNzNCaDRCMWpTdlhxT1p6UkF4elJnMnZiemx0Q2lLMktYOU1Xb0JOY3diNndFQ2VBNWJjMVZ0ck5Fc0FmbTdaaURBLTRmUWRCS09TTThodWpUZVZQS25Nc3lYejZSUU9zcFN1bzdvVnlndHo5SWlvVXd5ckNiMTVLdXl3T1cyNU50R2FKckMzaGVqbzEyMVRVZFF6LU9xT1dqYVNZbnQxV3hWZ1NHZlJQYXc?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": [
+      "CCEA"
+    ]
+  },
+  {
+    "id": "u-20261125-cabinet-approves-4-288-crore-container-terminal-pr",
+    "d": "2026-11-25",
+    "title": "Cabinet approves ₹4,288 crore container terminal project at Kamarajar Port",
+    "body": "Cabinet approves ₹4,288 crore container terminal project at Kamarajar Port",
+    "why": "Port bottlenecks are the physical manifestation of supply chain friction.",
+    "sectors": [
+      "portactivityinfrastructu"
+    ],
+    "type": "News",
+    "companies": [],
+    "src": {
+      "t": "Business Standard",
+      "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZXI4YU5UMThTTnNFNTJ4TGlNdEx4N1UxRWwyWlB4d3FiNVJoaEtuZU5CYTZCRmtndDJodnUxTFBseFpkUWRmOXBJZnBWS2gwYnA3STZTNUpUUFdiSGZkX2NqcFE4X2JtNTFNRWZoZno2dGw1d3liX2N6SXJ1d2hpRlNMLWZ2cVJDWUFHT1pYYnZ1UUlBYnpWMUVBSFFrWVNkTVZoeWhYTHoyS1BEVXFEVjFxNG5IcllTRTV2eVV4NEtlRTZ2alROaTRVV05XVURLQ3NpS2VMWjLSAd4BQVVfeXFMT3Y2djIzYmdMUmdhUnVvS0xWTXNRTUJBa2N1NFVkOFFXcm1WUlYzOVdfcVZqckowUV82MHE4YWF6T0RwWjVNcXBBSG1ud25EamxqbnNBNDF0TjlMQ1ZQbjBvUXhlS1ZWYW5PYzhKVWdEQjJBckUxSkh1UGJnNmZOMkpRWWNDaEJ4R0xXdTdjQjF1N3djaUZuQm9aYnZHOGpoTHZLNURtODhXOV9raGdIc0JZdUtjVWIya2Z2UENnRDBoTjdXVWxrLWJ3bEc2WVlMT0MwR01zSW8tQ3hZV05n?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-cabinet-greenlights-second-container-terminal-at-k",
+    "d": "2026-11-25",
+    "title": "Cabinet Greenlights Second Container Terminal at Kamarajar Port to Handle Ultra-Large Vessels",
+    "body": "Cabinet Greenlights Second Container Terminal at Kamarajar Port to Handle Ultra-Large Vessels",
+    "why": "Port bottlenecks are the physical manifestation of supply chain friction.",
+    "sectors": [
+      "portactivityinfrastructu"
+    ],
+    "type": "News",
+    "companies": [
+      "Cabinet Greenlights"
+    ],
+    "src": {
+      "t": "Swarajya",
+      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbDk0NUtCWkU2WFd5TlBsN3d5R2xhaF9WS3lPTWxfWnM0SUtsbTBRQ1FlMGJhYV96MDR5X21qaERzb3R1Ukw4UkxyQUZBSndPTTBXZ25VZ3ctTW5oZzZVcnpDaXotTDZGNVQtdXFLZTd0X1hKYllFcy1yNnJINEdfRXJSUm9XZ1RPZnFxdGJOWnRYMXp6a2c4ZmE4N1hFRnJPZk0zT3hyc2V0SnhzYWZtbUdQZG9nY2dNM3FZN0lWeFFWOTc0R2Jz0gHXAUFVX3lxTE56Z0IzZHdQRzNjNmlLLXBqbEtKWnJrTjRtWnVBdS1lQm4yY0lMSF9MaW5wWGJqSE1tMGtaWXhRSFlsRS1SWTk1WnJISGJqRGZOLXNyNnBJVVRNdHRzQXcwLTI0dW9SS2VSQldxcV9zUzFINVVGVEdhT0VvTjVncVJZNW9aUXFYQm9jOG1EWmdZWWU0RUVWaWtBR3hmVWFiOTIySzh0dk5PQjEzVHZNaVE5LUFBcHFHRjNoRV9xQk1qZDN4RXd1bVJQa0QwWllaaXFsMlJZVTZV?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": [
+      "Cabinet Greenlights"
+    ]
+  },
+  {
+    "id": "u-20261125-kamarajar-port-secures-4-288-crore-approval-for-se",
+    "d": "2026-11-25",
+    "title": "Kamarajar Port secures ₹4,288 crore approval for second container terminal",
+    "body": "Kamarajar Port secures ₹4,288 crore approval for second container terminal",
+    "why": "Port bottlenecks are the physical manifestation of supply chain friction.",
+    "sectors": [
+      "portactivityinfrastructu"
+    ],
+    "type": "News",
+    "companies": [
+      "Port of Oakland"
+    ],
+    "src": {
+      "t": "FlipItMoney",
+      "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbXZYREVXR1pxM0FiVkppSFBLUDRwRTFwMmo1UU9HTWdEM2NrLW53QWhuZUFKNlZKc3VBZ0JXZzNRakRta1FaZkVtdXRYaEFfdnV2R2tuRFh2Sy1EbzQzU2xITlZLVXJSTTl1ZWNKTzlONnV0Wld0SjFOYjItLTVsYkRGdkd0UGpmZVlqdnpJQmZoM0kzTGt6N203dkpwWEs5aXpV?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": [
+      "Port"
+    ]
+  },
+  {
+    "id": "u-20261125-cabinet-approves-rs-4-288-crore-second-container-t",
+    "d": "2026-11-25",
+    "title": "Cabinet approves Rs 4,288-crore second container terminal at Kamarajar Port in Tamil Nadu",
+    "body": "Cabinet approves Rs 4,288-crore second container terminal at Kamarajar Port in Tamil Nadu",
+    "why": "Port bottlenecks are the physical manifestation of supply chain friction.",
+    "sectors": [
+      "portactivityinfrastructu"
+    ],
+    "type": "News",
+    "companies": [],
+    "src": {
+      "t": "DD News",
+      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObk41cHhNNHZUOEhqaEcxT3NHbjR0eTNFdWI0VDZZa1ppVVVKRmhZYUg3WndxemM1Ylk4WjlIeGtpbUFpLWZ1aHlmcExGdmFYSGM4SnRVTFQ5VzUwLUwxMDNBLUs5ZG5oQWZyZ3pSNF9WNHptMldJTHBVNi1BSTR6MkNWLTJaMzhCamtIM21ZQkFOS2tPeVlsUW5xTlhWOXJ6Q3JGeFl3SzNycG1OR1lzU29aQWM?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-cabinet-gives-green-light-to-second-container-term",
+    "d": "2026-11-25",
+    "title": "Cabinet Gives Green Light to Second Container Terminal at Kamarajar Port",
+    "body": "Cabinet Gives Green Light to Second Container Terminal at Kamarajar Port",
+    "why": "Port bottlenecks are the physical manifestation of supply chain friction.",
+    "sectors": [
+      "portactivityinfrastructu"
+    ],
+    "type": "News",
+    "companies": [],
+    "src": {
+      "t": "FlipItMoney",
+      "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNXzhQR3V3aFBGNWRwMURrTUw1Zld2cHg2OEc3YzFqa1kyenNEak5peDdUZ2pMMjNTVzB6ZTN4Vjg1SmM0NEtjYkw3TmVoRzlXRzM2UExmYnZhb2FqLU40U2ZITHZyWjJ1R0o1eUF5X3NmM3NDRV9nTUs0UkpJZ3JSbkVrS09pamZmOFFSYUJSWFpXSjRWVUE5dUZwVFpFMWJJ?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-cabinet-clears-4-288-crore-container-terminal-proj",
+    "d": "2026-11-25",
+    "title": "Cabinet clears ₹4,288 crore container terminal project for Kamarajar Port",
+    "body": "Cabinet clears ₹4,288 crore container terminal project for Kamarajar Port",
+    "why": "Port bottlenecks are the physical manifestation of supply chain friction.",
+    "sectors": [
+      "portactivityinfrastructu"
+    ],
+    "type": "News",
+    "companies": [],
+    "src": {
+      "t": "FlipItMoney",
+      "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLWVYaDg2Mkd0U2t1VU5FNTIzUnAzQmo5c2pxMHFQek1GT1JSYk9nV1RYMHZnZlZ3UnhobElnRkRvbWp5T0dnaUVfeElTMXBUc3R2cXpPakJFb1ZPSi1LTTBuQXFyNDF2dHdrU1lzM2s4QVlIeEkyT0pyVTZybGM3d0RYTEc4SjlReVdSd295UVVlZ181ZG16WmlFUGV4aU03N3c?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-cape-town-container-terminal-boosts-deciduous-frui",
+    "d": "2026-11-25",
+    "title": "Cape Town Container Terminal boosts deciduous fruit export readiness with R83 million equipment investment",
+    "body": "Cape Town Container Terminal boosts deciduous fruit export readiness with R83 million equipment investment",
+    "why": "Port bottlenecks are the physical manifestation of supply chain friction.",
+    "sectors": [
+      "portactivityinfrastructu"
+    ],
+    "type": "News",
+    "companies": [],
+    "src": {
+      "t": "Cape Business News",
+      "u": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPN0tJdWppLUhlLTBQVGFRZ0dTV01rbkljU2drVmpJQ29SVVhUZlFkWXBaMHk5MUE5dTRKYmQzVVpVR0dIWDllQlo5bjgtaVYtaUFDODJmQkxMemRFMVdOOE9RemNwRUlRd1ZoanF6bzQ3el9CUGtUSXI3aFR5Yjh2Nkk4TFlQcDlxb2x4ZkJKbEQ4T0N1R2pNRVlvNzZkVGRkUmNMcXMwTnRPZkRDdTRYLWlzVUJtejhaX3ZjMU56T2lfZ01NazkwMW9ZUDJNOXlpdDliT0dXVDFGZkVEUk02a2VROVVEQjNwal9VZldROUdGTGx1RmwyQWw2UEwweEU?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-cabinet-approves-development-of-the-second-contain",
+    "d": "2026-11-25",
+    "title": "Cabinet approves development of the Second Container Terminal at Kamarajar Port Limited under PPP Mode",
+    "body": "Cabinet approves development of the Second Container Terminal at Kamarajar Port Limited under PPP Mode",
+    "why": "Port bottlenecks are the physical manifestation of supply chain friction.",
+    "sectors": [
+      "portactivityinfrastructu"
+    ],
+    "type": "News",
+    "companies": [],
+    "src": {
+      "t": "NarendraModi.in",
+      "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdHVPVzNyOXAwZjQ2ODZudFA1VGRqMmRLVHlOOFFhcVFmd0g5dmhoeFhSNU9YQ0JGbTk4SGNweURtcVBvYWNIOTJRR1dVYU5LdURnenlocVlWZEhnc04yRWl5Zm1Bb3M4ZmphWjhxYnBZRXkxQlp0Umg4QVJGaDA3UDRWNk1IcVpkM00xNEZONER0SlFlT0F3ZkNuS19BOWhZSXR2U3AyM25QMDBBU3FqLUd1OFFCb0pqd1RnN0M4U2N4TXFZZVNwTG02cmVpNWY1ckZiM1ln?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-cabinet-approves-second-container-terminal-at-kama",
+    "d": "2026-11-25",
+    "title": "Cabinet Approves Second Container Terminal at Kamarajar Port",
+    "body": "Cabinet Approves Second Container Terminal at Kamarajar Port",
+    "why": "Port bottlenecks are the physical manifestation of supply chain friction.",
+    "sectors": [
+      "portactivityinfrastructu"
+    ],
+    "type": "News",
+    "companies": [],
+    "src": {
+      "t": "GK Today",
+      "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb1FnVXZEMExaOEk2WjJfa3JaTFdLem94XzJSV0lheUtLekZ6YjJGVDNkZHVqTFdCZ21wenNtRzM4M0VWdENUeXowM3Jnam9RUmNLT01kaXkxblRSOWhuczlMS2VTZW5manNfZkpDN01WdERnbmJ1djVSWXJSdHFwUW1tVHdNMHM2ZWMySQ?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-cabinet-approves-rs-4-288-crore-2nd-container-term",
+    "d": "2026-11-25",
+    "title": "Cabinet Approves Rs 4,288 Crore 2nd Container Terminal Project At Kamarajar Port In Tamil Nadu",
+    "body": "Cabinet Approves Rs 4,288 Crore 2nd Container Terminal Project At Kamarajar Port In Tamil Nadu",
+    "why": "Port bottlenecks are the physical manifestation of supply chain friction.",
+    "sectors": [
+      "portactivityinfrastructu"
+    ],
+    "type": "News",
+    "companies": [],
+    "src": {
+      "t": "ETV Bharat",
+      "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcjY4WjFqaFU3X1FNeS1JMnRGeWdQMUg0b3RJNEMzbXpDMTRGV3EwTHhGN1FTSFptUDZzTW1yVkx5akgxYW5FYXlrLVVRVzhfSlc3ZGFILWY0cnJKMERBSC1XbGlXRlc3VXM2R0NkbkVFTjIzSVBWMlhWQ1RYNkNaeHBzZk1JV0h4MWxlSUM4bjF4MW1jN05vd0hxcV9UZVhzbkxvdGl4YTg0LTB5SmY5MHZrRWI1M0ROU1dJX0doaVhYOEpPbDVfT2YyWE9mZTdLOFlGVENn0gHbAUFVX3lxTE0zeTRKZHVSZ3hVM3M2UmhzSVNmZHhYQVR5NkREZXF1T3lYRUhQX3BKZVNQMTlGU0dXYXdza1dXZGxjdkJ3UzFUNVZ5QzBtQWxWemd4NXNudWM0dXhYamVaX1hoZ2lvaUlnOERLLVVIdmRGeHNlYlo0UFpmYzlWdGlKRHZiRTQ5dExldEdCaURKSHdhc2VtVndoS0o0U3BrY3FXdXl4UXgtYlBraWMwbGFvcVZmS01aWTd6WmdnakZmd2dsWlhhbmJPczZxQm1lUm84RXllNG83R3VQOA?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-cabinet-clears-4-288-crore-second-container-termin",
+    "d": "2026-11-25",
+    "title": "Cabinet Clears ₹4,288 Crore Second Container Terminal at Kamarajar Port in Tamil Nadu",
+    "body": "Cabinet Clears ₹4,288 Crore Second Container Terminal at Kamarajar Port in Tamil Nadu",
+    "why": "Port bottlenecks are the physical manifestation of supply chain friction.",
+    "sectors": [
+      "portactivityinfrastructu"
+    ],
+    "type": "News",
+    "companies": [],
+    "src": {
+      "t": "The Impressive Times",
+      "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUlVmRGF0MmZldEMyZ1c5dnRld0UyRnphY2RKaDROeHlmcE9kMV9BcEg3dE95RUVKSUIwR0g0MTZxRXJ6SG9ONmpyYUlKbklEOEpyM1pBbTlPeVpUaWF4Ul9oUE1iWlhDSGdJVlRFZU5EamtCaHlCS2xRUm9RaExQRzBtbDM1NFZIcVdfTjc5ajdUSEJL?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-cabinet-approves-development-of-2nd-container-term",
+    "d": "2026-11-25",
+    "title": "Cabinet approves development of 2nd container terminal at Kamarajar Port in Tamil Nadu",
+    "body": "Cabinet approves development of 2nd container terminal at Kamarajar Port in Tamil Nadu",
+    "why": "Port bottlenecks are the physical manifestation of supply chain friction.",
+    "sectors": [
+      "portactivityinfrastructu"
+    ],
+    "type": "News",
+    "companies": [],
+    "src": {
+      "t": "DT Next",
+      "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNM2lsVkRURl9rNHJCakxWR2dXUGlyZHA1UHdRQ0c4QXN5Tk5yT09XbzNTSmgyYUFwNmpidFJyenhCNGZSRU44aVZESF9ZNnYyalRRN0ZUdHZ5Z3RzV0gyZnp1RnNTd0IzM2hOaVdQMThJbHZDZ2ctblVpaVc0TGFic1VYWUJLZmtkaER4QUVyY0JBcUc2QkVSQVkydzBzWUxfNEZEeE1BSkRTdG55NlBlWkFYMEFUTjVnYk9UQkxPWklLQWh4UU11ZFRtVWY5TmgyazRmR0Y0bTBmZ9IB5wFBVV95cUxONU1kYUtOd2ZiRHNpbEF1ci1TN3kwM2Y5UHFPR2lmYXFESGNERGlpMk9OdnhZMGFYWjFpMmxNbzRaTHoxN3RlZWduOVFNMnBEU2pBVmx3UUsyWmY2eVVSMmdkV3NnbXdOeVpvb1JZb2J5NUNZTmhQVmxuWHhPaElFdUpnd0ZEdFNWNGUtNm02T3VuMXVRbUktcFZuNVh5YXdXWGZRSFYySjdNYTdwLUczZzhVbU1XRWlDWGdvVnpSZzk3Uk5lZWlEV1gtX0lscUdTajlJNk9RN2JVbUNCNGFBRHZna2RhOGM?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-cabinet-approves-rs-4-288-cr-second-container-term",
+    "d": "2026-11-25",
+    "title": "Cabinet approves Rs 4,288 cr second container terminal in Kamarajar Port and Rs 2,014 cr Silchar airport",
+    "body": "Cabinet approves Rs 4,288 cr second container terminal in Kamarajar Port and Rs 2,014 cr Silchar airport",
+    "why": "Port bottlenecks are the physical manifestation of supply chain friction.",
+    "sectors": [
+      "portactivityinfrastructu"
+    ],
+    "type": "News",
+    "companies": [],
+    "src": {
+      "t": "The Economic Times",
+      "u": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPSzNEVEJYYzF2b0tyN0hKNDFkVUw2N1hXMzhSWWVRMm51SWJPS0lVV2ZndUwzOUhxYlJILWhiY241UVdmZ0pZeFl1dXozWXRJRnY1ekJ4Wm1CT0pubENqV0xmUVNCRVlRTFdvelVHMzA1U193NzBfdnRHYkx0aEpvRWlUa2pxc28yRF9zQk0xOFRHYnN6OEVvZUh0Z25oQUVMcDJ6Z2dDZllXenVCblQxaF9qazhRajBIVXU1RTdyQ0x2cXRlOWYyalI5Ym9MR2FRcGVsQWc1MHVBMGc4N2RWbXg4UnVWUkYtdURLeThNcW5zblJRcUl0TWhiZXV2ZlVDSkszRzNxQdIBjAJBVV95cUxNRVI4c1JJSTZONlpsNHh0d005X0ZkdU9XSF9yeEZkdE1uX0MzTlhXQ3piVmlSbEVLeTl0M3NzT3ZZMXVObVM1ekFleUFOb2tYLW1INnVsSnFfaF9mQmd1WElNRG9seE4yejRGd1l6b0FFWXppMWRxWlBPZjVOdnZMLUpkQWswWEVHMF8zZDV5bzlreTl3eGJBRXJxRzFLYVdYWE1wOE9UMWFwS0pycUJEcnNlXzhBemZXR0FOcGlmbGtxb2ExZEtMQnQweGdmTTdjRTJKX2pYWUdsWUc0ejZIRWZfaThKZThDQW43LUEtZHl3Z0YwRXpjQmxaSWdTTVZ3Z1BZOFVuVFQ5Nm91?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-cabinet-approves-new-airport-for-assam-s-silchar-s",
+    "d": "2026-11-25",
+    "title": "Cabinet Approves New Airport For Assam's Silchar, Second Container Terminal At Kamarajar Port In TN",
+    "body": "Cabinet Approves New Airport For Assam's Silchar, Second Container Terminal At Kamarajar Port In TN",
+    "why": "Port bottlenecks are the physical manifestation of supply chain friction.",
+    "sectors": [
+      "portactivityinfrastructu"
+    ],
+    "type": "News",
+    "companies": [],
+    "src": {
+      "t": "News18",
+      "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOc3BkeU5fVU5xeUx4SjhVNW5SWThKYXJWNHJRZ0hRbTBoSFBpZVZNSGZuTUItNjlPUVJuZjVqNUhnbWlQcExWMzNpNDV3ejFLWFp6NlFUM2NPMGVEWTZTSkNZcUN4T19WUk95NWFhc0NxUzlidGdidWdERVJrM3NoQ2V5X3lSWXRJZDFQZFZDWGZaVndILUJtbVBtSjFGZ3VwMmJ6RnpwVU1sakNnV0FTZnN2SE9LMjRseDMxSUJaUW1kTjZjMU8xbW9YeXVkMzUxYlhlNXJPMVN3djBqNm1n0gHkAUFVX3lxTE8xMUZQWlRKVmk3WDNwNE9vMUh5VUNvMUxaelE4bmswSDRUTVhfLV9sQk5fM3daeU9mOEsxcEw0dURDYVRDNF9VZ1AyOWxDOG1UWkRQRnFtbFY1WEdocDZPZjlZc1F2MlZ1QUZ2ZGowY3FnRXhfV0ItVHp0QnZ5aXJ1SWppS0VCWndIR0RHRWJBV0tBNnQtOExmNEYxcDFUMFFQSHQwX3haY1k1X2ZiX2QyQzN2bW9WM3luOGdpcmMyd2RqLTZLN3MtSWFZTHRuWWN1RXBMWDZCdkRsZmdnNG83ZXFueg?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-cabinet-okays-rs-4-288-crore-project-to-set-up-2nd",
+    "d": "2026-11-25",
+    "title": "Cabinet Okays Rs 4,288 Crore Project To Set Up 2nd Container Terminal At Kamarajar Port",
+    "body": "Cabinet Okays Rs 4,288 Crore Project To Set Up 2nd Container Terminal At Kamarajar Port",
+    "why": "Port bottlenecks are the physical manifestation of supply chain friction.",
+    "sectors": [
+      "portactivityinfrastructu"
+    ],
+    "type": "News",
+    "companies": [],
+    "src": {
+      "t": "Ommcom News",
+      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNT2JYODBraXlPcmJ5eGlLNUZGSTMtcWJ2WXJ6SlFocWJ0NkdoU3BuZ3Y0RWdjd3JmMXNvM21aTFFNUE5KcmZZeUNhQTJvRmo4SDI4WGU4Rm5pamxmWFlsMmVOZmFCZi1hMEJsWGtUeWtEaTVYSFVNU1JrZDZadHpGaTZlb0hDaTI4OE5qNnQ2YnJYc2Vjb1ZfVWFOOVBSaWpIWjEybFRDR2YxZUxmcWg5em9GRm56WnREcEstVW5B?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-central-government-approves-rs-4-288-cr-second-con",
+    "d": "2026-11-25",
+    "title": "Central Government Approves Rs 4,288 Cr Second Container Terminal At Kamarajar Port",
+    "body": "Central Government Approves Rs 4,288 Cr Second Container Terminal At Kamarajar Port",
+    "why": "Port bottlenecks are the physical manifestation of supply chain friction.",
+    "sectors": [
+      "portactivityinfrastructu"
+    ],
+    "type": "News",
+    "companies": [],
+    "src": {
+      "t": "BW Businessworld",
+      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPS0R5dW1zVnVEX0FNZHVTcVFsampUUEQ2S2k0WFktVmRTVWZGUWRxQnpOTTBGbmtiSkF3bUVMU2VGc0FsUEpibFo4aTNPaVQ1c2FqT0VUczA5UEY5ekExanJ3WFNfZzZGQkNFS3ozSDY2bnIwdGJBb2d0Y3NVdkstejRqRmRPbVVEaGFqelJ5dVNxVTZtZTBfSWxwblM4MVlVYk1QaHQ0NDBDR2dOZzZPc1MybVhwSVpQc2g4VkUzZnE5bmd0Mmc?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": [
+      "Central Government"
+    ]
+  },
+  {
+    "id": "u-20261125-kamarajar-port-to-get-new-inr-4-288-crore-containe",
+    "d": "2026-11-25",
+    "title": "Kamarajar Port to Get New INR 4,288 Crore Container Terminal to Strengthen India’s Trade Network",
+    "body": "Kamarajar Port to Get New INR 4,288 Crore Container Terminal to Strengthen India’s Trade Network",
+    "why": "Port bottlenecks are the physical manifestation of supply chain friction.",
+    "sectors": [
+      "portactivityinfrastructu"
+    ],
+    "type": "News",
+    "companies": [
+      "Network"
+    ],
+    "src": {
+      "t": "businessnewsthisweek.com",
+      "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbk1jZXFnRTh4cjdQTTg5clhQQ0NMX2xyU2tjdXFHWWVUek1sbzJJcmVEU3VES081M3V6YXdLaDU3eFJXaGhzUS01X3VwZWZnWFVEeGtRWHJqaUNHU0VMMDQ5ZUV4bG5TT01hTlR1cHF5c2hhZWxnRDFiN0wwYzIyQ3U3UzdVTEU5NWJBcFByaE9SQWMxaXZzNHZWZHhrVG9uakNTM1lzUkhRc210Tkd4MTNhVHVEY1VDS0JtUzFPWjJSYUNQTkF3YWxZcElaNkdWTElB?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": [
+      "Network"
+    ]
+  },
+  {
+    "id": "u-20261125-ennore-port-second-container-terminal-gets-4-288-c",
+    "d": "2026-11-25",
+    "title": "Ennore Port Second Container Terminal Gets ₹4,288-Crore Nod",
+    "body": "Ennore Port Second Container Terminal Gets ₹4,288-Crore Nod",
+    "why": "Port bottlenecks are the physical manifestation of supply chain friction.",
+    "sectors": [
+      "portactivityinfrastructu"
+    ],
+    "type": "News",
+    "companies": [],
+    "src": {
+      "t": "Urban Acres",
+      "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdDMtVjFyMk1oTGFQU0ZXWXlYbFM4a0lEU2dRbkdsNm1YQUpmUTZDWUVKSzY5anVlRHVuNDh0NTM0UC1SR1dmNG54WHJ6SkNFMUk3bi04MmNNaEdnWmpFUHA4VG10SDhTRHV0OWZ3UkY2VU1IN0VzZXhuREJBR0l1NThMczhkVkxzOHJ2dUhXVExOeDJic3JvQjVfTHdwVEJJR0U5ZHJZZ3VwSlhL?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-cabinet-clears-rs-4-288-crore-second-container-ter",
+    "d": "2026-11-25",
+    "title": "Cabinet clears Rs 4,288 crore second container terminal at Kamarajar Port",
+    "body": "Cabinet clears Rs 4,288 crore second container terminal at Kamarajar Port",
+    "why": "Port bottlenecks are the physical manifestation of supply chain friction.",
+    "sectors": [
+      "portactivityinfrastructu"
+    ],
+    "type": "News",
+    "companies": [],
+    "src": {
+      "t": "prameyanews.com",
+      "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRHZHcDNzUXpHR1NyOXdjMmp3cGc5OTNPbGw2eWVaWmV4MjFtVDhwQ0t5SXc0SzdjTndUbWFzeWNxVUt1ZmVoSmtEMjZYR1hYY29yakMyZktLaXpVZzc5VjNlNnMzQ2JFMFN2a3BMcEw3MU9QVVNpY3czRnd0eGlGQUJ6LUxSeEFZeWhydkJrTjNyaUprNkZ0ekRRYzFUNVFKMXc?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-inside-asia-metro-s-air-and-ocean-freight-director",
+    "d": "2026-11-25",
+    "title": "Inside Asia: Metro’s air and ocean freight directors share their outlook for 2027",
+    "body": "Inside Asia: Metro’s air and ocean freight directors share their outlook for 2027",
+    "why": "Fleet reductions or route changes indicate long-term supply constraints.",
+    "sectors": [
+      "freightlinesshipping"
+    ],
+    "type": "News",
+    "companies": [
+      "Metro"
+    ],
+    "src": {
+      "t": "Metro Global",
+      "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZDJUZmdkZkVyay0tZ250Yktoc3dqdlR4d0lyQXJJSFF6TWlfby1vaUZNV2ZSMUx2dWc1LTJLNjFidzYyTzRVc2NnWHFoLVQ5WUx2VEEzNERHMS1XVmtzMW82X0NkSXBhejFjeVVVem1UdzNCME5ZS2xNUnp4N3lILWdRN2lkR2pvdnJmb0NTZVA1TnB4UDQ4YWZ4MWtsV190cnVZQXVNUk9JQ0s3MmNHZWwybXRxQkU?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": [
+      "Metro"
+    ]
+  },
+  {
+    "id": "u-20261125-acquire-shipping-company-indonesia-2026-m-a-guide",
+    "d": "2026-11-25",
+    "title": "Acquire Shipping Company Indonesia: 2026 M&A Guide",
+    "body": "Acquire Shipping Company Indonesia: 2026 M&A Guide",
+    "why": "Fleet reductions or route changes indicate long-term supply constraints.",
+    "sectors": [
+      "freightlinesshipping"
+    ],
+    "type": "News",
+    "companies": [
+      "M&A"
+    ],
+    "src": {
+      "t": "Global Advisory Experts",
+      "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYUk3MmhGeWJvRS1BVFluNnUyZGpJZDdtR0JIVXZLdTRUWkVhVGtHOXRUNHlNdUpyejdCYTZQWGdwd1hMSE5kQkNoXzhGZDB5aU1jUWt3Q29GSks0ZWZfSjRfYnZ6MWFycFhYeW9DalZYT1RGSHZyOHdwT0RDLTJqQ2dLRTJzYmt2TmxFUw?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": [
+      "M&A"
+    ]
+  },
+  {
+    "id": "u-20261125-usda-grain-transportation-report-rail-barge-ocean-",
+    "d": "2026-11-25",
+    "title": "USDA Grain Transportation Report: Rail, Barge, Ocean Freight and Port Funding - News and Statistics",
+    "body": "USDA Grain Transportation Report: Rail, Barge, Ocean Freight and Port Funding - News and Statistics",
+    "why": "Fleet reductions or route changes indicate long-term supply constraints.",
+    "sectors": [
+      "freightlinesshipping"
+    ],
+    "type": "News",
+    "companies": [
+      "News",
+      "Statistics",
+      "USDA"
+    ],
+    "src": {
+      "t": "IndexBox",
+      "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWUVCYjRvRXVhZGNiYlhpTlVjUDJheEVLU0JJVFVVRTdPWnR5bnlUbXZoUmt2YURQZHg1QzUzZ05lTTdtQVl0V1VNX0hVTlJZMHhQUG9pTXBZUlVPcjctQWtMZlVSa2x5WnJTdUxpWXI5eTdhTWtnOHBGX05wWHpkM1dUVFRCVGVIdk5VZWRnbzlsQWk1eVRjWnpJZVp1enhhQ1lZREs3Tkx5ZG8?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": [
+      "News",
+      "Statistics",
+      "USDA"
+    ]
+  },
+  {
+    "id": "u-20261125-dutch-shipping-company-nirint-launches-new-monthly",
+    "d": "2026-11-25",
+    "title": "Dutch shipping company Nirint launches new monthly maritime service between Sagunto and Cuba",
+    "body": "Dutch shipping company Nirint launches new monthly maritime service between Sagunto and Cuba",
+    "why": "Fleet reductions or route changes indicate long-term supply constraints.",
+    "sectors": [
+      "freightlinesshipping"
+    ],
+    "type": "News",
+    "companies": [
+      "Nirint"
+    ],
+    "src": {
+      "t": "Puente de Mando",
+      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUjlySkNmOTN5ZVcxQWZxQjFwZG9OODllaWlEX2lQSTNRbXB5Z0xqTGJiVmd2M2ZaQkZ6SE5nVDRzdXNEbjZUZFYzamN1QjBETkpMeVkyVUJjOW5ZYXZqX2lTekdPb3MyZ1dyQXVjTm5ZVGhYTC1kT1RCVUtuRjF2ZnQ1M3VzbGFPb1c5OXBn?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": [
+      "Nirint"
+    ]
+  },
+  {
+    "id": "u-20261125-sugar-tariffs-could-rise-as-domestic-production-hi",
+    "d": "2026-11-25",
+    "title": "Sugar Tariffs Could Rise as Domestic Production Hits Seven-Year Low",
+    "body": "Sugar Tariffs Could Rise as Domestic Production Hits Seven-Year Low",
+    "why": "Shifts in regional sourcing strategies reveal where supply is becoming more volatile.",
+    "sectors": [
+      "regionalsupplychains"
+    ],
+    "type": "News",
+    "companies": [],
+    "src": {
+      "t": "AgroLatam",
+      "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbDA2ekVJeUhwaFpZMWNFT3pvbWhSY2dSTC1yRFl0c2dqQW5EWTVhdUM5Q2tDRE1uUG0wcWpjNURTVmZMOXJjaFM1OXVFU3FpRzhWQVdla1BQWUJjV3JBZksxcjEwM0MydEl6bHd2bWcybjJNMFNENjAtVG9fTE1JVkZzck5LR1AyaG5Pa3VyQk1weWFraTJWNlZwaFp1bmFGNlg1MmVB?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-could-metro-tsx-mru-deliver-more-growth-through-it",
+    "d": "2026-11-25",
+    "title": "Could Metro (TSX:MRU) Deliver More Growth Through Its Retail Strategy?",
+    "body": "Could Metro (TSX:MRU) Deliver More Growth Through Its Retail Strategy?",
+    "why": "Understanding retail strategy helps anticipate how supply shocks will be priced to consumers.",
+    "sectors": [
+      "retailstrategypricing"
+    ],
+    "type": "News",
+    "companies": [
+      "Metro"
+    ],
+    "src": {
+      "t": "Kalkine Media",
+      "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX0hrYWdmZkZZSWpQYTk0a1RTWGRpTTNidUlIcjdKdlE3ZXphVjNfeU1GTEczTDJuM2ppUDlMQ3lHUGxqdEVUSFlGRkg0YjZmaEZtRXhJYVFxeEphU2pGdGRORDlja1doc21UVWRnSG9XaC1BZ3dSMEZ5dE1Qa0VMT3phUEM0djRhM0NjSlJHWGJnV1ZrWGxoVVJLTS13ckJTNFoxMzFpdFR6LXpp?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": [
+      "Metro"
+    ]
+  },
+  {
+    "id": "u-20261125-chapter2drip-expands-to-five-stores-builds-on-onli",
+    "d": "2026-11-25",
+    "title": "Chapter2Drip Expands to Five Stores, Builds on Online-First Growth with Experiential Retail Strategy",
+    "body": "Chapter2Drip Expands to Five Stores, Builds on Online-First Growth with Experiential Retail Strategy",
+    "why": "Understanding retail strategy helps anticipate how supply shocks will be priced to consumers.",
+    "sectors": [
+      "retailstrategypricing"
+    ],
+    "type": "News",
+    "companies": [],
+    "src": {
+      "t": "D2c Insider Pulse",
+      "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQTBPdXlYd2I1OXF5aEZJdDZhSXRaa29MenBDcW05SmdJUENNNjJIbGRoTU52WFVvRFhHMlhRRTJGeDFrZEpqeHh0a0pTbU51Sm94eE92blZLSkt5aWMtTHMyRDRaZUFoWjBEa1JTLTFPZ21qclFldHN3OXBfQWZFR2hxQUxaVXI1TDUwczA5LWlkUlBYaUhzZ053ZVRkY05reWZQeGpQZmxJcXhTRHRTbnpVd243N3NGQmFLeURwZzN3aWZ0Z1NSbw?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261125-global-phosphorus-market-supply-chain-disruptions-",
+    "d": "2026-11-25",
+    "title": "Global Phosphorus Market: Supply Chain Disruptions and Margin Compression in 2026",
+    "body": "Global Phosphorus Market: Supply Chain Disruptions and Margin Compression in 2026",
+    "why": "Understanding retail strategy helps anticipate how supply shocks will be priced to consumers.",
+    "sectors": [
+      "retailstrategypricing"
+    ],
+    "type": "News",
+    "companies": [],
+    "src": {
+      "t": "PravdaReport",
+      "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMmZJNHozMFRTQU5ZemNyY0tpMlhacnJpT05IVVNISVlPYkpnSU9sbU9qOWJyWTBaU29Od2h5aGUwOTluMzB4VDlLaUN5cThqQXVma2ROblNDa0hiVVJ1emxEcjFyWHdKR1RZbWxKRjhTVGplbFltN2xEWjhpdGZWYUMtaTlYdURqRUc0Y19KVWhFNmRxQ194Q2Viek82dVE4TVhz?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
     "id": "u-20261124-fedex-ups-upcoming-rate-hikes-what-shippers-should",
     "d": "2026-11-24",
     "title": "FedEx, UPS’ upcoming rate hikes: What shippers should know",
@@ -1028,6 +2707,70 @@
     "orgs": []
   },
   {
+    "id": "u-20261124-harmonized-tariff-schedule",
+    "d": "2026-11-24",
+    "title": "Harmonized Tariff Schedule",
+    "body": "Harmonized Tariff Schedule",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [],
+    "src": {
+      "t": "United States International Trade Commission (.gov)",
+      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zRVBJdE1jcC11d2N2THVmcUJqR25KNVdULTBkZ0VNS096cE8zc3BGT0txZk51NVdZUHM3Y0xoRWVaMjlfZGZDTlk1YlRLeG91bUswMA?oc=5",
+      "q": "primary"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261124-trump-eyes-tariff-blitz-on-china-eu-mexico-and-jap",
+    "d": "2026-11-24",
+    "title": "Trump eyes tariff blitz on China, EU, Mexico and Japan",
+    "body": "Trump eyes tariff blitz on China, EU, Mexico and Japan",
+    "why": "Early tariff signals indicate which products will face margin compression first.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "type": "Tariff Announcement",
+    "companies": [
+      "China"
+    ],
+    "src": {
+      "t": "New York Post",
+      "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUHN2Y2RackNva2pNUjVJTjRRcGFxMl9ZM1Jaa3JfNVVVbHhKX3NlN1hMNzlmMjdhdG1kbl84YkxWLTZEN2dVTUVVWjUyNDFteGs4M1ByNXJmbk15WGEzMzc5c2h4TFdZM3BDQV9Vdm43U0FiN0YwdjdmaklhZ0todzdYUlNiRDVpTE1WaWlnUGFvTWJnbFJj?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
+    "id": "u-20261124-ameren-natural-gas-supply-rates-will-be-lower-this",
+    "d": "2026-11-24",
+    "title": "Ameren natural gas supply rates will be lower this winter compared to 2025",
+    "body": "Ameren natural gas supply rates will be lower this winter compared to 2025",
+    "why": "Raw material price jumps are the root cause of retail margin erosion.",
+    "sectors": [
+      "commoditymarkets"
+    ],
+    "type": "Commodity Price Jump",
+    "companies": [
+      "Natural Gas"
+    ],
+    "src": {
+      "t": "WSIU NEWS",
+      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQUFNUXhoNlhjNTdGZHlITDRWYmNGV2I4YnprcDZ2WnlzVlcwdEFTMjFpZi02Q0NwZExNV3cwLWRQbjdmanBvVWE1a3FiZ3FxWi1aVmNUclA1MVdXQ3BMNmx0UWhHamh6Wm16ck9PZTNXeUJUTWFrLVYzOHFMa2swMUFseEw4X0N3cUI1XzkzMkgzNk5jQmthSVZVQ2ZXaG1xb0xyNW1QZjFxbXRPZjdvSjBCYjM?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": []
+  },
+  {
     "id": "u-20261123-asia-us-east-coast-ocean-freight-rates-top-10-000-",
     "d": "2026-11-23",
     "title": "Asia–US East Coast ocean freight rates top $10,000, up 300% from a year ago",
@@ -1972,6 +3715,54 @@
     "auto": true,
     "orgs": [
       "Guinness Nigeria"
+    ]
+  },
+  {
+    "id": "u-20261123-november-22-2026-natural-gas-15-min-9-45-10-00-pm-",
+    "d": "2026-11-23",
+    "title": "November 22, 2026: Natural Gas 15 min · 9:45–10:00 PM EST Commodities Prediction Market",
+    "body": "November 22, 2026: Natural Gas 15 min · 9:45–10:00 PM EST Commodities Prediction Market",
+    "why": "Raw material price jumps are the root cause of retail margin erosion.",
+    "sectors": [
+      "commoditymarkets"
+    ],
+    "type": "Commodity Price Jump",
+    "companies": [
+      "Natural Gas"
+    ],
+    "src": {
+      "t": "Robinhood",
+      "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQXdQVnYwNmkyN09VaHRlTVZKdnR2dG9NQmd2SDlQbWg0MzRPVG9WSmRoZ1JlYzE2eU83VU81VE1FWGNyN3lfQUNOMms3N0N1UWNZZmszMjlRR2hzcjFpcUdCV3dzQkRXNmlEVGxDWFpGQ2JYeE53QVdFdlRIdUw0ZncwM2lZQkVUSnBuamsxbEpTRnlTS052LS03VVdtbVkyajVma1cyVkdfcVAyZEEwcw?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": [
+      "Natural Gas"
+    ]
+  },
+  {
+    "id": "u-20261123-union-pacific-says-a-merger-would-make-shipping-ch",
+    "d": "2026-11-23",
+    "title": "Union Pacific says a merger would make shipping cheaper. Farmers, labor and shippers are skeptical.",
+    "body": "Union Pacific says a merger would make shipping cheaper. Farmers, labor and shippers are skeptical.",
+    "why": "Major deals often signal shifts in supply capability or new market access.",
+    "sectors": [
+      "strategicpartnershipsma"
+    ],
+    "type": "Strategic Partnership",
+    "companies": [
+      "Union Pacific"
+    ],
+    "src": {
+      "t": "Nebraska Examiner",
+      "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPX3JFTnl0NTRLSEcyeU5ZV3lOWklET0xsNHpmWnEyeVppTXZVVTF0N0ZPZmRwRHcySHZoTlhtZXg5YUxvU3Roak1sT0JzekxNT2EwcGVlbzdHVjZVel9tLUhhLTgydnFaMUlzaUlka2s3bWRVVFpvTS05WDhNcDJuSkF4TGtmcDdLWHVLNE1tcTVKWFlXUTZSUUlMYkp4TVlUdHpRM1Y2OFF2LWZwNFZLbk1WWktzVGdocnloSDZienRDaVNYX2gxX0tmOUk0eGhJWmZR?oc=5",
+      "q": "news"
+    },
+    "addedAt": "2026-11-25T20:21:17.752Z",
+    "auto": true,
+    "orgs": [
+      "Union Pacific"
     ]
   },
   {

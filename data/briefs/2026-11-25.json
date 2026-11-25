@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-25",
+  "title": "Today in retail, supply chain and geopolitics",
+  "big": "84 new stories since the last brief. The busiest areas: trade policy & tariffs and port activity & infrastructure.",
+  "stories": [
+    {
+      "tag": "Logistics & Freight Rates",
+      "h": "News Maersk warns of UK logistics bottlenecks as port congestion persists globally",
+      "what": "News Maersk warns of UK logistics bottlenecks as port congestion persists globally",
+      "you": "Sudden rate spikes or port bottlenecks are the earliest warning signs of shelf shortages.",
+      "ref": "u-20261125-news-maersk-warns-of-uk-logistics-bottlenecks-as-p"
+    },
+    {
+      "tag": "Commodity Markets",
+      "h": "Stout Supply, Weak Weather Soften Natural Gas Futures Ahead of Storage Print",
+      "what": "Stout Supply, Weak Weather Soften Natural Gas Futures Ahead of Storage Print",
+      "you": "Raw material price jumps are the root cause of retail margin erosion.",
+      "ref": "u-20261125-stout-supply-weak-weather-soften-natural-gas-futur"
+    },
+    {
+      "tag": "Trade Policy & Tariffs",
+      "h": "US readies tariffs over manufacturing capacity, production concerns",
+      "what": "The proposed levies, ranging from 15% to 35%, target goods from China, the European Union and 12 other partners following a Section 301 probe earlier this year.",
+      "you": "Early tariff signals indicate which products will face margin compression first.",
+      "ref": "u-20261125-us-readies-tariffs-over-manufacturing-capacity-pro"
+    },
+    {
+      "tag": "Freight Lines & Shipping",
+      "h": "USDA Grain Transportation Report: Rail, Barge, Ocean Freight and Port Funding - News and Statistics",
+      "what": "USDA Grain Transportation Report: Rail, Barge, Ocean Freight and Port Funding - News and Statistics",
+      "you": "Fleet reductions or route changes indicate long-term supply constraints.",
+      "ref": "u-20261125-usda-grain-transportation-report-rail-barge-ocean-"
+    },
+    {
+      "tag": "Port Activity & Infrastructure",
+      "h": "Port of Gothenburg electrifies rail link to container terminal",
+      "what": "Port of Gothenburg electrifies rail link to container terminal",
+      "you": "Port bottlenecks are the physical manifestation of supply chain friction.",
+      "ref": "u-20261125-port-of-gothenburg-electrifies-rail-link-to-contai"
+    }
+  ],
+  "watch": {
+    "h": "Trump-Xi Summit and Potential Tariff Reductions",
+    "why": "Around November 25. The upcoming summit between Trump and Xi is expected to focus on major tariff reductions and US soybean exports."
+  },
+  "idea": {
+    "h": "logisticsfreightrates",
+    "why": "Analyze the surge in freight rates and port congestion reports for Asia-Europe routes to anticipate delays before they impact inventory levels. The pre-Lunar New Year peak is hitting amid poor reliability, and Durban port backlog is already causing medicine shortages, indicating systemic friction that will ripple into retail stockouts."
+  },
+  "auto": true
+}

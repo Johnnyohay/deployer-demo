@@ -42,7 +42,7 @@
     "aliases": [
       "MAERSK"
     ],
-    "latest": "2026-11-24: Adani Kattupalli Container Terminal successfully berths MV Cornelia Maersk, demonstrating advanced vessel-handling capabilities"
+    "latest": "2026-11-25: News Maersk warns of UK logistics bottlenecks as port congestion persists globally"
   },
   {
     "id": "msc",
@@ -102,7 +102,7 @@
     "aliases": [
       "EU"
     ],
-    "latest": ""
+    "latest": "2026-11-25: US readies tariffs over manufacturing capacity, production concerns"
   },
   {
     "id": "united-states",
@@ -117,7 +117,7 @@
     "aliases": [
       "USA"
     ],
-    "latest": "2026-11-23: R-CALF USA Seeks Four-Year Tariff on Imported Lamb to Help Rebuild U.S. Flocks"
+    "latest": "2026-11-25: R-CALF USA seeks four-year tariff on imported lamb to help rebuild U.S. flocks"
   },
   {
     "id": "world-trade-organization",
@@ -351,7 +351,7 @@
     ],
     "about": "Extended a 24% US tariff suspension with port fee waivers for two months.",
     "aliases": [],
-    "latest": "2026-11-24: US Readies Tariff Hike on China, EU Goods as Soon as Tuesday",
+    "latest": "2026-11-25: US readies tariffs over manufacturing capacity, production concerns",
     "addedAt": "2026-11-14T16:56:29.657Z"
   },
   {
@@ -379,7 +379,7 @@
     ],
     "about": "Energy commodity experiencing price spikes due to cold weather, LNG export records, and geopolitical supply concerns regarding the Strait of Hormuz.",
     "aliases": [],
-    "latest": "2026-11-24: Natural gas markets tighten amid Gulf supply disruptions",
+    "latest": "2026-11-25: Stout Supply, Weak Weather Soften Natural Gas Futures Ahead of Storage Print",
     "addedAt": "2026-11-16T21:01:20.138Z"
   },
   {
@@ -392,7 +392,7 @@
     ],
     "about": "Generic term for news outlets; excluded as it is not a specific entity like a company, port, or country.",
     "aliases": [],
-    "latest": "2026-11-24: Gothenburg Port to Electrify Container Terminal Rail Tracks - News and Statistics",
+    "latest": "2026-11-25: Soybeans Rallying Despite Tariff News",
     "addedAt": "2026-11-16T21:01:20.138Z"
   },
   {
@@ -405,7 +405,7 @@
     ],
     "about": "Generic term for statistical data providers; excluded as it is not a specific entity relevant to supply chain strategy.",
     "aliases": [],
-    "latest": "2026-11-24: Gothenburg Port to Electrify Container Terminal Rail Tracks - News and Statistics",
+    "latest": "2026-11-25: USDA Grain Transportation Report: Rail, Barge, Ocean Freight and Port Funding - News and Statistics",
     "addedAt": "2026-11-16T21:01:20.138Z"
   },
   {
@@ -447,7 +447,7 @@
     ],
     "about": "Major US retailer receiving significant tariff refunds that boosted quarterly profits and sales outlook.",
     "aliases": [],
-    "latest": "2026-11-21: China-Linked Hackers Target Japan, Taiwan Chip Supply Chains",
+    "latest": "2026-11-25: US readies tariffs over manufacturing capacity, production concerns",
     "addedAt": "2026-11-19T19:38:50.924Z"
   },
   {
@@ -475,7 +475,7 @@
     ],
     "about": "A financial instrument tracking the price of natural gas, reflecting supply-demand dynamics and influencing energy-related retail costs and logistics pricing.",
     "aliases": [],
-    "latest": "",
+    "latest": "2026-11-25: Stout Supply, Weak Weather Soften Natural Gas Futures Ahead of Storage Print",
     "addedAt": "2026-11-20T19:15:36.933Z"
   },
   {
@@ -517,7 +517,7 @@
     ],
     "about": "A major US port recently opening the first heavy-duty electric truck charging depot to support green logistics.",
     "aliases": [],
-    "latest": "",
+    "latest": "2026-11-25: Kamarajar Port secures ₹4,288 crore approval for second container terminal",
     "addedAt": "2026-11-24T21:17:18.478Z"
   },
   {
@@ -531,7 +531,49 @@
     ],
     "about": "A European port investing in electrified rail access to its container terminal for improved freight efficiency.",
     "aliases": [],
-    "latest": "",
+    "latest": "2026-11-25: Port of Gothenburg electrifies rail link to container terminal",
     "addedAt": "2026-11-24T21:17:18.478Z"
+  },
+  {
+    "id": "union-pacific",
+    "name": "Union Pacific",
+    "kind": "company",
+    "type": "Company",
+    "sectors": [
+      "logisticsfreightrates",
+      "geopoliticalsupplyrisks"
+    ],
+    "about": "Major US freight railroad facing a proposed merger with Norfolk Southern that could impact shipping costs and supply chain stability for small shippers.",
+    "aliases": [],
+    "latest": "2026-11-24: Rail Merger Risks Soaring Costs for Small Shippers",
+    "addedAt": "2026-11-25T20:38:58.307Z"
+  },
+  {
+    "id": "kamarajar-port",
+    "name": "Kamarajar Port",
+    "kind": "port",
+    "type": "Port",
+    "sectors": [
+      "portactivityinfrastructu",
+      "logisticsfreightrates"
+    ],
+    "about": "Indian port company securing approval for a new container terminal, indicating infrastructure expansion and increased cargo handling capacity.",
+    "aliases": [],
+    "latest": "",
+    "addedAt": "2026-11-25T20:38:58.307Z"
+  },
+  {
+    "id": "deendayal-port",
+    "name": "Deendayal Port",
+    "kind": "port",
+    "type": "Port",
+    "sectors": [
+      "regionalsupplychains",
+      "portactivityinfrastructu"
+    ],
+    "about": "Indian port experiencing a 35% jump in cargo volume, highlighting strong regional trade activity and infrastructure utilization.",
+    "aliases": [],
+    "latest": "",
+    "addedAt": "2026-11-25T20:38:58.307Z"
   }
 ]

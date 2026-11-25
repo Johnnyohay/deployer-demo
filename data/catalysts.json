@@ -769,6 +769,17 @@
     "ref": "u-20261113-hapag-lloyd-to-raise-far-east-to-europe-freight-al"
   },
   {
+    "id": "c-20261201-us-tariff-implementation-on-manufacturing-capacity",
+    "d": "2026-12-01",
+    "approx": true,
+    "title": "US Tariff Implementation on Manufacturing Capacity",
+    "why": "The proposed 15% to 35% levies targeting China, the EU, and other partners are expected to be formally enacted by early December.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "ref": "u-20261125-us-readies-tariffs-over-manufacturing-capacity-pro"
+  },
+  {
     "id": "c-20261209-china-extends-suspension-of-24-tariff-on-us-import",
     "d": "2026-12-09",
     "approx": false,
@@ -778,6 +789,28 @@
       "tradepolicytariffs"
     ],
     "ref": "u-20261109-china-extends-suspension-of-24-tariff-on-us-import"
+  },
+  {
+    "id": "c-20261215-india-tariff-cap-finalization",
+    "d": "2026-12-15",
+    "approx": true,
+    "title": "India Tariff Cap Finalization",
+    "why": "The US Trade Representative indicates the 17% tariff cap on India will be locked in if a trade deal is reached by mid-December.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "ref": "u-20261125-us-to-cap-india-tariff-at-17-if-trade-deal-is-reac"
+  },
+  {
+    "id": "c-20261220-brazil-aircraft-tariff-decision",
+    "d": "2026-12-20",
+    "approx": true,
+    "title": "Brazil Aircraft Tariff Decision",
+    "why": "The US proposal of a 10% duty on Brazilian aircraft imports is anticipated to be finalized around the end of December.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "ref": "u-20261125-us-proposes-surprise-new-tariffs-on-brazil-imports"
   },
   {
     "id": "c-20261231-completion-of-usagm-acquisition-support-contract-b",
@@ -859,6 +892,17 @@
     "ref": "u-20261108-after-midterm-defeat-democrats-take-aim-at-tariffs"
   },
   {
+    "id": "c-20270115-canadian-goods-tariff-escalation",
+    "d": "2027-01-15",
+    "approx": true,
+    "title": "Canadian Goods Tariff Escalation",
+    "why": "The additional 50% tariff on certain Canadian goods is scheduled to take effect in early January.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "ref": "u-20261125-trump-slaps-additional-50-tariff-on-certain-canadi"
+  },
+  {
     "id": "c-20270131-six-month-operating-contract-for-chittagong-contai",
     "d": "2027-01-31",
     "approx": true,
@@ -869,6 +913,28 @@
       "logisticsfreightrates"
     ],
     "ref": "u-20261119-four-firms-bid-for-six-month-operating-contract-fo"
+  },
+  {
+    "id": "c-20270131-r-calf-usa-lamb-tariff-review",
+    "d": "2027-01-31",
+    "approx": true,
+    "title": "R-CALF USA Lamb Tariff Review",
+    "why": "The four-year tariff on imported lamb proposed by R-CALF USA is set to be reviewed and potentially implemented by the end of January.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "ref": "u-20261125-r-calf-usa-seeks-four-year-tariff-on-imported-lamb"
+  },
+  {
+    "id": "c-20270214-eu-import-tariff-proposal",
+    "d": "2027-02-14",
+    "approx": true,
+    "title": "EU Import Tariff Proposal",
+    "why": "The new 15% tariff on imports from the EU is expected to be formally proposed by early February.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "ref": "u-20261125-us-proposes-new-15-tariff-on-imports-from-the-eu"
   },
   {
     "id": "c-20270430-end-of-eight-year-natural-gas-supply-agreement-bet",
