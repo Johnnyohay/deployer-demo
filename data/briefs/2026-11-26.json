@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-26",
+  "title": "Today in retail, supply chain and geopolitics",
+  "big": "80 new stories since the last brief. The busiest areas: trade policy & tariffs and port activity & infrastructure.",
+  "stories": [
+    {
+      "tag": "Logistics & Freight Rates",
+      "h": "Davies Turner: Suez Return Sparks Asia-UK Container Delays and Port Congestion - News and Statistics",
+      "what": "Davies Turner: Suez Return Sparks Asia-UK Container Delays and Port Congestion - News and Statistics",
+      "you": "Sudden rate spikes or port bottlenecks are the earliest warning signs of shelf shortages.",
+      "ref": "u-20261126-davies-turner-suez-return-sparks-asia-uk-container"
+    },
+    {
+      "tag": "Port Activity & Infrastructure",
+      "h": "Port of Gothenburg to Electrify Container Terminal Rail Access - News and Statistics",
+      "what": "Port of Gothenburg to Electrify Container Terminal Rail Access - News and Statistics",
+      "you": "Port bottlenecks are the physical manifestation of supply chain friction.",
+      "ref": "u-20261125-port-of-gothenburg-to-electrify-container-terminal"
+    },
+    {
+      "tag": "Commodity Markets",
+      "h": "US Natural Gas Futures Remain Volatile as Mild Weather Offsets Record LNG Export Demand",
+      "what": "US Natural Gas Futures Remain Volatile as Mild Weather Offsets Record LNG Export Demand",
+      "you": "Raw material price jumps are the root cause of retail margin erosion.",
+      "ref": "u-20261126-us-natural-gas-futures-remain-volatile-as-mild-wea"
+    },
+    {
+      "tag": "Trade Policy & Tariffs",
+      "h": "Trump Aims to Keep Leverage Over Xi With 40% China Tariff Threat",
+      "what": "Trump Aims to Keep Leverage Over Xi With 40% China Tariff Threat",
+      "you": "Early tariff signals indicate which products will face margin compression first.",
+      "ref": "u-20261126-trump-aims-to-keep-leverage-over-xi-with-40-china-"
+    },
+    {
+      "tag": "Geopolitical Supply Risks",
+      "h": "What Three Tests Does the AI Chip Supply Chain Face in 2026? Earnings, US Export Rules and US-China Ties",
+      "what": "What Three Tests Does the AI Chip Supply Chain Face in 2026? Earnings, US Export Rules and US-China Ties",
+      "you": "Regional conflicts and energy shocks directly translate into retail cost increases.",
+      "ref": "u-20261126-what-three-tests-does-the-ai-chip-supply-chain-fac"
+    }
+  ],
+  "watch": {
+    "h": "ASEAN Leaders Discuss Trade Security Ahead of Trump Visit",
+    "why": "Around November 29. ASEAN leaders are meeting in Manila to discuss trade security and the energy crisis before Donald Trump visits the region."
+  },
+  "idea": {
+    "h": "geopoliticalsupplyrisks",
+    "why": "Track the shifting trade agreements between India, China, and Canada to predict which commodity imports (like canola oil or lithium) will face sudden duty increases. While new deals like the $400M Canada-China pact are expanding, specific items still face massive tariffs (e.g., 165% on Scotch), creating unpredictable supply shocks for retailers dependent on these regions."
+  },
+  "auto": true
+}

@@ -2,22 +2,22 @@
   {
     "id": "tradepolicytariffs",
     "heat": 4,
-    "state": "The US is finalizing broad tariff hikes targeting China at 20%, the EU at 15%, and Canada at up to 50% for specific goods, with rates ranging from 15% to 35% across 14 partners under Section 301. While a Canada-U.S. interim deal aims to stabilize auto and steel duties through January, surprise levies on Brazil aircraft and new agricultural export tariffs are being proposed simultaneously. Markets reacted negatively as Asian stocks tanked on tariff jitters, reinforcing rate-hike bets while gold declined.",
-    "money": "Companies are winning by diverting significant portions of tariff refunds to executive bonuses rather than passing savings to consumers or customers. Investigations confirm firms like TJMaxx are using these funds for leadership payouts instead of operational relief.",
-    "watch": "The finalization of the Canada-U.S. interim deal will determine if auto and steel duties remain stable through January, while the US proposal to cap India's tariff at 17% pending a trade deal remains a critical variable.",
-    "briefedAt": "2026-11-25T20:23:23.502Z"
+    "state": "US tariffs are being finalized at 40% for China, 15% for the EU, and up to 50% for specific goods from Canada under Section 301, with a proposed cap of 17% for India pending a deal. While Asian stocks rose as investors shrugged off the latest salvo, European markets ended higher on easing fears despite new threats against Vietnam's clothing exports and Japan's capacity issues. China and Brazil are leading pushback, reserving rights to take necessary measures and labeling proposals unacceptable, while Singapore expressed deep disappointment at the hike.",
+    "money": "Who's winning: US firms are capitalizing on tariff uncertainty by diverting refunds to executive bonuses rather than operational relief, with companies like TJMaxx confirmed using funds for leadership payouts. Meanwhile, Vietnam is gaining leverage over rival Asian exporters due to Trump's specific targeting of its clothing and footwear sector.",
+    "watch": "The next critical move is whether China and Brazil successfully implement retaliatory measures against the US tariff threats. Investors will watch closely if the proposed 17% cap on India results in an early conclusion of trade talks or further escalation.",
+    "briefedAt": "2026-11-26T19:58:48.260Z"
   },
   {
     "id": "logisticsfreightrates",
     "heat": 5,
-    "state": "US West Coast spot rates fell below $8,000 following a tentative LA-Long Beach labor deal, yet global congestion persists with the Suez Canal causing European port backups and Maersk warning of UK bottlenecks. In Asia, Cochin Port strikes force traders to seek alternatives while Chattogram demurrage prices rise; in Africa, Ghana decoupled shipping releases from customs clearance and Durban continues to delay pharmaceutical cargo and threaten Western Cape fruit exports with R20,000 extra costs per container. Meanwhile, Yemen's Houthis have seized a strategic island at the mouth of a vital shipping lane, and Brazil saw iron ore freight rates to China increase 17% in November.",
-    "money": "ZIM and BW LPG are winning by capitalizing on freight rate rallies that drove record Q3 profits for BW LPG and revenue rebounds for ZIM, though carriers remain squeezed by surging demand, pricing pressures, compliance costs, and fuel expenses.",
-    "watch": "The return of container shipping to the Suez Canal is exacerbating European port congestion and impacting Asia-UK shipments, while a tentative US labor deal avoided immediate strikes but leaves trade-policy uncertainty in play. Additionally, Lufthansa Cargo's planned acquisition of Fiege Air Cargo Logistics signals further consolidation in air freight capacity amidst ongoing rate squeezes.",
-    "briefedAt": "2026-11-25T20:27:34.166Z"
+    "state": "US West Coast spot rates dropped below $8,000 following a tentative LA-Long Beach labor deal, yet global congestion remains severe with the Suez Canal return triggering European port backups and Maersk warning of UK bottlenecks. New data shows US and Canada revised demurrage and detention tariffs effective January 1, 2027, while Japanese ports have left boxships stranded at berth due to ongoing congestion.",
+    "money": "Carriers ZIM and BW LPG are winning by capitalizing on freight rate rallies that drove record Q3 profits for BW LPG and revenue rebounds for ZIM, despite facing continued pressure from surging demand, compliance costs, fuel expenses, and capacity squeezes in air cargo.",
+    "watch": "The return of container shipping to the Suez Canal continues to exacerbate European port congestion and impact Asia-UK shipments, while new US-Canada demurrage tariffs will increase costs starting next month.",
+    "briefedAt": "2026-11-26T20:02:04.634Z"
   },
   {
     "id": "retailinventorystockouts",
-    "heat": 3,
+    "heat": 2,
     "state": "Global energy crises are deepening as efforts to plug supply gaps fail, specifically affecting Mexico's natural gas reserves. Medicine shortages are worsening due to Durban port backlogs, while dairy suppliers adopt touchless retail tech for merchandising support. In travel retail, SKU growth continues to outpace available shelf space.",
     "money": "WELCORP is winning with record H1 EBITDA driven by strong backlog orders that are currently tempering regional supply-chain risks.",
     "watch": "Industry leaders will monitor how the deepening energy crisis impacts future resolution of global supply gaps and if shelf space constraints force further SKU reductions in travel retail.",
@@ -26,34 +26,34 @@
   {
     "id": "geopoliticalsupplyrisks",
     "heat": 3,
-    "state": "The US is cutting off advanced chip supplies to seven Southeast Asian firms while tightening export rules, causing ASML stocks to fall 2.72%. China-linked hackers are actively targeting Japan and Taiwan's supply chains, and the South Korean government summoned Nvidia, AMD, and Intel to address HBM and substrate shortages that threaten small fabless firms. A probe into a chip supply network linked to Jensen Huang's affair partner implicates the Prince Group, though Nvidia maintains its product roadmap despite market share losses to custom ASIC chips.",
-    "money": "Nvidia remains dominant but faces pressure from custom ASICs and domestic supply chain turmoil; meanwhile, Microsoft secured a new Azure deal and SK Hynix pledged $1 billion to support AI supply.",
+    "state": "The US is cutting off advanced chip supplies to seven Southeast Asian firms while tightening export rules, causing ASML stocks to fall 2.72%. China-linked hackers are actively targeting Japan and Taiwan's supply chains, and the South Korean government has summoned Nvidia, AMD, and Intel to address HBM and substrate shortages that threaten small fabless firms. A US spy chief confirmed a probe into a chip supply network linked to Jensen Huang's affair partner, implicating the Prince Group.",
+    "money": "Nvidia maintains its product roadmap despite market share losses to custom ASIC chips and faces pressure from domestic supply chain turmoil; meanwhile, Microsoft secured a new Azure deal and SK Hynix pledged $1 billion to support AI supply.",
     "watch": "The outcome of the US probe into Megaspeed's China links will determine if Nvidia's dominance fractures, and ASEAN trade security discussions ahead of Donald Trump's visit could disrupt global logistics structures.",
-    "briefedAt": "2026-11-25T20:31:28.506Z"
+    "briefedAt": "2026-11-26T20:03:08.704Z"
   },
   {
     "id": "commoditymarkets",
     "heat": 5,
-    "state": "U.S. natural gas inventories remain above normal levels after ending injection season, yet Gulf supply disruptions are tightening markets while a European cold snap threatens further inventory drawdowns. Global wheat futures rose due to Black Sea tensions despite mixed trading in corn and soybeans, and the EU has ruled out returning to Russian natural gas as an LNG import ban approaches.",
-    "money": "Equinor leads long-term supply security with an 18-year contract for German VNG, while TotalEnergies expands U.S. production and TAQA Arabia secures operations in Tanzania; however, copper prices have cratered following the unwind of AI tariff trades.",
+    "state": "U.S. natural gas inventories remain above normal levels after ending injection season, but markets are tightening due to Gulf supply disruptions and renewed Middle East tensions threatening global flows. Europe faces a cold snap that risks inventory drawdowns, while the EU has ruled out returning to Russian natural gas as an LNG import ban approaches. Meanwhile, extreme weather is exposing weak points in international oil and natural gas shipping networks according to the IEA.",
+    "money": "Equinor leads long-term supply security with an 18-year contract for German VNG, while TotalEnergies expands U.S. production and TAQA Arabia secures operations in Tanzania. Copper prices have roared back from a bear market as Nvidia's policy shift revived AI trade demand.",
     "watch": "Monitor whether extreme weather disruptions to international shipping override current supply fundamentals that keep Brent oil near $89.15, and track the impact of the bipartisan permitting bill on natural gas export capacity.",
-    "briefedAt": "2026-11-24T21:09:11.696Z"
+    "briefedAt": "2026-11-26T20:00:56.633Z"
   },
   {
     "id": "strategicpartnershipsma",
-    "heat": 4,
-    "state": "The UP-Norfolk Southern rail merger faces active opposition from farmers, labor unions, dockworkers at the Port of New Orleans, and state attorneys general including those in North Carolina, California, Oregon, and Arkansas. Meanwhile, UPS is closing its $350 million acquisition of Smartways Logistics to expand Asia Pacific healthcare operations, while Worldly Agrees to a similar $350 million deal with UL Solutions. In the veterinary sector, the FTC-led lawsuit to block the Covetrus-MWI merger has grown to include 13 states and is specifically targeting rising pet care costs.",
-    "money": "UPS is winning by finalizing its $350M Smartways acquisition and expanding regional healthcare logistics capabilities, whereas Union Pacific remains under pressure from multiple stakeholders skeptical of its cost-saving claims. WTI secured continued USAGM contract support, while Radiant Logistics raised its acquisition accordion to $100M; conversely, the UP-Norfolk Southern merger risks soaring costs for small shippers if regulators intervene.",
+    "heat": 3,
+    "state": "The UP-Norfolk Southern rail merger faces active opposition from farmers, labor unions, dockworkers at the Port of New Orleans, and state attorneys general including those in North Carolina, California, Oregon, Arkansas, and Nebraska. The FTC-led lawsuit to block the Covetrus-MWI veterinary supply merger has grown to include 13 states specifically targeting rising pet care costs. Meanwhile, UPS is closing its $350 million acquisition of Smartways Logistics to expand Asia Pacific healthcare operations, while Worldly Agrees to a similar $350 million deal with UL Solutions.",
+    "money": "UPS is winning by finalizing its $350M Smartways acquisition and expanding regional healthcare logistics capabilities, whereas Union Pacific remains under pressure from multiple stakeholders skeptical of its cost-saving claims. WTI secured continued USAGM contract support, while Radiant Logistics raised its acquisition accordion to $100M; conversely, the UP-NS merger risks soaring costs for small shippers if regulators intervene.",
     "watch": "Regulators may expand their challenge from veterinary and rail sectors to other large-scale mergers if they confirm price suppression risks, with the outcome of the UP-NS merger determining whether rail meat exports proceed without opposition. The next critical movement will be whether state attorneys general successfully block further consolidation in logistics or supply chains.",
-    "briefedAt": "2026-11-24T21:11:17.545Z"
+    "briefedAt": "2026-11-26T20:04:26.513Z"
   },
   {
     "id": "portactivityinfrastructu",
     "heat": 5,
-    "state": "Suez Canal reopening has triggered European port congestion and disrupted Asia-UK shipments, while Durban bottlenecks force Transnet to prioritize medicine over other cargo. Meanwhile, the Indian government approved a ₹4,288 crore project for Kamarajar Port's second terminal to handle ultra-large vessels, and Cape Town invested R83 million in equipment to boost fruit export readiness despite ongoing congestion costs.",
+    "state": "Suez Canal reopening has triggered European port congestion and disrupted Asia-UK shipments, while Durban bottlenecks force Transnet to prioritize medicine over other cargo. Japanese ports are now leaving boxships stranded at berth due to similar congestion pressures. Meanwhile, India approved a ₹4,288 crore project for Kamarajar Port's second terminal on a DBFOT basis, and Colombo Port's East Container Terminal began partial operations by month-end.",
     "money": "MSC benefits from persistent global congestion by exceeding 1,000 TEU throughput, whereas Maersk warns of worsening UK logistics bottlenecks that shift inefficiency costs onto importers. Port operators like Gothenburg and Kamarajar secure capital investments in electrification and expansion to maintain operational capacity amid rising demurrage prices.",
     "watch": "Monitor the implementation of importer empty container depots and railway-linked storage solutions to determine if they can alleviate Suez-induced congestion before cascading into solar equipment delays, while tracking the impact of typhoon recovery in Ningbo on throughput.",
-    "briefedAt": "2026-11-25T20:25:21.726Z"
+    "briefedAt": "2026-11-26T19:59:52.411Z"
   },
   {
     "id": "freightlinesshipping",

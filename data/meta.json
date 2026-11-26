@@ -1,45 +1,44 @@
 {
   "createdAt": "2026-11-05T16:17:16.035Z",
   "request": "### What do you want to follow?\n\nTrends in retail, supply chain and geopolitics\n\n### Who is it for, and what do you want from it?\n\nI work in retail strategy and want to see supply shocks and tariff changes coming before competitors do.\n\n### A name for your site (optional)\n\nShelf Signal\n\n### Sources you already read or trust (optional)\n\nSupply Chain Dive, Retail Dive, FreightWaves\n\n### YouTube channels you like on this (optional)\n\n_No response_",
-  "collectedAt": "2026-11-25T20:21:17.752Z",
-  "headline": "Tariff refunds are driving corporate strategy and margin protection, while geopolitical tensions in trade deals and port congestion threaten regional supply reliability.",
+  "collectedAt": "2026-11-26T19:57:32.168Z",
+  "headline": "Trump's aggressive tariff agenda triggers a global trade war while supply chain bottlenecks persist in key regions",
   "forces": [
     {
       "t": "tradepolicytariffs",
-      "b": "Target booked $301 million in tariff refunds this quarter, nearly a fifth of its operating profit, which also boosted earnings despite margin compression elsewhere. Companies risk consumer trust by using these windfalls for employee bonuses rather than inventory investment.",
+      "b": "The US is doubling down on its tariff strategy with new rates for 14 countries, specifically targeting China at 40% and proposing duties on Brazilian aircraft and sugar. Trading partners including Vietnam, Singapore, and India are reacting with pushback, seeking early trade deal conclusions to mitigate export threats.",
       "s": [
         "tradepolicytariffs",
-        "retailstrategypricing"
+        "geopoliticalsupplyrisks"
       ]
     },
     {
       "t": "logisticsfreightrates",
-      "b": "Port congestion in Asia-Europe and Durban is driving medicine shortages, while private sector investment has yet to ease bottlenecks at Durban. A $200 million Maputo port expansion aims to strengthen regional trade gateways amid this infrastructure strain.",
+      "b": "Port congestion is escalating in Japan and Europe following the return of container shipping to the Suez Canal, which is delaying Asia-UK shipments. Additionally, revised demurrage and detention tariffs between the US and Canada are adding financial pressure on logistics operators.",
       "s": [
         "logisticsfreightrates",
-        "portactivityinfrastructu",
+        "portactivityinfrastructu"
+      ]
+    },
+    {
+      "t": "commoditymarkets",
+      "b": "US natural gas futures remain volatile as mild weather offsets record LNG export demand, while European gas prices are mixed amid renewed Middle East supply concerns. A specific tariff plan regarding Brazil's sugar exports is predicted to push US domestic sugar prices higher.",
+      "s": [
+        "commoditymarkets",
+        "geopoliticalsupplyrisks"
+      ]
+    },
+    {
+      "t": "strategicpartnershipsma",
+      "b": "China and other trading partners have collectively hit back at Trump's tariff gambits, with China reserving the right to take necessary measures. Meanwhile, Mexico and Asia are gaining a larger share of auto production in Canada as the US trade war takes a toll on regional manufacturing.",
+      "s": [
+        "strategicpartnershipsma",
         "regionalsupplychains"
-      ]
-    },
-    {
-      "t": "geopoliticalsupplyrisks",
-      "b": "India is imposing a 165.2% duty on bulk Scotch imports, while the Quad shrugs off Trump's tariff talk in favor of mineral and sea patrol focus. Carney notes that US trade friction is giving China an edge on EVs, complicating global market access.",
-      "s": [
-        "geopoliticalsupplyrisks",
-        "strategicpartnershipsma"
-      ]
-    },
-    {
-      "t": "retailinventorystockouts",
-      "b": "Medicine shortages are deepening due to Durban port backlogs, and retailers face stock-out risks during the pre-Lunar New Year peak amid poor reliability. Lowe's earnings show that even tariff refunds could not prevent margin compression.",
-      "s": [
-        "retailinventorystockouts",
-        "commoditymarkets"
       ]
     }
   ],
-  "pictureAt": "2026-11-19T19:34:04.796Z",
-  "ideasAt": "2026-11-19T19:41:36.450Z",
-  "curatedAt": "2026-11-25T20:38:58.311Z",
+  "pictureAt": "2026-11-26T20:06:14.860Z",
+  "ideasAt": "2026-11-26T20:10:31.873Z",
+  "curatedAt": "2026-11-26T20:10:31.877Z",
   "glossaryAt": "2026-11-23T22:33:28.029Z"
 }
