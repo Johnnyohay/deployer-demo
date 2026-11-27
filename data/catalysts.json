@@ -757,6 +757,17 @@
     "ref": "u-20261115-asean-leaders-discuss-trade-security-and-the-energ"
   },
   {
+    "id": "c-20261130-india-us-trade-deal-completion",
+    "d": "2026-11-30",
+    "approx": true,
+    "title": "India-US Trade Deal Completion",
+    "why": "Minister Goyal indicates talks are close to culmination, suggesting a formal agreement is imminent.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "ref": "u-20261127-india-us-trade-deal-talks-close-to-culmination-goy"
+  },
+  {
     "id": "c-20261201-hapag-lloyd-raises-far-east-to-europe-freight-rate",
     "d": "2026-12-01",
     "approx": false,
@@ -778,6 +789,17 @@
       "tradepolicytariffs"
     ],
     "ref": "u-20261125-us-readies-tariffs-over-manufacturing-capacity-pro"
+  },
+  {
+    "id": "c-20261201-maersk-revises-demurrage-and-detention-tariffs",
+    "d": "2026-12-01",
+    "approx": true,
+    "title": "Maersk Revises Demurrage and Detention Tariffs",
+    "why": "Shipping rates in the US and Canada are being adjusted by Maersk.",
+    "sectors": [
+      "logisticsfreightrates"
+    ],
+    "ref": "u-20261127-maersk-revises-us-and-canada-demurrage-and-detenti"
   },
   {
     "id": "c-20261209-china-extends-suspension-of-24-tariff-on-us-import",
@@ -802,6 +824,41 @@
     "ref": "u-20261125-us-to-cap-india-tariff-at-17-if-trade-deal-is-reac"
   },
   {
+    "id": "c-20261215-vietnam-us-trade-deal-signing",
+    "d": "2026-12-15",
+    "approx": true,
+    "title": "Vietnam-US Trade Deal Signing",
+    "why": "Vietnam expects to sign a deal aimed at limiting tariff hits on exports.",
+    "sectors": [
+      "tradepolicytariffs"
+    ],
+    "ref": "u-20261127-vietnam-expects-to-sign-us-trade-deal-to-limit-tar"
+  },
+  {
+    "id": "c-20261215-unctad-ocean-freight-forecast",
+    "d": "2026-12-15",
+    "approx": true,
+    "title": "UNCTAD Ocean Freight Forecast",
+    "why": "Zero growth in 2026 ocean freight is forecasted due to simultaneous chokepoint disruptions.",
+    "sectors": [
+      "commoditymarkets",
+      "logisticsfreightrates"
+    ],
+    "ref": "u-20261127-unctad-forecasts-zero-growth-in-2026-ocean-freight"
+  },
+  {
+    "id": "c-20261215-great-china-metal-ind-fy2026-q3-earnings-call",
+    "d": "2026-12-15",
+    "approx": true,
+    "title": "Great China Metal Ind. FY2026 Q3 Earnings Call",
+    "why": "First three quarters profit surged 49%, but ocean freight rates and aluminum price volatility remain concerns.",
+    "sectors": [
+      "commoditymarkets",
+      "logisticsfreightrates"
+    ],
+    "ref": "u-20261127-great-china-metal-ind-fy2026-q3-earnings-call-firs"
+  },
+  {
     "id": "c-20261220-brazil-aircraft-tariff-decision",
     "d": "2026-12-20",
     "approx": true,
@@ -811,6 +868,17 @@
       "tradepolicytariffs"
     ],
     "ref": "u-20261125-us-proposes-surprise-new-tariffs-on-brazil-imports"
+  },
+  {
+    "id": "c-20261220-endy-expands-canadian-store-network",
+    "d": "2026-12-20",
+    "approx": true,
+    "title": "Endy Expands Canadian Store Network",
+    "why": "Small-format retail strategy is gaining momentum in Canada.",
+    "sectors": [
+      "retailstrategypricing"
+    ],
+    "ref": "u-20261127-endy-expands-canadian-store-network-as-small-forma"
   },
   {
     "id": "c-20261231-completion-of-usagm-acquisition-support-contract-b",

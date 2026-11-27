@@ -42,7 +42,7 @@
     "aliases": [
       "MAERSK"
     ],
-    "latest": "2026-11-25: News Maersk warns of UK logistics bottlenecks as port congestion persists globally"
+    "latest": "2026-11-27: Maersk revises US and Canada demurrage and detention tariffs"
   },
   {
     "id": "msc",
@@ -215,7 +215,7 @@
     "sectors": [],
     "about": "Major electronics and semiconductor manufacturer facing chip supply constraints while expanding retail strategy and AI partnerships.",
     "aliases": [],
-    "latest": "2026-11-17: Samsung, Apple in Talks to Finalize Long-Term DRAM Chip Supply Deal",
+    "latest": "2026-11-27: Samsung’s Lee Presses Musk for More in Memory Chip Supply Talks",
     "addedAt": "2026-11-05T18:49:53.034Z"
   },
   {
@@ -351,7 +351,7 @@
     ],
     "about": "Extended a 24% US tariff suspension with port fee waivers for two months.",
     "aliases": [],
-    "latest": "2026-11-26: Trump Aims to Keep Leverage Over Xi With 40% China Tariff Threat",
+    "latest": "2026-11-27: [Great China Metal Ind. FY2026 Q3 Earnings Call] First Three Quarters Profit Surges 49%, EPS NT$1.43; Full-Year Profit to Beat Last Year \"Relatively Optimistic,\" but Ocean Freight Rates and Aluminum Price Volatility Loom as Concerns",
     "addedAt": "2026-11-14T16:56:29.657Z"
   },
   {
@@ -379,7 +379,7 @@
     ],
     "about": "Energy commodity experiencing price spikes due to cold weather, LNG export records, and geopolitical supply concerns regarding the Strait of Hormuz.",
     "aliases": [],
-    "latest": "2026-11-26: US Natural Gas Futures Remain Volatile as Mild Weather Offsets Record LNG Export Demand",
+    "latest": "2026-11-27: Natural Gas Supply Association Lobbies As Gas Reviews Change",
     "addedAt": "2026-11-16T21:01:20.138Z"
   },
   {
@@ -392,7 +392,7 @@
     ],
     "about": "Generic term for news outlets; excluded as it is not a specific entity like a company, port, or country.",
     "aliases": [],
-    "latest": "2026-11-26: Davies Turner: Suez Return Sparks Asia-UK Container Delays and Port Congestion - News and Statistics",
+    "latest": "2026-11-27: U.S. Freight Update: Port Congestion, Rail Performance, Barge Rates and Diesel Prices - News and Statistics",
     "addedAt": "2026-11-16T21:01:20.138Z"
   },
   {
@@ -405,7 +405,7 @@
     ],
     "about": "Generic term for statistical data providers; excluded as it is not a specific entity relevant to supply chain strategy.",
     "aliases": [],
-    "latest": "2026-11-26: Davies Turner: Suez Return Sparks Asia-UK Container Delays and Port Congestion - News and Statistics",
+    "latest": "2026-11-27: U.S. Freight Update: Port Congestion, Rail Performance, Barge Rates and Diesel Prices - News and Statistics",
     "addedAt": "2026-11-16T21:01:20.138Z"
   },
   {
@@ -559,7 +559,7 @@
     ],
     "about": "Indian port company securing approval for a new container terminal, indicating infrastructure expansion and increased cargo handling capacity.",
     "aliases": [],
-    "latest": "2026-11-26: India approves second container terminal at Kamarajar Port",
+    "latest": "2026-11-27: Kamarajar Port to add 2m TEU with new PPP container terminal",
     "addedAt": "2026-11-25T20:38:58.307Z"
   },
   {
@@ -575,5 +575,20 @@
     "aliases": [],
     "latest": "",
     "addedAt": "2026-11-25T20:38:58.307Z"
+  },
+  {
+    "id": "transnet",
+    "name": "Transnet",
+    "kind": "company",
+    "type": "Company",
+    "sectors": [
+      "logisticsfreightrates",
+      "portactivityinfrastructu",
+      "geopoliticalsupplyrisks"
+    ],
+    "about": "South African state-owned logistics and port operator facing severe congestion challenges, implementing recovery plans and prioritizing critical cargo like medicine shipments.",
+    "aliases": [],
+    "latest": "2026-11-27: Durban Port Congestion: Transnet's Recovery Plan And DGT Upgrades",
+    "addedAt": "2026-11-27T19:58:11.049Z"
   }
 ]

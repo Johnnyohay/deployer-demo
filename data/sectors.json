@@ -2,18 +2,18 @@
   {
     "id": "tradepolicytariffs",
     "heat": 4,
-    "state": "US tariffs are being finalized at 40% for China, 15% for the EU, and up to 50% for specific goods from Canada under Section 301, with a proposed cap of 17% for India pending a deal. While Asian stocks rose as investors shrugged off the latest salvo, European markets ended higher on easing fears despite new threats against Vietnam's clothing exports and Japan's capacity issues. China and Brazil are leading pushback, reserving rights to take necessary measures and labeling proposals unacceptable, while Singapore expressed deep disappointment at the hike.",
-    "money": "Who's winning: US firms are capitalizing on tariff uncertainty by diverting refunds to executive bonuses rather than operational relief, with companies like TJMaxx confirmed using funds for leadership payouts. Meanwhile, Vietnam is gaining leverage over rival Asian exporters due to Trump's specific targeting of its clothing and footwear sector.",
-    "watch": "The next critical move is whether China and Brazil successfully implement retaliatory measures against the US tariff threats. Investors will watch closely if the proposed 17% cap on India results in an early conclusion of trade talks or further escalation.",
-    "briefedAt": "2026-11-26T19:58:48.260Z"
+    "state": "US tariffs stand at 40% for China, 15% for the EU, and up to 50% for specific Canadian goods under Section 301, with a proposed 17% cap on India pending finalization. While Asian stocks rose as investors shrugged off the latest salvo, European markets ended higher on easing fears despite new threats against Vietnam's clothing exports and Japan's capacity issues. China has reserved rights to take necessary measures, while Singapore expressed deep disappointment at the hike.",
+    "money": "US firms are capitalizing on tariff uncertainty by diverting refunds to executive bonuses rather than operational relief, with companies like TJMaxx confirmed using funds for leadership payouts. Meanwhile, Vietnam is gaining leverage over rival Asian exporters due to Trump's specific targeting of its clothing and footwear sector.",
+    "watch": "Investors will watch closely if the proposed 17% cap on India results in an early conclusion of trade talks or further escalation. The next critical move is whether China and Brazil successfully implement retaliatory measures against the US tariff threats.",
+    "briefedAt": "2026-11-27T19:48:47.823Z"
   },
   {
     "id": "logisticsfreightrates",
     "heat": 5,
-    "state": "US West Coast spot rates dropped below $8,000 following a tentative LA-Long Beach labor deal, yet global congestion remains severe with the Suez Canal return triggering European port backups and Maersk warning of UK bottlenecks. New data shows US and Canada revised demurrage and detention tariffs effective January 1, 2027, while Japanese ports have left boxships stranded at berth due to ongoing congestion.",
+    "state": "US West Coast spot rates dropped below $8,000 following a tentative LA-Long Beach labor deal, yet global congestion persists with Japanese ports leaving boxships stranded and the Suez Canal return triggering European port backups. Maersk warns of UK logistics bottlenecks while US-Canada demurrage and detention tariffs revised effective January 1, 2027, will increase costs starting next month.",
     "money": "Carriers ZIM and BW LPG are winning by capitalizing on freight rate rallies that drove record Q3 profits for BW LPG and revenue rebounds for ZIM, despite facing continued pressure from surging demand, compliance costs, fuel expenses, and capacity squeezes in air cargo.",
-    "watch": "The return of container shipping to the Suez Canal continues to exacerbate European port congestion and impact Asia-UK shipments, while new US-Canada demurrage tariffs will increase costs starting next month.",
-    "briefedAt": "2026-11-26T20:02:04.634Z"
+    "watch": "The return of container shipping to the Suez Canal continues to exacerbate European port congestion and impact Asia-UK shipments while Yemen's Houthis have reached a strategic island at the mouth of a vital shipping lane.",
+    "briefedAt": "2026-11-27T19:51:13.177Z"
   },
   {
     "id": "retailinventorystockouts",
@@ -34,10 +34,10 @@
   {
     "id": "commoditymarkets",
     "heat": 5,
-    "state": "U.S. natural gas inventories remain above normal levels after ending injection season, but markets are tightening due to Gulf supply disruptions and renewed Middle East tensions threatening global flows. Europe faces a cold snap that risks inventory drawdowns, while the EU has ruled out returning to Russian natural gas as an LNG import ban approaches. Meanwhile, extreme weather is exposing weak points in international oil and natural gas shipping networks according to the IEA.",
-    "money": "Equinor leads long-term supply security with an 18-year contract for German VNG, while TotalEnergies expands U.S. production and TAQA Arabia secures operations in Tanzania. Copper prices have roared back from a bear market as Nvidia's policy shift revived AI trade demand.",
-    "watch": "Monitor whether extreme weather disruptions to international shipping override current supply fundamentals that keep Brent oil near $89.15, and track the impact of the bipartisan permitting bill on natural gas export capacity.",
-    "briefedAt": "2026-11-26T20:00:56.633Z"
+    "state": "U.S. natural gas inventories remain above normal levels after ending injection season, yet futures are volatile due to mild weather offsetting record LNG export demand and Gulf supply disruptions. Europe faces a cold snap threatening inventory drawdowns while the EU rules out returning to Russian gas as an LNG import ban approaches. Extreme weather has exposed weak points in global oil and natural gas shipping networks according to the IEA.",
+    "money": "Equinor leads long-term security with an 18-year contract for German VNG, while TotalEnergies expands U.S. production and TAQA Arabia secures operations in Tanzania. Copper prices have roared back from a bear market as Nvidia's policy shift revived AI trade demand.",
+    "watch": "Monitor whether extreme weather disruptions to international shipping override current supply fundamentals that keep Brent oil near $89.15, and track the impact of new tariffs on European wheat futures.",
+    "briefedAt": "2026-11-27T19:53:48.470Z"
   },
   {
     "id": "strategicpartnershipsma",
@@ -50,26 +50,26 @@
   {
     "id": "portactivityinfrastructu",
     "heat": 5,
-    "state": "Suez Canal reopening has triggered European port congestion and disrupted Asia-UK shipments, while Durban bottlenecks force Transnet to prioritize medicine over other cargo. Japanese ports are now leaving boxships stranded at berth due to similar congestion pressures. Meanwhile, India approved a ₹4,288 crore project for Kamarajar Port's second terminal on a DBFOT basis, and Colombo Port's East Container Terminal began partial operations by month-end.",
-    "money": "MSC benefits from persistent global congestion by exceeding 1,000 TEU throughput, whereas Maersk warns of worsening UK logistics bottlenecks that shift inefficiency costs onto importers. Port operators like Gothenburg and Kamarajar secure capital investments in electrification and expansion to maintain operational capacity amid rising demurrage prices.",
-    "watch": "Monitor the implementation of importer empty container depots and railway-linked storage solutions to determine if they can alleviate Suez-induced congestion before cascading into solar equipment delays, while tracking the impact of typhoon recovery in Ningbo on throughput.",
-    "briefedAt": "2026-11-26T19:59:52.411Z"
+    "state": "Container shipping returning to the Suez Canal has triggered European port congestion and delayed Asia-UK shipments, while Japanese ports are leaving boxships stranded due to similar pressures. In South Africa, Durban's congestion crisis is forcing Transnet to prioritize medicine over cargo, with truck drivers bearing the brunt of the delays. Meanwhile, infrastructure expansion continues globally, including Cádiz completing a key tunnel link and Copenhagen Malmö Port relocating to a new terminal.",
+    "money": "MSC benefits from persistent global congestion by exceeding 1,000 TEU throughput, whereas Maersk warns that worsening UK logistics bottlenecks are shifting inefficiency costs onto importers. Durban's crisis is driving up operational costs, while port operators like Gothenburg and Kamarajar secure capital investments in electrification and expansion to maintain capacity amid rising demurrage prices.",
+    "watch": "Monitor the implementation of importer empty container depots and railway-linked storage solutions to determine if they can alleviate Suez-induced congestion before cascading into solar equipment delays. Track the impact of typhoon recovery in Ningbo on throughput and observe if Transnet's recovery plan succeeds in reducing Durban bottlenecks.",
+    "briefedAt": "2026-11-27T19:50:01.765Z"
   },
   {
     "id": "freightlinesshipping",
     "heat": 3,
-    "state": "Trans-Pacific and Asia-US East Coast rates remain 300% above year-earlier levels, while Red Sea spot rates sit 50% higher than last year despite an expanding fleet and returning services. The Gujarat High Court quashed GST rejections and ordered IGST refunds with interest for ocean freight non-litigants, a precedent that may lower compliance costs. T3EX Global Holdings continues to dominate the sector with Q3 profits surging 270% driven by doubled rates and volume growth.",
-    "money": "T3EX Global Holdings is winning with Q3 profits up 270% and EPS up 193.7%, while Great Eastern Shipping trades below VWAP despite a 'Strong Buy' rating and NAV reset to Rs 250. Saudi Arabia's National Shipping Company received broker upgrades on weaker earnings, whereas Maersk faces operational disruption from a $5 million ransomware demand.",
-    "watch": "Monitor if Red Sea overcapacity eases as return services expand and whether the Gujarat High Court's IGST refund rulings create cost-saving precedents for ocean freight non-litigants. Confirm if new data integration in Cargoo platforms reveals early signals on port dwell time reductions.",
-    "briefedAt": "2026-11-25T20:33:39.177Z"
+    "state": "Trans-Pacific and Asia-US East Coast rates remain above year-earlier levels, with the latter exceeding $10,000 per container despite a recent weekly decline. Congestion has idled 3.6 million TEUs globally, driving a 138% rate jump, while UNCTAD forecasts zero growth in 2026 due to simultaneous chokepoint disruptions. Meanwhile, the Gujarat High Court ordered IGST refunds with interest for ocean freight non-litigants, and Great China Metal Ind reported Q3 profit surges of 49%.",
+    "money": "Great China Metal Ind is winning with first-three-quarter profits up 49% and EPS at NT$1.43, while Ta Chen Stainless Pipe saw its gross margin eroded by 8 percentage points from soaring freight costs. Maersk faces operational strain from a $5 million ransomware demand, whereas Great Eastern Shipping trades below VWAP despite broker upgrades on weaker earnings.",
+    "watch": "Monitor if the Gujarat High Court's IGST refund ruling creates a broader compliance cost precedent and whether UNCTAD's zero-growth forecast is validated by expanding Red Sea overcapacity. Confirm if Maersk and Ocean Network Express' new North-South alliance alters trade strategy amid fleet capacity reshaping.",
+    "briefedAt": "2026-11-27T19:52:38.281Z"
   },
   {
     "id": "regionalsupplychains",
-    "heat": 4,
-    "state": "Zimbabwe has mandated local miner sourcing and added a 15% tax component, threatening a 2027 ban on 1.4 million tonnes of stockpiled material via a new sulphate-based export tax; Maputo Port is expanding with a $200 million container terminal to strengthen regional trade, though power transformer sourcing remains globalized despite Ukraine's capacity to supply 90% of reconstruction materials domestically.",
+    "heat": 3,
+    "state": "Zimbabwe has mandated local miner sourcing and added a 15% tax component, threatening a 2027 ban on 1.4 million tonnes of stockpiled material via a new sulphate-based export tax; Maputo Port is expanding with a $200 million container terminal to strengthen regional trade, though power transformer sourcing remains globalized despite Ukraine's capacity to supply 90% of reconstruction materials domestically; Azerbaijan increased tea imports by 8.8% as domestic production declined, while Kyrgyzstan plans to increase domestic production and reduce import dependence.",
     "money": "Kraft Heinz is winning by securing Egypt as a regional export hub targeting 100% local tomato sourcing, while Guinness Nigeria and South Korea's MFDS are capitalizing on domestic production mandates for industrial competitiveness and essential medicines respectively.",
     "watch": "The outcome of upcoming US elections regarding strategic tariffs will determine nearshoring factory growth and Thai energy producers' ability to secure lower rates for data center expansion, alongside the resolution of Zimbabwe's potential 2027 lithium export ban.",
-    "briefedAt": "2026-11-24T21:05:14.422Z"
+    "briefedAt": "2026-11-27T19:54:59.993Z"
   },
   {
     "id": "retailstrategypricing",

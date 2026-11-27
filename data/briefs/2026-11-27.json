@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-27",
+  "title": "Today in retail, supply chain and geopolitics",
+  "big": "49 new stories since the last brief. The busiest areas: trade policy & tariffs and port activity & infrastructure.",
+  "stories": [
+    {
+      "tag": "Logistics & Freight Rates",
+      "h": "U.S. Freight Update: Port Congestion, Rail Performance, Barge Rates and Diesel Prices - News and Statistics",
+      "what": "U.S. Freight Update: Port Congestion, Rail Performance, Barge Rates and Diesel Prices - News and Statistics",
+      "you": "Sudden rate spikes or port bottlenecks are the earliest warning signs of shelf shortages.",
+      "ref": "u-20261127-u-s-freight-update-port-congestion-rail-performanc"
+    },
+    {
+      "tag": "Trade Policy & Tariffs",
+      "h": "European Wheat Futures Slip Amidst New Tariff News",
+      "what": "European Wheat Futures Slip Amidst New Tariff News",
+      "you": "Early tariff signals indicate which products will face margin compression first.",
+      "ref": "u-20261125-european-wheat-futures-slip-amidst-new-tariff-news"
+    },
+    {
+      "tag": "Freight Lines & Shipping",
+      "h": "[Great China Metal Ind. FY2026 Q3 Earnings Call] First Three Quarters Profit Surges 49%, EPS NT$1.43; Full-Year Profit to Beat Last Year \"Relatively Optimistic,\" but Ocean Freight Rates and Aluminum Price Volatility Loom as Concerns",
+      "what": "[Great China Metal Ind. FY2026 Q3 Earnings Call] First Three Quarters Profit Surges 49%, EPS NT$1.43; Full-Year Profit to Beat Last Year \"Relatively Optimistic,\" but Ocean Freight Rates and Aluminum Price Volatility Loom as Concerns",
+      "you": "Fleet reductions or route changes indicate long-term supply constraints.",
+      "ref": "u-20261127-great-china-metal-ind-fy2026-q3-earnings-call-firs"
+    },
+    {
+      "tag": "Commodity Markets",
+      "h": "Natural Gas Supply Association Lobbies As Gas Reviews Change",
+      "what": "Natural Gas Supply Association Lobbies As Gas Reviews Change",
+      "you": "Raw material price jumps are the root cause of retail margin erosion.",
+      "ref": "u-20261127-natural-gas-supply-association-lobbies-as-gas-revi"
+    },
+    {
+      "tag": "Geopolitical Supply Risks",
+      "h": "Samsung’s Lee Presses Musk for More in Memory Chip Supply Talks",
+      "what": "Samsung’s Lee Presses Musk for More in Memory Chip Supply Talks",
+      "you": "Regional conflicts and energy shocks directly translate into retail cost increases.",
+      "ref": "u-20261127-samsung-s-lee-presses-musk-for-more-in-memory-chip"
+    }
+  ],
+  "watch": {
+    "h": "ASEAN Leaders Discuss Trade Security Ahead of Trump Visit",
+    "why": "Around November 29. ASEAN leaders are meeting in Manila to discuss trade security and the energy crisis before Donald Trump visits the region."
+  },
+  "idea": {
+    "h": "tradepolicytariffs",
+    "why": "Anticipate that China and India will accelerate near-shoring to bypass potential 40% tariffs, while the EU may seek deeper integration with Asia to mitigate supply chain fragmentation. Trump's repeated tariff threats have rattled Asian markets, yet investors are already pricing in a 'shrink-wrap' scenario where trade deals are finalized quickly to avoid penalties."
+  },
+  "auto": true
+}
